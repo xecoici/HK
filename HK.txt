@@ -212,8 +212,6 @@ Astro AEC,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAECHD
 Astro QJ,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroQuanJiaHD
 Astro AOD,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAOD311HDHK#http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAOD311HDCN
 Astro 欢喜台,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroHuaHeeDaiHD
-娱家台,http://atryffad.usa3.345123.xyz/jrw.php?id=HubVVDrama
-都会台,http://atryffad.usa3.345123.xyz/jrw.php?id=HubECity
 Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=187
 Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=186
 Now新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=Nowtvnews
