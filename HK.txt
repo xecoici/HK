@@ -1,3 +1,4 @@
+
 公视1,http://211.72.174.95:8116/0.ts
 公视2,http://220.135.241.47:8305/0.ts
 华视3,http://220.135.241.47:8318/0.ts
@@ -30,7 +31,7 @@ now8,http://shatian.7766.org:7169/0.ts
 台视,http://211.72.174.95:8112/0.ts
 民视新闻,http://211.72.174.95:8117/0.ts
 民视,http://211.72.174.95:8115/0.ts
-凤凰中文HD,rtsp://111.48.34.138:1554/170000004112/HBGD1097583753909997568843788306 
+凤凰中文HD,rtsp://111.48.34.138:1554/170000004112/HBGD1097583753909997568843788306
 凤凰资讯HD,rtsp://111.48.34.138:1554/170000004112/HBGD1097583896160083968342677179
 
 中国,#genre#
@@ -127,7 +128,6 @@ CHC家庭电影,http://atryffad.usa3.345123.xyz/jrw.php?id=chcfamily
 大湾区卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=dwqws
 
 香港,#genre#
-
 翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvTvbJade
 翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBjadeHDHK
 翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbjade
@@ -197,12 +197,15 @@ POP C,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvPopC
 POP C,http://atryffad.usa3.345123.xyz/jrw.php?id=POPCHK
 POP C,http://atryffad.usa3.345123.xyz/jrw.php?id=AnimaxHKBG
 POP C,http://atryffad.usa3.345123.xyz/jrw.php?id=179
+Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesCN
 Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesHKHD#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesCNHD
-Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesCN#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBGTHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBGTHKCN
+Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesCN#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBGTHK
 Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=187
+Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsHK
+Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsCN
 Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsHKHD
 Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsCNHD
-Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsCN#http://atryffad.usa3.345123.xyz/jrw.php?id=NowXYTHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowXYTHKCN
+Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowXYTHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowXYTHKCN
 Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=186
 Now华剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowChineseDramaChannelHKBG
 Now华剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowChineseDramaChannelHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowChineseOperaHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowChineseDramaChannelHKBG
@@ -212,8 +215,8 @@ Astro AEC,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAECHD
 Astro QJ,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroQuanJiaHD
 Astro AOD,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAOD311HDHK#http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAOD311HDCN
 Astro 欢喜台,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroHuaHeeDaiHD
-Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=187
-Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=186
+娱家台,http://atryffad.usa3.345123.xyz/jrw.php?id=HubVVDrama
+都会台,http://atryffad.usa3.345123.xyz/jrw.php?id=HubECity
 Now新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=Nowtvnews
 Now新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=Now332HK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowNewsHK
 Now新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=21
@@ -225,11 +228,6 @@ Now财经台,http://atryffad.usa3.345123.xyz/jrw.php?id=Now333HK#http://atryffad
 Now财经台,http://atryffad.usa3.345123.xyz/jrw.php?id=23
 NowJelli紫金国际,http://atryffad.usa3.345123.xyz/jrw.php?id=NowJelliHK
 NowJelli紫金国际,http://atryffad.usa3.345123.xyz/jrw.php?id=nowjelli
-娱家台,http://atryffad.usa3.345123.xyz/jrw.php?id=HubVVDrama
-都会台,http://atryffad.usa3.345123.xyz/jrw.php?id=HubECity
-Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=187
-Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=186
-JStarMovie,http://atryffad.usa3.345123.xyz/jrw.php?id=JStarMovies
 Now Sports 630,http://atryffad.usa3.345123.xyz/jrw.php?id=Now630HK
 Now Sports 630,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports630
 Now Sports 641,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsCH641HK
@@ -362,7 +360,6 @@ mySUPER直播足球5台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvSports5
 mySUPER直播足球6台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvSports6
 
 台湾,#genre#
-
 中视,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvtwhd
 中视,http://atryffad.usa3.345123.xyz/jrw.php?id=ctv
 中视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvnews#http://atryffad.usa3.345123.xyz/jrw.php?id=ctvnewslm
@@ -556,7 +553,6 @@ VOA美国之音,http://atryffad.usa3.345123.xyz/jrw.php?id=voa
 国会频道2,https://www.youtube.com/watch?v=RAP4h3q6_Sg
 
 新闻,#genre#
-
 寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=globalnews
 寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=Globalnewshd
 寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=147
@@ -1061,3 +1057,4 @@ XY Max,http://atryffad.usa3.345123.xyz/jrw.php?id=XYMax
 XY Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=XYPlus
 XY Mix,http://atryffad.usa3.345123.xyz/jrw.php?id=XYMix
 XXL,http://atryffad.usa3.345123.xyz/jrw.php?id=XXL
+ 
