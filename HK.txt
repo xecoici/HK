@@ -36,6 +36,7 @@ SG | FIFA WC 1,http://77.90.60.172:55555/3/
 618,http://77.90.60.172:55555/4/
 619,http://77.90.60.172:55555/5/
 TSN 4K,http://77.90.60.172:55555/1/
+午夜剧场,p3p://fccs.ddns.net:19906/5fe445280008a40682a0367c343436bb
 
 中国,#genre#
 CCTV1,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv1hd
