@@ -54,6 +54,88 @@ HBO原創,sop://sdk/VsTw.php?id=42a3e724fa2bfAE0F939
 驚艷台,sop://sdk/hotout.php?id=3E1E91bcCdB839EFcB
 極限電影台,sop://sdk/hotout.php?id=adCADF4563c100Eb77
 
+한국,#genre#
+KBS1,https://z3.ubtvfans.com/live/rx4/2752/c738c29d70216ec7ba19cbff33e24457/index.m3u8
+KBS2,https://z3.ubtvfans.com/live/rx4/2753/a61150ef3130aaaf962afcbbbe9256ce/index.m3u8
+CATCH ON2,https://z3.ubtvfans.com/live/rx4/3200/646c32839355a3e6b41aee9152b11640/index.m3u8
+SBS,https://z3.ubtvfans.com/live/rx4/252/3d519f2499cad7dff069edf0dbec060f/index.m3u8
+SBS,https://z3.ubtvfans.com/live/rx4/3107/8e3172474144d871a1ef5e24d095596d/index.m3u8
+SBS BIZ,https://z3.ubtvfans.com/live/rx4/3201/52f3cfe6e6d51cd4475f410889572484/index.m3u8
+NOW[미드],https://z3.ubtvfans.com/live/rx4/3166/187c00dbdf01d4a8511564e71739e9d6/index.m3u8
+AXN[미드],https://z3.ubtvfans.com/live/rx4/3168/b1229b5fe1054036585e1f953607f382/index.m3u8
+SCREEN,https://z3.ubtvfans.com/live/rx4/3153/5755e78355db35ddf8337ab468e4aaed/index.m3u8
+KBSN Sports,https://z3.ubtvfans.com/live/rx4/2353/8d00305efee617576ff786327b35e9ea/index.m3u8
+바둑TV,https://z3.ubtvfans.com/live/rx4/2356/3fc3e0dff95aad28aec12ea41de99f22/index.m3u8
+FTV,https://z3.ubtvfans.com/live/rx4/2905/d221965cfe69c5f54327a45893a491e0/index.m3u8
+OCN Thrills,https://z3.ubtvfans.com/live/rx4/2357/d29146b79ead08a3d764b159c8db46f5/index.m3u8
+OBS,https://z3.ubtvfans.com/live/rx4/2358/060692fca1ce47f1578407469edf49ad/index.m3u8
+연변위성,https://z3.ubtvfans.com/live/rx4/2361/4ac15e5f557cfd16593b933b5d792d46/index.m3u8
+TVN,https://z3.ubtvfans.com/live/rx4/295/f7b8f364d98f98e74b987343e3fe39b7/index.m3u8
+MBC,https://z3.ubtvfans.com/live/rx4/251/31f2ab1f3e6281afd06ad29959824137/index.m3u8
+MBC,https://z3.ubtvfans.com/live/rx4/3106/c3444cb653da77de364be3b94797f0d5/index.m3u8
+MBN,https://z3.ubtvfans.com/live/rx4/257/7032c28fa3d4e83419649451008a9c40/index.m3u8
+Mnet,https://z3.ubtvfans.com/live/rx4/3203/4ecd9375a8094a718ff431e4e92b346e/index.m3u8
+MBN,https://z3.ubtvfans.com/live/rx4/3197/5949215a4d2810237c879a740a55986b/index.m3u8
+MBC스포츠,https://z3.ubtvfans.com/live/rx4/265/84594c58474b9da206463f57ce6ac437/index.m3u8
+JTBC골프,https://z3.ubtvfans.com/live/rx4/268/f8f241178d37933a311c910ceb1bd697/index.m3u8
+JTBC,https://z3.ubtvfans.com/live/rx4/3108/c3efb16e3ec0fe3b9029086f1096f0f3/index.m3u8
+JTBC,https://z3.ubtvfans.com/live/rx4/253/6e8d1c5ca1a6e7cc2c3cf2e0c9b5ebf4/index.m3u8
+tvN,https://z3.ubtvfans.com/live/rx4/1154/b932286d05d69ee35928a9273ab5f385/index.m3u8
+OCN,https://z3.ubtvfans.com/live/rx4/488/39edf1eec162e2381f44780c80da7da3/index.m3u8
+OCN Movies,https://z3.ubtvfans.com/live/rx4/3165/0d6f9b82fe5b5d3ee0aa32b1bebf4e0a/index.m3u8
+iNet,https://z3.ubtvfans.com/live/rx4/490/7a624be5c359d55f61a438d695975c7a/index.m3u8
+OCN,https://z3.ubtvfans.com/live/rx4/3206/1ade62b48625bdff1adcd92d55c470fd/index.m3u8
+Spotv,https://z3.ubtvfans.com/live/rx4/266/748bd342160d58c53209b576238e1a0b/index.m3u8
+SPOTV ON1,https://z3.ubtvfans.com/live/rx4/3104/1f0ab3145613528389b41122073eb8c4/index.m3u8
+Spotv2,https://z3.ubtvfans.com/live/rx2/267/9c11afdd7b23d66607b6c6e893f6a5fb/index.m3u8
+SPOTV ON2,https://z3.ubtvfans.com/live/rx4/3105/d91aa80a1de9940f967e6cbab50f172e/index.m3u8
+TV Chosun,https://z3.ubtvfans.com/live/rx4/3109/fe5128fd5931a14326ea0c4dac909517/index.m3u8
+Arirang TV,https://z3.ubtvfans.com/live/rx4/256/4f9e759c4173bdb6938be16b984d6948/index.m3u8
+Mnet,https://z3.ubtvfans.com/live/rx4/1136/73c9767c9abaf0eb45cfa0f2ca51e852/index.m3u8
+MBCevery1,https://z3.ubtvfans.com/live/rx4/476/7db889a3619fd91d2004e475e4f70ed7/index.m3u8
+Tconvers,https://z3.ubtvfans.com/live/rx4/1134/20b8d333d163d6d014944aff2b824ba6/index.m3u8
+채널A,https://z3.ubtvfans.com/live/rx4/1092/b0f4b97a26077b95526aec049f113eaf/index.m3u8
+KBC,https://z3.ubtvfans.com/live/rx6/1307/f6fb46fa23ac8cc538d4ebee5bcd6073/index.m3u8
+EBS1,https://z3.ubtvfans.com/live/rx6/2439/b6a985fc54e1fa5129d73c31374746e6/index.m3u8
+EBS2,https://z3.ubtvfans.com/live/rx6/3006/9e6e7fd8d7965fda01a923371c1441f5/index.m3u8
+EBS KIDS,https://z3.ubtvfans.com/live/rx6/3007/024ca279704d26c4911d890bf1e4c287/index.m3u8
+EBS PLUS1,https://z3.ubtvfans.com/live/rx6/3008/48ef33bf0d3170d8e148bd3bf270c8ac/index.m3u8
+EBS PLUS2,https://z3.ubtvfans.com/live/rx6/3009/c8a9fe2a630d5cf87c471fca8d0fc4c9/index.m3u8
+EBSe,https://z3.ubtvfans.com/live/rx6/3010/34ad6c4f9831b9e6912278a6226aa5a5/index.m3u8
+tvN Show,https://z3.ubtvfans.com/live/rx4/1020/fa9bed320c0ff7e3b7eb7873dd1b5226/index.m3u8
+Inet TV,https://z3.ubtvfans.com/live/rx4/263/dd1a30b5f1be54d131d0ed760c933b10/index.m3u8
+Tooniverse,https://z3.ubtvfans.com/live/rx4/1100/1544b208f22520a3691f28069cc44491/index.m3u8
+대교 어린이,https://z3.ubtvfans.com/live/rx4/260/3cda35ece7828be714255db4249af6f9/index.m3u8
+CNTV,https://z3.ubtvfans.com/live/rx4/3167/439fab4964d45997dab61938543ba996/index.m3u8
+Kids Talk Talk,https://z3.ubtvfans.com/live/rx4/1582/123ac24f79f64b7c3bdfd46f6aa5fb18/index.m3u8
+SPOTV Golf,https://z3.ubtvfans.com/live/rx4/3169/0dcf3b7396c83008f5fb36af3de5cfcf/index.m3u8
+JEI재능TV,https://z3.ubtvfans.com/live/rx4/3205/54807f1d6288d57ecdfea80818092cbb/index.m3u8
+Channel A,https://z3.ubtvfans.com/live/rx4/3204/dc99570920e65b26dacc765da59621bd/index.m3u8
+CATCH ON1,https://z3.ubtvfans.com/live/rx4/3207/4e9df4e88df476f7293f2ed2d1f03e35/index.m3u8
+TV Chosun 2,https://z3.ubtvfans.com/live/rx4/3202/a8c77a3f852061a66bf42de1150ae94e/index.m3u8
+SBS Golf,https://z3.ubtvfans.com/live/rx4/3170/c084cf3ce4f4f0845ebd4117885bdce6/index.m3u8
+JTBC Golf,https://z3.ubtvfans.com/live/rx4/3173/5babbf0518fc34f2d03c69b74a2f6830/index.m3u8
+JTBC Golf&Sports,https://z3.ubtvfans.com/live/rx4/3198/6e77a77403551f48788020dae64a0095/index.m3u8
+MBC Sports,https://z3.ubtvfans.com/live/rx4/3174/f58678b018926abd63eb32ea03907b5d/index.m3u8
+SBS Sports,https://z3.ubtvfans.com/live/rx4/3199/b66f17e02891308d87a70c1dfa640b19/index.m3u8
+SPOTV2,https://z3.ubtvfans.com/live/rx4/250/aa5a71d7ae5fed3dd85045870462dffd/index.m3u8
+KBSN Sports,https://z3.ubtvfans.com/live/rx4/174/c5e6ac921fa9634a1f8d95f3748ca23f/index.m3u8
+TVBaduk,https://z3.ubtvfans.com/live/rx4/2906/d6a9fed4bb4d05f7e23fcde63556973f/index.m3u8
+Channel China,https://z3.ubtvfans.com/live/rx4/2907/ad6e532aede8f182aa849d69abaeb65a/index.m3u8
+SKY Sports,https://z3.ubtvfans.com/live/rx4/2910/fa47f5ef55679af42cbc42bc6e484438/index.m3u8
+tvN Sports,https://z3.ubtvfans.com/live/rx4/2931/e18c7272548c4c7f7593e612730ea7de/index.m3u8
+Smithsonian,https://z3.ubtvfans.com/live/rx4/2934/c30bd52944017a8e4c4b1e8729742675/index.m3u8
+BTN,https://z3.ubtvfans.com/live/rx4/3078/3d61b5de17a4bcfa4e4e5bb55d939a92/index.m3u8
+SPOTV,https://z3.ubtvfans.com/live/rx4/3080/28738d99d35fe0555db2d1ec3ac14909/index.m3u8
+CHING,https://z3.ubtvfans.com/live/rx4/3081/cdb8e0355312ad479995f0211497ba92/index.m3u8
+CPBC,https://z3.ubtvfans.com/live/rx4/3083/3609b39809b5c3f41bda799be769ec5a/index.m3u8
+CTS,https://z3.ubtvfans.com/live/rx4/3084/b1be9c370edddddff73c280006b01581/index.m3u8
+KBS1,https://z3.ubtvfans.com/live/rx4/3086/0d885c4c597ce69746a14c1134a3c6a2/index.m3u8
+KBS2,https://z3.ubtvfans.com/live/rx4/3075/4725e31211a20d0c89324552126fbf4f/index.m3u8
+CGNTV,https://z3.ubtvfans.com/live/rx3/2911/99700082b6d14b5c6078ec1f10298e36/index.m3u8
+Discovery,https://z3.ubtvfans.com/live/rx4/3196/14ec1e68219043fc3b1e059ba5567d40/index.m3u8
+CGN AMERICA,https://z3.ubtvfans.com/live/rx3/365/da3a78dd076121664edea4d24d891801/index.m3u8
+
 中国,#genre#
 CCTV1,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv1hd
 CCTV1,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv1
@@ -1893,7 +1975,7 @@ http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-logo="" group-title="Korea",MTV China
 https://px.tv911.ccwu.cc/lr/dLQOnLm2jWaB6Ry9ZNSNVrfOVCsIVCel6iIMdN0h/playlist.m3u8?cu=881505fa&cd=f94ecb6f&cp=2b008d24&cn=31c60c2f&rp=nl_4dL1OjL_hjLdO&tid=m9c00d3e4b8fb&tsum=837304496be21b3639c4c0287d572425&ct=20605
 #EXTINF:-1 tvg-logo="" group-title="Korea",KBS2
-https://vod-th9.cloudrsst.com:444/krtv/Salmokji.Whispering.Water.mp4/chunklist_w516920994.m3u8?182.11.152.49&doannuadiconchoendtime=1780034880&doannuadiconchohash=vISY9IgSyrm6H9AVD4WptYAfOZ1EFaGp4FODBYMbVCTm7FFdU-qR3muxpKbggR70&doannuadiconchostarttime=1780027680
+https://z3.ubtvfans.com/live/rx4/3075/4725e31211a20d0c89324552126fbf4f/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",KBS DRAMA
 http://124.63.136.174:9981/stream/channelid/1271934190?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC Gangwon
@@ -1942,6 +2024,8 @@ https://backup.760515.xyz/playlist/tvN-playlist.m3u8
 http://124.63.136.174:9981/stream/channelid/124819578?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",TVN3
 http://124.63.136.174:9981/play/ticket/stream/service/bd1839496baf911b7f776ff910c6ba88?title=tvN
+#EXTINF:-1 tvg-logo="" group-title="Korea",TVN4
+https://z3.ubtvfans.com/live/rx4/295/f7b8f364d98f98e74b987343e3fe39b7/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",TVN STORY
 http://124.63.136.174:9981/stream/channelid/1511133695?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",TVN Event
