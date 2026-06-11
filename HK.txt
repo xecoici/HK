@@ -39,6 +39,1031 @@ TSN 4K,http://77.90.60.172:55555/1/
 午夜剧场,p3p://fccs.ddns.net:19906/5fe445280008a40682a0367c343436bb
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" 
 
+
+中国,#genre#
+CCTV1,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv1hd
+CCTV1,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv1
+CCTV2,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv2hd
+CCTV2,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv2
+CCTV3,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv3hd
+CCTV3,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv3
+CCTV4,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv4hd
+CCTV4,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv4hd
+CCTV4,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv4
+CCTV5,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv5hd
+CCTV5,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv5
+CCTV5+,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv5phd
+CCTV5+,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv5p
+CCTV6,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv6hd
+CCTV6,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv6hd
+CCTV6,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv6
+CCTV7,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv7hd
+CCTV7,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv7
+CCTV8,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv8hd
+CCTV8,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv8
+CCTV9,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv9hd
+CCTV9,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv9
+CCTV10,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv10hd
+CCTV10,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv10
+CCTV11,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv11hd
+CCTV11,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv11
+CCTV12,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv12hd
+CCTV12,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv12
+CCTV13,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv13hd
+CCTV13,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv13
+CCTV14,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv14hd
+CCTV14,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv14
+CCTV15,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv15hd
+CCTV15,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv15
+CCTV16,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv16hd
+CCTV16,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv16
+CCTV17,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv17hd
+CCTV17,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv17
+CETV1,http://atryffad.usa3.345123.xyz/jrw.php?id=cetv1
+CHC高清电影,http://atryffad.usa3.345123.xyz/jrw.php?id=chchdmovie
+CHC动作电影,http://atryffad.usa3.345123.xyz/jrw.php?id=chcaction
+CHC家庭电影,http://atryffad.usa3.345123.xyz/jrw.php?id=chcfamily
+五星体育,http://atryffad.usa3.345123.xyz/jrw.php?id=fivestarsports
+湖南卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hunwshd
+湖南卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hunws
+浙江卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=zjwshd
+浙江卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=zjws
+江苏卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=jswshd
+江苏卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=jsws
+深圳卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=szwshd
+深圳卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=szws
+湖北卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hubwshd
+湖北卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hubws
+广西卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=gxwshd
+广西卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=gxws
+东南卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=dnws
+江西卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=jxwshd
+江西卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=jxws
+北京卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=bjwshd
+北京卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=bjws
+东方卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=dfwshd
+东方卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=dfws
+辽宁卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=lnwshd
+辽宁卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=lnws
+重庆卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=cqwshd
+重庆卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=cqws
+天津卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=tjwshd
+天津卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=tjws
+安徽卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=ahwshd
+安徽卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=ahws
+贵州卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=gzws
+四川卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=scwshd
+四川卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=scws
+山东卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=sdwshd
+山东卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=sdws
+吉林卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=jlws
+黑龙江卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hljwshd
+黑龙江卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hljws
+河北卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hbwshd
+河北卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hbws
+河南卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hnws
+内蒙古卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=nmgws
+宁夏卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=nxws
+甘肃卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=gsws
+海南卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hinwshd
+海南卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hinws
+新疆卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=xjws
+西藏卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=xzwshd
+广东卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=gdwshd
+广东卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=gdws
+大湾区卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=dwqws
+
+香港,#genre#
+翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvTvbJade
+翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBjadeHDHK
+翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbjade
+翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBjadeHKDE
+翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBjadeHK
+翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=jadehk
+翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=JADE
+翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=2
+翡翠台(美加·东岸时区),http://atryffad.usa3.345123.xyz/jrw.php?id=TVBJEAST
+翡翠台(美加·西岸时区),http://atryffad.usa3.345123.xyz/jrw.php?id=TVBJWEST
+翡翠台(欧·新时区),http://atryffad.usa3.345123.xyz/jrw.php?id=TVBJAUS
+翡翠台(英国时区),http://atryffad.usa3.345123.xyz/jrw.php?id=TVBJUK
+TVB Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvTvbPlus
+TVB Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBPlusHDHK
+TVB Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=TVB%20PlusDE
+TVB Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=TVB%20Plus
+TVB Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=j2hk
+TVB Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=J2
+TVB Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=5
+无线新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvTvbNews
+无线新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBinewsHDHK
+无线新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBinewsDE
+无线新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbnewshk
+无线新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBNEWS
+无线新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBNEWSUS
+无线新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbnews
+无线新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=13
+明珠台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvTvbPearl
+明珠台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBPearlHK
+明珠台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbpearl
+明珠台,http://atryffad.usa3.345123.xyz/jrw.php?id=pearlhk
+明珠台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBP
+明珠台,http://atryffad.usa3.345123.xyz/jrw.php?id=3
+TVB生活台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvblifechannel
+TVB生活台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBLifestyleTH
+TVB星河频道,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBXHHK
+TVB星河频道,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBXingHeHK
+TVB星河频道,http://atryffad.usa3.345123.xyz/jrw.php?id=4
+TVB星河国语,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBXHCN
+TVB星河国语,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBXingHeCN
+凤凰资讯台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvPhoenixInfo
+凤凰资讯台,http://atryffad.usa3.345123.xyz/jrw.php?id=183
+凤凰资讯台,http://atryffad.usa3.345123.xyz/jrw.php?id=PIN
+凤凰资讯台,http://atryffad.usa3.345123.xyz/jrw.php?id=PhoenixInfoMY#http://atryffad.usa3.345123.xyz/jrw.php?id=phoenixinfo
+凤凰中文,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvPhoenixChinese
+凤凰中文,http://atryffad.usa3.345123.xyz/jrw.php?id=PhoenixChineseMY
+凤凰中文,http://atryffad.usa3.345123.xyz/jrw.php?id=PCC
+凤凰中文,http://atryffad.usa3.345123.xyz/jrw.php?id=182
+凤凰香港,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvPhoenixHK
+凤凰香港,http://atryffad.usa3.345123.xyz/jrw.php?id=PHK
+凤凰香港,http://atryffad.usa3.345123.xyz/jrw.php?id=phoenixhk
+凤凰香港,http://atryffad.usa3.345123.xyz/jrw.php?id=184
+TVB1,http://atryffad.usa3.345123.xyz/jrw.php?id=TVB1US
+TVB1,http://atryffad.usa3.345123.xyz/jrw.php?id=176
+TVB Pearl Drama 明珠剧集台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBPearlDramaUS
+TVBJ1,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBJ1West
+TVBJ1,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBJ1US
+TVBJ1,http://atryffad.usa3.345123.xyz/jrw.php?id=195
+TVB J2,http://atryffad.usa3.345123.xyz/jrw.php?id=TVB%20PlusUS
+TVB Drama 翡翠剧集台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBDramaWest
+TVB Drama 翡翠剧集台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBDramaUS
+TVB Drama 翡翠剧集台,http://atryffad.usa3.345123.xyz/jrw.php?id=177
+TVB E 翡翠娛樂台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBEWest
+TVB E 翡翠娛樂台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBEUS
+TVB E 翡翠娛樂台,http://atryffad.usa3.345123.xyz/jrw.php?id=175
+POP C,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvPopC
+POP C,http://atryffad.usa3.345123.xyz/jrw.php?id=POPCHK
+POP C,http://atryffad.usa3.345123.xyz/jrw.php?id=AnimaxHKBG
+POP C,http://atryffad.usa3.345123.xyz/jrw.php?id=179
+Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesCN
+Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesHKHD#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesCNHD
+Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesCN#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBGTHK
+Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=187
+Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsHK
+Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsCN
+Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsHKHD
+Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsCNHD
+Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowXYTHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowXYTHKCN
+Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=186
+Now华剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowChineseDramaChannelHKBG
+Now华剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowChineseDramaChannelHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowChineseOperaHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowChineseDramaChannelHKBG
+Now剧集台,http://atryffad.usa3.345123.xyz/jrw.php?id=ViuchannelHKBG
+Now剧集台,http://atryffad.usa3.345123.xyz/jrw.php?id=ViuchannelHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowDramaSeriesHK#http://atryffad.usa3.345123.xyz/jrw.php?id=ViuchannelHKBG
+Astro AEC,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAECHD
+Astro QJ,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroQuanJiaHD
+Astro AOD,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAOD311HDHK#http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAOD311HDCN
+Astro 欢喜台,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroHuaHeeDaiHD
+娱家台,http://atryffad.usa3.345123.xyz/jrw.php?id=HubVVDrama
+都会台,http://atryffad.usa3.345123.xyz/jrw.php?id=HubECity
+Now新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=Nowtvnews
+Now新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=Now332HK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowNewsHK
+Now新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=21
+Now直播台,http://atryffad.usa3.345123.xyz/jrw.php?id=Nowtvlive
+Now直播台,http://atryffad.usa3.345123.xyz/jrw.php?id=Now331HK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowLiveHK
+Now直播台,http://atryffad.usa3.345123.xyz/jrw.php?id=27
+Now财经台,http://atryffad.usa3.345123.xyz/jrw.php?id=Nowtvfinance
+Now财经台,http://atryffad.usa3.345123.xyz/jrw.php?id=Now333HK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowFinanceHK
+Now财经台,http://atryffad.usa3.345123.xyz/jrw.php?id=23
+NowJelli紫金国际,http://atryffad.usa3.345123.xyz/jrw.php?id=NowJelliHK
+NowJelli紫金国际,http://atryffad.usa3.345123.xyz/jrw.php?id=nowjelli
+Now Sports 630,http://atryffad.usa3.345123.xyz/jrw.php?id=Now630HK
+Now Sports 630,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports630
+Now Sports 641,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsCH641HK
+Now Sports Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPlusHK
+Now Sports Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports680
+Now Sports 1,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports1HK
+Now Sports 2,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports2HK
+Now Sports 3,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports3HK
+Now Sports 4,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports4HK
+Now Sports 5,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports5HK
+Now Sports 6,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports6HK
+Now Sports 7,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports7HK
+Now Sports 英超1台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague1HK
+Now Sports 英超2台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague2HK
+Now Sports 英超3台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague3HK
+Now Sports 英超4台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague4HK
+Now Sports 英超5台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague5HK
+Now Sports 英超6台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague6HK
+bEINSports1,http://atryffad.usa3.345123.xyz/jrw.php?id=bEINSports1HK
+bEINSports2,http://atryffad.usa3.345123.xyz/jrw.php?id=bEINSports2HK
+bEINSports3,http://atryffad.usa3.345123.xyz/jrw.php?id=bEINSports3HK
+NBA TV,http://atryffad.usa3.345123.xyz/jrw.php?id=NBATVHK
+TVB功夫台,http://atryffad.usa3.345123.xyz/jrw.php?id=AsiaActionCN
+TVB功夫台,http://atryffad.usa3.345123.xyz/jrw.php?id=AsiaActionHK
+TVB功夫台,http://atryffad.usa3.345123.xyz/jrw.php?id=12
+澳门莲花,http://atryffad.usa3.345123.xyz/jrw.php?id=Macaulotustv#http://atryffad.usa3.345123.xyz/jrw.php?id=17
+WOW TV,http://atryffad.usa3.345123.xyz/jrw.php?id=WOWTV
+KTSF-26美国旧金山,http://atryffad.usa3.345123.xyz/jrw.php?id=KTSF26
+KR ALL TV,http://atryffad.usa3.345123.xyz/jrw.php?id=KRALLTV
+龙祥时代,http://atryffad.usa3.345123.xyz/jrw.php?id=LSTIME
+中国电影频道,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvChinaMovie
+中国电影频道,http://atryffad.usa3.345123.xyz/jrw.php?id=CMCMoviesHK
+Thrill,http://atryffad.usa3.345123.xyz/jrw.php?id=ThrillHK#http://atryffad.usa3.345123.xyz/jrw.php?id=CTHR
+Thrill,http://atryffad.usa3.345123.xyz/jrw.php?id=121
+天映频道,http://atryffad.usa3.345123.xyz/jrw.php?id=CelestialMoviesHK
+天映频道,http://atryffad.usa3.345123.xyz/jrw.php?id=110
+天映频道国,http://atryffad.usa3.345123.xyz/jrw.php?id=CelestialMoviesCN
+天映经典,http://atryffad.usa3.345123.xyz/jrw.php?id=CelestialClassicMYCN
+天映经典,http://atryffad.usa3.345123.xyz/jrw.php?id=CelestialClassicMYML
+天映经典台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvCCM
+天映经典台,http://atryffad.usa3.345123.xyz/jrw.php?id=CCMoviesHK#http://atryffad.usa3.345123.xyz/jrw.php?id=CCMoviesCN#http://atryffad.usa3.345123.xyz/jrw.php?id=CCCM
+天映经典台,http://atryffad.usa3.345123.xyz/jrw.php?id=111
+HOY76,http://atryffad.usa3.345123.xyz/jrw.php?id=HOYChannel76#http://atryffad.usa3.345123.xyz/jrw.php?id=hoych76
+HOY76,http://atryffad.usa3.345123.xyz/jrw.php?id=16
+HOY77,http://atryffad.usa3.345123.xyz/jrw.php?id=HOYChannel77#http://atryffad.usa3.345123.xyz/jrw.php?id=hoych77
+HOY77,http://atryffad.usa3.345123.xyz/jrw.php?id=HKC001GW#http://atryffad.usa3.345123.xyz/jrw.php?id=hoytv
+HOY77,http://atryffad.usa3.345123.xyz/jrw.php?id=1
+HOY78,http://atryffad.usa3.345123.xyz/jrw.php?id=HOYChannel78#http://atryffad.usa3.345123.xyz/jrw.php?id=hoych78
+HOY78,http://atryffad.usa3.345123.xyz/jrw.php?id=HKC002GW#http://atryffad.usa3.345123.xyz/jrw.php?id=hoyinfo
+HOY78,http://atryffad.usa3.345123.xyz/jrw.php?id=15
+TVBS衛星亞洲台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSAsiaHK
+ViuTV,http://atryffad.usa3.345123.xyz/jrw.php?id=ViuTvChannel
+ViuTV,http://atryffad.usa3.345123.xyz/jrw.php?id=Viutv#http://atryffad.usa3.345123.xyz/jrw.php?id=19
+ViuTV6,http://atryffad.usa3.345123.xyz/jrw.php?id=ViuTv6Channel
+ViuTV6,http://atryffad.usa3.345123.xyz/jrw.php?id=Viusix#http://atryffad.usa3.345123.xyz/jrw.php?id=20
+RTHK31,http://atryffad.usa3.345123.xyz/jrw.php?id=rthk31hd
+RTHK32,http://atryffad.usa3.345123.xyz/jrw.php?id=rthk32hd
+RTHK31,http://atryffad.usa3.345123.xyz/jrw.php?id=RTHK31_DE#http://atryffad.usa3.345123.xyz/jrw.php?id=RTHK31HD#http://atryffad.usa3.345123.xyz/jrw.php?id=29
+RTHK32,http://atryffad.usa3.345123.xyz/jrw.php?id=RTHK32_DE#http://atryffad.usa3.345123.xyz/jrw.php?id=RTHK32HD#http://atryffad.usa3.345123.xyz/jrw.php?id=30
+新时代1,http://atryffad.usa3.345123.xyz/jrw.php?id=FairchildTV
+新时代1备,http://atryffad.usa3.345123.xyz/jrw.php?id=FairchildTV2
+新时代2,http://atryffad.usa3.345123.xyz/jrw.php?id=Fairchild2TV
+城市电视,http://atryffad.usa3.345123.xyz/jrw.php?id=Talentvision
+城市电视,http://atryffad.usa3.345123.xyz/jrw.php?id=TalentvisionTV
+中旺电视,http://atryffad.usa3.345123.xyz/jrw.php?id=ZWTV
+FashionBox,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvFashionBox
+tvN,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvTvn
+Kix,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvKIX
+FashionBox,http://atryffad.usa3.345123.xyz/jrw.php?id=FASHIONONEHK
+tvN,http://atryffad.usa3.345123.xyz/jrw.php?id=tvNHK
+ROCK超级娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvRockAction
+ROCK综艺娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvRockEntertainment
+ROCK超级娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=ROCKAction#http://atryffad.usa3.345123.xyz/jrw.php?id=CRTX
+ROCK综艺娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=ROCKYZYL#http://atryffad.usa3.345123.xyz/jrw.php?id=CRTE
+黃金華劇台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvGoldenChineseDrama
+黃金華劇台,http://atryffad.usa3.345123.xyz/jrw.php?id=28
+MyTV黄金翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBGoldenJadeHK
+MyTV黄金翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvGoldenJade
+HKC18台,http://atryffad.usa3.345123.xyz/jrw.php?id=HKC18
+HKC18台,http://atryffad.usa3.345123.xyz/jrw.php?id=HKC18#http://atryffad.usa3.345123.xyz/jrw.php?id=HKC603HD#http://atryffad.usa3.345123.xyz/jrw.php?id=18
+千禧经典,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBClassicMY
+千禧经典,http://atryffad.usa3.345123.xyz/jrw.php?id=198
+MyTV千禧经典台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvClassic
+MyTV千禧经典台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBClassicHK#http://atryffad.usa3.345123.xyz/jrw.php?id=11
+亚洲剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvAsianDrama
+华语剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvChineseDrama
+亚洲剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBAsianDramaHK#http://atryffad.usa3.345123.xyz/jrw.php?id=TVBAsianDramaHKBG#http://atryffad.usa3.345123.xyz/jrw.php?id=7#http://atryffad.usa3.345123.xyz/jrw.php?id=CTVS
+华语剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBChineseDramaHK#http://atryffad.usa3.345123.xyz/jrw.php?id=TVBChineseDramaHKCN#http://atryffad.usa3.345123.xyz/jrw.php?id=8#http://atryffad.usa3.345123.xyz/jrw.php?id=CDR3
+Kix,http://atryffad.usa3.345123.xyz/jrw.php?id=KIXHK#http://atryffad.usa3.345123.xyz/jrw.php?id=KIXBG#http://atryffad.usa3.345123.xyz/jrw.php?id=CKIX
+Kix,http://atryffad.usa3.345123.xyz/jrw.php?id=118
+TVB娱乐新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvTvbEntertainment
+TVB娱乐新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBEntertainmentNewsHK#http://atryffad.usa3.345123.xyz/jrw.php?id=CTVE#http://atryffad.usa3.345123.xyz/jrw.php?id=10
+亚洲综合娱乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=MYTVASIAVARIETY
+亚洲综合娱乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=24
+TVBSuperFree,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSuperfreeHK#http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSuperfreeHKBG#http://atryffad.usa3.345123.xyz/jrw.php?id=CWIN#http://atryffad.usa3.345123.xyz/jrw.php?id=SUPERKidsChannelHKBG#http://atryffad.usa3.345123.xyz/jrw.php?id=SUPERKidsChannelHK
+TVBSuperFree,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvSuperFree
+Hands UP,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvKidsChannel
+Hands UP,http://atryffad.usa3.345123.xyz/jrw.php?id=25#http://atryffad.usa3.345123.xyz/jrw.php?id=KID
+戏曲台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvOperaChannel
+戏曲台,http://atryffad.usa3.345123.xyz/jrw.php?id=200
+Animax,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvAnimaxC
+Animax,http://atryffad.usa3.345123.xyz/jrw.php?id=AnimaxHK
+Thrill,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvThrill
+ZooMoo,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvZooMoo
+Nickelodeon,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvNickeledeon
+NickJr儿童频道,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvNickJr
+DreamWorks,http://atryffad.usa3.345123.xyz/jrw.php?id=DreamWorksHK
+年代Much,http://atryffad.usa3.345123.xyz/jrw.php?id=eramuch
+粤语片台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvCantoneseChannel
+粤语片台,http://atryffad.usa3.345123.xyz/jrw.php?id=6
+美亚电影国,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvMeiyaMovieEN
+美亚电影,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvMeiyaMovieCN
+美亚电影,http://atryffad.usa3.345123.xyz/jrw.php?id=CMAMHK
+美亚电影,http://atryffad.usa3.345123.xyz/jrw.php?id=9
+美亚电影国,http://atryffad.usa3.345123.xyz/jrw.php?id=CMAMHKBG
+美亚电影国,http://atryffad.usa3.345123.xyz/jrw.php?id=CMAM
+HBO,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOHK
+HBOHD,http://atryffad.usa3.345123.xyz/jrw.php?id=96
+HBO Signature,http://atryffad.usa3.345123.xyz/jrw.php?id=97
+HBO HiTS,http://atryffad.usa3.345123.xyz/jrw.php?id=98
+HBO family,http://atryffad.usa3.345123.xyz/jrw.php?id=99
+AXN,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvAXN
+axn,http://atryffad.usa3.345123.xyz/jrw.php?id=AXNHK
+GlobalTrekker,http://atryffad.usa3.345123.xyz/jrw.php?id=GlobalTrekker
+Love Nature,http://atryffad.usa3.345123.xyz/jrw.php?id=LoveNatureHD
+mySUPER直播足球2台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvSports2
+mySUPER直播足球3台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvSports3
+mySUPER直播足球4台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvSports4
+mySUPER直播足球5台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvSports5
+mySUPER直播足球6台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvSports6
+
+台湾,#genre#
+中视,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvtwhd
+中视,http://atryffad.usa3.345123.xyz/jrw.php?id=ctv
+中视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvnews#http://atryffad.usa3.345123.xyz/jrw.php?id=ctvnewslm
+中视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvnewsy
+中视经典,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvclassic
+中视菁采,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvbravo
+公视,http://atryffad.usa3.345123.xyz/jrw.php?id=ptshd
+公视,http://atryffad.usa3.345123.xyz/jrw.php?id=ptshdlm
+公视,http://atryffad.usa3.345123.xyz/jrw.php?id=PTSHD
+公视,http://atryffad.usa3.345123.xyz/jrw.php?id=39
+公视3,http://atryffad.usa3.345123.xyz/jrw.php?id=PTS3
+公视戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=ptsdrama
+公视台语台,http://atryffad.usa3.345123.xyz/jrw.php?id=PTS2
+公视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=PTSNews
+民视,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvhd
+民视,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvhdlm
+民视,http://atryffad.usa3.345123.xyz/jrw.php?id=36
+民视第一台,http://atryffad.usa3.345123.xyz/jrw.php?id=fmtv
+民视第一台,http://atryffad.usa3.345123.xyz/jrw.php?id=45
+民视台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=fttv
+民视台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=37
+民视新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvnews
+民视新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvnewsy
+民视新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvnewslm
+民视新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=144
+民视影剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvmoviedrama
+民视旅游台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvtravel
+民视综艺台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvvariety
+台视,http://atryffad.usa3.345123.xyz/jrw.php?id=ttv
+台视,http://atryffad.usa3.345123.xyz/jrw.php?id=ttvhd_de
+台视,http://atryffad.usa3.345123.xyz/jrw.php?id=ttvhdlm
+台视,http://atryffad.usa3.345123.xyz/jrw.php?id=TTVHD
+台视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ttvnewshdy
+台视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ttvnewslm
+台视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=TTVNews
+台视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=148
+台视综合,http://atryffad.usa3.345123.xyz/jrw.php?id=ttvvariety
+台视综合,http://atryffad.usa3.345123.xyz/jrw.php?id=TTVZH
+台视财经,http://atryffad.usa3.345123.xyz/jrw.php?id=ttvfinance
+台视财经,http://atryffad.usa3.345123.xyz/jrw.php?id=TTVCJ
+台湾戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=taiwandramahd
+台湾戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=TaiwanDrama
+华视,http://atryffad.usa3.345123.xyz/jrw.php?id=ctshd
+华视,http://atryffad.usa3.345123.xyz/jrw.php?id=ctshdlm
+华视,http://atryffad.usa3.345123.xyz/jrw.php?id=38
+华视新闻资讯,http://atryffad.usa3.345123.xyz/jrw.php?id=ctsnewsinfo
+华视新闻资讯,http://atryffad.usa3.345123.xyz/jrw.php?id=ctsnews
+霹雳台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=pilitaiwan
+霹雳台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=Pilitai
+壹新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=nextnews
+壹新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=nexttvnews
+壹新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=149
+壹新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=NEXTNews
+JET综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=jetvariety
+JET综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=JET
+年代新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=Eranews
+年代新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=eranewslm
+年代新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=155
+年代Much,http://atryffad.usa3.345123.xyz/jrw.php?id=eramuch
+非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ustvnewshd
+非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ustvnews
+非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ustvnewslm
+非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=USNews
+非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=154
+非凡商业,http://atryffad.usa3.345123.xyz/jrw.php?id=ustvbusinesshd
+非凡商业,http://atryffad.usa3.345123.xyz/jrw.php?id=ustvbusiness
+寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=globalnews
+寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=Globalnewshd
+寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=147
+寰宇新闻台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=globaltaiwan
+寰宇新闻台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=158
+寰宇财经台,http://atryffad.usa3.345123.xyz/jrw.php?id=globalfinance
+镜新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=mnews
+镜新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=mnewsy
+镜新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=MNewsHD
+镜新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=152
+东森超視美洲,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVSuperUS
+东森美洲,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVnewsUS
+东森美洲卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVAsiaUS
+东森中国台,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVCN
+东森超视,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvsuper
+东森超视,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVSuper
+东森亚洲,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvasia
+东森亚洲,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVAsia
+东森综合,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvvariety
+东森综合,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvzhonghe
+东森综合,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVZH
+东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcnews
+东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvnews
+东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcnewsy
+东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcnewslm
+东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=145
+东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVNewsHD
+东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcfinance
+东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcfinancey
+东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcfinancelm
+东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVFinanceHD
+东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=146
+东森LIVE,http://atryffad.usa3.345123.xyz/jrw.php?id=ebclive
+国兴卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=gstv
+国兴卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=GSTV
+三立都会台,http://atryffad.usa3.345123.xyz/jrw.php?id=setmetro
+三立都会台,http://atryffad.usa3.345123.xyz/jrw.php?id=SETMetro
+三立都会台,http://atryffad.usa3.345123.xyz/jrw.php?id=26
+三立综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=setzonghe
+三立综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=setzonghelm
+三立综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=46
+三立台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=SETTaiwan
+三立台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=settaiwanlm
+三立台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=settaiwan_de
+三立台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=44
+三立新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=setnews
+三立新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=SETNews
+三立iNEWS,http://atryffad.usa3.345123.xyz/jrw.php?id=setinews
+三立iNEWS,http://atryffad.usa3.345123.xyz/jrw.php?id=SETINews
+三立国际台,http://atryffad.usa3.345123.xyz/jrw.php?id=SETInternational
+东森LIVE,http://atryffad.usa3.345123.xyz/jrw.php?id=setlive
+LIVE三立,http://atryffad.usa3.345123.xyz/jrw.php?id=151
+中天新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ctinews
+中天新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ctinewsy
+中天新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ctinewslm
+中天新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=141
+中天新闻台2台,http://atryffad.usa3.345123.xyz/jrw.php?id=ctinews2
+中天综合,http://atryffad.usa3.345123.xyz/jrw.php?id=CTIZonghe
+中天综合,http://atryffad.usa3.345123.xyz/jrw.php?id=33
+中天综合,http://atryffad.usa3.345123.xyz/jrw.php?id=ctizonghe
+中天娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=ctient
+中天娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=CTIYLT
+中天娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=32
+纬来综合,http://atryffad.usa3.345123.xyz/jrw.php?id=VideolandVariety
+纬来综合,http://atryffad.usa3.345123.xyz/jrw.php?id=vdlandvariety
+纬来综合,http://atryffad.usa3.345123.xyz/jrw.php?id=VLOntv
+纬来精彩,http://atryffad.usa3.345123.xyz/jrw.php?id=VideolandWonderful
+纬来精彩,http://atryffad.usa3.345123.xyz/jrw.php?id=VLJingcai
+纬来育乐,http://atryffad.usa3.345123.xyz/jrw.php?id=VideolandEducational
+纬来育乐,http://atryffad.usa3.345123.xyz/jrw.php?id=vdlandyule
+纬来育乐,http://atryffad.usa3.345123.xyz/jrw.php?id=VLMaxtv
+八大综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=gtvvariety
+八大综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=badaent
+八大综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=BadaZhonghe
+八大综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=41
+八大精彩台,http://atryffad.usa3.345123.xyz/jrw.php?id=gtvbrilliant
+八大精彩台,http://atryffad.usa3.345123.xyz/jrw.php?id=43
+八大娱乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=BadaAntertain
+TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbsnews
+TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbsnewsy
+TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbsnewslm
+TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSNHD
+TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=139
+TVBS精采台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbse
+TVBS精采台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSJingCaiTai
+TVBS精采台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSJCT
+TVBS欢乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbsent
+TVBS欢乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=31
+TVBS欢乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSHLT
+TVBSHD,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbs
+TVBSHD,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbshdy
+TVBSHD,http://atryffad.usa3.345123.xyz/jrw.php?id=140
+TVBSHD,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSHD
+靖天综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvvariety
+靖天综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=JTZHT
+靖天日本台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvjapan
+靖天日本台,http://atryffad.usa3.345123.xyz/jrw.php?id=JTRBT
+靖天资讯台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvinfo
+靖天国际台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvinternationalhd
+靖天国际台,http://atryffad.usa3.345123.xyz/jrw.php?id=KLTgoldentv
+靖天国际台,http://atryffad.usa3.345123.xyz/jrw.php?id=53
+靖天育乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvyule
+靖天欢乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=nicetvhd
+靖天欢乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=nicetv
+ELTA娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=eltaentertaiment
+ELTA娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=ELTAYLT
+客家电视台,http://atryffad.usa3.345123.xyz/jrw.php?id=hakkatv
+信大,http://atryffad.usa3.345123.xyz/jrw.php?id=sindatv
+原住民频道,http://atryffad.usa3.345123.xyz/jrw.php?id=titv
+新唐人亞太台,http://atryffad.usa3.345123.xyz/jrw.php?id=NewTangDynasty
+VOA美国之音,http://atryffad.usa3.345123.xyz/jrw.php?id=voa
+韩国娱乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=koreamtv
+古典音乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=classica
+猪哥亮歌厅秀,http://atryffad.usa3.345123.xyz/jrw.php?id=ZhuGeliangCabaret
+人间卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=buddhastelevision
+大爱一台,http://atryffad.usa3.345123.xyz/jrw.php?id=daai1
+大爱二台,http://atryffad.usa3.345123.xyz/jrw.php?id=daai2
+好消息,http://atryffad.usa3.345123.xyz/jrw.php?id=goodtv1
+好消息,http://live.streamingfast.net/osmflivech1.m3u8
+好消息2,http://atryffad.usa3.345123.xyz/jrw.php?id=goodtv2
+好消息2,http://live.streamingfast.net/osmflivech2.m3u8
+国会频道1,http://atryffad.usa3.345123.xyz/jrw.php?id=CongressChannel1
+国会频道1,https://www.youtube.com/watch?v=4HysYHJ6GkY
+国会频道2,http://atryffad.usa3.345123.xyz/jrw.php?id=CongressChannel2
+国会频道2,https://www.youtube.com/watch?v=RAP4h3q6_Sg
+
+新闻,#genre#
+寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=globalnews
+寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=Globalnewshd
+寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=147
+寰宇新闻台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=globaltaiwan
+寰宇新闻台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=158
+寰宇财经台,http://atryffad.usa3.345123.xyz/jrw.php?id=globalfinance
+镜新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=mnews
+镜新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=mnewsy
+镜新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=MNewsHD
+镜新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=152
+中天新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ctinews
+中天新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ctinewsy
+中天新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ctinewslm
+中天新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=141
+中天新闻台2台,http://atryffad.usa3.345123.xyz/jrw.php?id=ctinews2
+TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbsnews
+TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbsnewsy
+TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbsnewslm
+TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSNHD
+TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=139
+TVBSHD,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbs
+TVBSHD,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbshdy
+TVBSHD,http://atryffad.usa3.345123.xyz/jrw.php?id=140
+TVBSHD,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSHD
+中视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvnews
+中视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvnewsy
+中视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvnewslm
+中视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=143
+公视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=PTSNews
+民视新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvnews
+民视新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvnewsy
+民视新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvnewslm
+民视新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=144
+台视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ttvnewshdy
+台视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ttvnewslm
+台视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=TTVNews
+台视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=148
+华视新闻资讯,http://atryffad.usa3.345123.xyz/jrw.php?id=ctsnewsinfo
+华视新闻资讯,http://atryffad.usa3.345123.xyz/jrw.php?id=ctsnews
+壹新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=nextnews
+壹新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=nexttvnews
+壹新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=149
+壹新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=NEXTNews
+年代新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=Eranews
+年代新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=eranewslm
+年代新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=155
+非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ustvnewshd
+非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ustvnews
+非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ustvnewslm
+非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=USNews
+非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=154
+东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcnews
+东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvnews
+东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcnewsy
+东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcnewslm
+东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=145
+东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVNewsHD
+东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcfinance
+东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcfinancey
+东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcfinancelm
+东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVFinanceHD
+东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=146
+三立新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=setnews
+三立新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=SETNews
+三立iNEWS,http://atryffad.usa3.345123.xyz/jrw.php?id=setinews
+三立iNEWS,http://atryffad.usa3.345123.xyz/jrw.php?id=SETINews
+三立国际台,http://atryffad.usa3.345123.xyz/jrw.php?id=SETInternational
+LIVE三立,http://atryffad.usa3.345123.xyz/jrw.php?id=setlive
+
+体育,#genre#
+Now Sports 1,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports1HK
+Now Sports 3,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports3HK
+Now Sports 4,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports4HK
+Now Sports 5,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports5HK
+Now Sports 6,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports6HK
+Now Sports 7,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports7HK
+Now Sports 7,http://atryffad.usa3.345123.xyz/jrw.php?id=197
+Now Sports 英超1台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague1HK
+Now Sports 英超1台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague1HK3
+Now Sports 英超1台,http://atryffad.usa3.345123.xyz/jrw.php?id=22
+Now Sports 英超1台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowPremier1HK
+Now Sports 英超2台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague2HK
+Now Sports 英超3台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague3HK
+Now Sports 英超4台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague4HK
+Now Sports 英超5台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague5HK
+Now Sports 英超6台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague6HK
+Now Sports 641,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsCH641HK
+Now Sports 630,http://atryffad.usa3.345123.xyz/jrw.php?id=Now630HK
+Now Sports Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPlusHK
+NBA,http://atryffad.usa3.345123.xyz/jrw.php?id=NBATVHK
+NBA,http://atryffad.usa3.345123.xyz/jrw.php?id=NBAHK
+NBA,http://atryffad.usa3.345123.xyz/jrw.php?id=nbatv
+NBA,http://atryffad.usa3.345123.xyz/jrw.php?id=76
+ELTA体育2,http://atryffad.usa3.345123.xyz/jrw.php?id=eltasports2
+ELTA体育2,http://atryffad.usa3.345123.xyz/jrw.php?id=189
+ELTA体育4,http://atryffad.usa3.345123.xyz/jrw.php?id=eltasports4
+ELTA体育MAX1,http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax1
+ELTA体育MAX2,http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax2
+ELTA体育MAX3,http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax3
+ELTA体育MAX4,http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax4
+GinxTV电竞频道,http://atryffad.usa3.345123.xyz/jrw.php?id=GINXEsportsTV
+纬来体育,http://atryffad.usa3.345123.xyz/jrw.php?id=VideolandSports
+纬来体育,http://atryffad.usa3.345123.xyz/jrw.php?id=vdlandsports
+纬来体育,http://atryffad.usa3.345123.xyz/jrw.php?id=58
+纬来体育,http://atryffad.usa3.345123.xyz/jrw.php?id=VLSportHD
+博斯运动1,http://atryffad.usa3.345123.xyz/jrw.php?id=bosisports
+博斯运动1,http://atryffad.usa3.345123.xyz/jrw.php?id=bosisport
+博斯运动1,http://atryffad.usa3.345123.xyz/jrw.php?id=61
+博斯运动1,http://atryffad.usa3.345123.xyz/jrw.php?id=BosiYD1
+博斯运动2,http://atryffad.usa3.345123.xyz/jrw.php?id=62
+博斯运动2,http://atryffad.usa3.345123.xyz/jrw.php?id=BosiYD2
+博斯高球1,http://atryffad.usa3.345123.xyz/jrw.php?id=bosigolf
+博斯高球1,http://atryffad.usa3.345123.xyz/jrw.php?id=bosigolf1
+博斯高球1,http://atryffad.usa3.345123.xyz/jrw.php?id=63
+博斯高球2,http://atryffad.usa3.345123.xyz/jrw.php?id=64
+博斯高球2,http://atryffad.usa3.345123.xyz/jrw.php?id=bosigolf2
+博斯网球,http://atryffad.usa3.345123.xyz/jrw.php?id=bositennis
+博斯网球,http://atryffad.usa3.345123.xyz/jrw.php?id=bosi_tennis
+博斯网球,http://atryffad.usa3.345123.xyz/jrw.php?id=65
+博斯网球,http://atryffad.usa3.345123.xyz/jrw.php?id=BosiWQ
+博斯无限,http://atryffad.usa3.345123.xyz/jrw.php?id=bosiunlimited
+博斯无限,http://atryffad.usa3.345123.xyz/jrw.php?id=bosiunlimit
+博斯无限,http://atryffad.usa3.345123.xyz/jrw.php?id=BosiWX1
+博斯无限2,http://atryffad.usa3.345123.xyz/jrw.php?id=bosiunlimit2
+博斯无限2,http://atryffad.usa3.345123.xyz/jrw.php?id=BosiWX2
+博斯无限2,http://atryffad.usa3.345123.xyz/jrw.php?id=89
+博斯魅力,http://atryffad.usa3.345123.xyz/jrw.php?id=bosicharm
+博斯魅力,http://atryffad.usa3.345123.xyz/jrw.php?id=BosiML
+智林体育台,http://atryffad.usa3.345123.xyz/jrw.php?id=oursport
+TRACESportStars,http://atryffad.usa3.345123.xyz/jrw.php?id=tracesportstars
+ELTA体育1,http://atryffad.usa3.345123.xyz/jrw.php?id=eltasports1
+ELTA体育1,http://atryffad.usa3.345123.xyz/jrw.php?id=eltasports1
+ELTA体育1,http://atryffad.usa3.345123.xyz/jrw.php?id=188
+CCTV5+,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv5phd#http://atryffad.usa3.345123.xyz/jrw.php?id=cctv5p
+CCTV5,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv5hd#http://atryffad.usa3.345123.xyz/jrw.php?id=cctv5
+CCTV16,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv16hd#http://atryffad.usa3.345123.xyz/jrw.php?id=cctv16
+五星体育,http://atryffad.usa3.345123.xyz/jrw.php?id=fivestarsports
+
+电影,#genre#
+美亚电影台,http://atryffad.usa3.345123.xyz/jrw.php?id=MeiYaMovieTW
+美亚电影台,http://atryffad.usa3.345123.xyz/jrw.php?id=113
+龙祥时代,http://atryffad.usa3.345123.xyz/jrw.php?id=LSTIME
+龙祥时代,http://atryffad.usa3.345123.xyz/jrw.php?id=lstimemovies
+龙祥时代,http://atryffad.usa3.345123.xyz/jrw.php?id=LSTime
+龙祥时代,http://atryffad.usa3.345123.xyz/jrw.php?id=Lungxiangtime
+龙华偶像,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvidolhd
+龙华偶像,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvIdol
+龙华偶像,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvidol
+龙华偶像,http://atryffad.usa3.345123.xyz/jrw.php?id=LHOXT
+龙华偶像,http://atryffad.usa3.345123.xyz/jrw.php?id=52
+龙华戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvdrama
+龙华戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvdramalm
+龙华戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=LHXJT
+龙华戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=50
+龙华日韩,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvjpkr
+龙华电影,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvmovies
+龙华电影,http://atryffad.usa3.345123.xyz/jrw.php?id=112
+龙华影剧,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvmoviedrama
+龙华洋片,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvforeign
+龙华洋片,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvforeignlm
+龙华洋片,http://atryffad.usa3.345123.xyz/jrw.php?id=LHYPT
+龙华洋片,http://atryffad.usa3.345123.xyz/jrw.php?id=107
+龙华卡通,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvcartoonhd
+龙华卡通,http://atryffad.usa3.345123.xyz/jrw.php?id=LHKTT
+龙华经典,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvclassichd
+龙华经典,http://atryffad.usa3.345123.xyz/jrw.php?id=LHJDT
+纬来戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=VideolandDrama
+纬来戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=vdlanddrama
+纬来戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=VLXiju
+纬来日本,http://atryffad.usa3.345123.xyz/jrw.php?id=VideolandJapan
+纬来日本,http://atryffad.usa3.345123.xyz/jrw.php?id=vdlandjapan
+纬来日本,http://atryffad.usa3.345123.xyz/jrw.php?id=54
+纬来日本,http://atryffad.usa3.345123.xyz/jrw.php?id=VLJapan
+纬来电影,http://atryffad.usa3.345123.xyz/jrw.php?id=VideolandMovies
+纬来电影,http://atryffad.usa3.345123.xyz/jrw.php?id=vdlandmovies
+纬来电影,http://atryffad.usa3.345123.xyz/jrw.php?id=103
+纬来电影,http://atryffad.usa3.345123.xyz/jrw.php?id=VLMovies
+东森电影,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvmovies
+东森电影,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcmovies
+东森电影,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVMovie
+东森电影,http://atryffad.usa3.345123.xyz/jrw.php?id=104
+东森洋片,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvforeign
+东森洋片,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcforeign
+东森洋片,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVWestern
+东森洋片,http://atryffad.usa3.345123.xyz/jrw.php?id=105
+东森戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvdrama
+东森戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcdrama
+东森戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVXJ
+东森戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=106
+三立戏剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=47
+三立戏剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=SETDrama
+三立戏剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=setdrama_de
+八大第一台,http://atryffad.usa3.345123.xyz/jrw.php?id=Badafirst
+八大第一台,http://atryffad.usa3.345123.xyz/jrw.php?id=badafirst
+八大第一台,http://atryffad.usa3.345123.xyz/jrw.php?id=40
+八大戏剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=badadrama
+八大戏剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=BadaDrama
+八大戏剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=42
+靖天戏剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvdrama
+靖天戏剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvforeign
+靖天映画台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvpictures
+靖天电影台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvmovies
+华艺MBC综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=dragonartmbc
+华艺MBC综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=109
+壹电影,http://atryffad.usa3.345123.xyz/jrw.php?id=nexttvmovies
+EYETV戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=eyetvdrama
+ELTA影剧,http://atryffad.usa3.345123.xyz/jrw.php?id=eltamoviedrama
+ELTA影剧,http://atryffad.usa3.345123.xyz/jrw.php?id=eltayingju
+ELTA影剧,http://atryffad.usa3.345123.xyz/jrw.php?id=ELTAYJT
+ELTA影剧,http://atryffad.usa3.345123.xyz/jrw.php?id=57
+ELTA综合,http://atryffad.usa3.345123.xyz/jrw.php?id=eltavariety
+ELTA综合,http://atryffad.usa3.345123.xyz/jrw.php?id=ELTAZongHe
+采昌影剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=114
+采昌影剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=WeishimoviesTW
+采昌影剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=caichangmovies
+AXN頻道,http://atryffad.usa3.345123.xyz/jrw.php?id=AXNHDTW
+AXN頻道,http://atryffad.usa3.345123.xyz/jrw.php?id=102
+华纳电影,http://atryffad.usa3.345123.xyz/jrw.php?id=warnertv
+华纳电影,http://atryffad.usa3.345123.xyz/jrw.php?id=119
+tVN,http://atryffad.usa3.345123.xyz/jrw.php?id=tvntw
+CinemaWorld,http://atryffad.usa3.345123.xyz/jrw.php?id=cinemaworld
+CINEMAX,http://atryffad.usa3.345123.xyz/jrw.php?id=cinemax
+CINEMAX,http://atryffad.usa3.345123.xyz/jrw.php?id=101
+HBO,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOTW
+HBOHD,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOHD
+HBOHD,http://atryffad.usa3.345123.xyz/jrw.php?id=hbo
+HBOHD,http://atryffad.usa3.345123.xyz/jrw.php?id=96
+HBO原创,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOSignature
+HBO原创,http://atryffad.usa3.345123.xyz/jrw.php?id=97
+HBO原创,http://atryffad.usa3.345123.xyz/jrw.php?id=hbosignature
+HBO强档,http://atryffad.usa3.345123.xyz/jrw.php?id=hbohits
+HBO强档,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOHits
+HBO强档,http://atryffad.usa3.345123.xyz/jrw.php?id=98
+HBO家庭,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOFamily
+HBO家庭,http://atryffad.usa3.345123.xyz/jrw.php?id=99
+私人影院,http://atryffad.usa3.345123.xyz/jrw.php?id=SRYY
+好莱坞电影,http://atryffad.usa3.345123.xyz/jrw.php?id=hollywood
+好莱坞电影,http://atryffad.usa3.345123.xyz/jrw.php?id=Hollywoodmovies
+好莱坞电影,http://atryffad.usa3.345123.xyz/jrw.php?id=100
+amc最爱电影,http://atryffad.usa3.345123.xyz/jrw.php?id=amcmovies
+CatchPlay电影台,http://atryffad.usa3.345123.xyz/jrw.php?id=cactchplayhd
+CatchPlay电影台,http://atryffad.usa3.345123.xyz/jrw.php?id=CATCHPLAY
+经典电影台,http://atryffad.usa3.345123.xyz/jrw.php?id=classicmovies
+美亚电影台,http://atryffad.usa3.345123.xyz/jrw.php?id=meiahmovie
+Thrill惊悚,http://atryffad.usa3.345123.xyz/jrw.php?id=121
+AXN頻道,http://atryffad.usa3.345123.xyz/jrw.php?id=axntw
+AXN頻道,http://atryffad.usa3.345123.xyz/jrw.php?id=AXNHDTW
+AXN頻道,http://atryffad.usa3.345123.xyz/jrw.php?id=102
+tVN,http://atryffad.usa3.345123.xyz/jrw.php?id=tvntw
+
+纪实,#genre#
+幸福空间居家台,http://atryffad.usa3.345123.xyz/jrw.php?id=gstv
+BBC Earth,http://atryffad.usa3.345123.xyz/jrw.php?id=bbcearth
+BBC Earth,http://atryffad.usa3.345123.xyz/jrw.php?id=BBCEarthTW
+BBC Lifestyle,http://atryffad.usa3.345123.xyz/jrw.php?id=bbclifestyle
+BBC Lifestyle,http://atryffad.usa3.345123.xyz/jrw.php?id=BBCLifestyleTW
+HISTORY2,http://atryffad.usa3.345123.xyz/jrw.php?id=HISTORY2TW
+国家地理,http://atryffad.usa3.345123.xyz/jrw.php?id=124
+国家地理野生,http://atryffad.usa3.345123.xyz/jrw.php?id=NatGeoWildHD
+动物星球,http://atryffad.usa3.345123.xyz/jrw.php?id=126
+探索频道,http://atryffad.usa3.345123.xyz/jrw.php?id=DiscoveryChannel
+探索频道,http://atryffad.usa3.345123.xyz/jrw.php?id=127
+探索科学,http://atryffad.usa3.345123.xyz/jrw.php?id=discoveryscience
+探索科学,http://atryffad.usa3.345123.xyz/jrw.php?id=DiscoveryScience
+探索科学,http://atryffad.usa3.345123.xyz/jrw.php?id=129
+探索亚洲,http://atryffad.usa3.345123.xyz/jrw.php?id=discoveryasia
+探索亚洲,http://atryffad.usa3.345123.xyz/jrw.php?id=DiscoveryAsia
+探索亚洲,http://atryffad.usa3.345123.xyz/jrw.php?id=130
+亚洲美食频道,http://atryffad.usa3.345123.xyz/jrw.php?id=afn
+美食星球,http://atryffad.usa3.345123.xyz/jrw.php?id=foodplanettw
+美食星球,http://atryffad.usa3.345123.xyz/jrw.php?id=MSXQ
+亚洲旅游台,http://atryffad.usa3.345123.xyz/jrw.php?id=travelasiafhd
+亚洲旅游台,http://atryffad.usa3.345123.xyz/jrw.php?id=travelasia
+亚洲旅游台,http://atryffad.usa3.345123.xyz/jrw.php?id=asiatravel
+亚洲旅游台,http://atryffad.usa3.345123.xyz/jrw.php?id=131
+亚洲旅游台,http://atryffad.usa3.345123.xyz/jrw.php?id=YZLYT
+EYETV旅游,http://atryffad.usa3.345123.xyz/jrw.php?id=eyetvtravel
+EYETV旅游,http://atryffad.usa3.345123.xyz/jrw.php?id=EYETravel
+ELTA生活旅游,http://atryffad.usa3.345123.xyz/jrw.php?id=eltafoodietravel
+
+少儿,#genre#
+靖天卡通台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvkids
+靖天卡通台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvkidslm
+靖天卡通台,http://atryffad.usa3.345123.xyz/jrw.php?id=55
+靖洋卡通台,http://atryffad.usa3.345123.xyz/jrw.php?id=nicebingo
+靖洋卡通台,http://atryffad.usa3.345123.xyz/jrw.php?id=NiceBingo
+东森幼幼,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvyoyo
+东森幼幼,http://atryffad.usa3.345123.xyz/jrw.php?id=191
+东森幼幼,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVYOYO
+MOMO亲子台,http://atryffad.usa3.345123.xyz/jrw.php?id=momoparentchild
+MOMO亲子台,http://atryffad.usa3.345123.xyz/jrw.php?id=MOMOQZT
+CN卡通频道,http://atryffad.usa3.345123.xyz/jrw.php?id=CnCartoon
+CN卡通频道,http://atryffad.usa3.345123.xyz/jrw.php?id=cncartoon
+CN卡通频道,http://atryffad.usa3.345123.xyz/jrw.php?id=CNTW
+尼克儿童频道,http://atryffad.usa3.345123.xyz/jrw.php?id=nickelodeon
+尼克儿童频道,http://atryffad.usa3.345123.xyz/jrw.php?id=nickelodeonlm
+Boomerang,http://atryffad.usa3.345123.xyz/jrw.php?id=BoomerangTW
+NickJr儿童频道,http://atryffad.usa3.345123.xyz/jrw.php?id=nickjr
+BBC Cbeebies,http://atryffad.usa3.345123.xyz/jrw.php?id=cbeebies
+BBC Cbeebies,http://atryffad.usa3.345123.xyz/jrw.php?id=BBCCbeebiesTW
+经典卡通台,http://atryffad.usa3.345123.xyz/jrw.php?id=classiccartoon
+MOMO台,http://atryffad.usa3.345123.xyz/jrw.php?id=momokids
+NickJr儿童频道,http://atryffad.usa3.345123.xyz/jrw.php?id=nickjr
+
+马来,#genre#
+DidikTV7,http://atryffad.usa3.345123.xyz/jrw.php?id=DidikTV7
+8TV 八度空间,http://atryffad.usa3.345123.xyz/jrw.php?id=8TV
+8TV 八度空间,http://atryffad.usa3.345123.xyz/jrw.php?id=8TVHD
+iQIYI爱奇艺,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroiQIYIHD
+TVB千禧经典台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBClassicMY
+Astro AEC,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAECHD
+Astro AEC,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAEC
+Astro AEC,http://atryffad.usa3.345123.xyz/jrw.php?id=AEC
+Astro QJ,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroQuanJiaHD
+Astro QJ,http://atryffad.usa3.345123.xyz/jrw.php?id=QuanJia
+天映频道,http://atryffad.usa3.345123.xyz/jrw.php?id=CelestialMoviesHK
+天映频道,http://atryffad.usa3.345123.xyz/jrw.php?id=CelestialMoviesCN
+天映经典,http://atryffad.usa3.345123.xyz/jrw.php?id=CelestialClassicMY
+天映经典,http://atryffad.usa3.345123.xyz/jrw.php?id=CelestialClassicMYCN
+TVB翡翠台（马来）,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBjadeMY
+TVB翡翠台（马来）,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBjadeMYCN
+AOD 311,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAOD311HDHK
+AOD 311,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAOD311HDCN
+中天亚洲,http://atryffad.usa3.345123.xyz/jrw.php?id=CTIAsiaHDMY
+TVB娱乐新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBENEWS
+TVB星河频道,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBXingHeHK
+TVB星河频道,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBXingHeCN
+TVBSAsia,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSAsia
+凤凰中文,http://atryffad.usa3.345123.xyz/jrw.php?id=PhoenixChineseMY
+凤凰资讯,http://atryffad.usa3.345123.xyz/jrw.php?id=PhoenixInfoMY
+凤凰资讯,http://atryffad.usa3.345123.xyz/jrw.php?id=phoenixinfo
+欢喜台,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroHuaHeeDaiHD
+欢喜台,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroHuaHeeDaiHDCN
+CCTV-4,http://atryffad.usa3.345123.xyz/jrw.php?id=CCTV4MY
+SukanRTM,http://atryffad.usa3.345123.xyz/jrw.php?id=RTMSukanHD
+BeritaRTM,http://atryffad.usa3.345123.xyz/jrw.php?id=Beritartm
+HEROES,http://atryffad.usa3.345123.xyz/jrw.php?id=Heroes
+TV1,http://atryffad.usa3.345123.xyz/jrw.php?id=TV1
+TV2,http://atryffad.usa3.345123.xyz/jrw.php?id=TV2
+TV3,http://atryffad.usa3.345123.xyz/jrw.php?id=TV3
+Astro Ria,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroRiaHD
+Astro Ria,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroRia
+Astro Prima,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroPrimaHD
+Astro Prima,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroPrima
+Astro Oasis,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroOasisHD
+Astro Warna,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroWarnaHD
+Astro Warna,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroWarna
+Astro Citra,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroCitraHD
+Astro Citra,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroCitra
+Astro Rania,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroRaniaHD
+Astro Aura,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAuraHD
+TV Alhijrah,http://atryffad.usa3.345123.xyz/jrw.php?id=TVAlhijrah
+TV Okey,http://atryffad.usa3.345123.xyz/jrw.php?id=TVOkey
+9TV,http://atryffad.usa3.345123.xyz/jrw.php?id=9TV
+Vaanavil,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroVaanavilHD
+Adithya,http://atryffad.usa3.345123.xyz/jrw.php?id=AdithyaHD
+KBSWorld,http://atryffad.usa3.345123.xyz/jrw.php?id=KBSWorld
+One,http://atryffad.usa3.345123.xyz/jrw.php?id=OneHDCN
+One,http://atryffad.usa3.345123.xyz/jrw.php?id=OneHDMY
+One,http://atryffad.usa3.345123.xyz/jrw.php?id=OneHDKOR
+One,http://atryffad.usa3.345123.xyz/jrw.php?id=ONEMalay
+tvN,http://atryffad.usa3.345123.xyz/jrw.php?id=tVNHD
+tvN,http://atryffad.usa3.345123.xyz/jrw.php?id=HubtvN
+NHK World Premium,http://atryffad.usa3.345123.xyz/jrw.php?id=NHKWorldPremium
+Boo,http://atryffad.usa3.345123.xyz/jrw.php?id=BOO
+HBO,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOEN
+HBO,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOMY
+HBO,http://atryffad.usa3.345123.xyz/jrw.php?id=hbosg
+Cinemax,http://atryffad.usa3.345123.xyz/jrw.php?id=Cinemax
+HBOFamily,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOFamilyMY
+HBOFamily,http://atryffad.usa3.345123.xyz/jrw.php?id=hbofamilysg
+HBOHits,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOHitsMY
+HBOHits,http://atryffad.usa3.345123.xyz/jrw.php?id=hbohitssg
+Awani,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAwaniHD
+Bernama,http://atryffad.usa3.345123.xyz/jrw.php?id=BernamaHD
+CGTN,http://atryffad.usa3.345123.xyz/jrw.php?id=CGTNHD
+CGTN,https://live.cgtn.com/1000/prog_index.m3u8
+CNN,http://atryffad.usa3.345123.xyz/jrw.php?id=CNNHD
+CNN,http://atryffad.usa3.345123.xyz/jrw.php?id=CNN
+BBCWorldNews,http://atryffad.usa3.345123.xyz/jrw.php?id=BBCWorldNewsHD
+BBCWorldNews,http://atryffad.usa3.345123.xyz/jrw.php?id=BBCNews
+Aljazeera,http://atryffad.usa3.345123.xyz/jrw.php?id=AljazeeraHD
+SkyNews,http://atryffad.usa3.345123.xyz/jrw.php?id=SkyNewsHD
+ChannelNewsAsia,http://atryffad.usa3.345123.xyz/jrw.php?id=CNAHD
+ChannelNewsAsia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNBC,http://atryffad.usa3.345123.xyz/jrw.php?id=CNBCHD
+Bloomberg TV,http://atryffad.usa3.345123.xyz/jrw.php?id=BloombergHD
+Love Nature,http://atryffad.usa3.345123.xyz/jrw.php?id=LoveNatureHD
+History,http://atryffad.usa3.345123.xyz/jrw.php?id=History
+Ceria,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroCeriaHD
+Ceria,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroCeriaMul
+CartoonNetwork,http://atryffad.usa3.345123.xyz/jrw.php?id=CartoonNetworkHD
+CartoonNetwork,http://atryffad.usa3.345123.xyz/jrw.php?id=CartoonNetworkCN
+CartoonNetwork,http://atryffad.usa3.345123.xyz/jrw.php?id=CartoonNetworkMY
+Nickelodeon,http://atryffad.usa3.345123.xyz/jrw.php?id=NickelodeonHD
+Nickelodeon,http://atryffad.usa3.345123.xyz/jrw.php?id=NickelodeonHDCN
+Nickelodeon,http://atryffad.usa3.345123.xyz/jrw.php?id=NickelodeonHDMY
+NickJr,http://atryffad.usa3.345123.xyz/jrw.php?id=NickJuniorHD
+NickJr,http://atryffad.usa3.345123.xyz/jrw.php?id=NickJuniorHDCN
+NickJr,http://atryffad.usa3.345123.xyz/jrw.php?id=NickJuniorHDMY
+CBeebies,http://atryffad.usa3.345123.xyz/jrw.php?id=CBeebiesHD
+AXN,http://atryffad.usa3.345123.xyz/jrw.php?id=AXNHD
+Hits,http://atryffad.usa3.345123.xyz/jrw.php?id=HitsHD
+TLC,http://atryffad.usa3.345123.xyz/jrw.php?id=TLCHD
+WarnerTV,http://atryffad.usa3.345123.xyz/jrw.php?id=WarnerTVMY
+HGTV,http://atryffad.usa3.345123.xyz/jrw.php?id=HGTVHD
+Arena,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroArenaHD
+SuperSport,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroSupersport1HD
+SuperSport2,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroSupersport2HD
+SuperSport3,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroSupersport3HD
+SuperSport4,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroSupersport4HD
+SPOTV,http://atryffad.usa3.345123.xyz/jrw.php?id=SPOTV
+Eurosport,http://atryffad.usa3.345123.xyz/jrw.php?id=EuroSportHD
+
+新加坡,#genre#
+Mediacorp Suria,http://atryffad.usa3.345123.xyz/jrw.php?id=SuriaHD
+Mediacorp-5,http://atryffad.usa3.345123.xyz/jrw.php?id=Channel5HD
+Mediacorp-8,http://atryffad.usa3.345123.xyz/jrw.php?id=Channel8HD
+Mediacorp-U,http://atryffad.usa3.345123.xyz/jrw.php?id=ChannelUHD
+TVB翡翠台（新加坡）,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbjadesg
+TVB星河频道,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbxinghesg
+天映频道,http://atryffad.usa3.345123.xyz/jrw.php?id=celestialmoviessg
+都会台,http://atryffad.usa3.345123.xyz/jrw.php?id=HubECity
+AstroSensasi,http://atryffad.usa3.345123.xyz/jrw.php?id=Sensasi
+AstroSensasi,http://atryffad.usa3.345123.xyz/jrw.php?id=Ria
+AstroWarna,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroWarnaHDSG
+Mediacorp Vasantham,http://atryffad.usa3.345123.xyz/jrw.php?id=VasanthamHD
+RockAction,http://atryffad.usa3.345123.xyz/jrw.php?id=RockAction
+RockEntertainment,http://atryffad.usa3.345123.xyz/jrw.php?id=RockEntertainment
+HBO,http://atryffad.usa3.345123.xyz/jrw.php?id=hbosg
+HBOFamily,http://atryffad.usa3.345123.xyz/jrw.php?id=hbofamilysg
+HBOHits,http://atryffad.usa3.345123.xyz/jrw.php?id=hbohitssg
+HBOSignature,http://atryffad.usa3.345123.xyz/jrw.php?id=hbosignaturesg
+Cinemax,http://atryffad.usa3.345123.xyz/jrw.php?id=cinemaxsg
+Gem,http://atryffad.usa3.345123.xyz/jrw.php?id=Gem
+GlobalTrekker,http://atryffad.usa3.345123.xyz/jrw.php?id=GlobalTrekker
+Travelxp,http://atryffad.usa3.345123.xyz/jrw.php?id=Travelxp
+Animax,http://atryffad.usa3.345123.xyz/jrw.php?id=Animax
+MolaSport,http://atryffad.usa3.345123.xyz/jrw.php?id=MolaSport
+HubSports1,http://atryffad.usa3.345123.xyz/jrw.php?id=HubSports1
+HubSports2,http://atryffad.usa3.345123.xyz/jrw.php?id=HubSports2
+HubSports3,http://atryffad.usa3.345123.xyz/jrw.php?id=HubSports3
+HubSports4,http://atryffad.usa3.345123.xyz/jrw.php?id=HubSports4
+HubSports5,http://atryffad.usa3.345123.xyz/jrw.php?id=HubSports5
+HubPremier1,http://atryffad.usa3.345123.xyz/jrw.php?id=HubPremier1
+HubPremier2,http://atryffad.usa3.345123.xyz/jrw.php?id=HubPremier2
+HubPremier3,http://atryffad.usa3.345123.xyz/jrw.php?id=HubPremier3
+HubPremier4,http://atryffad.usa3.345123.xyz/jrw.php?id=HubPremier4
+HubPremier5,http://atryffad.usa3.345123.xyz/jrw.php?id=HubPremier5
+HubPremier6,http://atryffad.usa3.345123.xyz/jrw.php?id=HubPremier6
+HubPremier7,http://atryffad.usa3.345123.xyz/jrw.php?id=HubPremier7
+
+休闲,#genre#
+松视1,http://atryffad.usa3.345123.xyz/jrw.php?id=sonsee1
+松视2,http://atryffad.usa3.345123.xyz/jrw.php?id=sonsee2
+松视3,http://atryffad.usa3.345123.xyz/jrw.php?id=SonSee3hd
+彩虹e,http://atryffad.usa3.345123.xyz/jrw.php?id=RainBowEhd
+K频道,http://atryffad.usa3.345123.xyz/jrw.php?id=RainBowK
+彩虹电影台,http://atryffad.usa3.345123.xyz/jrw.php?id=Rainbowmovie
+潘朵啦玩美台,http://atryffad.usa3.345123.xyz/jrw.php?id=PandoraWanmei
+惊艳成人电影,http://atryffad.usa3.345123.xyz/jrw.php?id=Amazingchannel
+香蕉台,http://atryffad.usa3.345123.xyz/jrw.php?id=Bananachannel
+Happy,http://atryffad.usa3.345123.xyz/jrw.php?id=HappyHD
+JStar極限台电影频道,http://atryffad.usa3.345123.xyz/jrw.php?id=JStarMovies
+Playboy TV,http://atryffad.usa3.345123.xyz/jrw.php?id=PlayboyTV
+アイドル専門チャンネルＰｉｇｏｏ,http://atryffad.usa3.345123.xyz/jrw.php?id=IdolspecialtychannelPigooHD
+Babes TV,http://atryffad.usa3.345123.xyz/jrw.php?id=BabesTV
+Red Lips,http://atryffad.usa3.345123.xyz/jrw.php?id=RedLips
+RusskayaNoch,http://atryffad.usa3.345123.xyz/jrw.php?id=RusskayaNoch
+BrazzersTV,http://atryffad.usa3.345123.xyz/jrw.php?id=BrazzersTVEurope
+BrazzersTV HD,http://atryffad.usa3.345123.xyz/jrw.php?id=BrazzersTV2
+HustlerTV,http://atryffad.usa3.345123.xyz/jrw.php?id=Hustler
+HustlerTV,http://atryffad.usa3.345123.xyz/jrw.php?id=hustlertv
+Penthouse Gold,http://atryffad.usa3.345123.xyz/jrw.php?id=PenthouseGold
+Penthouse Gold,http://atryffad.usa3.345123.xyz/jrw.php?id=penthouse
+Penthouse Reality,http://atryffad.usa3.345123.xyz/jrw.php?id=PenthouseQuickies
+OX-AX,http://atryffad.usa3.345123.xyz/jrw.php?id=Ohah
+Vivid Red,http://atryffad.usa3.345123.xyz/jrw.php?id=VividRed
+Eroxxx,http://atryffad.usa3.345123.xyz/jrw.php?id=Eroxxx
+Extasy,http://atryffad.usa3.345123.xyz/jrw.php?id=Extasy
+ExtasyHD,http://atryffad.usa3.345123.xyz/jrw.php?id=ExtasyHD
+PrivateTV,http://atryffad.usa3.345123.xyz/jrw.php?id=PrivateTV
+Red Light,http://atryffad.usa3.345123.xyz/jrw.php?id=Redlight
+CineMan私密频道,http://atryffad.usa3.345123.xyz/jrw.php?id=CineMan私密频道
+CineMan私密频道2,http://atryffad.usa3.345123.xyz/jrw.php?id=CineMan私密频道2
+WAAYH,http://atryffad.usa3.345123.xyz/jrw.php?id=Shalun
+DorcelTV,http://atryffad.usa3.345123.xyz/jrw.php?id=DorcelTV
+FapTV 2,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTV2
+FapTV 3,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTV3
+FapTV 4,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTV4
+FapTV Parody,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVParody
+FapTV Compilation,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVCompilation
+FapTV Anal,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVAnal
+FapTV Teens,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVTeens
+FapTV Lesbian,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVLesbian
+FapTV BBW,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVBBW
+BlueHustler,http://atryffad.usa3.345123.xyz/jrw.php?id=BlueHustler
+KINO私密频道,http://atryffad.usa3.345123.xyz/jrw.php?id=Kino私密频道
+Pinko Club,http://atryffad.usa3.345123.xyz/jrw.php?id=PinkOTV
+BarleyLegal,http://atryffad.usa3.345123.xyz/jrw.php?id=Barelylegal
+XY Max,http://atryffad.usa3.345123.xyz/jrw.php?id=XYMax
+XY Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=XYPlus
+XY Mix,http://atryffad.usa3.345123.xyz/jrw.php?id=XYMix
+XXL,http://atryffad.usa3.345123.xyz/jrw.php?id=XXL
+
 #EXTM3U
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" ,Kompas TV
 https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/22.ts
@@ -1392,25 +2417,26 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein3)/master.mpd?kid=81
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein4)/master.mpd?kid=d561ff97-6397-473e-9b45-6b44cdffcdd2
 
 #EXTINF:-1 tvg-id="FIFA 1" tvg-name="FIFA 1" group-title="Unifi TV",FIFA 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
-https://ngtv-live-cbj.akamaized.net/Content/DASH/Live/channel(fifa1)/master.mpd
+https://get.perfecttv.net/myunifi.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=fifa1&kid=10e21143-9874-4f38-80cc-96653568da55
 
 #EXTINF:-1 tvg-id="FIFA 2" tvg-name="FIFA 2" group-title="Unifi TV",FIFA 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
-https://ngtv-live-cbj.akamaized.net/Content/DASH/Live/channel(fifa2)/master.mpd
+https://get.perfecttv.net/myunifi.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=fifa2&kid=60a3773d-e405-4a96-80d6-ca2277870a97
 
 #EXTINF:-1 tvg-id="FIFA 3" tvg-name="FIFA 3" group-title="Unifi TV",FIFA 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
-https://ngtv-live-cbj.akamaized.net/Content/DASH/Live/channel(fifa3)/master.mpd
+https://get.perfecttv.net/myunifi.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=fifa3&kid=f88c0e6e-f2de-4f92-b7ce-07e50cb2d937
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Kalbar",PONTV
 https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w277463652.m3u8
@@ -2027,1299 +3053,3 @@ https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 #EXTINF:-1,tvg-id="NewsWorld" tvg-name="NewsWorld" tvg-logo="https://epg.112114.xyz/logo/NEWSWORLD.png" group-title="MYTV",NewsWorld
 https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
 
-
-#EXTINF:-1 group-title="Astro",爱奇艺
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",贝恩体育3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",板球
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",astro Oasis
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro", astro Sports UHD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",PREMIUM SPORTS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",CCTV4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=db1a338f71d40186f5997cb085bb3f10:8425690c4844fbb01b5eae706bc2f7c6
-http://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
-
-
-#EXTINF:-1 group-title="Astro",中天亚洲台
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d626598c2ab452537509dcb8a86db910:f5a9cadea2372a52c2b91f9c261fe0a4
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",KBS国际频道
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",astro AOD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=286aef4e8d85db66e05fe4a5c799e410:176e2938bce795d1c85559a2440477f7
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",astro ACE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",TVBS亚洲
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
-http://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",astro 欢喜台
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",翡翠台
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",TVB星河频道
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
-http://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",千禧经典台
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
-
-
-#EXTINF:-1 group-title="Astro",娱乐新闻台
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa629c3640ce533c755509f67f75e610:af710a06fd67975b99db4a47a757b84b
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",凤凰中文台
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
-http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",天映经典频道
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
-http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",天映频道
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
-http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",astro FAM Time
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=07fa6a9f7fe7806bba9b0e97d0ac5b10:c336fd7c8bb18d17bf63c9e46032a8ed
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",astro Showtime
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",astro Showcase
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",HOTS MOVIES
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",one
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",tvN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",tvN MOVIES
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",K+
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
-http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",AXN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",HGTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8c1bb309955eee32882390abebe19810:2a695b046e7cf5811a634d1348441195
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",Lifetime
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",HITS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
-http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",HITS NOW
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4307def6a29bec082f8c93f1f98e5910:a4d49bda8cd29ba2888c732b4e7d9d63
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",CRIME INVESTIGATION
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",爱自然
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",afn
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
-http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",TLC
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",探索频道
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",探索亚洲频道
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
-http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",BBC 地球
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",印度太阳KTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",MOONBUG
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",尼克少儿
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",尼克幼儿
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
-http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",CN卡通
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
-http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",Blippi & Friends
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",爱自然4k
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1afdcaf4198bfd3200584469fc3e5110:6edc92c49be84ca7a2f327beafbccae6
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",Astro Arena
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",Astro Arena 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",Astro Sports Plus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",Astro Sports Plus 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd 
-
-#EXTINF:-1 group-title="Astro",W-Sport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro",Astro Golf
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
-中国,#genre#
-CCTV1,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv1hd
-CCTV1,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv1
-CCTV2,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv2hd
-CCTV2,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv2
-CCTV3,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv3hd
-CCTV3,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv3
-CCTV4,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv4hd
-CCTV4,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv4hd
-CCTV4,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv4
-CCTV5,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv5hd
-CCTV5,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv5
-CCTV5+,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv5phd
-CCTV5+,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv5p
-CCTV6,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv6hd
-CCTV6,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv6hd
-CCTV6,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv6
-CCTV7,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv7hd
-CCTV7,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv7
-CCTV8,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv8hd
-CCTV8,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv8
-CCTV9,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv9hd
-CCTV9,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv9
-CCTV10,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv10hd
-CCTV10,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv10
-CCTV11,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv11hd
-CCTV11,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv11
-CCTV12,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv12hd
-CCTV12,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv12
-CCTV13,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv13hd
-CCTV13,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv13
-CCTV14,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv14hd
-CCTV14,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv14
-CCTV15,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv15hd
-CCTV15,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv15
-CCTV16,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv16hd
-CCTV16,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv16
-CCTV17,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv17hd
-CCTV17,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv17
-CETV1,http://atryffad.usa3.345123.xyz/jrw.php?id=cetv1
-CHC高清电影,http://atryffad.usa3.345123.xyz/jrw.php?id=chchdmovie
-CHC动作电影,http://atryffad.usa3.345123.xyz/jrw.php?id=chcaction
-CHC家庭电影,http://atryffad.usa3.345123.xyz/jrw.php?id=chcfamily
-五星体育,http://atryffad.usa3.345123.xyz/jrw.php?id=fivestarsports
-湖南卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hunwshd
-湖南卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hunws
-浙江卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=zjwshd
-浙江卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=zjws
-江苏卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=jswshd
-江苏卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=jsws
-深圳卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=szwshd
-深圳卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=szws
-湖北卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hubwshd
-湖北卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hubws
-广西卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=gxwshd
-广西卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=gxws
-东南卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=dnws
-江西卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=jxwshd
-江西卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=jxws
-北京卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=bjwshd
-北京卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=bjws
-东方卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=dfwshd
-东方卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=dfws
-辽宁卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=lnwshd
-辽宁卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=lnws
-重庆卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=cqwshd
-重庆卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=cqws
-天津卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=tjwshd
-天津卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=tjws
-安徽卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=ahwshd
-安徽卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=ahws
-贵州卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=gzws
-四川卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=scwshd
-四川卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=scws
-山东卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=sdwshd
-山东卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=sdws
-吉林卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=jlws
-黑龙江卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hljwshd
-黑龙江卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hljws
-河北卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hbwshd
-河北卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hbws
-河南卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hnws
-内蒙古卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=nmgws
-宁夏卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=nxws
-甘肃卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=gsws
-海南卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hinwshd
-海南卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=hinws
-新疆卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=xjws
-西藏卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=xzwshd
-广东卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=gdwshd
-广东卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=gdws
-大湾区卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=dwqws
-
-香港,#genre#
-翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvTvbJade
-翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBjadeHDHK
-翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbjade
-翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBjadeHKDE
-翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBjadeHK
-翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=jadehk
-翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=JADE
-翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=2
-翡翠台(美加·东岸时区),http://atryffad.usa3.345123.xyz/jrw.php?id=TVBJEAST
-翡翠台(美加·西岸时区),http://atryffad.usa3.345123.xyz/jrw.php?id=TVBJWEST
-翡翠台(欧·新时区),http://atryffad.usa3.345123.xyz/jrw.php?id=TVBJAUS
-翡翠台(英国时区),http://atryffad.usa3.345123.xyz/jrw.php?id=TVBJUK
-TVB Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvTvbPlus
-TVB Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBPlusHDHK
-TVB Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=TVB%20PlusDE
-TVB Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=TVB%20Plus
-TVB Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=j2hk
-TVB Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=J2
-TVB Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=5
-无线新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvTvbNews
-无线新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBinewsHDHK
-无线新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBinewsDE
-无线新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbnewshk
-无线新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBNEWS
-无线新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBNEWSUS
-无线新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbnews
-无线新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=13
-明珠台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvTvbPearl
-明珠台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBPearlHK
-明珠台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbpearl
-明珠台,http://atryffad.usa3.345123.xyz/jrw.php?id=pearlhk
-明珠台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBP
-明珠台,http://atryffad.usa3.345123.xyz/jrw.php?id=3
-TVB生活台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvblifechannel
-TVB生活台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBLifestyleTH
-TVB星河频道,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBXHHK
-TVB星河频道,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBXingHeHK
-TVB星河频道,http://atryffad.usa3.345123.xyz/jrw.php?id=4
-TVB星河国语,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBXHCN
-TVB星河国语,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBXingHeCN
-凤凰资讯台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvPhoenixInfo
-凤凰资讯台,http://atryffad.usa3.345123.xyz/jrw.php?id=183
-凤凰资讯台,http://atryffad.usa3.345123.xyz/jrw.php?id=PIN
-凤凰资讯台,http://atryffad.usa3.345123.xyz/jrw.php?id=PhoenixInfoMY#http://atryffad.usa3.345123.xyz/jrw.php?id=phoenixinfo
-凤凰中文,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvPhoenixChinese
-凤凰中文,http://atryffad.usa3.345123.xyz/jrw.php?id=PhoenixChineseMY
-凤凰中文,http://atryffad.usa3.345123.xyz/jrw.php?id=PCC
-凤凰中文,http://atryffad.usa3.345123.xyz/jrw.php?id=182
-凤凰香港,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvPhoenixHK
-凤凰香港,http://atryffad.usa3.345123.xyz/jrw.php?id=PHK
-凤凰香港,http://atryffad.usa3.345123.xyz/jrw.php?id=phoenixhk
-凤凰香港,http://atryffad.usa3.345123.xyz/jrw.php?id=184
-TVB1,http://atryffad.usa3.345123.xyz/jrw.php?id=TVB1US
-TVB1,http://atryffad.usa3.345123.xyz/jrw.php?id=176
-TVB Pearl Drama 明珠剧集台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBPearlDramaUS
-TVBJ1,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBJ1West
-TVBJ1,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBJ1US
-TVBJ1,http://atryffad.usa3.345123.xyz/jrw.php?id=195
-TVB J2,http://atryffad.usa3.345123.xyz/jrw.php?id=TVB%20PlusUS
-TVB Drama 翡翠剧集台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBDramaWest
-TVB Drama 翡翠剧集台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBDramaUS
-TVB Drama 翡翠剧集台,http://atryffad.usa3.345123.xyz/jrw.php?id=177
-TVB E 翡翠娛樂台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBEWest
-TVB E 翡翠娛樂台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBEUS
-TVB E 翡翠娛樂台,http://atryffad.usa3.345123.xyz/jrw.php?id=175
-POP C,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvPopC
-POP C,http://atryffad.usa3.345123.xyz/jrw.php?id=POPCHK
-POP C,http://atryffad.usa3.345123.xyz/jrw.php?id=AnimaxHKBG
-POP C,http://atryffad.usa3.345123.xyz/jrw.php?id=179
-Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesCN
-Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesHKHD#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesCNHD
-Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesCN#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBGTHK
-Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=187
-Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsHK
-Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsCN
-Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsHKHD
-Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsCNHD
-Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowXYTHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowXYTHKCN
-Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=186
-Now华剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowChineseDramaChannelHKBG
-Now华剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowChineseDramaChannelHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowChineseOperaHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowChineseDramaChannelHKBG
-Now剧集台,http://atryffad.usa3.345123.xyz/jrw.php?id=ViuchannelHKBG
-Now剧集台,http://atryffad.usa3.345123.xyz/jrw.php?id=ViuchannelHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowDramaSeriesHK#http://atryffad.usa3.345123.xyz/jrw.php?id=ViuchannelHKBG
-Astro AEC,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAECHD
-Astro QJ,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroQuanJiaHD
-Astro AOD,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAOD311HDHK#http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAOD311HDCN
-Astro 欢喜台,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroHuaHeeDaiHD
-娱家台,http://atryffad.usa3.345123.xyz/jrw.php?id=HubVVDrama
-都会台,http://atryffad.usa3.345123.xyz/jrw.php?id=HubECity
-Now新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=Nowtvnews
-Now新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=Now332HK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowNewsHK
-Now新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=21
-Now直播台,http://atryffad.usa3.345123.xyz/jrw.php?id=Nowtvlive
-Now直播台,http://atryffad.usa3.345123.xyz/jrw.php?id=Now331HK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowLiveHK
-Now直播台,http://atryffad.usa3.345123.xyz/jrw.php?id=27
-Now财经台,http://atryffad.usa3.345123.xyz/jrw.php?id=Nowtvfinance
-Now财经台,http://atryffad.usa3.345123.xyz/jrw.php?id=Now333HK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowFinanceHK
-Now财经台,http://atryffad.usa3.345123.xyz/jrw.php?id=23
-NowJelli紫金国际,http://atryffad.usa3.345123.xyz/jrw.php?id=NowJelliHK
-NowJelli紫金国际,http://atryffad.usa3.345123.xyz/jrw.php?id=nowjelli
-Now Sports 630,http://atryffad.usa3.345123.xyz/jrw.php?id=Now630HK
-Now Sports 630,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports630
-Now Sports 641,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsCH641HK
-Now Sports Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPlusHK
-Now Sports Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports680
-Now Sports 1,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports1HK
-Now Sports 2,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports2HK
-Now Sports 3,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports3HK
-Now Sports 4,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports4HK
-Now Sports 5,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports5HK
-Now Sports 6,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports6HK
-Now Sports 7,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports7HK
-Now Sports 英超1台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague1HK
-Now Sports 英超2台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague2HK
-Now Sports 英超3台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague3HK
-Now Sports 英超4台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague4HK
-Now Sports 英超5台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague5HK
-Now Sports 英超6台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague6HK
-bEINSports1,http://atryffad.usa3.345123.xyz/jrw.php?id=bEINSports1HK
-bEINSports2,http://atryffad.usa3.345123.xyz/jrw.php?id=bEINSports2HK
-bEINSports3,http://atryffad.usa3.345123.xyz/jrw.php?id=bEINSports3HK
-NBA TV,http://atryffad.usa3.345123.xyz/jrw.php?id=NBATVHK
-TVB功夫台,http://atryffad.usa3.345123.xyz/jrw.php?id=AsiaActionCN
-TVB功夫台,http://atryffad.usa3.345123.xyz/jrw.php?id=AsiaActionHK
-TVB功夫台,http://atryffad.usa3.345123.xyz/jrw.php?id=12
-澳门莲花,http://atryffad.usa3.345123.xyz/jrw.php?id=Macaulotustv#http://atryffad.usa3.345123.xyz/jrw.php?id=17
-WOW TV,http://atryffad.usa3.345123.xyz/jrw.php?id=WOWTV
-KTSF-26美国旧金山,http://atryffad.usa3.345123.xyz/jrw.php?id=KTSF26
-KR ALL TV,http://atryffad.usa3.345123.xyz/jrw.php?id=KRALLTV
-龙祥时代,http://atryffad.usa3.345123.xyz/jrw.php?id=LSTIME
-中国电影频道,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvChinaMovie
-中国电影频道,http://atryffad.usa3.345123.xyz/jrw.php?id=CMCMoviesHK
-Thrill,http://atryffad.usa3.345123.xyz/jrw.php?id=ThrillHK#http://atryffad.usa3.345123.xyz/jrw.php?id=CTHR
-Thrill,http://atryffad.usa3.345123.xyz/jrw.php?id=121
-天映频道,http://atryffad.usa3.345123.xyz/jrw.php?id=CelestialMoviesHK
-天映频道,http://atryffad.usa3.345123.xyz/jrw.php?id=110
-天映频道国,http://atryffad.usa3.345123.xyz/jrw.php?id=CelestialMoviesCN
-天映经典,http://atryffad.usa3.345123.xyz/jrw.php?id=CelestialClassicMYCN
-天映经典,http://atryffad.usa3.345123.xyz/jrw.php?id=CelestialClassicMYML
-天映经典台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvCCM
-天映经典台,http://atryffad.usa3.345123.xyz/jrw.php?id=CCMoviesHK#http://atryffad.usa3.345123.xyz/jrw.php?id=CCMoviesCN#http://atryffad.usa3.345123.xyz/jrw.php?id=CCCM
-天映经典台,http://atryffad.usa3.345123.xyz/jrw.php?id=111
-HOY76,http://atryffad.usa3.345123.xyz/jrw.php?id=HOYChannel76#http://atryffad.usa3.345123.xyz/jrw.php?id=hoych76
-HOY76,http://atryffad.usa3.345123.xyz/jrw.php?id=16
-HOY77,http://atryffad.usa3.345123.xyz/jrw.php?id=HOYChannel77#http://atryffad.usa3.345123.xyz/jrw.php?id=hoych77
-HOY77,http://atryffad.usa3.345123.xyz/jrw.php?id=HKC001GW#http://atryffad.usa3.345123.xyz/jrw.php?id=hoytv
-HOY77,http://atryffad.usa3.345123.xyz/jrw.php?id=1
-HOY78,http://atryffad.usa3.345123.xyz/jrw.php?id=HOYChannel78#http://atryffad.usa3.345123.xyz/jrw.php?id=hoych78
-HOY78,http://atryffad.usa3.345123.xyz/jrw.php?id=HKC002GW#http://atryffad.usa3.345123.xyz/jrw.php?id=hoyinfo
-HOY78,http://atryffad.usa3.345123.xyz/jrw.php?id=15
-TVBS衛星亞洲台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSAsiaHK
-ViuTV,http://atryffad.usa3.345123.xyz/jrw.php?id=ViuTvChannel
-ViuTV,http://atryffad.usa3.345123.xyz/jrw.php?id=Viutv#http://atryffad.usa3.345123.xyz/jrw.php?id=19
-ViuTV6,http://atryffad.usa3.345123.xyz/jrw.php?id=ViuTv6Channel
-ViuTV6,http://atryffad.usa3.345123.xyz/jrw.php?id=Viusix#http://atryffad.usa3.345123.xyz/jrw.php?id=20
-RTHK31,http://atryffad.usa3.345123.xyz/jrw.php?id=rthk31hd
-RTHK32,http://atryffad.usa3.345123.xyz/jrw.php?id=rthk32hd
-RTHK31,http://atryffad.usa3.345123.xyz/jrw.php?id=RTHK31_DE#http://atryffad.usa3.345123.xyz/jrw.php?id=RTHK31HD#http://atryffad.usa3.345123.xyz/jrw.php?id=29
-RTHK32,http://atryffad.usa3.345123.xyz/jrw.php?id=RTHK32_DE#http://atryffad.usa3.345123.xyz/jrw.php?id=RTHK32HD#http://atryffad.usa3.345123.xyz/jrw.php?id=30
-新时代1,http://atryffad.usa3.345123.xyz/jrw.php?id=FairchildTV
-新时代1备,http://atryffad.usa3.345123.xyz/jrw.php?id=FairchildTV2
-新时代2,http://atryffad.usa3.345123.xyz/jrw.php?id=Fairchild2TV
-城市电视,http://atryffad.usa3.345123.xyz/jrw.php?id=Talentvision
-城市电视,http://atryffad.usa3.345123.xyz/jrw.php?id=TalentvisionTV
-中旺电视,http://atryffad.usa3.345123.xyz/jrw.php?id=ZWTV
-FashionBox,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvFashionBox
-tvN,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvTvn
-Kix,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvKIX
-FashionBox,http://atryffad.usa3.345123.xyz/jrw.php?id=FASHIONONEHK
-tvN,http://atryffad.usa3.345123.xyz/jrw.php?id=tvNHK
-ROCK超级娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvRockAction
-ROCK综艺娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvRockEntertainment
-ROCK超级娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=ROCKAction#http://atryffad.usa3.345123.xyz/jrw.php?id=CRTX
-ROCK综艺娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=ROCKYZYL#http://atryffad.usa3.345123.xyz/jrw.php?id=CRTE
-黃金華劇台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvGoldenChineseDrama
-黃金華劇台,http://atryffad.usa3.345123.xyz/jrw.php?id=28
-MyTV黄金翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBGoldenJadeHK
-MyTV黄金翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvGoldenJade
-HKC18台,http://atryffad.usa3.345123.xyz/jrw.php?id=HKC18
-HKC18台,http://atryffad.usa3.345123.xyz/jrw.php?id=HKC18#http://atryffad.usa3.345123.xyz/jrw.php?id=HKC603HD#http://atryffad.usa3.345123.xyz/jrw.php?id=18
-千禧经典,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBClassicMY
-千禧经典,http://atryffad.usa3.345123.xyz/jrw.php?id=198
-MyTV千禧经典台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvClassic
-MyTV千禧经典台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBClassicHK#http://atryffad.usa3.345123.xyz/jrw.php?id=11
-亚洲剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvAsianDrama
-华语剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvChineseDrama
-亚洲剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBAsianDramaHK#http://atryffad.usa3.345123.xyz/jrw.php?id=TVBAsianDramaHKBG#http://atryffad.usa3.345123.xyz/jrw.php?id=7#http://atryffad.usa3.345123.xyz/jrw.php?id=CTVS
-华语剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBChineseDramaHK#http://atryffad.usa3.345123.xyz/jrw.php?id=TVBChineseDramaHKCN#http://atryffad.usa3.345123.xyz/jrw.php?id=8#http://atryffad.usa3.345123.xyz/jrw.php?id=CDR3
-Kix,http://atryffad.usa3.345123.xyz/jrw.php?id=KIXHK#http://atryffad.usa3.345123.xyz/jrw.php?id=KIXBG#http://atryffad.usa3.345123.xyz/jrw.php?id=CKIX
-Kix,http://atryffad.usa3.345123.xyz/jrw.php?id=118
-TVB娱乐新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvTvbEntertainment
-TVB娱乐新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBEntertainmentNewsHK#http://atryffad.usa3.345123.xyz/jrw.php?id=CTVE#http://atryffad.usa3.345123.xyz/jrw.php?id=10
-亚洲综合娱乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=MYTVASIAVARIETY
-亚洲综合娱乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=24
-TVBSuperFree,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSuperfreeHK#http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSuperfreeHKBG#http://atryffad.usa3.345123.xyz/jrw.php?id=CWIN#http://atryffad.usa3.345123.xyz/jrw.php?id=SUPERKidsChannelHKBG#http://atryffad.usa3.345123.xyz/jrw.php?id=SUPERKidsChannelHK
-TVBSuperFree,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvSuperFree
-Hands UP,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvKidsChannel
-Hands UP,http://atryffad.usa3.345123.xyz/jrw.php?id=25#http://atryffad.usa3.345123.xyz/jrw.php?id=KID
-戏曲台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvOperaChannel
-戏曲台,http://atryffad.usa3.345123.xyz/jrw.php?id=200
-Animax,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvAnimaxC
-Animax,http://atryffad.usa3.345123.xyz/jrw.php?id=AnimaxHK
-Thrill,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvThrill
-ZooMoo,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvZooMoo
-Nickelodeon,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvNickeledeon
-NickJr儿童频道,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvNickJr
-DreamWorks,http://atryffad.usa3.345123.xyz/jrw.php?id=DreamWorksHK
-年代Much,http://atryffad.usa3.345123.xyz/jrw.php?id=eramuch
-粤语片台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvCantoneseChannel
-粤语片台,http://atryffad.usa3.345123.xyz/jrw.php?id=6
-美亚电影国,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvMeiyaMovieEN
-美亚电影,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvMeiyaMovieCN
-美亚电影,http://atryffad.usa3.345123.xyz/jrw.php?id=CMAMHK
-美亚电影,http://atryffad.usa3.345123.xyz/jrw.php?id=9
-美亚电影国,http://atryffad.usa3.345123.xyz/jrw.php?id=CMAMHKBG
-美亚电影国,http://atryffad.usa3.345123.xyz/jrw.php?id=CMAM
-HBO,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOHK
-HBOHD,http://atryffad.usa3.345123.xyz/jrw.php?id=96
-HBO Signature,http://atryffad.usa3.345123.xyz/jrw.php?id=97
-HBO HiTS,http://atryffad.usa3.345123.xyz/jrw.php?id=98
-HBO family,http://atryffad.usa3.345123.xyz/jrw.php?id=99
-AXN,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvAXN
-axn,http://atryffad.usa3.345123.xyz/jrw.php?id=AXNHK
-GlobalTrekker,http://atryffad.usa3.345123.xyz/jrw.php?id=GlobalTrekker
-Love Nature,http://atryffad.usa3.345123.xyz/jrw.php?id=LoveNatureHD
-mySUPER直播足球2台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvSports2
-mySUPER直播足球3台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvSports3
-mySUPER直播足球4台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvSports4
-mySUPER直播足球5台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvSports5
-mySUPER直播足球6台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvSports6
-
-台湾,#genre#
-中视,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvtwhd
-中视,http://atryffad.usa3.345123.xyz/jrw.php?id=ctv
-中视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvnews#http://atryffad.usa3.345123.xyz/jrw.php?id=ctvnewslm
-中视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvnewsy
-中视经典,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvclassic
-中视菁采,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvbravo
-公视,http://atryffad.usa3.345123.xyz/jrw.php?id=ptshd
-公视,http://atryffad.usa3.345123.xyz/jrw.php?id=ptshdlm
-公视,http://atryffad.usa3.345123.xyz/jrw.php?id=PTSHD
-公视,http://atryffad.usa3.345123.xyz/jrw.php?id=39
-公视3,http://atryffad.usa3.345123.xyz/jrw.php?id=PTS3
-公视戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=ptsdrama
-公视台语台,http://atryffad.usa3.345123.xyz/jrw.php?id=PTS2
-公视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=PTSNews
-民视,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvhd
-民视,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvhdlm
-民视,http://atryffad.usa3.345123.xyz/jrw.php?id=36
-民视第一台,http://atryffad.usa3.345123.xyz/jrw.php?id=fmtv
-民视第一台,http://atryffad.usa3.345123.xyz/jrw.php?id=45
-民视台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=fttv
-民视台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=37
-民视新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvnews
-民视新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvnewsy
-民视新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvnewslm
-民视新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=144
-民视影剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvmoviedrama
-民视旅游台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvtravel
-民视综艺台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvvariety
-台视,http://atryffad.usa3.345123.xyz/jrw.php?id=ttv
-台视,http://atryffad.usa3.345123.xyz/jrw.php?id=ttvhd_de
-台视,http://atryffad.usa3.345123.xyz/jrw.php?id=ttvhdlm
-台视,http://atryffad.usa3.345123.xyz/jrw.php?id=TTVHD
-台视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ttvnewshdy
-台视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ttvnewslm
-台视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=TTVNews
-台视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=148
-台视综合,http://atryffad.usa3.345123.xyz/jrw.php?id=ttvvariety
-台视综合,http://atryffad.usa3.345123.xyz/jrw.php?id=TTVZH
-台视财经,http://atryffad.usa3.345123.xyz/jrw.php?id=ttvfinance
-台视财经,http://atryffad.usa3.345123.xyz/jrw.php?id=TTVCJ
-台湾戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=taiwandramahd
-台湾戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=TaiwanDrama
-华视,http://atryffad.usa3.345123.xyz/jrw.php?id=ctshd
-华视,http://atryffad.usa3.345123.xyz/jrw.php?id=ctshdlm
-华视,http://atryffad.usa3.345123.xyz/jrw.php?id=38
-华视新闻资讯,http://atryffad.usa3.345123.xyz/jrw.php?id=ctsnewsinfo
-华视新闻资讯,http://atryffad.usa3.345123.xyz/jrw.php?id=ctsnews
-霹雳台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=pilitaiwan
-霹雳台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=Pilitai
-壹新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=nextnews
-壹新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=nexttvnews
-壹新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=149
-壹新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=NEXTNews
-JET综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=jetvariety
-JET综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=JET
-年代新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=Eranews
-年代新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=eranewslm
-年代新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=155
-年代Much,http://atryffad.usa3.345123.xyz/jrw.php?id=eramuch
-非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ustvnewshd
-非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ustvnews
-非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ustvnewslm
-非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=USNews
-非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=154
-非凡商业,http://atryffad.usa3.345123.xyz/jrw.php?id=ustvbusinesshd
-非凡商业,http://atryffad.usa3.345123.xyz/jrw.php?id=ustvbusiness
-寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=globalnews
-寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=Globalnewshd
-寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=147
-寰宇新闻台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=globaltaiwan
-寰宇新闻台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=158
-寰宇财经台,http://atryffad.usa3.345123.xyz/jrw.php?id=globalfinance
-镜新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=mnews
-镜新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=mnewsy
-镜新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=MNewsHD
-镜新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=152
-东森超視美洲,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVSuperUS
-东森美洲,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVnewsUS
-东森美洲卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVAsiaUS
-东森中国台,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVCN
-东森超视,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvsuper
-东森超视,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVSuper
-东森亚洲,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvasia
-东森亚洲,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVAsia
-东森综合,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvvariety
-东森综合,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvzhonghe
-东森综合,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVZH
-东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcnews
-东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvnews
-东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcnewsy
-东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcnewslm
-东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=145
-东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVNewsHD
-东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcfinance
-东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcfinancey
-东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcfinancelm
-东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVFinanceHD
-东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=146
-东森LIVE,http://atryffad.usa3.345123.xyz/jrw.php?id=ebclive
-国兴卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=gstv
-国兴卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=GSTV
-三立都会台,http://atryffad.usa3.345123.xyz/jrw.php?id=setmetro
-三立都会台,http://atryffad.usa3.345123.xyz/jrw.php?id=SETMetro
-三立都会台,http://atryffad.usa3.345123.xyz/jrw.php?id=26
-三立综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=setzonghe
-三立综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=setzonghelm
-三立综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=46
-三立台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=SETTaiwan
-三立台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=settaiwanlm
-三立台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=settaiwan_de
-三立台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=44
-三立新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=setnews
-三立新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=SETNews
-三立iNEWS,http://atryffad.usa3.345123.xyz/jrw.php?id=setinews
-三立iNEWS,http://atryffad.usa3.345123.xyz/jrw.php?id=SETINews
-三立国际台,http://atryffad.usa3.345123.xyz/jrw.php?id=SETInternational
-东森LIVE,http://atryffad.usa3.345123.xyz/jrw.php?id=setlive
-LIVE三立,http://atryffad.usa3.345123.xyz/jrw.php?id=151
-中天新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ctinews
-中天新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ctinewsy
-中天新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ctinewslm
-中天新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=141
-中天新闻台2台,http://atryffad.usa3.345123.xyz/jrw.php?id=ctinews2
-中天综合,http://atryffad.usa3.345123.xyz/jrw.php?id=CTIZonghe
-中天综合,http://atryffad.usa3.345123.xyz/jrw.php?id=33
-中天综合,http://atryffad.usa3.345123.xyz/jrw.php?id=ctizonghe
-中天娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=ctient
-中天娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=CTIYLT
-中天娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=32
-纬来综合,http://atryffad.usa3.345123.xyz/jrw.php?id=VideolandVariety
-纬来综合,http://atryffad.usa3.345123.xyz/jrw.php?id=vdlandvariety
-纬来综合,http://atryffad.usa3.345123.xyz/jrw.php?id=VLOntv
-纬来精彩,http://atryffad.usa3.345123.xyz/jrw.php?id=VideolandWonderful
-纬来精彩,http://atryffad.usa3.345123.xyz/jrw.php?id=VLJingcai
-纬来育乐,http://atryffad.usa3.345123.xyz/jrw.php?id=VideolandEducational
-纬来育乐,http://atryffad.usa3.345123.xyz/jrw.php?id=vdlandyule
-纬来育乐,http://atryffad.usa3.345123.xyz/jrw.php?id=VLMaxtv
-八大综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=gtvvariety
-八大综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=badaent
-八大综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=BadaZhonghe
-八大综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=41
-八大精彩台,http://atryffad.usa3.345123.xyz/jrw.php?id=gtvbrilliant
-八大精彩台,http://atryffad.usa3.345123.xyz/jrw.php?id=43
-八大娱乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=BadaAntertain
-TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbsnews
-TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbsnewsy
-TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbsnewslm
-TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSNHD
-TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=139
-TVBS精采台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbse
-TVBS精采台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSJingCaiTai
-TVBS精采台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSJCT
-TVBS欢乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbsent
-TVBS欢乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=31
-TVBS欢乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSHLT
-TVBSHD,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbs
-TVBSHD,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbshdy
-TVBSHD,http://atryffad.usa3.345123.xyz/jrw.php?id=140
-TVBSHD,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSHD
-靖天综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvvariety
-靖天综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=JTZHT
-靖天日本台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvjapan
-靖天日本台,http://atryffad.usa3.345123.xyz/jrw.php?id=JTRBT
-靖天资讯台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvinfo
-靖天国际台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvinternationalhd
-靖天国际台,http://atryffad.usa3.345123.xyz/jrw.php?id=KLTgoldentv
-靖天国际台,http://atryffad.usa3.345123.xyz/jrw.php?id=53
-靖天育乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvyule
-靖天欢乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=nicetvhd
-靖天欢乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=nicetv
-ELTA娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=eltaentertaiment
-ELTA娱乐,http://atryffad.usa3.345123.xyz/jrw.php?id=ELTAYLT
-客家电视台,http://atryffad.usa3.345123.xyz/jrw.php?id=hakkatv
-信大,http://atryffad.usa3.345123.xyz/jrw.php?id=sindatv
-原住民频道,http://atryffad.usa3.345123.xyz/jrw.php?id=titv
-新唐人亞太台,http://atryffad.usa3.345123.xyz/jrw.php?id=NewTangDynasty
-VOA美国之音,http://atryffad.usa3.345123.xyz/jrw.php?id=voa
-韩国娱乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=koreamtv
-古典音乐台,http://atryffad.usa3.345123.xyz/jrw.php?id=classica
-猪哥亮歌厅秀,http://atryffad.usa3.345123.xyz/jrw.php?id=ZhuGeliangCabaret
-人间卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=buddhastelevision
-大爱一台,http://atryffad.usa3.345123.xyz/jrw.php?id=daai1
-大爱二台,http://atryffad.usa3.345123.xyz/jrw.php?id=daai2
-好消息,http://atryffad.usa3.345123.xyz/jrw.php?id=goodtv1
-好消息,http://live.streamingfast.net/osmflivech1.m3u8
-好消息2,http://atryffad.usa3.345123.xyz/jrw.php?id=goodtv2
-好消息2,http://live.streamingfast.net/osmflivech2.m3u8
-国会频道1,http://atryffad.usa3.345123.xyz/jrw.php?id=CongressChannel1
-国会频道1,https://www.youtube.com/watch?v=4HysYHJ6GkY
-国会频道2,http://atryffad.usa3.345123.xyz/jrw.php?id=CongressChannel2
-国会频道2,https://www.youtube.com/watch?v=RAP4h3q6_Sg
-
-新闻,#genre#
-寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=globalnews
-寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=Globalnewshd
-寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=147
-寰宇新闻台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=globaltaiwan
-寰宇新闻台湾台,http://atryffad.usa3.345123.xyz/jrw.php?id=158
-寰宇财经台,http://atryffad.usa3.345123.xyz/jrw.php?id=globalfinance
-镜新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=mnews
-镜新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=mnewsy
-镜新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=MNewsHD
-镜新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=152
-中天新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ctinews
-中天新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ctinewsy
-中天新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ctinewslm
-中天新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=141
-中天新闻台2台,http://atryffad.usa3.345123.xyz/jrw.php?id=ctinews2
-TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbsnews
-TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbsnewsy
-TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbsnewslm
-TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSNHD
-TVBS新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=139
-TVBSHD,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbs
-TVBSHD,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbshdy
-TVBSHD,http://atryffad.usa3.345123.xyz/jrw.php?id=140
-TVBSHD,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSHD
-中视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvnews
-中视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvnewsy
-中视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvnewslm
-中视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=143
-公视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=PTSNews
-民视新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvnews
-民视新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvnewsy
-民视新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=ftvnewslm
-民视新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=144
-台视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ttvnewshdy
-台视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ttvnewslm
-台视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=TTVNews
-台视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=148
-华视新闻资讯,http://atryffad.usa3.345123.xyz/jrw.php?id=ctsnewsinfo
-华视新闻资讯,http://atryffad.usa3.345123.xyz/jrw.php?id=ctsnews
-壹新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=nextnews
-壹新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=nexttvnews
-壹新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=149
-壹新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=NEXTNews
-年代新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=Eranews
-年代新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=eranewslm
-年代新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=155
-非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ustvnewshd
-非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ustvnews
-非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ustvnewslm
-非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=USNews
-非凡新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=154
-东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcnews
-东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvnews
-东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcnewsy
-东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcnewslm
-东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=145
-东森新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVNewsHD
-东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcfinance
-东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcfinancey
-东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcfinancelm
-东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVFinanceHD
-东森财经新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=146
-三立新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=setnews
-三立新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=SETNews
-三立iNEWS,http://atryffad.usa3.345123.xyz/jrw.php?id=setinews
-三立iNEWS,http://atryffad.usa3.345123.xyz/jrw.php?id=SETINews
-三立国际台,http://atryffad.usa3.345123.xyz/jrw.php?id=SETInternational
-LIVE三立,http://atryffad.usa3.345123.xyz/jrw.php?id=setlive
-
-体育,#genre#
-Now Sports 1,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports1HK
-Now Sports 3,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports3HK
-Now Sports 4,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports4HK
-Now Sports 5,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports5HK
-Now Sports 6,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports6HK
-Now Sports 7,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSports7HK
-Now Sports 7,http://atryffad.usa3.345123.xyz/jrw.php?id=197
-Now Sports 英超1台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague1HK
-Now Sports 英超1台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague1HK3
-Now Sports 英超1台,http://atryffad.usa3.345123.xyz/jrw.php?id=22
-Now Sports 英超1台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowPremier1HK
-Now Sports 英超2台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague2HK
-Now Sports 英超3台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague3HK
-Now Sports 英超4台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague4HK
-Now Sports 英超5台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague5HK
-Now Sports 英超6台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPremierLeague6HK
-Now Sports 641,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsCH641HK
-Now Sports 630,http://atryffad.usa3.345123.xyz/jrw.php?id=Now630HK
-Now Sports Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=NowSportsPlusHK
-NBA,http://atryffad.usa3.345123.xyz/jrw.php?id=NBATVHK
-NBA,http://atryffad.usa3.345123.xyz/jrw.php?id=NBAHK
-NBA,http://atryffad.usa3.345123.xyz/jrw.php?id=nbatv
-NBA,http://atryffad.usa3.345123.xyz/jrw.php?id=76
-ELTA体育2,http://atryffad.usa3.345123.xyz/jrw.php?id=eltasports2
-ELTA体育2,http://atryffad.usa3.345123.xyz/jrw.php?id=189
-ELTA体育4,http://atryffad.usa3.345123.xyz/jrw.php?id=eltasports4
-ELTA体育MAX1,http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax1
-ELTA体育MAX2,http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax2
-ELTA体育MAX3,http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax3
-ELTA体育MAX4,http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax4
-GinxTV电竞频道,http://atryffad.usa3.345123.xyz/jrw.php?id=GINXEsportsTV
-纬来体育,http://atryffad.usa3.345123.xyz/jrw.php?id=VideolandSports
-纬来体育,http://atryffad.usa3.345123.xyz/jrw.php?id=vdlandsports
-纬来体育,http://atryffad.usa3.345123.xyz/jrw.php?id=58
-纬来体育,http://atryffad.usa3.345123.xyz/jrw.php?id=VLSportHD
-博斯运动1,http://atryffad.usa3.345123.xyz/jrw.php?id=bosisports
-博斯运动1,http://atryffad.usa3.345123.xyz/jrw.php?id=bosisport
-博斯运动1,http://atryffad.usa3.345123.xyz/jrw.php?id=61
-博斯运动1,http://atryffad.usa3.345123.xyz/jrw.php?id=BosiYD1
-博斯运动2,http://atryffad.usa3.345123.xyz/jrw.php?id=62
-博斯运动2,http://atryffad.usa3.345123.xyz/jrw.php?id=BosiYD2
-博斯高球1,http://atryffad.usa3.345123.xyz/jrw.php?id=bosigolf
-博斯高球1,http://atryffad.usa3.345123.xyz/jrw.php?id=bosigolf1
-博斯高球1,http://atryffad.usa3.345123.xyz/jrw.php?id=63
-博斯高球2,http://atryffad.usa3.345123.xyz/jrw.php?id=64
-博斯高球2,http://atryffad.usa3.345123.xyz/jrw.php?id=bosigolf2
-博斯网球,http://atryffad.usa3.345123.xyz/jrw.php?id=bositennis
-博斯网球,http://atryffad.usa3.345123.xyz/jrw.php?id=bosi_tennis
-博斯网球,http://atryffad.usa3.345123.xyz/jrw.php?id=65
-博斯网球,http://atryffad.usa3.345123.xyz/jrw.php?id=BosiWQ
-博斯无限,http://atryffad.usa3.345123.xyz/jrw.php?id=bosiunlimited
-博斯无限,http://atryffad.usa3.345123.xyz/jrw.php?id=bosiunlimit
-博斯无限,http://atryffad.usa3.345123.xyz/jrw.php?id=BosiWX1
-博斯无限2,http://atryffad.usa3.345123.xyz/jrw.php?id=bosiunlimit2
-博斯无限2,http://atryffad.usa3.345123.xyz/jrw.php?id=BosiWX2
-博斯无限2,http://atryffad.usa3.345123.xyz/jrw.php?id=89
-博斯魅力,http://atryffad.usa3.345123.xyz/jrw.php?id=bosicharm
-博斯魅力,http://atryffad.usa3.345123.xyz/jrw.php?id=BosiML
-智林体育台,http://atryffad.usa3.345123.xyz/jrw.php?id=oursport
-TRACESportStars,http://atryffad.usa3.345123.xyz/jrw.php?id=tracesportstars
-ELTA体育1,http://atryffad.usa3.345123.xyz/jrw.php?id=eltasports1
-ELTA体育1,http://atryffad.usa3.345123.xyz/jrw.php?id=eltasports1
-ELTA体育1,http://atryffad.usa3.345123.xyz/jrw.php?id=188
-CCTV5+,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv5phd#http://atryffad.usa3.345123.xyz/jrw.php?id=cctv5p
-CCTV5,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv5hd#http://atryffad.usa3.345123.xyz/jrw.php?id=cctv5
-CCTV16,http://atryffad.usa3.345123.xyz/jrw.php?id=cctv16hd#http://atryffad.usa3.345123.xyz/jrw.php?id=cctv16
-五星体育,http://atryffad.usa3.345123.xyz/jrw.php?id=fivestarsports
-
-电影,#genre#
-美亚电影台,http://atryffad.usa3.345123.xyz/jrw.php?id=MeiYaMovieTW
-美亚电影台,http://atryffad.usa3.345123.xyz/jrw.php?id=113
-龙祥时代,http://atryffad.usa3.345123.xyz/jrw.php?id=LSTIME
-龙祥时代,http://atryffad.usa3.345123.xyz/jrw.php?id=lstimemovies
-龙祥时代,http://atryffad.usa3.345123.xyz/jrw.php?id=LSTime
-龙祥时代,http://atryffad.usa3.345123.xyz/jrw.php?id=Lungxiangtime
-龙华偶像,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvidolhd
-龙华偶像,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvIdol
-龙华偶像,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvidol
-龙华偶像,http://atryffad.usa3.345123.xyz/jrw.php?id=LHOXT
-龙华偶像,http://atryffad.usa3.345123.xyz/jrw.php?id=52
-龙华戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvdrama
-龙华戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvdramalm
-龙华戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=LHXJT
-龙华戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=50
-龙华日韩,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvjpkr
-龙华电影,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvmovies
-龙华电影,http://atryffad.usa3.345123.xyz/jrw.php?id=112
-龙华影剧,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvmoviedrama
-龙华洋片,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvforeign
-龙华洋片,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvforeignlm
-龙华洋片,http://atryffad.usa3.345123.xyz/jrw.php?id=LHYPT
-龙华洋片,http://atryffad.usa3.345123.xyz/jrw.php?id=107
-龙华卡通,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvcartoonhd
-龙华卡通,http://atryffad.usa3.345123.xyz/jrw.php?id=LHKTT
-龙华经典,http://atryffad.usa3.345123.xyz/jrw.php?id=ltvclassichd
-龙华经典,http://atryffad.usa3.345123.xyz/jrw.php?id=LHJDT
-纬来戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=VideolandDrama
-纬来戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=vdlanddrama
-纬来戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=VLXiju
-纬来日本,http://atryffad.usa3.345123.xyz/jrw.php?id=VideolandJapan
-纬来日本,http://atryffad.usa3.345123.xyz/jrw.php?id=vdlandjapan
-纬来日本,http://atryffad.usa3.345123.xyz/jrw.php?id=54
-纬来日本,http://atryffad.usa3.345123.xyz/jrw.php?id=VLJapan
-纬来电影,http://atryffad.usa3.345123.xyz/jrw.php?id=VideolandMovies
-纬来电影,http://atryffad.usa3.345123.xyz/jrw.php?id=vdlandmovies
-纬来电影,http://atryffad.usa3.345123.xyz/jrw.php?id=103
-纬来电影,http://atryffad.usa3.345123.xyz/jrw.php?id=VLMovies
-东森电影,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvmovies
-东森电影,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcmovies
-东森电影,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVMovie
-东森电影,http://atryffad.usa3.345123.xyz/jrw.php?id=104
-东森洋片,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvforeign
-东森洋片,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcforeign
-东森洋片,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVWestern
-东森洋片,http://atryffad.usa3.345123.xyz/jrw.php?id=105
-东森戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvdrama
-东森戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=ebcdrama
-东森戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVXJ
-东森戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=106
-三立戏剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=47
-三立戏剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=SETDrama
-三立戏剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=setdrama_de
-八大第一台,http://atryffad.usa3.345123.xyz/jrw.php?id=Badafirst
-八大第一台,http://atryffad.usa3.345123.xyz/jrw.php?id=badafirst
-八大第一台,http://atryffad.usa3.345123.xyz/jrw.php?id=40
-八大戏剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=badadrama
-八大戏剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=BadaDrama
-八大戏剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=42
-靖天戏剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvdrama
-靖天戏剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvforeign
-靖天映画台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvpictures
-靖天电影台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvmovies
-华艺MBC综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=dragonartmbc
-华艺MBC综合台,http://atryffad.usa3.345123.xyz/jrw.php?id=109
-壹电影,http://atryffad.usa3.345123.xyz/jrw.php?id=nexttvmovies
-EYETV戏剧,http://atryffad.usa3.345123.xyz/jrw.php?id=eyetvdrama
-ELTA影剧,http://atryffad.usa3.345123.xyz/jrw.php?id=eltamoviedrama
-ELTA影剧,http://atryffad.usa3.345123.xyz/jrw.php?id=eltayingju
-ELTA影剧,http://atryffad.usa3.345123.xyz/jrw.php?id=ELTAYJT
-ELTA影剧,http://atryffad.usa3.345123.xyz/jrw.php?id=57
-ELTA综合,http://atryffad.usa3.345123.xyz/jrw.php?id=eltavariety
-ELTA综合,http://atryffad.usa3.345123.xyz/jrw.php?id=ELTAZongHe
-采昌影剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=114
-采昌影剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=WeishimoviesTW
-采昌影剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=caichangmovies
-AXN頻道,http://atryffad.usa3.345123.xyz/jrw.php?id=AXNHDTW
-AXN頻道,http://atryffad.usa3.345123.xyz/jrw.php?id=102
-华纳电影,http://atryffad.usa3.345123.xyz/jrw.php?id=warnertv
-华纳电影,http://atryffad.usa3.345123.xyz/jrw.php?id=119
-tVN,http://atryffad.usa3.345123.xyz/jrw.php?id=tvntw
-CinemaWorld,http://atryffad.usa3.345123.xyz/jrw.php?id=cinemaworld
-CINEMAX,http://atryffad.usa3.345123.xyz/jrw.php?id=cinemax
-CINEMAX,http://atryffad.usa3.345123.xyz/jrw.php?id=101
-HBO,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOTW
-HBOHD,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOHD
-HBOHD,http://atryffad.usa3.345123.xyz/jrw.php?id=hbo
-HBOHD,http://atryffad.usa3.345123.xyz/jrw.php?id=96
-HBO原创,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOSignature
-HBO原创,http://atryffad.usa3.345123.xyz/jrw.php?id=97
-HBO原创,http://atryffad.usa3.345123.xyz/jrw.php?id=hbosignature
-HBO强档,http://atryffad.usa3.345123.xyz/jrw.php?id=hbohits
-HBO强档,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOHits
-HBO强档,http://atryffad.usa3.345123.xyz/jrw.php?id=98
-HBO家庭,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOFamily
-HBO家庭,http://atryffad.usa3.345123.xyz/jrw.php?id=99
-私人影院,http://atryffad.usa3.345123.xyz/jrw.php?id=SRYY
-好莱坞电影,http://atryffad.usa3.345123.xyz/jrw.php?id=hollywood
-好莱坞电影,http://atryffad.usa3.345123.xyz/jrw.php?id=Hollywoodmovies
-好莱坞电影,http://atryffad.usa3.345123.xyz/jrw.php?id=100
-amc最爱电影,http://atryffad.usa3.345123.xyz/jrw.php?id=amcmovies
-CatchPlay电影台,http://atryffad.usa3.345123.xyz/jrw.php?id=cactchplayhd
-CatchPlay电影台,http://atryffad.usa3.345123.xyz/jrw.php?id=CATCHPLAY
-经典电影台,http://atryffad.usa3.345123.xyz/jrw.php?id=classicmovies
-美亚电影台,http://atryffad.usa3.345123.xyz/jrw.php?id=meiahmovie
-Thrill惊悚,http://atryffad.usa3.345123.xyz/jrw.php?id=121
-AXN頻道,http://atryffad.usa3.345123.xyz/jrw.php?id=axntw
-AXN頻道,http://atryffad.usa3.345123.xyz/jrw.php?id=AXNHDTW
-AXN頻道,http://atryffad.usa3.345123.xyz/jrw.php?id=102
-tVN,http://atryffad.usa3.345123.xyz/jrw.php?id=tvntw
-
-纪实,#genre#
-幸福空间居家台,http://atryffad.usa3.345123.xyz/jrw.php?id=gstv
-BBC Earth,http://atryffad.usa3.345123.xyz/jrw.php?id=bbcearth
-BBC Earth,http://atryffad.usa3.345123.xyz/jrw.php?id=BBCEarthTW
-BBC Lifestyle,http://atryffad.usa3.345123.xyz/jrw.php?id=bbclifestyle
-BBC Lifestyle,http://atryffad.usa3.345123.xyz/jrw.php?id=BBCLifestyleTW
-HISTORY2,http://atryffad.usa3.345123.xyz/jrw.php?id=HISTORY2TW
-国家地理,http://atryffad.usa3.345123.xyz/jrw.php?id=124
-国家地理野生,http://atryffad.usa3.345123.xyz/jrw.php?id=NatGeoWildHD
-动物星球,http://atryffad.usa3.345123.xyz/jrw.php?id=126
-探索频道,http://atryffad.usa3.345123.xyz/jrw.php?id=DiscoveryChannel
-探索频道,http://atryffad.usa3.345123.xyz/jrw.php?id=127
-探索科学,http://atryffad.usa3.345123.xyz/jrw.php?id=discoveryscience
-探索科学,http://atryffad.usa3.345123.xyz/jrw.php?id=DiscoveryScience
-探索科学,http://atryffad.usa3.345123.xyz/jrw.php?id=129
-探索亚洲,http://atryffad.usa3.345123.xyz/jrw.php?id=discoveryasia
-探索亚洲,http://atryffad.usa3.345123.xyz/jrw.php?id=DiscoveryAsia
-探索亚洲,http://atryffad.usa3.345123.xyz/jrw.php?id=130
-亚洲美食频道,http://atryffad.usa3.345123.xyz/jrw.php?id=afn
-美食星球,http://atryffad.usa3.345123.xyz/jrw.php?id=foodplanettw
-美食星球,http://atryffad.usa3.345123.xyz/jrw.php?id=MSXQ
-亚洲旅游台,http://atryffad.usa3.345123.xyz/jrw.php?id=travelasiafhd
-亚洲旅游台,http://atryffad.usa3.345123.xyz/jrw.php?id=travelasia
-亚洲旅游台,http://atryffad.usa3.345123.xyz/jrw.php?id=asiatravel
-亚洲旅游台,http://atryffad.usa3.345123.xyz/jrw.php?id=131
-亚洲旅游台,http://atryffad.usa3.345123.xyz/jrw.php?id=YZLYT
-EYETV旅游,http://atryffad.usa3.345123.xyz/jrw.php?id=eyetvtravel
-EYETV旅游,http://atryffad.usa3.345123.xyz/jrw.php?id=EYETravel
-ELTA生活旅游,http://atryffad.usa3.345123.xyz/jrw.php?id=eltafoodietravel
-
-少儿,#genre#
-靖天卡通台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvkids
-靖天卡通台,http://atryffad.usa3.345123.xyz/jrw.php?id=goldentvkidslm
-靖天卡通台,http://atryffad.usa3.345123.xyz/jrw.php?id=55
-靖洋卡通台,http://atryffad.usa3.345123.xyz/jrw.php?id=nicebingo
-靖洋卡通台,http://atryffad.usa3.345123.xyz/jrw.php?id=NiceBingo
-东森幼幼,http://atryffad.usa3.345123.xyz/jrw.php?id=ettvyoyo
-东森幼幼,http://atryffad.usa3.345123.xyz/jrw.php?id=191
-东森幼幼,http://atryffad.usa3.345123.xyz/jrw.php?id=ETTVYOYO
-MOMO亲子台,http://atryffad.usa3.345123.xyz/jrw.php?id=momoparentchild
-MOMO亲子台,http://atryffad.usa3.345123.xyz/jrw.php?id=MOMOQZT
-CN卡通频道,http://atryffad.usa3.345123.xyz/jrw.php?id=CnCartoon
-CN卡通频道,http://atryffad.usa3.345123.xyz/jrw.php?id=cncartoon
-CN卡通频道,http://atryffad.usa3.345123.xyz/jrw.php?id=CNTW
-尼克儿童频道,http://atryffad.usa3.345123.xyz/jrw.php?id=nickelodeon
-尼克儿童频道,http://atryffad.usa3.345123.xyz/jrw.php?id=nickelodeonlm
-Boomerang,http://atryffad.usa3.345123.xyz/jrw.php?id=BoomerangTW
-NickJr儿童频道,http://atryffad.usa3.345123.xyz/jrw.php?id=nickjr
-BBC Cbeebies,http://atryffad.usa3.345123.xyz/jrw.php?id=cbeebies
-BBC Cbeebies,http://atryffad.usa3.345123.xyz/jrw.php?id=BBCCbeebiesTW
-经典卡通台,http://atryffad.usa3.345123.xyz/jrw.php?id=classiccartoon
-MOMO台,http://atryffad.usa3.345123.xyz/jrw.php?id=momokids
-NickJr儿童频道,http://atryffad.usa3.345123.xyz/jrw.php?id=nickjr
-
-马来,#genre#
-DidikTV7,http://atryffad.usa3.345123.xyz/jrw.php?id=DidikTV7
-8TV 八度空间,http://atryffad.usa3.345123.xyz/jrw.php?id=8TV
-8TV 八度空间,http://atryffad.usa3.345123.xyz/jrw.php?id=8TVHD
-iQIYI爱奇艺,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroiQIYIHD
-TVB千禧经典台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBClassicMY
-Astro AEC,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAECHD
-Astro AEC,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAEC
-Astro AEC,http://atryffad.usa3.345123.xyz/jrw.php?id=AEC
-Astro QJ,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroQuanJiaHD
-Astro QJ,http://atryffad.usa3.345123.xyz/jrw.php?id=QuanJia
-天映频道,http://atryffad.usa3.345123.xyz/jrw.php?id=CelestialMoviesHK
-天映频道,http://atryffad.usa3.345123.xyz/jrw.php?id=CelestialMoviesCN
-天映经典,http://atryffad.usa3.345123.xyz/jrw.php?id=CelestialClassicMY
-天映经典,http://atryffad.usa3.345123.xyz/jrw.php?id=CelestialClassicMYCN
-TVB翡翠台（马来）,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBjadeMY
-TVB翡翠台（马来）,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBjadeMYCN
-AOD 311,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAOD311HDHK
-AOD 311,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAOD311HDCN
-中天亚洲,http://atryffad.usa3.345123.xyz/jrw.php?id=CTIAsiaHDMY
-TVB娱乐新闻台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBENEWS
-TVB星河频道,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBXingHeHK
-TVB星河频道,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBXingHeCN
-TVBSAsia,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBSAsia
-凤凰中文,http://atryffad.usa3.345123.xyz/jrw.php?id=PhoenixChineseMY
-凤凰资讯,http://atryffad.usa3.345123.xyz/jrw.php?id=PhoenixInfoMY
-凤凰资讯,http://atryffad.usa3.345123.xyz/jrw.php?id=phoenixinfo
-欢喜台,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroHuaHeeDaiHD
-欢喜台,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroHuaHeeDaiHDCN
-CCTV-4,http://atryffad.usa3.345123.xyz/jrw.php?id=CCTV4MY
-SukanRTM,http://atryffad.usa3.345123.xyz/jrw.php?id=RTMSukanHD
-BeritaRTM,http://atryffad.usa3.345123.xyz/jrw.php?id=Beritartm
-HEROES,http://atryffad.usa3.345123.xyz/jrw.php?id=Heroes
-TV1,http://atryffad.usa3.345123.xyz/jrw.php?id=TV1
-TV2,http://atryffad.usa3.345123.xyz/jrw.php?id=TV2
-TV3,http://atryffad.usa3.345123.xyz/jrw.php?id=TV3
-Astro Ria,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroRiaHD
-Astro Ria,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroRia
-Astro Prima,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroPrimaHD
-Astro Prima,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroPrima
-Astro Oasis,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroOasisHD
-Astro Warna,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroWarnaHD
-Astro Warna,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroWarna
-Astro Citra,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroCitraHD
-Astro Citra,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroCitra
-Astro Rania,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroRaniaHD
-Astro Aura,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAuraHD
-TV Alhijrah,http://atryffad.usa3.345123.xyz/jrw.php?id=TVAlhijrah
-TV Okey,http://atryffad.usa3.345123.xyz/jrw.php?id=TVOkey
-9TV,http://atryffad.usa3.345123.xyz/jrw.php?id=9TV
-Vaanavil,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroVaanavilHD
-Adithya,http://atryffad.usa3.345123.xyz/jrw.php?id=AdithyaHD
-KBSWorld,http://atryffad.usa3.345123.xyz/jrw.php?id=KBSWorld
-One,http://atryffad.usa3.345123.xyz/jrw.php?id=OneHDCN
-One,http://atryffad.usa3.345123.xyz/jrw.php?id=OneHDMY
-One,http://atryffad.usa3.345123.xyz/jrw.php?id=OneHDKOR
-One,http://atryffad.usa3.345123.xyz/jrw.php?id=ONEMalay
-tvN,http://atryffad.usa3.345123.xyz/jrw.php?id=tVNHD
-tvN,http://atryffad.usa3.345123.xyz/jrw.php?id=HubtvN
-NHK World Premium,http://atryffad.usa3.345123.xyz/jrw.php?id=NHKWorldPremium
-Boo,http://atryffad.usa3.345123.xyz/jrw.php?id=BOO
-HBO,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOEN
-HBO,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOMY
-HBO,http://atryffad.usa3.345123.xyz/jrw.php?id=hbosg
-Cinemax,http://atryffad.usa3.345123.xyz/jrw.php?id=Cinemax
-HBOFamily,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOFamilyMY
-HBOFamily,http://atryffad.usa3.345123.xyz/jrw.php?id=hbofamilysg
-HBOHits,http://atryffad.usa3.345123.xyz/jrw.php?id=HBOHitsMY
-HBOHits,http://atryffad.usa3.345123.xyz/jrw.php?id=hbohitssg
-Awani,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAwaniHD
-Bernama,http://atryffad.usa3.345123.xyz/jrw.php?id=BernamaHD
-CGTN,http://atryffad.usa3.345123.xyz/jrw.php?id=CGTNHD
-CGTN,https://live.cgtn.com/1000/prog_index.m3u8
-CNN,http://atryffad.usa3.345123.xyz/jrw.php?id=CNNHD
-CNN,http://atryffad.usa3.345123.xyz/jrw.php?id=CNN
-BBCWorldNews,http://atryffad.usa3.345123.xyz/jrw.php?id=BBCWorldNewsHD
-BBCWorldNews,http://atryffad.usa3.345123.xyz/jrw.php?id=BBCNews
-Aljazeera,http://atryffad.usa3.345123.xyz/jrw.php?id=AljazeeraHD
-SkyNews,http://atryffad.usa3.345123.xyz/jrw.php?id=SkyNewsHD
-ChannelNewsAsia,http://atryffad.usa3.345123.xyz/jrw.php?id=CNAHD
-ChannelNewsAsia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNBC,http://atryffad.usa3.345123.xyz/jrw.php?id=CNBCHD
-Bloomberg TV,http://atryffad.usa3.345123.xyz/jrw.php?id=BloombergHD
-Love Nature,http://atryffad.usa3.345123.xyz/jrw.php?id=LoveNatureHD
-History,http://atryffad.usa3.345123.xyz/jrw.php?id=History
-Ceria,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroCeriaHD
-Ceria,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroCeriaMul
-CartoonNetwork,http://atryffad.usa3.345123.xyz/jrw.php?id=CartoonNetworkHD
-CartoonNetwork,http://atryffad.usa3.345123.xyz/jrw.php?id=CartoonNetworkCN
-CartoonNetwork,http://atryffad.usa3.345123.xyz/jrw.php?id=CartoonNetworkMY
-Nickelodeon,http://atryffad.usa3.345123.xyz/jrw.php?id=NickelodeonHD
-Nickelodeon,http://atryffad.usa3.345123.xyz/jrw.php?id=NickelodeonHDCN
-Nickelodeon,http://atryffad.usa3.345123.xyz/jrw.php?id=NickelodeonHDMY
-NickJr,http://atryffad.usa3.345123.xyz/jrw.php?id=NickJuniorHD
-NickJr,http://atryffad.usa3.345123.xyz/jrw.php?id=NickJuniorHDCN
-NickJr,http://atryffad.usa3.345123.xyz/jrw.php?id=NickJuniorHDMY
-CBeebies,http://atryffad.usa3.345123.xyz/jrw.php?id=CBeebiesHD
-AXN,http://atryffad.usa3.345123.xyz/jrw.php?id=AXNHD
-Hits,http://atryffad.usa3.345123.xyz/jrw.php?id=HitsHD
-TLC,http://atryffad.usa3.345123.xyz/jrw.php?id=TLCHD
-WarnerTV,http://atryffad.usa3.345123.xyz/jrw.php?id=WarnerTVMY
-HGTV,http://atryffad.usa3.345123.xyz/jrw.php?id=HGTVHD
-Arena,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroArenaHD
-SuperSport,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroSupersport1HD
-SuperSport2,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroSupersport2HD
-SuperSport3,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroSupersport3HD
-SuperSport4,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroSupersport4HD
-SPOTV,http://atryffad.usa3.345123.xyz/jrw.php?id=SPOTV
-Eurosport,http://atryffad.usa3.345123.xyz/jrw.php?id=EuroSportHD
-
-新加坡,#genre#
-Mediacorp Suria,http://atryffad.usa3.345123.xyz/jrw.php?id=SuriaHD
-Mediacorp-5,http://atryffad.usa3.345123.xyz/jrw.php?id=Channel5HD
-Mediacorp-8,http://atryffad.usa3.345123.xyz/jrw.php?id=Channel8HD
-Mediacorp-U,http://atryffad.usa3.345123.xyz/jrw.php?id=ChannelUHD
-TVB翡翠台（新加坡）,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbjadesg
-TVB星河频道,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbxinghesg
-天映频道,http://atryffad.usa3.345123.xyz/jrw.php?id=celestialmoviessg
-都会台,http://atryffad.usa3.345123.xyz/jrw.php?id=HubECity
-AstroSensasi,http://atryffad.usa3.345123.xyz/jrw.php?id=Sensasi
-AstroSensasi,http://atryffad.usa3.345123.xyz/jrw.php?id=Ria
-AstroWarna,http://atryffad.usa3.345123.xyz/jrw.php?id=AstroWarnaHDSG
-Mediacorp Vasantham,http://atryffad.usa3.345123.xyz/jrw.php?id=VasanthamHD
-RockAction,http://atryffad.usa3.345123.xyz/jrw.php?id=RockAction
-RockEntertainment,http://atryffad.usa3.345123.xyz/jrw.php?id=RockEntertainment
-HBO,http://atryffad.usa3.345123.xyz/jrw.php?id=hbosg
-HBOFamily,http://atryffad.usa3.345123.xyz/jrw.php?id=hbofamilysg
-HBOHits,http://atryffad.usa3.345123.xyz/jrw.php?id=hbohitssg
-HBOSignature,http://atryffad.usa3.345123.xyz/jrw.php?id=hbosignaturesg
-Cinemax,http://atryffad.usa3.345123.xyz/jrw.php?id=cinemaxsg
-Gem,http://atryffad.usa3.345123.xyz/jrw.php?id=Gem
-GlobalTrekker,http://atryffad.usa3.345123.xyz/jrw.php?id=GlobalTrekker
-Travelxp,http://atryffad.usa3.345123.xyz/jrw.php?id=Travelxp
-Animax,http://atryffad.usa3.345123.xyz/jrw.php?id=Animax
-MolaSport,http://atryffad.usa3.345123.xyz/jrw.php?id=MolaSport
-HubSports1,http://atryffad.usa3.345123.xyz/jrw.php?id=HubSports1
-HubSports2,http://atryffad.usa3.345123.xyz/jrw.php?id=HubSports2
-HubSports3,http://atryffad.usa3.345123.xyz/jrw.php?id=HubSports3
-HubSports4,http://atryffad.usa3.345123.xyz/jrw.php?id=HubSports4
-HubSports5,http://atryffad.usa3.345123.xyz/jrw.php?id=HubSports5
-HubPremier1,http://atryffad.usa3.345123.xyz/jrw.php?id=HubPremier1
-HubPremier2,http://atryffad.usa3.345123.xyz/jrw.php?id=HubPremier2
-HubPremier3,http://atryffad.usa3.345123.xyz/jrw.php?id=HubPremier3
-HubPremier4,http://atryffad.usa3.345123.xyz/jrw.php?id=HubPremier4
-HubPremier5,http://atryffad.usa3.345123.xyz/jrw.php?id=HubPremier5
-HubPremier6,http://atryffad.usa3.345123.xyz/jrw.php?id=HubPremier6
-HubPremier7,http://atryffad.usa3.345123.xyz/jrw.php?id=HubPremier7
-
-休闲,#genre#
-松视1,http://atryffad.usa3.345123.xyz/jrw.php?id=sonsee1
-松视2,http://atryffad.usa3.345123.xyz/jrw.php?id=sonsee2
-松视3,http://atryffad.usa3.345123.xyz/jrw.php?id=SonSee3hd
-彩虹e,http://atryffad.usa3.345123.xyz/jrw.php?id=RainBowEhd
-K频道,http://atryffad.usa3.345123.xyz/jrw.php?id=RainBowK
-彩虹电影台,http://atryffad.usa3.345123.xyz/jrw.php?id=Rainbowmovie
-潘朵啦玩美台,http://atryffad.usa3.345123.xyz/jrw.php?id=PandoraWanmei
-惊艳成人电影,http://atryffad.usa3.345123.xyz/jrw.php?id=Amazingchannel
-香蕉台,http://atryffad.usa3.345123.xyz/jrw.php?id=Bananachannel
-Happy,http://atryffad.usa3.345123.xyz/jrw.php?id=HappyHD
-JStar極限台电影频道,http://atryffad.usa3.345123.xyz/jrw.php?id=JStarMovies
-Playboy TV,http://atryffad.usa3.345123.xyz/jrw.php?id=PlayboyTV
-アイドル専門チャンネルＰｉｇｏｏ,http://atryffad.usa3.345123.xyz/jrw.php?id=IdolspecialtychannelPigooHD
-Babes TV,http://atryffad.usa3.345123.xyz/jrw.php?id=BabesTV
-Red Lips,http://atryffad.usa3.345123.xyz/jrw.php?id=RedLips
-RusskayaNoch,http://atryffad.usa3.345123.xyz/jrw.php?id=RusskayaNoch
-BrazzersTV,http://atryffad.usa3.345123.xyz/jrw.php?id=BrazzersTVEurope
-BrazzersTV HD,http://atryffad.usa3.345123.xyz/jrw.php?id=BrazzersTV2
-HustlerTV,http://atryffad.usa3.345123.xyz/jrw.php?id=Hustler
-HustlerTV,http://atryffad.usa3.345123.xyz/jrw.php?id=hustlertv
-Penthouse Gold,http://atryffad.usa3.345123.xyz/jrw.php?id=PenthouseGold
-Penthouse Gold,http://atryffad.usa3.345123.xyz/jrw.php?id=penthouse
-Penthouse Reality,http://atryffad.usa3.345123.xyz/jrw.php?id=PenthouseQuickies
-OX-AX,http://atryffad.usa3.345123.xyz/jrw.php?id=Ohah
-Vivid Red,http://atryffad.usa3.345123.xyz/jrw.php?id=VividRed
-Eroxxx,http://atryffad.usa3.345123.xyz/jrw.php?id=Eroxxx
-Extasy,http://atryffad.usa3.345123.xyz/jrw.php?id=Extasy
-ExtasyHD,http://atryffad.usa3.345123.xyz/jrw.php?id=ExtasyHD
-PrivateTV,http://atryffad.usa3.345123.xyz/jrw.php?id=PrivateTV
-Red Light,http://atryffad.usa3.345123.xyz/jrw.php?id=Redlight
-CineMan私密频道,http://atryffad.usa3.345123.xyz/jrw.php?id=CineMan私密频道
-CineMan私密频道2,http://atryffad.usa3.345123.xyz/jrw.php?id=CineMan私密频道2
-WAAYH,http://atryffad.usa3.345123.xyz/jrw.php?id=Shalun
-DorcelTV,http://atryffad.usa3.345123.xyz/jrw.php?id=DorcelTV
-FapTV 2,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTV2
-FapTV 3,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTV3
-FapTV 4,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTV4
-FapTV Parody,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVParody
-FapTV Compilation,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVCompilation
-FapTV Anal,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVAnal
-FapTV Teens,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVTeens
-FapTV Lesbian,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVLesbian
-FapTV BBW,http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVBBW
-BlueHustler,http://atryffad.usa3.345123.xyz/jrw.php?id=BlueHustler
-KINO私密频道,http://atryffad.usa3.345123.xyz/jrw.php?id=Kino私密频道
-Pinko Club,http://atryffad.usa3.345123.xyz/jrw.php?id=PinkOTV
-BarleyLegal,http://atryffad.usa3.345123.xyz/jrw.php?id=Barelylegal
-XY Max,http://atryffad.usa3.345123.xyz/jrw.php?id=XYMax
-XY Plus,http://atryffad.usa3.345123.xyz/jrw.php?id=XYPlus
-XY Mix,http://atryffad.usa3.345123.xyz/jrw.php?id=XYMix
-XXL,http://atryffad.usa3.345123.xyz/jrw.php?id=XXL
- 
