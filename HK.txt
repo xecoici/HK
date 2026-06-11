@@ -40,7 +40,19 @@ TSN 4K,http://77.90.60.172:55555/1
 福克斯4K,http://77.90.60.172:55555/5
 福克斯体育1,http://77.90.60.172:55555/7
 午夜剧场,p3p://fccs.ddns.net:19906/5fe445280008a40682a0367c343436bb
-
+HBO,sop://sdk/VsTw.php?id=5D1fA5b9dC1D0D350ADF
+HBO強檔,sop://sdk/VsTw.php?id=ad0C30A013225DeA3DE2
+HBO家庭,sop://sdk/VsTw.php?id=A4cf9339b19a201fa091
+HBO原創,sop://sdk/VsTw.php?id=42a3e724fa2bfAE0F939
+松視1台,sop://sdk/hotout.php?id=9fC8F6E0817EB1517c
+松視2台,sop://sdk/hotout.php?id=07E46350977531A710
+松視3台,sop://sdk/hotout.php?id=8cc5a53F653B346010
+松視4台,sop://sdk/hotout.php?id=1f5316417a5cE1a582
+香蕉台,sop://sdk/hotout.php?id=4b424b06610e95d38D
+彩虹電影,sop://sdk/hotout.php?id=C72654bA841fD7B7E6
+彩虹E台,sop://sdk/hotout.php?id=e8dC92386381d70b63
+驚艷台,sop://sdk/hotout.php?id=3E1E91bcCdB839EFcB
+極限電影台,sop://sdk/hotout.php?id=adCADF4563c100Eb77
 
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" 
 
