@@ -1762,6 +1762,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SHQHNV72QRZFCT/7322/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SHQHNV72QRZFCT/7323/index.m3u8
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="🇹🇼 台湾频道",TTV
 http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT 4k" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",TSN
+https://iptv.852851.xyz/ch/68e97c59f10d99489065f1e85c13a85b/master.m3u8
 
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="🇹🇼 台湾频道",TTV
 http://74.91.26.218:82/live/ttv.m3u8
