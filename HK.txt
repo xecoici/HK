@@ -136,6 +136,7 @@ CGNTV,https://z3.ubtvfans.com/live/rx3/2911/99700082b6d14b5c6078ec1f10298e36/ind
 Discovery,https://z3.ubtvfans.com/live/rx4/3196/14ec1e68219043fc3b1e059ba5567d40/index.m3u8
 CGN AMERICA,https://z3.ubtvfans.com/live/rx3/365/da3a78dd076121664edea4d24d891801/index.m3u8
 
+한국,#genre#
 #EXTM3U
 #EXTINF:-1 logo="http://i.imgur.com/D1o9by9.png" tvg-id="9bd41a5c12e9c23b13d517aa867b7ca2",KBS JOY
 http://mdlstay.com:9981/stream/channelid/1545262235?ticket=4346C7471E835D0826B08879384AC0AFF014D291&profile=pass
