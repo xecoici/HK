@@ -53,6 +53,52 @@ HBO原創,sop://sdk/VsTw.php?id=42a3e724fa2bfAE0F939
 彩虹E台,sop://sdk/hotout.php?id=e8dC92386381d70b63
 驚艷台,sop://sdk/hotout.php?id=3E1E91bcCdB839EFcB
 極限電影台,sop://sdk/hotout.php?id=adCADF4563c100Eb77
+世界杯3,https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+世界杯4,https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+世界杯5,https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+世界杯6,https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+世界杯7,https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+世界杯8,https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+世界杯9,https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
+wee1，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=wwe1
+wwe2，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=wwe2
+现在电视，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=nowtv
+新加坡体育1台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports1
+新加坡体育2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports2
+新加坡体育3台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports3
+新加坡超级足球台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgPremier
+新加坡贝因体育1台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein1
+新加坡贝因体育2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein2
+新加坡贝因体育3台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein3
+新加坡贝因体育4台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein4
+新加坡贝因体育5台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein5
+新加坡Spotv台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSpotv
+新加坡Spotv2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSpotv2
+新加坡NBA台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgNba
+618,https://iptv.852851.xyz/ch/6ba27bcb83b37f238fb5df663b035f25/master.m3u8
+Bein max2,http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8
+Max1,http://go8knm.optikl.ink/X/index.php/Besyria2/video.m3u8
+4k HDR,http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
+fifa bein,https://fifa.moonx.dev/api/live/hls/bein-sports-1/master.m3u8
+bein fs,https://fifa.moonx.dev/api/live/hls/fox-sports/master.m3u8
+FUSSBALL TV 1 UHD,https://iptv.852851.xyz/ch/b924ee3da277f2970dcb96d30f104734/master.m3u8
+FUSSBALLTV 2 UHD,https://iptv.852851.xyz/ch/a3b25b5c4910a438ebf3472d7e524a8a/master.m3u8
+FUSSBALLTV 3 UHD,https://iptv.852851.xyz/ch/235041a44f2445dc1649e12514a37cb1/master.m3u8
+ProSiebenSat1 UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID00914_ProSiebenSat1UHD_uhd/DASH/index.mpd
+1918c1b96afa3f747e6c376fda8e140e:e09fc7553946e5ad68e0162715e96f71
+RTL UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID00860_RTLUHD_uhd/DASH/index.mpd
+17286ed7f8585665d9ac6d8a007db83c:c1583491f2c49fc36ed90ea42fb8ccc0
+Travelxp 4K UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID00857_Travelxp4K_uhd/DASH/index.mpd
+1f5e28ed5473effa0abf80c7a5dd8d62:5d1d93cb5c7747933dabc3cff1141cbe
+FUSSBALLTV 1 UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+FUSSBALLTV 2 UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
+1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
+FUSSBALLTV 3 UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
+1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
+apple,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119317
+FOX ONE USA (For World Cup),https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
+c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
 
 한국,#genre#
 KBS1,https://z3.ubtvfans.com/live/rx4/2752/c738c29d70216ec7ba19cbff33e24457/index.m3u8
