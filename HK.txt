@@ -1,188 +1,5 @@
-Live,#genre#
-公视1,http://211.72.174.95:8116/0.ts
-公视2,http://220.135.241.47:8305/0.ts
-华视3,http://220.135.241.47:8318/0.ts
-客家戏曲,http://220.135.241.47:8307/0.ts
-华视,http://220.135.241.47:8317/0.ts
-台视,http://211.72.174.95:8112/0.ts
-台视财经,http://220.135.241.47:8315/0.ts
-中视,http://220.135.241.47:8301/0.ts
-好好帮,http://220.135.241.47:8303/0.ts
-LIVE,http://211.72.174.95:8133/0.ts
-民视,http://211.72.174.95:8115/0.ts
-史努比欢乐秀,http://220.135.241.47:8312/0.ts
-凯撒饭店,http://211.72.174.95:8118/0.ts
-民视新闻台,http://211.72.174.95:8117/0.ts
-now7,http://110.235.59.30:7169/0.ts
-now1,http://shatian.7766.org:7168/0.ts
-now2,http://42.98.241.116:9241/0.ts
-星影台,http://qingyi.7766.org:7003/0.ts
-星影台,://124.244.129.167:7003/0.ts
-爆谷台,http://124.244.129.167:7007/0.ts
-now3,http://110.235.59.30:7168/0.ts
-翡翠台,http://124.244.129.167:9004/0.ts
-now4,http://shangshui2.7766.org:9241/0.ts
-翡翠台,http://qingyi.7766.org:9004/0.ts
-爆谷台,http://qingyi.7766.org:7007/0.ts
-now8,http://shatian.7766.org:7169/0.ts
-中视,http://211.72.174.95:8113/0.ts
-华视,http://211.72.174.95:8114/0.ts
-公视,http://211.72.174.95:8116/0.ts
-台视,http://211.72.174.95:8112/0.ts
-民视新闻,http://211.72.174.95:8117/0.ts
-民视,http://211.72.174.95:8115/0.ts
-CN卡通,http://77.90.60.172:55555/2/video/index.m3u8
-616,http://77.90.60.172:55555/6
-618,http://77.90.60.172:55555/3
-619,http://77.90.60.172:55555/4
-TSN 4K,http://77.90.60.172:55555/1
-法国M6,http://77.90.60.172:55555/2
-福克斯4K,http://77.90.60.172:55555/5
-福克斯体育1,http://77.90.60.172:55555/7
-午夜剧场,p3p://fccs.ddns.net:19906/5fe445280008a40682a0367c343436bb
-HBO,sop://sdk/VsTw.php?id=5D1fA5b9dC1D0D350ADF
-HBO強檔,sop://sdk/VsTw.php?id=ad0C30A013225DeA3DE2
-HBO家庭,sop://sdk/VsTw.php?id=A4cf9339b19a201fa091
-HBO原創,sop://sdk/VsTw.php?id=42a3e724fa2bfAE0F939
-松視1台,sop://sdk/hotout.php?id=9fC8F6E0817EB1517c
-松視2台,sop://sdk/hotout.php?id=07E46350977531A710
-松視3台,sop://sdk/hotout.php?id=8cc5a53F653B346010
-松視4台,sop://sdk/hotout.php?id=1f5316417a5cE1a582
-香蕉台,sop://sdk/hotout.php?id=4b424b06610e95d38D
-彩虹電影,sop://sdk/hotout.php?id=C72654bA841fD7B7E6
-彩虹E台,sop://sdk/hotout.php?id=e8dC92386381d70b63
-驚艷台,sop://sdk/hotout.php?id=3E1E91bcCdB839EFcB
-極限電影台,sop://sdk/hotout.php?id=adCADF4563c100Eb77
-世界杯3,https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-世界杯4,https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-世界杯5,https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-世界杯6,https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
-世界杯7,https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-世界杯8,https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-世界杯9,https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
-wee1，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=wwe1
-wwe2，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=wwe2
-现在电视，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=nowtv
-新加坡体育1台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports1
-新加坡体育2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports2
-新加坡体育3台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports3
-新加坡超级足球台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgPremier
-新加坡贝因体育1台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein1
-新加坡贝因体育2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein2
-新加坡贝因体育3台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein3
-新加坡贝因体育4台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein4
-新加坡贝因体育5台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein5
-新加坡Spotv台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSpotv
-新加坡Spotv2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSpotv2
-新加坡NBA台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgNba
-618,https://iptv.852851.xyz/ch/6ba27bcb83b37f238fb5df663b035f25/master.m3u8
-Bein max2,http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8
-Max1,http://go8knm.optikl.ink/X/index.php/Besyria2/video.m3u8
-4k HDR,http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
-fifa bein,https://fifa.moonx.dev/api/live/hls/bein-sports-1/master.m3u8
-bein fs,https://fifa.moonx.dev/api/live/hls/fox-sports/master.m3u8
-FUSSBALL TV 1 UHD,https://iptv.852851.xyz/ch/b924ee3da277f2970dcb96d30f104734/master.m3u8
-FUSSBALLTV 2 UHD,https://iptv.852851.xyz/ch/a3b25b5c4910a438ebf3472d7e524a8a/master.m3u8
-FUSSBALLTV 3 UHD,https://iptv.852851.xyz/ch/235041a44f2445dc1649e12514a37cb1/master.m3u8
-ProSiebenSat1 UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID00914_ProSiebenSat1UHD_uhd/DASH/index.mpd
-1918c1b96afa3f747e6c376fda8e140e:e09fc7553946e5ad68e0162715e96f71
-RTL UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID00860_RTLUHD_uhd/DASH/index.mpd
-17286ed7f8585665d9ac6d8a007db83c:c1583491f2c49fc36ed90ea42fb8ccc0
-Travelxp 4K UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID00857_Travelxp4K_uhd/DASH/index.mpd
-1f5e28ed5473effa0abf80c7a5dd8d62:5d1d93cb5c7747933dabc3cff1141cbe
-FUSSBALLTV 1 UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-FUSSBALLTV 2 UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
-1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
-FUSSBALLTV 3 UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
-1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
-apple,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119317
-FOX ONE USA (For World Cup),https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
-c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
 
-한국,#genre#
-KBS1,https://z3.ubtvfans.com/live/rx4/2752/c738c29d70216ec7ba19cbff33e24457/index.m3u8
-KBS2,https://z3.ubtvfans.com/live/rx4/2753/a61150ef3130aaaf962afcbbbe9256ce/index.m3u8
-CATCH ON2,https://z3.ubtvfans.com/live/rx4/3200/646c32839355a3e6b41aee9152b11640/index.m3u8
-SBS,https://z3.ubtvfans.com/live/rx4/252/3d519f2499cad7dff069edf0dbec060f/index.m3u8
-SBS,https://z3.ubtvfans.com/live/rx4/3107/8e3172474144d871a1ef5e24d095596d/index.m3u8
-SBS BIZ,https://z3.ubtvfans.com/live/rx4/3201/52f3cfe6e6d51cd4475f410889572484/index.m3u8
-NOW[미드],https://z3.ubtvfans.com/live/rx4/3166/187c00dbdf01d4a8511564e71739e9d6/index.m3u8
-AXN[미드],https://z3.ubtvfans.com/live/rx4/3168/b1229b5fe1054036585e1f953607f382/index.m3u8
-SCREEN,https://z3.ubtvfans.com/live/rx4/3153/5755e78355db35ddf8337ab468e4aaed/index.m3u8
-KBSN Sports,https://z3.ubtvfans.com/live/rx4/2353/8d00305efee617576ff786327b35e9ea/index.m3u8
-바둑TV,https://z3.ubtvfans.com/live/rx4/2356/3fc3e0dff95aad28aec12ea41de99f22/index.m3u8
-FTV,https://z3.ubtvfans.com/live/rx4/2905/d221965cfe69c5f54327a45893a491e0/index.m3u8
-OCN Thrills,https://z3.ubtvfans.com/live/rx4/2357/d29146b79ead08a3d764b159c8db46f5/index.m3u8
-OBS,https://z3.ubtvfans.com/live/rx4/2358/060692fca1ce47f1578407469edf49ad/index.m3u8
-연변위성,https://z3.ubtvfans.com/live/rx4/2361/4ac15e5f557cfd16593b933b5d792d46/index.m3u8
-TVN,https://z3.ubtvfans.com/live/rx4/295/f7b8f364d98f98e74b987343e3fe39b7/index.m3u8
-MBC,https://z3.ubtvfans.com/live/rx4/251/31f2ab1f3e6281afd06ad29959824137/index.m3u8
-MBC,https://z3.ubtvfans.com/live/rx4/3106/c3444cb653da77de364be3b94797f0d5/index.m3u8
-MBN,https://z3.ubtvfans.com/live/rx4/257/7032c28fa3d4e83419649451008a9c40/index.m3u8
-Mnet,https://z3.ubtvfans.com/live/rx4/3203/4ecd9375a8094a718ff431e4e92b346e/index.m3u8
-MBN,https://z3.ubtvfans.com/live/rx4/3197/5949215a4d2810237c879a740a55986b/index.m3u8
-MBC스포츠,https://z3.ubtvfans.com/live/rx4/265/84594c58474b9da206463f57ce6ac437/index.m3u8
-JTBC골프,https://z3.ubtvfans.com/live/rx4/268/f8f241178d37933a311c910ceb1bd697/index.m3u8
-JTBC,https://z3.ubtvfans.com/live/rx4/3108/c3efb16e3ec0fe3b9029086f1096f0f3/index.m3u8
-JTBC,https://z3.ubtvfans.com/live/rx4/253/6e8d1c5ca1a6e7cc2c3cf2e0c9b5ebf4/index.m3u8
-tvN,https://z3.ubtvfans.com/live/rx4/1154/b932286d05d69ee35928a9273ab5f385/index.m3u8
-OCN,https://z3.ubtvfans.com/live/rx4/488/39edf1eec162e2381f44780c80da7da3/index.m3u8
-OCN Movies,https://z3.ubtvfans.com/live/rx4/3165/0d6f9b82fe5b5d3ee0aa32b1bebf4e0a/index.m3u8
-iNet,https://z3.ubtvfans.com/live/rx4/490/7a624be5c359d55f61a438d695975c7a/index.m3u8
-OCN,https://z3.ubtvfans.com/live/rx4/3206/1ade62b48625bdff1adcd92d55c470fd/index.m3u8
-Spotv,https://z3.ubtvfans.com/live/rx4/266/748bd342160d58c53209b576238e1a0b/index.m3u8
-SPOTV ON1,https://z3.ubtvfans.com/live/rx4/3104/1f0ab3145613528389b41122073eb8c4/index.m3u8
-Spotv2,https://z3.ubtvfans.com/live/rx2/267/9c11afdd7b23d66607b6c6e893f6a5fb/index.m3u8
-SPOTV ON2,https://z3.ubtvfans.com/live/rx4/3105/d91aa80a1de9940f967e6cbab50f172e/index.m3u8
-TV Chosun,https://z3.ubtvfans.com/live/rx4/3109/fe5128fd5931a14326ea0c4dac909517/index.m3u8
-Arirang TV,https://z3.ubtvfans.com/live/rx4/256/4f9e759c4173bdb6938be16b984d6948/index.m3u8
-Mnet,https://z3.ubtvfans.com/live/rx4/1136/73c9767c9abaf0eb45cfa0f2ca51e852/index.m3u8
-MBCevery1,https://z3.ubtvfans.com/live/rx4/476/7db889a3619fd91d2004e475e4f70ed7/index.m3u8
-Tconvers,https://z3.ubtvfans.com/live/rx4/1134/20b8d333d163d6d014944aff2b824ba6/index.m3u8
-채널A,https://z3.ubtvfans.com/live/rx4/1092/b0f4b97a26077b95526aec049f113eaf/index.m3u8
-KBC,https://z3.ubtvfans.com/live/rx6/1307/f6fb46fa23ac8cc538d4ebee5bcd6073/index.m3u8
-EBS1,https://z3.ubtvfans.com/live/rx6/2439/b6a985fc54e1fa5129d73c31374746e6/index.m3u8
-EBS2,https://z3.ubtvfans.com/live/rx6/3006/9e6e7fd8d7965fda01a923371c1441f5/index.m3u8
-EBS KIDS,https://z3.ubtvfans.com/live/rx6/3007/024ca279704d26c4911d890bf1e4c287/index.m3u8
-EBS PLUS1,https://z3.ubtvfans.com/live/rx6/3008/48ef33bf0d3170d8e148bd3bf270c8ac/index.m3u8
-EBS PLUS2,https://z3.ubtvfans.com/live/rx6/3009/c8a9fe2a630d5cf87c471fca8d0fc4c9/index.m3u8
-EBSe,https://z3.ubtvfans.com/live/rx6/3010/34ad6c4f9831b9e6912278a6226aa5a5/index.m3u8
-tvN Show,https://z3.ubtvfans.com/live/rx4/1020/fa9bed320c0ff7e3b7eb7873dd1b5226/index.m3u8
-Inet TV,https://z3.ubtvfans.com/live/rx4/263/dd1a30b5f1be54d131d0ed760c933b10/index.m3u8
-Tooniverse,https://z3.ubtvfans.com/live/rx4/1100/1544b208f22520a3691f28069cc44491/index.m3u8
-대교 어린이,https://z3.ubtvfans.com/live/rx4/260/3cda35ece7828be714255db4249af6f9/index.m3u8
-CNTV,https://z3.ubtvfans.com/live/rx4/3167/439fab4964d45997dab61938543ba996/index.m3u8
-Kids Talk Talk,https://z3.ubtvfans.com/live/rx4/1582/123ac24f79f64b7c3bdfd46f6aa5fb18/index.m3u8
-SPOTV Golf,https://z3.ubtvfans.com/live/rx4/3169/0dcf3b7396c83008f5fb36af3de5cfcf/index.m3u8
-JEI재능TV,https://z3.ubtvfans.com/live/rx4/3205/54807f1d6288d57ecdfea80818092cbb/index.m3u8
-Channel A,https://z3.ubtvfans.com/live/rx4/3204/dc99570920e65b26dacc765da59621bd/index.m3u8
-CATCH ON1,https://z3.ubtvfans.com/live/rx4/3207/4e9df4e88df476f7293f2ed2d1f03e35/index.m3u8
-TV Chosun 2,https://z3.ubtvfans.com/live/rx4/3202/a8c77a3f852061a66bf42de1150ae94e/index.m3u8
-SBS Golf,https://z3.ubtvfans.com/live/rx4/3170/c084cf3ce4f4f0845ebd4117885bdce6/index.m3u8
-JTBC Golf,https://z3.ubtvfans.com/live/rx4/3173/5babbf0518fc34f2d03c69b74a2f6830/index.m3u8
-JTBC Golf&Sports,https://z3.ubtvfans.com/live/rx4/3198/6e77a77403551f48788020dae64a0095/index.m3u8
-MBC Sports,https://z3.ubtvfans.com/live/rx4/3174/f58678b018926abd63eb32ea03907b5d/index.m3u8
-SBS Sports,https://z3.ubtvfans.com/live/rx4/3199/b66f17e02891308d87a70c1dfa640b19/index.m3u8
-SPOTV2,https://z3.ubtvfans.com/live/rx4/250/aa5a71d7ae5fed3dd85045870462dffd/index.m3u8
-KBSN Sports,https://z3.ubtvfans.com/live/rx4/174/c5e6ac921fa9634a1f8d95f3748ca23f/index.m3u8
-TVBaduk,https://z3.ubtvfans.com/live/rx4/2906/d6a9fed4bb4d05f7e23fcde63556973f/index.m3u8
-Channel China,https://z3.ubtvfans.com/live/rx4/2907/ad6e532aede8f182aa849d69abaeb65a/index.m3u8
-SKY Sports,https://z3.ubtvfans.com/live/rx4/2910/fa47f5ef55679af42cbc42bc6e484438/index.m3u8
-tvN Sports,https://z3.ubtvfans.com/live/rx4/2931/e18c7272548c4c7f7593e612730ea7de/index.m3u8
-Smithsonian,https://z3.ubtvfans.com/live/rx4/2934/c30bd52944017a8e4c4b1e8729742675/index.m3u8
-BTN,https://z3.ubtvfans.com/live/rx4/3078/3d61b5de17a4bcfa4e4e5bb55d939a92/index.m3u8
-SPOTV,https://z3.ubtvfans.com/live/rx4/3080/28738d99d35fe0555db2d1ec3ac14909/index.m3u8
-CHING,https://z3.ubtvfans.com/live/rx4/3081/cdb8e0355312ad479995f0211497ba92/index.m3u8
-CPBC,https://z3.ubtvfans.com/live/rx4/3083/3609b39809b5c3f41bda799be769ec5a/index.m3u8
-CTS,https://z3.ubtvfans.com/live/rx4/3084/b1be9c370edddddff73c280006b01581/index.m3u8
-KBS1,https://z3.ubtvfans.com/live/rx4/3086/0d885c4c597ce69746a14c1134a3c6a2/index.m3u8
-KBS2,https://z3.ubtvfans.com/live/rx4/3075/4725e31211a20d0c89324552126fbf4f/index.m3u8
-CGNTV,https://z3.ubtvfans.com/live/rx3/2911/99700082b6d14b5c6078ec1f10298e36/index.m3u8
-Discovery,https://z3.ubtvfans.com/live/rx4/3196/14ec1e68219043fc3b1e059ba5567d40/index.m3u8
-CGN AMERICA,https://z3.ubtvfans.com/live/rx3/365/da3a78dd076121664edea4d24d891801/index.m3u8
 
-한국,#genre#
 #EXTM3U
 #EXTINF:-1 logo="http://i.imgur.com/D1o9by9.png" tvg-id="9bd41a5c12e9c23b13d517aa867b7ca2",KBS JOY
 http://mdlstay.com:9981/stream/channelid/1545262235?ticket=4346C7471E835D0826B08879384AC0AFF014D291&profile=pass
@@ -1215,52 +1032,7 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=461
 https://ha.msbot.dpdns.org/4gtv_api.php?id=316
 http://77.90.60.172:8888/4
 
-#EXTINF:-1 tvg-id="TV1" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="SINGAPURA",WC1
-https://starhubgo.secureswiftcontent.com/bpk-tv/FIFAWCCh2/output/manisfest.mpd
 
-#EXTINF:-1 tvg-id="TV1" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="SINGAPURA",WC2
-https://starhubgo.secureswiftcontent.com/bpk-tv/FIFAWCCh1/output/manisfest.mpd
-
-#EXTINF:-1 tvg-id="TV1" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="SINGAPURA",TV 1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-
-#EXTINF:-1 tvg-id="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://bit.ly/RtmEpg" group-title="SINGAPURA",TV 2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-
-#EXTINF:-1 tvg-name="AEC" tvg-group-title="SINGAPURA",TV3
-https://2bfd741e.b-cdn.net/streamer/3iWcUSXZLTztaTtw8k7q3D.m3u8?expires=1780219639&token=VoKyLAk-sazZ7zAyAzZINQYCTArIIJ7fsAztgE29_Lk
-
-#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="SINGAPURA",TV3
-https://on.bbr3.workers.dev/tv3.m3u8
-https://px.tv911.ccwu.cc/lr/dLQOnLm2jaSUd7fOVCsIVCel6iIMdN0h/playlist.m3u8?cu=881505fa&cd=f94ecb6f&cp=493c3594&cn=31c60c2f&rp=nl_4dL1OjL_hjLdO&tid=m9c00d3e4b8fb&tsum=3a8c6f78b6e1780f5f67268d17c16931&ct=20605
-https://px.tv911.ccwu.cc/lr/dLQOnLm2jaSUdaD2jNt8QZe8vZnBjRBl6PF/playlist.m3u8?cu=881505fa&cd=f94ecb6f&cp=c211bde9&cn=31c60c2f&rp=nl_4dL1OjL_hjLdO&tid=m9c00d3e4b8fb&tsum=4d9a785a9c14cfa93ecf14417045edc8&ct=20605
-https://px.tv911.ccwu.cc/lr/dLQOnLm2jaSUdaD2jNt8QZe8vZnBjRBl6PF/playlist.m3u8?cu=881505fa&cd=f94ecb6f&cp=c211bde9&cn=31c60c2f&rp=nl_4dL1OjL_hjLdO&tid=m9c00d3e4b8fb&tsum=4d9a785a9c14cfa93ecf14417045edc8&ct=20605
-
-#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="SINGAPURA",ASTRO CERIA
-https://px.tv911.ccwu.cc/lr/dLQOnLm2jBnepReyjNt8QZe8vZnBjRBl6PF/playlist.m3u8?cu=881505fa&cd=f94ecb6f&cp=5d5112b6&cn=31c60c2f&rp=nl_4dL1OjL_hjLdO&tid=m9c00d3e4b8fb&tsum=7bf3a62adf31b75216774738a1b98d62&ct=20605
-
-#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Mandarin",NOW Jelly
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:5C&stream=383515&extension=ts&play_token=DpixqskBGS
-
-#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Mandarin",NOW City
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:5C&stream=383498&extension=ts&play_token=rSZnUO2fI0
-
-#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Mandarin",NOW Drama
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:5C&stream=383501&extension=ts&play_token=Veoh62QF1n
-
-#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8pVjaeVsfFklBiGNzbdGLQtaHlMkkyaatp-qEGMCzRCGHk5QgB3_5EoxZJoXuH-SNBv1yuFTjRAO2Fp_aN3W8hAXvykIpHP1uUxGmhaN12N1Ll7EfnT9XfisjFbfXrAlmFRAmMpZXH4w/w345-h230-p-k-no-nu/tvs.png" group-title="SINGAPURA",TV3
-https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b3128000_slmsa.m3u8
-
-#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="SINGAPURA",TV 6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-
-#EXTINF:-1 tvg-id="Okey" tvg-url="https://bit.ly/RtmEpg" group-title="SINGAPURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-
-#EXTINF:-1 tvg-id="Okey" tvg-url="https://bit.ly/RtmEpg" group-title="SINGAPURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TVS
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:D1&stream=383065&extension=ts&play_token=Rll5zqf8Kv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbJbsblUgWN1GpghQxkRwFdMvPtObXPDSGlQ&s" group-title="SINGAPURA",TV 9
 
 #EXTINF:-1 tvg-name="AOD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AOD.png" group-title="SINGAPURA",ASTRO AOD
 http://o11.163189.xyz/stream/live/aod/
@@ -1311,30 +1083,6 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #EXTINF:-1 tvg-id="" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/Dt0kA7e.png" group-title="SINGAPURA",Oktolidays
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 
-#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml"
-#EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
-https://cdn.jsdelivr.net/gh/iptvorganization/first/media.m3u8
-#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5.png" group-title="普通频道",cctv5
-http://82.156.243.185:36888/av3a/cctv5n.m3u8
-#EXTINF:-1 tvg-name="cctv5p" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5p.png" group-title="普通频道",cctv5p
-http://82.156.243.185:36888/av3a/cctv5pn.m3u8
-#EXTINF:-1 tvg-name="cctv16" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv16.png" group-title="普通频道",cctv16
-http://82.156.243.185:36888/av3a/cctv16n.m3u8
-#EXTINF:-1 tvg-name="cctv4k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="普通频道",cctv4k
-http://82.156.243.185:36888/av3a/cctv4kn.m3u8
-#EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="普通频道",cctv8k
-http://82.156.243.185:36888/av3a/cctv8kn.m3u8
-#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5.png" group-title="AV3A频道",cctv5-av3a
-http://82.156.243.185:36888/av3a/cctv5.m3u8
-#EXTINF:-1 tvg-name="cctv5p" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5p.png" group-title="AV3A频道",cctv5p-av3a
-http://82.156.243.185:36888/av3a/cctv5p.m3u8
-#EXTINF:-1 tvg-name="cctv16" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv16.png" group-title="AV3A频道",cctv16-av3a
-http://82.156.243.185:36888/av3a/cctv16.m3u8
-#EXTINF:-1 tvg-name="cctv4k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="AV3A频道",cctv4k-av3a
-http://82.156.243.185:36888/av3a/cctv4k.m3u8
-#EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="AV3A频道",cctv8k-av3a
-http://82.156.243.185:36888/av3a/cctv8.m3u8
-
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="SPORT 4k",Bein 4k
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1556138&extension=ts&play_token=h9XRsSqAtx
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="SPORT 4k",Bein 4k(2)
@@ -1379,17 +1127,17 @@ http://77.90.60.172:55555/2
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/t2l7sxqngp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
-#EXTINF:-1 tvg-name="TNTSPORTS1HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-1.png" group-title="⚽️世界杯",TNT Sports 1
+#EXTINF:-1 tvg-name="TNTSPORTS1HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-1.png" group-title="SPORT",TNT Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
-#EXTINF:-1 tvg-name="TNTSPORTS2HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-2.png" group-title="⚽️世界杯",TNT Sports 2
+#EXTINF:-1 tvg-name="TNTSPORTS2HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-2.png" group-title="SPORT",TNT Sports 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd
-#EXTINF:-1 tvg-name="TNTSPORTS3HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-3.png" group-title="⚽️世界杯",TNT Sports 3
+#EXTINF:-1 tvg-name="TNTSPORTS3HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-3.png" group-title="SPORT",TNT Sports 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
@@ -4101,4 +3849,187 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CONC
 https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 #EXTINF:-1,tvg-id="NewsWorld" tvg-name="NewsWorld" tvg-logo="https://epg.112114.xyz/logo/NEWSWORLD.png" group-title="MYTV",NewsWorld
 https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
+
+한국,#genre#
+公视1,http://211.72.174.95:8116/0.ts
+公视2,http://220.135.241.47:8305/0.ts
+华视3,http://220.135.241.47:8318/0.ts
+客家戏曲,http://220.135.241.47:8307/0.ts
+华视,http://220.135.241.47:8317/0.ts
+台视,http://211.72.174.95:8112/0.ts
+台视财经,http://220.135.241.47:8315/0.ts
+中视,http://220.135.241.47:8301/0.ts
+好好帮,http://220.135.241.47:8303/0.ts
+LIVE,http://211.72.174.95:8133/0.ts
+民视,http://211.72.174.95:8115/0.ts
+史努比欢乐秀,http://220.135.241.47:8312/0.ts
+凯撒饭店,http://211.72.174.95:8118/0.ts
+民视新闻台,http://211.72.174.95:8117/0.ts
+now7,http://110.235.59.30:7169/0.ts
+now1,http://shatian.7766.org:7168/0.ts
+now2,http://42.98.241.116:9241/0.ts
+星影台,http://qingyi.7766.org:7003/0.ts
+星影台,://124.244.129.167:7003/0.ts
+爆谷台,http://124.244.129.167:7007/0.ts
+now3,http://110.235.59.30:7168/0.ts
+翡翠台,http://124.244.129.167:9004/0.ts
+now4,http://shangshui2.7766.org:9241/0.ts
+翡翠台,http://qingyi.7766.org:9004/0.ts
+爆谷台,http://qingyi.7766.org:7007/0.ts
+now8,http://shatian.7766.org:7169/0.ts
+中视,http://211.72.174.95:8113/0.ts
+华视,http://211.72.174.95:8114/0.ts
+公视,http://211.72.174.95:8116/0.ts
+台视,http://211.72.174.95:8112/0.ts
+民视新闻,http://211.72.174.95:8117/0.ts
+民视,http://211.72.174.95:8115/0.ts
+CN卡通,http://77.90.60.172:55555/2/video/index.m3u8
+616,http://77.90.60.172:55555/6
+618,http://77.90.60.172:55555/3
+619,http://77.90.60.172:55555/4
+TSN 4K,http://77.90.60.172:55555/1
+法国M6,http://77.90.60.172:55555/2
+福克斯4K,http://77.90.60.172:55555/5
+福克斯体育1,http://77.90.60.172:55555/7
+午夜剧场,p3p://fccs.ddns.net:19906/5fe445280008a40682a0367c343436bb
+HBO,sop://sdk/VsTw.php?id=5D1fA5b9dC1D0D350ADF
+HBO強檔,sop://sdk/VsTw.php?id=ad0C30A013225DeA3DE2
+HBO家庭,sop://sdk/VsTw.php?id=A4cf9339b19a201fa091
+HBO原創,sop://sdk/VsTw.php?id=42a3e724fa2bfAE0F939
+松視1台,sop://sdk/hotout.php?id=9fC8F6E0817EB1517c
+松視2台,sop://sdk/hotout.php?id=07E46350977531A710
+松視3台,sop://sdk/hotout.php?id=8cc5a53F653B346010
+松視4台,sop://sdk/hotout.php?id=1f5316417a5cE1a582
+香蕉台,sop://sdk/hotout.php?id=4b424b06610e95d38D
+彩虹電影,sop://sdk/hotout.php?id=C72654bA841fD7B7E6
+彩虹E台,sop://sdk/hotout.php?id=e8dC92386381d70b63
+驚艷台,sop://sdk/hotout.php?id=3E1E91bcCdB839EFcB
+極限電影台,sop://sdk/hotout.php?id=adCADF4563c100Eb77
+世界杯3,https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+世界杯4,https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+世界杯5,https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+世界杯6,https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+世界杯7,https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+世界杯8,https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+世界杯9,https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
+wee1，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=wwe1
+wwe2，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=wwe2
+现在电视，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=nowtv
+新加坡体育1台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports1
+新加坡体育2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports2
+新加坡体育3台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports3
+新加坡超级足球台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgPremier
+新加坡贝因体育1台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein1
+新加坡贝因体育2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein2
+新加坡贝因体育3台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein3
+新加坡贝因体育4台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein4
+新加坡贝因体育5台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein5
+新加坡Spotv台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSpotv
+新加坡Spotv2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSpotv2
+新加坡NBA台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgNba
+618,https://iptv.852851.xyz/ch/6ba27bcb83b37f238fb5df663b035f25/master.m3u8
+Bein max2,http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8
+Max1,http://go8knm.optikl.ink/X/index.php/Besyria2/video.m3u8
+4k HDR,http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
+fifa bein,https://fifa.moonx.dev/api/live/hls/bein-sports-1/master.m3u8
+bein fs,https://fifa.moonx.dev/api/live/hls/fox-sports/master.m3u8
+FUSSBALL TV 1 UHD,https://iptv.852851.xyz/ch/b924ee3da277f2970dcb96d30f104734/master.m3u8
+FUSSBALLTV 2 UHD,https://iptv.852851.xyz/ch/a3b25b5c4910a438ebf3472d7e524a8a/master.m3u8
+FUSSBALLTV 3 UHD,https://iptv.852851.xyz/ch/235041a44f2445dc1649e12514a37cb1/master.m3u8
+ProSiebenSat1 UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID00914_ProSiebenSat1UHD_uhd/DASH/index.mpd
+1918c1b96afa3f747e6c376fda8e140e:e09fc7553946e5ad68e0162715e96f71
+RTL UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID00860_RTLUHD_uhd/DASH/index.mpd
+17286ed7f8585665d9ac6d8a007db83c:c1583491f2c49fc36ed90ea42fb8ccc0
+Travelxp 4K UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID00857_Travelxp4K_uhd/DASH/index.mpd
+1f5e28ed5473effa0abf80c7a5dd8d62:5d1d93cb5c7747933dabc3cff1141cbe
+FUSSBALLTV 1 UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+FUSSBALLTV 2 UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
+1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
+FUSSBALLTV 3 UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
+1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
+apple,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119317
+FOX ONE USA (For World Cup),https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
+c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
+한국,#genre#
+KBS1,https://z3.ubtvfans.com/live/rx4/2752/c738c29d70216ec7ba19cbff33e24457/index.m3u8
+KBS2,https://z3.ubtvfans.com/live/rx4/2753/a61150ef3130aaaf962afcbbbe9256ce/index.m3u8
+CATCH ON2,https://z3.ubtvfans.com/live/rx4/3200/646c32839355a3e6b41aee9152b11640/index.m3u8
+SBS,https://z3.ubtvfans.com/live/rx4/252/3d519f2499cad7dff069edf0dbec060f/index.m3u8
+SBS,https://z3.ubtvfans.com/live/rx4/3107/8e3172474144d871a1ef5e24d095596d/index.m3u8
+SBS BIZ,https://z3.ubtvfans.com/live/rx4/3201/52f3cfe6e6d51cd4475f410889572484/index.m3u8
+NOW[미드],https://z3.ubtvfans.com/live/rx4/3166/187c00dbdf01d4a8511564e71739e9d6/index.m3u8
+AXN[미드],https://z3.ubtvfans.com/live/rx4/3168/b1229b5fe1054036585e1f953607f382/index.m3u8
+SCREEN,https://z3.ubtvfans.com/live/rx4/3153/5755e78355db35ddf8337ab468e4aaed/index.m3u8
+KBSN Sports,https://z3.ubtvfans.com/live/rx4/2353/8d00305efee617576ff786327b35e9ea/index.m3u8
+바둑TV,https://z3.ubtvfans.com/live/rx4/2356/3fc3e0dff95aad28aec12ea41de99f22/index.m3u8
+FTV,https://z3.ubtvfans.com/live/rx4/2905/d221965cfe69c5f54327a45893a491e0/index.m3u8
+OCN Thrills,https://z3.ubtvfans.com/live/rx4/2357/d29146b79ead08a3d764b159c8db46f5/index.m3u8
+OBS,https://z3.ubtvfans.com/live/rx4/2358/060692fca1ce47f1578407469edf49ad/index.m3u8
+연변위성,https://z3.ubtvfans.com/live/rx4/2361/4ac15e5f557cfd16593b933b5d792d46/index.m3u8
+TVN,https://z3.ubtvfans.com/live/rx4/295/f7b8f364d98f98e74b987343e3fe39b7/index.m3u8
+MBC,https://z3.ubtvfans.com/live/rx4/251/31f2ab1f3e6281afd06ad29959824137/index.m3u8
+MBC,https://z3.ubtvfans.com/live/rx4/3106/c3444cb653da77de364be3b94797f0d5/index.m3u8
+MBN,https://z3.ubtvfans.com/live/rx4/257/7032c28fa3d4e83419649451008a9c40/index.m3u8
+Mnet,https://z3.ubtvfans.com/live/rx4/3203/4ecd9375a8094a718ff431e4e92b346e/index.m3u8
+MBN,https://z3.ubtvfans.com/live/rx4/3197/5949215a4d2810237c879a740a55986b/index.m3u8
+MBC스포츠,https://z3.ubtvfans.com/live/rx4/265/84594c58474b9da206463f57ce6ac437/index.m3u8
+JTBC골프,https://z3.ubtvfans.com/live/rx4/268/f8f241178d37933a311c910ceb1bd697/index.m3u8
+JTBC,https://z3.ubtvfans.com/live/rx4/3108/c3efb16e3ec0fe3b9029086f1096f0f3/index.m3u8
+JTBC,https://z3.ubtvfans.com/live/rx4/253/6e8d1c5ca1a6e7cc2c3cf2e0c9b5ebf4/index.m3u8
+tvN,https://z3.ubtvfans.com/live/rx4/1154/b932286d05d69ee35928a9273ab5f385/index.m3u8
+OCN,https://z3.ubtvfans.com/live/rx4/488/39edf1eec162e2381f44780c80da7da3/index.m3u8
+OCN Movies,https://z3.ubtvfans.com/live/rx4/3165/0d6f9b82fe5b5d3ee0aa32b1bebf4e0a/index.m3u8
+iNet,https://z3.ubtvfans.com/live/rx4/490/7a624be5c359d55f61a438d695975c7a/index.m3u8
+OCN,https://z3.ubtvfans.com/live/rx4/3206/1ade62b48625bdff1adcd92d55c470fd/index.m3u8
+Spotv,https://z3.ubtvfans.com/live/rx4/266/748bd342160d58c53209b576238e1a0b/index.m3u8
+SPOTV ON1,https://z3.ubtvfans.com/live/rx4/3104/1f0ab3145613528389b41122073eb8c4/index.m3u8
+Spotv2,https://z3.ubtvfans.com/live/rx2/267/9c11afdd7b23d66607b6c6e893f6a5fb/index.m3u8
+SPOTV ON2,https://z3.ubtvfans.com/live/rx4/3105/d91aa80a1de9940f967e6cbab50f172e/index.m3u8
+TV Chosun,https://z3.ubtvfans.com/live/rx4/3109/fe5128fd5931a14326ea0c4dac909517/index.m3u8
+Arirang TV,https://z3.ubtvfans.com/live/rx4/256/4f9e759c4173bdb6938be16b984d6948/index.m3u8
+Mnet,https://z3.ubtvfans.com/live/rx4/1136/73c9767c9abaf0eb45cfa0f2ca51e852/index.m3u8
+MBCevery1,https://z3.ubtvfans.com/live/rx4/476/7db889a3619fd91d2004e475e4f70ed7/index.m3u8
+Tconvers,https://z3.ubtvfans.com/live/rx4/1134/20b8d333d163d6d014944aff2b824ba6/index.m3u8
+채널A,https://z3.ubtvfans.com/live/rx4/1092/b0f4b97a26077b95526aec049f113eaf/index.m3u8
+KBC,https://z3.ubtvfans.com/live/rx6/1307/f6fb46fa23ac8cc538d4ebee5bcd6073/index.m3u8
+EBS1,https://z3.ubtvfans.com/live/rx6/2439/b6a985fc54e1fa5129d73c31374746e6/index.m3u8
+EBS2,https://z3.ubtvfans.com/live/rx6/3006/9e6e7fd8d7965fda01a923371c1441f5/index.m3u8
+EBS KIDS,https://z3.ubtvfans.com/live/rx6/3007/024ca279704d26c4911d890bf1e4c287/index.m3u8
+EBS PLUS1,https://z3.ubtvfans.com/live/rx6/3008/48ef33bf0d3170d8e148bd3bf270c8ac/index.m3u8
+EBS PLUS2,https://z3.ubtvfans.com/live/rx6/3009/c8a9fe2a630d5cf87c471fca8d0fc4c9/index.m3u8
+EBSe,https://z3.ubtvfans.com/live/rx6/3010/34ad6c4f9831b9e6912278a6226aa5a5/index.m3u8
+tvN Show,https://z3.ubtvfans.com/live/rx4/1020/fa9bed320c0ff7e3b7eb7873dd1b5226/index.m3u8
+Inet TV,https://z3.ubtvfans.com/live/rx4/263/dd1a30b5f1be54d131d0ed760c933b10/index.m3u8
+Tooniverse,https://z3.ubtvfans.com/live/rx4/1100/1544b208f22520a3691f28069cc44491/index.m3u8
+대교 어린이,https://z3.ubtvfans.com/live/rx4/260/3cda35ece7828be714255db4249af6f9/index.m3u8
+CNTV,https://z3.ubtvfans.com/live/rx4/3167/439fab4964d45997dab61938543ba996/index.m3u8
+Kids Talk Talk,https://z3.ubtvfans.com/live/rx4/1582/123ac24f79f64b7c3bdfd46f6aa5fb18/index.m3u8
+SPOTV Golf,https://z3.ubtvfans.com/live/rx4/3169/0dcf3b7396c83008f5fb36af3de5cfcf/index.m3u8
+JEI재능TV,https://z3.ubtvfans.com/live/rx4/3205/54807f1d6288d57ecdfea80818092cbb/index.m3u8
+Channel A,https://z3.ubtvfans.com/live/rx4/3204/dc99570920e65b26dacc765da59621bd/index.m3u8
+CATCH ON1,https://z3.ubtvfans.com/live/rx4/3207/4e9df4e88df476f7293f2ed2d1f03e35/index.m3u8
+TV Chosun 2,https://z3.ubtvfans.com/live/rx4/3202/a8c77a3f852061a66bf42de1150ae94e/index.m3u8
+SBS Golf,https://z3.ubtvfans.com/live/rx4/3170/c084cf3ce4f4f0845ebd4117885bdce6/index.m3u8
+JTBC Golf,https://z3.ubtvfans.com/live/rx4/3173/5babbf0518fc34f2d03c69b74a2f6830/index.m3u8
+JTBC Golf&Sports,https://z3.ubtvfans.com/live/rx4/3198/6e77a77403551f48788020dae64a0095/index.m3u8
+MBC Sports,https://z3.ubtvfans.com/live/rx4/3174/f58678b018926abd63eb32ea03907b5d/index.m3u8
+SBS Sports,https://z3.ubtvfans.com/live/rx4/3199/b66f17e02891308d87a70c1dfa640b19/index.m3u8
+SPOTV2,https://z3.ubtvfans.com/live/rx4/250/aa5a71d7ae5fed3dd85045870462dffd/index.m3u8
+KBSN Sports,https://z3.ubtvfans.com/live/rx4/174/c5e6ac921fa9634a1f8d95f3748ca23f/index.m3u8
+TVBaduk,https://z3.ubtvfans.com/live/rx4/2906/d6a9fed4bb4d05f7e23fcde63556973f/index.m3u8
+Channel China,https://z3.ubtvfans.com/live/rx4/2907/ad6e532aede8f182aa849d69abaeb65a/index.m3u8
+SKY Sports,https://z3.ubtvfans.com/live/rx4/2910/fa47f5ef55679af42cbc42bc6e484438/index.m3u8
+tvN Sports,https://z3.ubtvfans.com/live/rx4/2931/e18c7272548c4c7f7593e612730ea7de/index.m3u8
+Smithsonian,https://z3.ubtvfans.com/live/rx4/2934/c30bd52944017a8e4c4b1e8729742675/index.m3u8
+BTN,https://z3.ubtvfans.com/live/rx4/3078/3d61b5de17a4bcfa4e4e5bb55d939a92/index.m3u8
+SPOTV,https://z3.ubtvfans.com/live/rx4/3080/28738d99d35fe0555db2d1ec3ac14909/index.m3u8
+CHING,https://z3.ubtvfans.com/live/rx4/3081/cdb8e0355312ad479995f0211497ba92/index.m3u8
+CPBC,https://z3.ubtvfans.com/live/rx4/3083/3609b39809b5c3f41bda799be769ec5a/index.m3u8
+CTS,https://z3.ubtvfans.com/live/rx4/3084/b1be9c370edddddff73c280006b01581/index.m3u8
+KBS1,https://z3.ubtvfans.com/live/rx4/3086/0d885c4c597ce69746a14c1134a3c6a2/index.m3u8
+KBS2,https://z3.ubtvfans.com/live/rx4/3075/4725e31211a20d0c89324552126fbf4f/index.m3u8
+CGNTV,https://z3.ubtvfans.com/live/rx3/2911/99700082b6d14b5c6078ec1f10298e36/index.m3u8
+Discovery,https://z3.ubtvfans.com/live/rx4/3196/14ec1e68219043fc3b1e059ba5567d40/index.m3u8
+CGN AMERICA,https://z3.ubtvfans.com/live/rx3/365/da3a78dd076121664edea4d24d891801/index.m3u8
 
