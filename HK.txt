@@ -4207,6 +4207,34 @@ http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/65891
 #EXTINF:-1,(US) WWE
 http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18127
 
+#EXTINF:-1,True Sports HD
+http://54.37.19.157/tsp1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,True Sports 2 HD
+http://54.37.19.157/tsp2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,True Sports 3 HD
+http://54.37.19.157/tsp3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,True Sports 4 HD
+http://54.37.19.157/tsp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,True Sports 5 HD
+http://54.37.19.157/tsp5/tracks-v1a1/mono.m3u8
+#EXTINF:-1,True Sports 7 HD
+http://54.37.19.157/tsp7/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein Sports 1 HD
+http://54.37.19.157/bein1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein Sports 2 HD
+http://54.37.19.157/bein2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein Sports 3 HD
+http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein Sports 4 HD
+http://54.37.19.157/bein4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,True spotv 1
+http://54.37.19.157/spotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,True spotv 2
+http://54.37.19.157/spotv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,GOLF+2 HD
+http://54.37.19.157/golf/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tennis
+http://54.37.19.157/tennis/tracks-v1a1/mono.m3u8
 
 한국,#genre#
 公视1,http://211.72.174.95:8116/0.ts
