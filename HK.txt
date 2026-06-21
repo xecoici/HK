@@ -2139,6 +2139,10 @@ https://n34a-eu.rcs.revma.com/qyg9zmvbv4uvv/52_15nleuhxrs9mr02/playlist.m3u8
 https://22283.live.streamtheworld.com/AI_FMAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="Radio",CAT FM
 https://n12.rcs.revma.com/51qe53rv0y3vv.m4a?rj-ttl=5&rj-tok=AAABnlLql9EAoDOtEEL30_YiVg
+#EXTINF:-1 tvg-logo="" group-title="Radio",RRI NET
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8?session=FQ84KS8RpbJVitHjZtreZQ
+#EXTINF:-1 tvg-logo="" group-title="Radio",RRI Pro3
+https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
 #EXTINF:-1 tvg-logo="" group-title="Radio",RRI Sintang Pro 1
 https://stream-node0.rri.co.id/streaming/23/9123/rrisintangpro1.mp3
 #EXTINF:-1 tvg-logo="" group-title="Radio",RRI Sintang Pro 2
