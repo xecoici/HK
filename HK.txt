@@ -3452,28 +3452,28 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd?chann
 
 #====ASTRO=======
 
-#EXTINF:-1 group-logo="" group-title="ASTRON" tvg-id="onehd" tvg-logo="https://get.perfecttv.net/logo/one.png",200 One 
+#EXTINF:-1 group-logo="" group-title="ASTRO" tvg-id="onehd" tvg-logo="https://get.perfecttv.net/logo/one.png",200 One 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
 https://get.perfecttv.net/dash2.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=onehd
 
-#EXTINF:-1 tvg-id="tvN HD" ch-number="211" tvg-name="tvN HD" tvg-logo="https://get.perfecttv.net/logo/tvn.png" group-title="ASTRON",201 tvN HD
+#EXTINF:-1 tvg-id="tvN HD" ch-number="211" tvg-name="tvN HD" tvg-logo="https://get.perfecttv.net/logo/tvn.png" group-title="ASTRO",201 tvN HD
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
 https://get.perfecttv.net/dash2.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=tvn
 
-#EXTINF:-1 group-logo="" group-title="ASTRON" tvg-id="tvN ASTROs HD" tvg-logo="https://get.perfecttv.net/logo/tvnASTROs.png",202 tvN ASTROs
+#EXTINF:-1 group-logo="" group-title="ASTRO" tvg-id="tvN ASTRO HD" tvg-logo="https://get.perfecttv.net/logo/tvnASTRO.png",202 tvN ASTRO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
-https://get.perfecttv.net/astro_10802.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=tvnASTROs
+https://get.perfecttv.net/astro_10802.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=tvnASTRO
 
-#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="ASTRON" tvg-id="KPLUS" tvg-logo="https://get.perfecttv.net/logo/kplus.png", 203 K+
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="ASTRO" tvg-id="KPLUS" tvg-logo="https://get.perfecttv.net/logo/kplus.png", 203 K+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 https://get.perfecttv.net/astro_10802.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=kplus
 
-#EXTINF:-1 group-logo="" group-title="ASTRON" tvg-id="KBSW" tvg-logo="https://get.perfecttv.net/logo/kbsworld.png" ,204 KBS World
+#EXTINF:-1 group-logo="" group-title="ASTRO" tvg-id="KBSW" tvg-logo="https://get.perfecttv.net/logo/kbsworld.png" ,204 KBS World
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
 https://get.perfecttv.net/astro_10802.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=kbsworld
@@ -3554,66 +3554,66 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_ott.mpd?chan
 #KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?channel=starvijay
 
-#====ASTROs========
+#====ASTRO========
 
-#EXTINF:-1 tvg-id="Celestial Classic ASTROs" ch-number="289" tvg-name="CCM" group-title="ASTROS" tvg-logo="https://get.perfecttv.net/logo/ccm.png",135 CCM
+#EXTINF:-1 tvg-id="Celestial Classic ASTRO" ch-number="289" tvg-name="CCM" group-title="ASTRO" tvg-logo="https://get.perfecttv.net/logo/ccm.png",135 CCM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
 https://get.perfecttv.net/dash2.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=ccm
 
-#EXTINF:-1 tvg-id="Celestial ASTROs HD" ch-number="288" tvg-name="CELESTIAL HD" tvg-logo="https://get.perfecttv.net/logo/celestialASTROs.png" group-title="ASTROS",136 Celestial ASTROs
+#EXTINF:-1 tvg-id="Celestial ASTRO HD" ch-number="288" tvg-name="CELESTIAL HD" tvg-logo="https://get.perfecttv.net/logo/celestialASTRO.png" group-title="ASTRO",136 Celestial ASTRO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
 https://get.perfecttv.net/dash2.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=celestial
 
-#EXTINF:-1 player-buffer="2" tvg-id="" ch-number="288" tvg-name="HiYah" tvg-logo="https://get.perfecttv.net/logo/hiyah.png" group-title="ASTROS",136 Hi-Yah
+#EXTINF:-1 player-buffer="2" tvg-id="" ch-number="288" tvg-name="HiYah" tvg-logo="https://get.perfecttv.net/logo/hiyah.png" group-title="ASTRO",136 Hi-Yah
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-logo="" group-title="ASTROS"  ch-number="128" tvg-id="duniasinemahd" ch-number="128" tvg-logo="https://get.perfecttv.net/logo/duniasenima.png",137 Dunia Sinema
+#EXTINF:-1 group-logo="" group-title="ASTRO"  ch-number="128" tvg-id="duniasinemahd" ch-number="128" tvg-logo="https://get.perfecttv.net/logo/duniasenima.png",137 Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 https://get.perfecttv.net/myunifi.mpd?channel=DuniaSin&kid=01a17625-701e-4734-b02a-a22c8657bd6f
 
-#EXTINF:-1 tvg-id="SIAR" tvg-name="SIAR" group-title="ASTROS" tvg-logo="https://get.perfecttv.net/logo/siar.png",138 Siar 
+#EXTINF:-1 tvg-id="SIAR" tvg-name="SIAR" group-title="ASTRO" tvg-logo="https://get.perfecttv.net/logo/siar.png",138 Siar 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
 https://get.perfecttv.net/myunifi.mpd?channel=SIAR&kid=5489f58c-64ad-40db-a471-c8b1c2693e2a
 
-#EXTINF:-1 group-logo="" group-title="ASTROS" tvg-id="degup" ch-number="120" tvg-logo="https://get.perfecttv.net/logo/degup.png" group-logo="" ,139 Degup
+#EXTINF:-1 group-logo="" group-title="ASTRO" tvg-id="degup" ch-number="120" tvg-logo="https://get.perfecttv.net/logo/degup.png" group-logo="" ,139 Degup
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
 https://get.perfecttv.net/myunifi.mpd?channel=DEGUP&kid=a1623b76-6e4b-48eb-88ce-a29e1c309cc7
 
-#EXTINF:-1 group-logo="" group-title="ASTROS" tvg-id="BOO" tvg-logo="https://get.perfecttv.net/logo/boo.png" ,140 BOO  
+#EXTINF:-1 group-logo="" group-title="ASTRO" tvg-id="BOO" tvg-logo="https://get.perfecttv.net/logo/boo.png" ,140 BOO  
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 https://cf.perfecttv.net/rwt.m3u8?username=vip_0v99vlkb&password=wNGqM2Kw&channel=boo
 
-#EXTINF:-1 group-logo="" group-title="ASTROS" tvg-id="hbohd" tvg-logo="https://get.perfecttv.net/logo/hbohd.png" ,141 HBO
+#EXTINF:-1 group-logo="" group-title="ASTRO" tvg-id="hbohd" tvg-logo="https://get.perfecttv.net/logo/hbohd.png" ,141 HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
 https://get.perfecttv.net/myunifi.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=HBO&kid=7ad888ee-5dd6-496a-8c2c-77a6284ff936
 
-#EXTINF:-1 tvg-id="hbohits" tvg-name="HBO Hits" group-title="ASTROS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hbohits.png",142 HBO HITS
+#EXTINF:-1 tvg-id="hbohits" tvg-name="HBO Hits" group-title="ASTRO" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hbohits.png",142 HBO HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
 https://get.perfecttv.net/myunifi.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
 
-#EXTINF:-1 group-logo="" group-title="ASTROS" tvg-id="hbofamily" tvg-logo="https://get.perfecttv.net/logo/hbofamily.png" ,144 HBO Family  
+#EXTINF:-1 group-logo="" group-title="ASTRO" tvg-id="hbofamily" tvg-logo="https://get.perfecttv.net/logo/hbofamily.png" ,144 HBO Family  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
 https://get.perfecttv.net/myunifi.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=HBOF&kid=98e8255f-ae9b-41ae-bb33-4645a916c82b
 
-#EXTINF:-1 tvg-id="" tvg-name="144 HBO Signature" tvg-logo="https://get.perfecttv.net/logo/hbosingnature.png" group-title="ASTROS",144 HBO Signature
+#EXTINF:-1 tvg-id="" tvg-name="144 HBO Signature" tvg-logo="https://get.perfecttv.net/logo/hbosingnature.png" group-title="ASTRO",144 HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:Referer=https://www.indihometv.com
 #EXTVLCOPT:Origin=https://www.indihometv.com
@@ -3621,39 +3621,39 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&ch
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX HD" group-title="ASTROS" tvg-logo="https://get.perfecttv.net/logo/cinemax.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",145 CINEMAX
+#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX HD" group-title="ASTRO" tvg-logo="https://get.perfecttv.net/logo/cinemax.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",145 CINEMAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
 https://get.perfecttv.net/myunifi.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=Cinemax&kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4
 
-#EXTINF:-1 group-logo="" group-title="ASTROS" tvg-id="FAMTIME" tvg-logo="https://get.perfecttv.net/logo/FamTime.png" ,146 FAM Time
+#EXTINF:-1 group-logo="" group-title="ASTRO" tvg-id="FAMTIME" tvg-logo="https://get.perfecttv.net/logo/FamTime.png" ,146 FAM Time
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=07fa6a9f7fe7806bba9b0e97d0ac5b10:c336fd7c8bb18d17bf63c9e46032a8ed
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
 
-#EXTINF:-1 group-logo="" group-title="ASTROS" tvg-id="SHOWTIME" tvg-logo="https://i.ibb.co/j9mLZCqL/1772801477017.png" ,146 Showtime
+#EXTINF:-1 group-logo="" group-title="ASTRO" tvg-id="SHOWTIME" tvg-logo="https://i.ibb.co/j9mLZCqL/1772801477017.png" ,146 Showtime
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=699fb82c70a7ec297f33aa4423bab510:ed12557604838121d996f0d78379caa3
 #2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
 
-#EXTINF:-1 group-logo="" group-title="ASTROS" tvg-id="ShowCaseASTROs" tvg-logo="https://get.perfecttv.net/logo/showcase.png" ,146 Showcase ASTROs 
+#EXTINF:-1 group-logo="" group-title="ASTRO" tvg-id="ShowCaseASTRO" tvg-logo="https://get.perfecttv.net/logo/showcase.png" ,146 Showcase ASTRO 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 https://get.perfecttv.net/astro_10802.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=showcase
 
-#EXTINF:-1 group-logo="" group-title="ASTROS" tvg-id="rockaction" ch-number="474" tvg-logo="https://get.perfecttv.net/logo/rockaction.png",147 Rock Action
+#EXTINF:-1 group-logo="" group-title="ASTRO" tvg-id="rockaction" ch-number="474" tvg-logo="https://get.perfecttv.net/logo/rockaction.png",147 Rock Action
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c64cf911505e42c8aa17869ae51206ba:2f3f5f1c609c1120216d4d72377d1ac2
 https://get.perfecttv.net/myunifi.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=RockAction&kid=c64cf911-505e-42c8-aa17-869ae51206ba
 
-#EXTINF:-1 tvg-id="ROCKXSTREAM" ch-number="415" tvg-name="RockXstream" group-title="ASTROS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockXStream.png",147 Rock Xstream
+#EXTINF:-1 tvg-id="ROCKXSTREAM" ch-number="415" tvg-name="RockXstream" group-title="ASTRO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockXStream.png",147 Rock Xstream
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3661,80 +3661,80 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&ch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/PEcU0p; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.1.2758.20 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 
-#EXTINF:-1 tvg-id="GALAXY" tvg-name="148 Galaxy" tvg-logo="https://get.perfecttv.net/logo/galaxy.png" group-title="ASTROS",148 Galaxy
+#EXTINF:-1 tvg-id="GALAXY" tvg-name="148 Galaxy" tvg-logo="https://get.perfecttv.net/logo/galaxy.png" group-title="ASTRO",148 Galaxy
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
 https://get.perfecttv.net/dashVision3.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=galaxy
 
-###EXTINF:-1 tvg-id="GALAXYPREMIUM" tvg-name="149 Galaxy Premium" tvg-logo="https://get.perfecttv.net/logo/galaxypremium.png" group-title="ASTROS",149 Galaxy Premium
+###EXTINF:-1 tvg-id="GALAXYPREMIUM" tvg-name="149 Galaxy Premium" tvg-logo="https://get.perfecttv.net/logo/galaxypremium.png" group-title="ASTRO",149 Galaxy Premium
 ###KODIPROP:inputstream.adaptive.manifest_type=dash
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
 ###KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 ###https://get.perfecttv.net/dashVision3.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=galaxypremium
 
-#EXTINF:-1 tvg-id="" group-title="ASTROS" tvg-logo="https://get.perfecttv.net/logo/cinemaworld.png", 155 CINEMAWORLD
+#EXTINF:-1 tvg-id="" group-title="ASTRO" tvg-logo="https://get.perfecttv.net/logo/cinemaworld.png", 155 CINEMAWORLD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmulcbcuxlu9vk1ru2bcdqsht40u5.tvnows.workers.dev/DZs4r1B0VwR3T6Y1ynv47HyBqrYqaxcapZxFtSmxLXZrgsRROh
 https://cubmumpd0z2m13s4pkvv1bchljxzivaz.tvnows.workers.dev/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1 tvg-id="HITS ASTROs" ch-number="401" group-title="ASTROS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hitsASTROs.png",163 HITS ASTROs
+#EXTINF:-1 tvg-id="HITS ASTRO" ch-number="401" group-title="ASTRO" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hitsASTRO.png",163 HITS ASTRO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
-https://get.perfecttv.net/dash2.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=hitsASTROs
+https://get.perfecttv.net/dash2.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=hitsASTRO
 
-#EXTINF:-1 tvg-id="IMC.id" group-title="ASTROS" tvg-logo="https://get.perfecttv.net/logo/imc.png",165 IMC
+#EXTINF:-1 tvg-id="IMC.id" group-title="ASTRO" tvg-logo="https://get.perfecttv.net/logo/imc.png",165 IMC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd?channel=imc
 
-#EXTINF:-1 tvg-id="" tvg-name="159 Studio Universal" tvg-logo="https://get.perfecttv.net/logo/studiouniversal.png" group-title="ASTROS",159 Studio Universal
+#EXTINF:-1 tvg-id="" tvg-name="159 Studio Universal" tvg-logo="https://get.perfecttv.net/logo/studiouniversal.png" group-title="ASTRO",159 Studio Universal
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 https://get.perfecttv.net/dashVision3.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=studiouniversal
 
-#EXTINF:-1 tvg-id="" tvg-name="159 Originals" tvg-logo="https://get.perfecttv.net/logo/originals.png" group-title="ASTROS",159 Originals
+#EXTINF:-1 tvg-id="" tvg-name="159 Originals" tvg-logo="https://get.perfecttv.net/logo/originals.png" group-title="ASTRO",159 Originals
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 https://get.perfecttv.net/dashVision3.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=originals
 
-#EXTINF:-1 tvg-id="" tvg-name="160 Cineedge" tvg-logo="https://get.perfecttv.net/logo/cineedge.png" group-title="ASTROS",160 Cineedge
+#EXTINF:-1 tvg-id="" tvg-name="160 Cineedge" tvg-logo="https://get.perfecttv.net/logo/cineedge.png" group-title="ASTRO",160 Cineedge
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
 https://get.perfecttv.net/dashVision3.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=cineedge
 
-#EXTINF:-1 tvg-id="" tvg-name="161 Superrix" tvg-logo="https://get.perfecttv.net/logo/superrix.png" group-title="ASTROS",161 Superrix
+#EXTINF:-1 tvg-id="" tvg-name="161 Superrix" tvg-logo="https://get.perfecttv.net/logo/superrix.png" group-title="ASTRO",161 Superrix
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
 https://get.perfecttv.net/dashVision3.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=superrix
 
-#EXTINF:-1 tvg-id="" tvg-name="162 Uniques" tvg-logo="https://get.perfecttv.net/logo/uniques.png" group-title="ASTROS",162 Uniques
+#EXTINF:-1 tvg-id="" tvg-name="162 Uniques" tvg-logo="https://get.perfecttv.net/logo/uniques.png" group-title="ASTRO",162 Uniques
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
 https://get.perfecttv.net/dashVision3.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=uniques
 
-#EXTINF:-1 tvg-id="" tvg-name="162 Buddy Star" tvg-logo="https://get.perfecttv.net/logo/buddystar.png" group-title="ASTROS",162 Buddy Star
+#EXTINF:-1 tvg-id="" tvg-name="162 Buddy Star" tvg-logo="https://get.perfecttv.net/logo/buddystar.png" group-title="ASTRO",162 Buddy Star
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
 https://get.perfecttv.net/dashVision3.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=buddystar
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/ASTROsnow.png" group-title="ASTROS",156 ASTROs Now
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/ASTROnow.png" group-title="ASTRO",156 ASTRO Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://get.perfecttv.net/dashVision.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=ASTROsnow
+https://get.perfecttv.net/dashVision.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=ASTROnow
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/mnx.png" group-title="ASTROS",158 MNX HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/mnx.png" group-title="ASTRO",158 MNX HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://get.perfecttv.net/dashVision.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=mnxhd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/mnplus.png" group-title="ASTROS",157 MX Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/mnplus.png" group-title="ASTRO",157 MX Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://get.perfecttv.net/dashVision.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=mnplus
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/sonypix.png" group-title="ASTROS",154 Sony Pix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/sonypix.png" group-title="ASTRO",154 Sony Pix
 http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2688.ts?channel=pix
 
 
