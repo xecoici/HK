@@ -128,11 +128,9 @@ http://103.148.44.38:8000/play/a006/index.m3u8
 http://103.148.44.38:8000/play/a04u/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",LOCALIndonesiaCNNIndonesiaINDONESIA
 http://103.148.44.38:8000/play/a03r/index.m3u8
-
-
 #EXTINF:Indonesia1 group-title="INDONESIA",LOCALIndonesiaRODJAIndonesiaTV
 http://103.148.44.38:8000/play/a04t/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",LOCALIndonesiaTVRIIndonesiaNASIONAL
+#EXTINF:Indonesia1 group-title="INDONESIA",LOCALIndonesiaTVRIIndonesiaINDONESIA
 http://103.148.44.38:8000/play/a03t/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",LOCALIndonesiaTVRIIndonesiaSPORT
 http://103.148.44.38:8000/play/a03x/index.m3u8
@@ -172,7 +170,7 @@ http://103.148.44.38:8000/play/a03m/index.m3u8
 http://103.148.44.38:8000/play/a05b/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",DISC
 http://103.148.44.38:8000/play/a09q/index.m3u8
-#:Indonesia1 group-title="INDONESIA",HBO HD
+#EXTINF:Indonesia1 group-title="INDONESIA",HBO HD
 http://103.148.44.38:8000/play/a09a/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",SPOTV2
 http://103.148.44.38:8000/play/a09j/index.m3u8
@@ -919,34 +917,29 @@ https://ucdn.starhubgo.com/bpk-tv/ETTVAsiaHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=83dea75029954534b0b4842b523b5cf9:e99e600f3356e93c8828260cc1c27a44
 https://ucdn.starhubgo.com/bpk-tv/e-LeHD/output/manifest.mpd
 
-#EXTM3U
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" ,Kompas TV
-https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/22.ts
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" ,SCTV DIGITAL (S6)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" ,SCTV DIGITAL (S6)
 http://opplextv.cyou:8080/nasir6160/nasir/351030
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" ,ANTV DIGITAL (S2)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" ,ANTV DIGITAL (S2)
 http://103.148.44.38:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" ,Indosiar DIGITAL (S5)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" ,Indosiar DIGITAL (S5)
 http://103.148.44.38:8000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" ,MNCTV (S2)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" ,MNCTV (S2)
 http://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png" ,MOJI DIGITAL (S4)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png" ,MOJI DIGITAL (S4)
 https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhbSfdg/ts
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" ,Trans TV DIGITAL (S3)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" ,Trans TV DIGITAL (S3)
 http://103.148.44.38:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" ,Trans 7 (S2)
-http://202.169.224.202:8800/udp/239.4.1.2:1234
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" ,RTV DIGITAL (S4)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" ,RTV DIGITAL (S4)
 http://103.148.44.38:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png" tvg-id="--" ,TVONE (S3)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png" tvg-id="--" ,TVONE (S3)
 http://indihuy.streamized.net/atm/DASH/tvone/manifest.mpd
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png" ,Metro TV (S4)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png" ,Metro TV (S4)
 http://202.169.224.202:8800/udp/239.1.3.3:1234
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" ,TVRI DIGITAL (S4)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" ,TVRI DIGITAL (S4)
 http://103.148.44.38:8000/play/a03t/index.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg" ,TVRI WORLD DIGITAL (S3)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg" ,TVRI WORLD DIGITAL (S3)
 http://103.148.44.38:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" ,TVRI SPORT (S1)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" ,TVRI SPORT (S1)
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8|User-Agent=referrer=https://klik.tvri.go.id/
 #EXTINF:-1 tvg-logo="" group-title="Radio",Singkawang1
 https://pantau.singkawangkota.go.id/stream/alitsafioddin/ch-3/stream.m3u8
@@ -964,51 +957,51 @@ https://sintang.go.id/go2rtc/api/stream.mp4?src=SIMPANG_5_03&mp4=all&h264=baseli
 https://sintang.go.id/go2rtc/api/stream.mp4?src=SIMPANG_5_02&mp4=all&h264=baseline
 #EXTINF:-1 tvg-logo="" group-title="Radio",Sintang3
 https://sintang.go.id/go2rtc/api/stream.mp4?src=SIMPANG_PERINDAKOP_01&mp4=all&h264=baseline
-#EXTINF:-1 tvg-logo="" group-title="Mandarin",WWE
+#EXTINF:-1 tvg-logo="" group-title="SINGAPURA",WWE
 http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/1449.ts
-#EXTINF:-1 tvg-logo="" group-title="Mandarin",Sport
+#EXTINF:-1 tvg-logo="" group-title="SINGAPURA",Sport
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:79:1F:11&stream=1284559&extension=ts&play_token=Ee2mJUXz0k
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mandarin",TNT1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SINGAPURA",TNT1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mandarin",TNT2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SINGAPURA",TNT2
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mandarin",TNT3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SINGAPURA",TNT3
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Mandarin",Movie Movie
+#EXTINF:-1 tvg-logo="" group-title="SINGAPURA",Movie Movie
 http://77.90.60.172:55555/2/video/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Mandarin",爱尔达体育1台
+#EXTINF:-1 tvg-logo="" group-title="SINGAPURA",爱尔达体育1台
 http://77.90.60.172:55555/5/video/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Mandarin",随机今晚欧冠粤语
+#EXTINF:-1 tvg-logo="" group-title="SINGAPURA",随机今晚欧冠粤语
 http://77.90.60.172:55555/1/video/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Mandarin",随机明天641
+#EXTINF:-1 tvg-logo="" group-title="SINGAPURA",随机明天641
 http://77.90.60.172:55555/4/video/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Mandarin",随机今晚欧冠4K
+#EXTINF:-1 tvg-logo="" group-title="SINGAPURA",随机今晚欧冠4K
 http://77.90.60.172:55555/3/video/index.m3u8
-#EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now直播台.png" group-title="Mandarin",Master
+#EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now直播台.png" group-title="SINGAPURA",Master
 https://iptv.852851.xyz/ch/d512f47aca83249dbb45ca73778320ed/master.m3u8
-#EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now直播台.png" group-title="Mandarin",Now直播台
+#EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now直播台.png" group-title="SINGAPURA",Now直播台
 https://cdn.19891230.eu.org/hk/now-331/index.m3u8
-#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="Mandarin",Now新聞台
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="SINGAPURA",Now新聞台
 https://cdn.19891230.eu.org/hk/now-332/index.m3u8
-#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="Mandarin",Now財經台
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="SINGAPURA",Now財經台
 https://cdn.19891230.eu.org/hk/now-333/index.m3u8
-#EXTINF:-1 tvg-id="PopC" tvg-name="POPC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="Mandarin",PopC
+#EXTINF:-1 tvg-id="PopC" tvg-name="POPC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="SINGAPURA",PopC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
-#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="Mandarin",Fairychild East
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="SINGAPURA",Fairychild East
 http://tv24.site:80/play/live.php?mac=00:1A:79:EF:78:08&stream=500942&extension=ts&play_token=sguxwNKhk0
-#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="Mandarin",Fairychild HD
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="SINGAPURA",Fairychild HD
 #KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
 
 #EXTINF:-1 tvg-logo="" group-title="Radio",KLASIK FM
@@ -1259,33 +1252,33 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #EXTINF:-1 tvg-id="" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/Dt0kA7e.png" group-title="SINGAPURA",Oktolidays
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="SPORT 4k",Bein 4k
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="SPORT",Bein 4k
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1556138&extension=ts&play_token=h9XRsSqAtx
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="SPORT 4k",Bein 4k(2)
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="SPORT",Bein 4k(2)
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1950411
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="SPORT 4k",ELEVEN
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="SPORT",ELEVEN
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=483973&extension=ts&play_token=GzOQgls8AA
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png?w=272" group-title="SPORT 4k",ELEVEN PL
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png?w=272" group-title="SPORT",ELEVEN PL
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1544301&extension=ts&play_token=vEHrDv8457
-#EXTINF:-1 tvg-id="Hub.Premier.4.sg" group-title="SPORT 4k" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png?w=272",NOW Sport
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg" group-title="SPORT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png?w=272",NOW Sport
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1556135&extension=ts&play_token=MN20bOQm9o
-#EXTINF:-1 tvg-id="Hub.Premier.5.sg" group-title="SPORT 4k" tvg-logo="https://poster.starhubgo.com/Linear_channels2/225_1920x1080_HTV.png?w=272",SKY SPORT
+#EXTINF:-1 tvg-id="Hub.Premier.5.sg" group-title="SPORT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/225_1920x1080_HTV.png?w=272",SKY SPORT
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1544238&extension=ts&play_token=5C2oC7pXJS
-#EXTINF:-1 tvg-id="Hub.Premier.6.sg" group-title="SPORT 4k" tvg-logo="https://poster.starhubgo.com/Linear_channels2/226_1920x1080_HTV.png?w=272",SKY SPORT DART
+#EXTINF:-1 tvg-id="Hub.Premier.6.sg" group-title="SPORT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/226_1920x1080_HTV.png?w=272",SKY SPORT DART
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1544244&extension=ts&play_token=qcfB4AeThP
-#EXTINF:-1 tvg-id="Hub.Premier.7.sg" group-title="SPORT 4k" tvg-logo="https://poster.starhubgo.com/Linear_channels2/227_1920x1080_HTV.png?w=272",SKY SPOERT F1
+#EXTINF:-1 tvg-id="Hub.Premier.7.sg" group-title="SPORT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/227_1920x1080_HTV.png?w=272",SKY SPOERT F1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1544243&extension=ts&play_token=T2wAhxESG9
-#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT 4k" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",TNT ULTIMATE
+#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",TNT ULTIMATE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1544246&extension=ts&play_token=Q9IyUFj4oq
-#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT 4k" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",M+ LALIGA
+#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",M+ LALIGA
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D8:BD:55&stream=1948619&extension=ts&play_token=vHqqcrR70E
-#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT 4k" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",MOVIESTAR LALIGA
+#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",MOVIESTAR LALIGA
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D8:BD:55&stream=1948658&extension=ts&play_token=77QjAO8uKU
-#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT 4k" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",NOW SPORT HK
+#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",NOW SPORT HK
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D8:BD:55&stream=1948636&extension=ts&play_token=eWuBxgcGHF
-#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT 4k" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",FOX SPORT 1
+#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",FOX SPORT 1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SHQHNV72QRZFCT/7322/index.m3u8
-#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT 4k" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",FOX SPORT 2
+#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",FOX SPORT 2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SHQHNV72QRZFCT/7323/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX - HDR10 4K" tvg-name="FOX - HDR10 4K" tvg-logo="" group-title="SPORT",FOX - HDR10 4K
@@ -1317,7 +1310,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1
 
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="🇹🇼 台湾频道",TTV
 http://74.91.26.218:82/live/ttv.m3u8
-#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT 4k" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",TSN
+#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",TSN
 https://iptv.852851.xyz/ch/68e97c59f10d99489065f1e85c13a85b/master.m3u8
 
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="🇹🇼 台湾频道",TTV
@@ -1610,28 +1603,35 @@ http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
 
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="🇹🇼 台湾频道",龍華電影台44
 https://event.pull.hebtv.com:443/live/live101.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Korea",KBS1
+https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",KBS2
+https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",KBS2
 https://z3.ubtvfans.com/live/rx4/3075/4725e31211a20d0c89324552126fbf4f/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",KBS DRAMA
 http://124.63.136.174:9981/stream/channelid/1271934190?profile=pass
-#EXTINF:-1 tvg-logo="" group-title="Korea",MBC Gangwon
+#EXTINF:-1 tvg-logo="" group-title="Korea",MBC
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Korea",MBC1 (VPN)
+#EXTINF:-1 tvg-logo="" group-title="Korea",MBC
 https://live.imnews.imbc.com/imnews/_definst_/live2.stream/chunklist_w914733750.m3u8?e=1779958820&h=cb600a3391fa4f94dfbdd2a8893b6bfb
-#EXTINF:-1 tvg-logo="" group-title="Korea",MBC2
+#EXTINF:-1 tvg-logo="" group-title="Korea",MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1448055229.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Korea",MBC3
+#EXTINF:-1 tvg-logo="" group-title="Korea",MBC
 http://124.63.136.174:9981/stream/channelid/379908702?profile=pass
+#EXTINF:-1 tvg-logo="" group-title="Korea",MBC
+https://backup.760515.xyz/playlist/MBC-playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC ON
 http://124.63.136.174:9981/stream/channelid/432553632?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC DRAMA NET
 http://124.63.136.174:9981/stream/channelid/1747375277?profile=pass
-#EXTINF:-1 tvg-logo="" group-title="Korea",SBS Jibs
+#EXTINF:-1 tvg-logo="" group-title="Korea",SBS
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Korea",SBS1
+#EXTINF:-1 tvg-logo="" group-title="Korea",SBS
 https://media.jibs.co.kr/stream/1_2000_143677/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Korea",SBS2
+#EXTINF:-1 tvg-logo="" group-title="Korea",SBS
+http://124.63.136.174:9981/stream/channelid/1538002823?profile=pass
+#EXTINF:-1 tvg-logo="" group-title="Korea",SBS
 http://124.63.136.174:9981/stream/channelid/1538002823?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBSFun
 http://124.63.136.174:9981/stream/channelid/62864489?profile=pass
@@ -1639,10 +1639,14 @@ http://124.63.136.174:9981/stream/channelid/62864489?profile=pass
 http://124.63.136.174:9981/stream/channelid/821661478?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",ChosunTV
 http://onair.cdn.tvchosun.com///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////origin1////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////_definst_///////////tvchosun_s1////////////////////////////////////chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",ChosunTV2
+https://backup.760515.xyz/playlist/TV%20CHOSUN%202-playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",MOVIE
 http://124.63.136.174:9981/stream/channelid/2115967845?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",OBS
 https://vod3.obs.co.kr:444/live/obsstream1/tv.stream/chunklist_w1714106009.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",JTBC
+https://backup.760515.xyz/playlist/JTBC-playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",JTBC
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",JTBC2
@@ -1652,7 +1656,11 @@ http://124.63.136.174:9981/stream/channelid/1883002244?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",JTBC4
 http://124.63.136.174:9981/play/ticket/stream/channel/84553cf0159e7088da783e3530dadbe4?title=1%20%3A%20JTBC
 #EXTINF:-1 tvg-logo="" group-title="Korea",A Channel
+https://backup.760515.xyz/playlist/%EC%B1%84%EB%84%90A-playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",A Channel
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",A Channel+
+https://backup.760515.xyz/playlist/%EC%B1%84%EB%84%90A%ED%94%8C%EB%9F%AC%EC%8A%A4-playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",ENA
 rtp://233.14.202.175:60000
 #EXTINF:-1 tvg-logo="" group-title="Korea",TVN
@@ -3091,7 +3099,7 @@ http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18173
 http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/19941
 #EXTINF:-1,(US) SportsNet One 4K+
 http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18154
-#EXTINF:-1,(US) CBS Sport 4K+
+#EXTINF:-1,(US) CBS SPORT+
 http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/205347
 #EXTINF:-1,(US) TSN 1 4K+
 http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18139
