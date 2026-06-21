@@ -917,6 +917,1125 @@ https://ucdn.starhubgo.com/bpk-tv/ETTVAsiaHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=83dea75029954534b0b4842b523b5cf9:e99e600f3356e93c8828260cc1c27a44
 https://ucdn.starhubgo.com/bpk-tv/e-LeHD/output/manifest.mpd
 
+
+#EXTINF:-1 tvg-id="5002" tvg-name="Ch 5 (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/ch-5-hd.png" group-title="Singtel",Ch 5 (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68789069812d49479a333c699931ac72:80b9ca05761a15a2243f8ff3897de476
+https://fta.singteltvgo.com/out/v1/447a44fdc4d345e18cb4d3c5f09f78bd/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="5003" tvg-name="Ch 8 (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/ch-8-hd.png" group-title="Singtel",Ch 8 (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6ee174aab8b4c72ab84138852e12208:c825bf8f443396a2eba5f988d34e4e07
+https://fta.singteltvgo.com/out/v1/d639f41e3384446680188b64b211d155/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="5004" tvg-name="Suria (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/suria-hd.png" group-title="Singtel",Suria (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c42878f298ce4a6c9e158f0b50dc3c53:046297f343b800aeacb320eacf47594d
+https://fta.singteltvgo.com/out/v1/f190a2449b0c45a5914faeefa10971f7/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="5005" tvg-name="Vasantham (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/vasantham-hd.png" group-title="Singtel",Vasantham (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba582d8184c340d4b2505cd930b15a1b:050ed47e02891fae62ec7f3f9063fc9d
+https://fta.singteltvgo.com/out/v1/15b9576df4a94bc7bef6afc7912f1320/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="5006" tvg-name="CNA" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cna.png" group-title="Singtel",CNA
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e03a5970a2d44d58dc9d22c58439c81:115ae3c7612c76fbdb580c5518d910ca
+https://fta.singteltvgo.com/out/v1/96a97eee7711497db97c811328468429/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="5007" tvg-name="MediaCorp Ch U" tvg-logo="https://asset.v3.singtelcast.com/channel/img/mediacorp-ch-u.png" group-title="Singtel",MediaCorp Ch U
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fab2349f803c4b1884706ad6f800af7d:302c2e5f8b3a3566ef14458f2dbb95bd
+https://fta.singteltvgo.com/out/v1/d78d74cde0604e1dae7d2f38e4475dd4/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="5111" tvg-name="mio Sports" tvg-logo="https://asset.v3.singtelcast.com/channel/img/mio-sports.png" group-title="Singtel",mio Sports
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec5fd70c74614556ae6cd5b0bd51435d:6b87f4cba36cf5207539f8f2e37857ae
+https://watchcast.singtel.com/wp/liveorigincluster.poster.iptv.singnet.public/5111/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5112" tvg-name="mio Sports 2" tvg-logo="https://asset.v3.singtelcast.com/channel/img/mio-sports-2.png" group-title="Singtel",mio Sports 2
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcc234e37249479cb0ff0c37e4cb04eb:3fb57fcc16fa6ef20e28c34f5baf88f6
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5112/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5113" tvg-name="mio Sports 3" tvg-logo="https://asset.v3.singtelcast.com/channel/img/mio-sports-3.png" group-title="Singtel",mio Sports 3
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f5aef28cfe24b09ba7a90c1e77658ef:fdcdf0912d95bb372c7a4aa92f8b0478
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5113/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="6114" tvg-name="SPOTV (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/spotv-hd.png" group-title="Singtel",SPOTV (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18b2582215aa487d8c3282c2b3215d79:879d729f9834152ec66fdde64c65c216
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6114/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="6115" tvg-name="SPOTV 2 (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/spotv-2-hd.png" group-title="Singtel",SPOTV 2 (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a26e6dfcb9e64247ae2b42027006f896:877e16a7a0ae2ab52a435e2f7d7fb6f1
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6115/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="6119" tvg-name="Fight Sports (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/fight-sports-hd.png" group-title="Singtel",Fight Sports (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=079f84f2539b44ecaf14b8afa6cc145d:ad312aaac3afc04150d8f320192b5800
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6119/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="6126" tvg-name="beIN SPORTS (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/bein-sports-hd.png" group-title="Singtel",beIN SPORTS (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4cb41e8bddd4a10b64c200426a9ab22:59a83da56ed995a07ba22f1716479b9f
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6126/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="6127" tvg-name="beIN SPORTS 2 (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/bein-sports-2-hd.png" group-title="Singtel",beIN SPORTS 2 (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9216a28340b442bda2135bf356665664:891b637d93f6c29cbd7f4eeda42f7952
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6127/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="6110" tvg-name="beIN SPORTS 3 (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/bein-sports-3-hd.png" group-title="Singtel",beIN SPORTS 3 (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f57a214e13ee474594c36f90fdcdfbb6:3a108ab09778a58f55d5871b28d6c090
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6110/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+
+
+#EXTINF:-1 tvg-id="5151" tvg-name="Sky News HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/sky-news-hd.png" group-title="Singtel",Sky News HD
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e549b462da084872a9b006f09b489ac4:ab90b752b599160306eb424697639ac4
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5151/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5155" tvg-name="CGTN (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cgtn.png" group-title="Singtel",CGTN (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa79547d12104cccb98a7f8607567329:50910e0525dfd0b72baa824eff3af690
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5155/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5157" tvg-name="NHK World - Japan" tvg-logo="https://asset.v3.singtelcast.com/channel/img/nhk-world-japan.png" group-title="Singtel",NHK World - Japan
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1953936b018747a6aa2ea4a61497661b:1c354f7fe79a8d44d7ed62d8a7262cee
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5157/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5041" tvg-name="France 24 (English)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/france-24-english.png" group-title="Singtel",France 24 (English)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57081fdd49d442f08eea23c0e1927da9:b8b1b4137ea363051c96698c4b9936ee
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5041/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5161" tvg-name="DW (English)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/dw-english.png" group-title="Singtel",DW (English)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27b5ffa87eff43b49f91aa42377c0ceb:d59c9b67b698d51d0b02cc08f8460f32
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5161/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5165" tvg-name="FOX News Channel HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/fox-news-channel.png" group-title="Singtel",FOX News Channel HD
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d92ae8f28e64311bf685cb0c5e5dbf2:462e88cb65563670c87798883bb5ac81
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5165/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="6166" tvg-name="BBC News (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/bbc-news.png" group-title="Singtel",BBC News (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee776d2814a14242a0d6ae04c0db158b:ac49c9232f692939fb15478e43ab82ff
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6166/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5167" tvg-name="CNN International" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cnn.png" group-title="Singtel",CNN International
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f2cebab43db4910bbdfd35735e700df:3775f9e4b1f0b0c29f7f6f68dc4a6aae
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5167/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5202" tvg-name="Discovery Ch (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/discovery-ch-hd.png" group-title="Singtel",Discovery Ch (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a1008a9be7d4be2a7106efc8efb450e:7d3c490a6509ad864a45f764ce59bb7a
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5202/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="6203" tvg-name="BBC Earth (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/bbc-earth-hd.png" group-title="Singtel",BBC Earth (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5fc33657854d1a8eb3ac863fb283d1:d319e326b6541df8c25d13913e7839a5
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6203/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5206" tvg-name="C+I (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/c-i-hd.png" group-title="Singtel",C+I (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a80378f0eea4db6ae3a4290308056f1:f1f476d6487b6a4a25e26fac3e3385bd
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5206/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5208" tvg-name="Animal Planet (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/animal-planet-hd.png" group-title="Singtel",Animal Planet (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4abc4b798544a26b3f51b189d7ee561:7e7eccafa63576d0b6341612654d7e31
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5208/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5209" tvg-name="HISTORY (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/history-hd.png" group-title="Singtel",HISTORY (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce8a2bf299064479a9e5a26b445a6ed7:97583162b070ad6765673634559fe1e6
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5209/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="5211" tvg-name="CGTN-Documentary" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cgtn-documentary.png" group-title="Singtel",CGTN-Documentary
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7dedc2369da441c98ab1e0fe67b3b41b:0f4a5b43e42a9a1ceb894d24ce666fc4
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5211/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5226" tvg-name="Cartoon Network (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cartoon-network-hd.png" group-title="Singtel",Cartoon Network (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=630d281c4f6443dda9f9ab6ee36a09dc:19dfd04eaf2476ffbc3a13452f196359
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5226/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="6236" tvg-name="CBeebies (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cbeebies-hd.png" group-title="Singtel",CBeebies (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3819f132699f496e96fd6a2a2ce79508:9ce9ebaaa01e5e36154a9a646bfb5f6b
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6236/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5238" tvg-name="Nick Jr (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/nick-jr.png" group-title="Singtel",Nick Jr (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2554871361984f2cbab58381c6c8b229:70c748d7b90f18c93a0a0fcfa51ad7a0
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5238/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5240" tvg-name="Nickelodeon Asia HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/nickelodeon-asia-hd.png" group-title="Singtel",Nickelodeon Asia HD
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cbbf4e1194449099bcab539d9d42f07:51c97cf2376ee6c8854f8de682f2ed91
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5240/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5250" tvg-name="HGTV (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/hgtv-hd.png" group-title="Singtel",HGTV (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e831fc6a335c4dd89be92689d3aa14b7:4c3db08bd3d2a9370810d78b1db7577c
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5250/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5254" tvg-name="TLC (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tlc-hd.png" group-title="Singtel",TLC (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc966e79870440c0ba0731d4859c02e8:83ec9bd6d74dbd3261755cc058031695
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5254/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="6255" tvg-name="BBC Lifestyle (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/bbc-lifestyle-hd.png" group-title="Singtel",BBC Lifestyle (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92baccd03fea45819231fcdfad9ff8ea:3fb93d669108378af23b2771cb6570ad
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6255/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5256" tvg-name="AFN (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/afn-hd.png" group-title="Singtel",AFN (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26dbc5cc37194563989e34ca653b5301:d7741c2b5348f332c013a4cfeb660a8c
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5256/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5119" tvg-name="(HD) Outdoor Channel" tvg-logo="https://asset.v3.singtelcast.com/channel/img/hd-outdoor-channel.png" group-title="Singtel",Outdoor Channel (HD) 
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30794d535c6447e0971269cb7a84d788:032a26d6366a985c887f55979a21b693
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5119/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="6301" tvg-name="HITS MOVIES (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/hits-movies-hd.png" group-title="Singtel",HITS MOVIES (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2340fea3e0c24124a3479c859ddac2ce:5dc342b94095aa721d21ffe19f116e9a
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6301/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5302" tvg-name="Lifetime (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/lifetime-hd.png" group-title="Singtel",Lifetime (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a88589c89554f06a04fa3adf7e9e9be:79d0a5bee09fe4b99eb1f7480e68abaa
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5302/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5303" tvg-name="HITS NOW (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/hits-now-hd.png" group-title="Singtel",HITS NOW (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a65588b63f924579a536ce52247d7201:0e9e9f26841770abbfaa5c7513091612
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5303/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5304" tvg-name="AXN (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/axn-hd.png" group-title="Singtel",AXN (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56070adb71c4e85baa79df7ccea0ffe:c6e5e666870af56dc3ecb33ff97f7b70
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5304/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="5310" tvg-name="ROCK Action (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/rock-action-hd.png" group-title="Singtel",ROCK Action (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6527ae5da46b45f692ad09bf7764e821:bf90e1646455ee4eb0eeb55d4e165d9a
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5310/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5318" tvg-name="ROCK ENT (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/rock-ent-hd.png" group-title="Singtel",ROCK ENT (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=28fe783d0a1c44b291b918f3542ab04a:1c9d0bdcb2fb322dcd428955dc0e4ddb
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5318/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5326" tvg-name="HITS (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/hits-hd.png" group-title="Singtel",HITS (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b690c75a66d34f9d989dc7c333014fb9:82415d00023b1ab86b2f3c5642f060da
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5326/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5340" tvg-name="ANIPLUS HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/aniplus-hd.png" group-title="Singtel",ANIPLUS HD
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=564616a4de064fcdbd54ce7478bb8c7b:6c1e123fb31c81f437bb5c0f44d55a5a
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5340/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5342" tvg-name="Animax (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/animax-hd.png" group-title="Singtel",Animax (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea16d113e1724e7c99adb7f7c6560eb0:84ff4efdbbce828dc99035dfc8c639cb
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5342/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5501" tvg-name="e-Le (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/e-le-hd.png" group-title="Singtel",e-Le (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83dea75029954534b0b4842b523b5cf9:e99e600f3356e93c8828260cc1c27a44
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5501/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5502" tvg-name="Jia Le Channel (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/jia-le-channel-hd.png" group-title="Singtel",Jia Le Channel (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4cd69ec1abd4d98af22f6fed43b5289:f6f7dc261a80203c6757e12d6db7f53b
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5502/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="5503" tvg-name="Ju Le Cool" tvg-logo="https://asset.v3.singtelcast.com/channel/img/ju-le-cool.png" group-title="Singtel",Ju Le Cool
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d33bb6f9e8814a20aca5dc0583b311c9:13815e30cc9917b2b3aaafbdd34d9654
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5503/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="6507" tvg-name="TVBS Asia" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tvbs-asia.png" group-title="Singtel",TVBS Asia
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f572f8f771ba49ec8aeafed559d3ed82:94bd4c89dcf2e7ed6378f9f1334eb32f
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6507/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5511" tvg-name="TVB Jade (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tvb-jade-hd.png" group-title="Singtel",TVB Jade (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a95bddcecc1a4077b36fbf06a1808727:42a8c23540f3b9d993c45d3afb887533
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5511/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5512" tvg-name="now Jelli (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/now-jelli-hd.png" group-title="Singtel",now Jelli (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54fc63a90df7473cab8d9b2efabe5195:ab0391092f1129660bf8f78bd3bb977a
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5512/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5513" tvg-name="ONE HD (Mandarin)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/one-hd-mandarin.png" group-title="Singtel",ONE HD (Mandarin)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c322351154a646b1a913db9f595ee00c:60c969d729cb1f9652e8921539ea3aac
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5513/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="6516" tvg-name="TVBS News" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tvbs-news.png" group-title="Singtel",TVBS News
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d564aa175ee42a3899fe22654d855ae:1a5d18c21ae105640b966c10f2ceed46
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6516/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5517" tvg-name="TVB Xing He (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tvb-xing-he-hd.png" group-title="Singtel",TVB Xing He (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9822bd4fcea4b6b9c98424c4627f57f:c79faaf4fb6a61f66e02fc9f5e1457a7
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5517/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="5518" tvg-name="tvN HD (Mandarin)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tvn-hd-mandarin.png" group-title="Singtel",tvN HD (Mandarin)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d046c0a26620451abe3ddf8aaa3214d2:1d28f4268d99333f8cb21f7d75264843
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5518/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5521" tvg-name="ETTV Asia (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/ettv-asia-hd.png" group-title="Singtel",ETTV Asia (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db83ed2bdb944c898315705c6e7d945f:351c85a863b7335e93d2f500507ee479
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5521/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5038" tvg-name="KBS World (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/kbs-world-hd.png" group-title="Singtel",KBS World (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1e7541042de48d3b3e9ec5d37f85646:4214e1d43cb7fbc0310ce30cb8f97b30
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5038/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5534" tvg-name="CCTV Entertainment" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cctv-entertainment.png" group-title="Singtel",CCTV Entertainment
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4834e8d83f3412c9c37d932228ebeeb:3c53c5f6e9da93877556498f7f2735fe
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5534/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5535" tvg-name="Dragon TV Intl" tvg-logo="https://asset.v3.singtelcast.com/channel/img/dragon-tv-intl.png" group-title="Singtel",Dragon TV Intl
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad3667d7462489c8951154f7c94d86c:f7b6a879c88cb47e8ba9ba40b6da4b1d
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5535/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5536" tvg-name="Hunan International" tvg-logo="https://asset.v3.singtelcast.com/channel/img/hunan-international.png" group-title="Singtel",Hunan International
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d7a1d2d03c245488c8d39613fa02bf5:b955326e3ddfd1af034b61f5a971a091
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5536/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5537" tvg-name="BRTV International" tvg-logo="https://asset.v3.singtelcast.com/channel/img/brtv-international.png" group-title="Singtel",BRTV International
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f07a3023f8f64240832db18c9a852d41:9a8ae469483b5432aa045d9a47de0ff7
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5537/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="6547" tvg-name="Phoenix InfoNews" tvg-logo="https://asset.v3.singtelcast.com/channel/img/phoenix-infonews.png" group-title="Singtel",Phoenix InfoNews
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62ac453677de46bca18c77de3157090d:673bb64ebf7bc88fc63343412b5ded09
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6547/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5557" tvg-name="CTI Asia (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cti-asia-hd.png" group-title="Singtel",CTI Asia (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78b17367e3e24e54a77a65e5ef11b5f3:4568bd3fd256e160310041326059558d
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5557/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5561" tvg-name="ETTV Asia News (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/ettv-news.png" group-title="Singtel",ETTV Asia News (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a91c64e46844d03a261d6868690f0bb:a9c7a516b35f02079d6ef30625d2cc59
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5561/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="6571" tvg-name="CM+" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cmplus.png" group-title="Singtel",CM+
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=894eb4c6b699404a9970442407db3cb0:d08b04ab49f600f24b9f72892ab13ac0
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6571/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5580" tvg-name="CCM" tvg-logo="https://asset.v3.singtelcast.com/channel/img/ccm.png" group-title="Singtel",CCM
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec66be1327d94e9196f3d16d8aba5d2f:2ea9ef451ac308197e7613684c3bc83f
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5580/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5585" tvg-name="Celestial Movies(HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/celestial-movieshd.png" group-title="Singtel",Celestial Movies(HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7979f2bda9e1416e8eb618d18ffd2be0:3562e534372dda0c17561bc9bfb0d066
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5585/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5602" tvg-name="Astro Prima HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/astro-prima-hd.png" group-title="Singtel",Astro Prima HD
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b426e6828780434c9dfaa69d27e2cadf:18f311f66422bcd2ee12dc636d2aab04
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5602/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="5608" tvg-name="Astro Ria HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/astro-ria-hd.png" group-title="Singtel",Astro Ria HD
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052a205286474e1e882ed9101ece063c:ff659f3c050e99e026a58448bd92bd8b
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5608/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5619" tvg-name="tvN HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tvn-hd.png" group-title="Singtel",tvN HD
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d31af9bbb387415d97a601af6fe0e156:59e6ae2e6436eea7fb7d0033ae9b8bde
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5619/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5644" tvg-name="SET (HINDI)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/set-hindi.png" group-title="Singtel",SET (HINDI)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41d449463d81483da9cfbbcc7759dc2f:788e4f82d182421325c34c3b891cafbd
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5644/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5646" tvg-name="Zee TV" tvg-logo="https://asset.v3.singtelcast.com/channel/img/zee-tv.png" group-title="Singtel",Zee TV
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f31536293934158adc7ca8b382e6069:68d5a038c91917058254158973545dc2
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5646/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5648" tvg-name="SAB TV" tvg-logo="https://asset.v3.singtelcast.com/channel/img/sab-tv.png" group-title="Singtel",SAB TV
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17c264fda0f5454c859b04e6c93520d0:4c051ec159f18f77bce6ab9569b1b551
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5648/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5652" tvg-name="Colors" tvg-logo="https://asset.v3.singtelcast.com/channel/img/colors.png" group-title="Singtel",Colors
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df34c838a4e44f95bf08e00edbebbb17:e684f15f343690e080cb13820d7fb3eb
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5652/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5654" tvg-name="Star Bharat" tvg-logo="https://asset.v3.singtelcast.com/channel/img/star-bharat.png" group-title="Singtel",Star Bharat
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f82a99c66d54b7db30cf5e1c3651c52:478f1174fb730b9c51b6af785bff9309
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5654/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="5656" tvg-name="STAR Plus" tvg-logo="https://asset.v3.singtelcast.com/channel/img/star-plus.png" group-title="Singtel",STAR Plus
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d2c87bd09fa4ca48281a3b65320588b:ddc76c2a8581e57f6572eaaa158202a1
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5656/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5658" tvg-name="MTV India" tvg-logo="https://asset.v3.singtelcast.com/channel/img/mtv-india.png" group-title="Singtel",MTV India
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3de50ad6c4de487ab405fb4b65d3c224:3b5a5600846a39336701eaf05026c282
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5658/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5662" tvg-name="STAR Gold" tvg-logo="https://asset.v3.singtelcast.com/channel/img/star-gold.png" group-title="Singtel",STAR Gold
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f996cbfd21e45f7b453007338955dcb:3125f89ab315a19d5e31e4fe6c59a672
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5662/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5668" tvg-name="Sony MAX" tvg-logo="https://asset.v3.singtelcast.com/channel/img/sony-max.png" group-title="Singtel",Sony MAX
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8fc10c0c4a45415c817decc26ebf8c94:612869228df2bfbb71fc42c215dac739
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5668/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5676" tvg-name="Times Now" tvg-logo="https://asset.v3.singtelcast.com/channel/img/times-now.png" group-title="Singtel",Times Now
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7361c85ef12a49dc9b106c85727ad1f8:2cbe038b1d717482a94bb0ed8e3d5684
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5676/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5677" tvg-name="Zoom TV" tvg-logo="https://asset.v3.singtelcast.com/channel/img/zoom-tv.png" group-title="Singtel",Zoom TV
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e137c5e4ca0b4d4eb594da3c625a8e7e:b6d0a31ef3f8f7d10029ec67255f2287
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5677/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5680" tvg-name="WION" tvg-logo="https://asset.v3.singtelcast.com/channel/img/wion.png" group-title="Singtel",WION
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fa49814a50e4e35b2f5be8f190c693d:5dbc05a9fd04fe9b9723ffe08808c07b
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5680/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="5682" tvg-name="NHK World Premium HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/nhk_world_premium.png" group-title="Singtel",NHK World Premium HD
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a63f50e1b3243918ccf3b2040c240a3:f62c20ad63e4b78cbfec70c44b40df98
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5682/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5040" tvg-name="France 24 (French)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/france_24_french.png" group-title="Singtel",France 24 (French)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e385f42388074adf95bf4a339cdd7c36:682c9e04d1859c7c23be3c1f276a09d3
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5040/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5056" tvg-name="GMA Pinoy TV" tvg-logo="https://asset.v3.singtelcast.com/channel/img/gma_pinoy_tv.png" group-title="Singtel",GMA Pinoy TV
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d7038680a9542d8b3d4a5d0e2fb006d:e737f0bde24a2341a6e3d660c90adb4c
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5056/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5689" tvg-name="GMA Life TV" tvg-logo="https://asset.v3.singtelcast.com/channel/img/gma_life_tv.png" group-title="Singtel",GMA Life TV
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3135fe3b80f4467aee8ed5b2465587e:823a8a0b1f7691a76603c7ae51614a17
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5689/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5690" tvg-name="GMA News TV Intl" tvg-logo="https://asset.v3.singtelcast.com/channel/img/gma_news_tv_intl.png" group-title="Singtel",GMA News TV Intl
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac4cf21d00514d9d8a66734ec034dd9a:097f92a143e910eb5986dbf0da469260
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5690/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="6692" tvg-name="Cinema One Global" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cinema_one_global.png" group-title="Singtel",Cinema One Global
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfe78717200b403fbaa39478e5eee105:2177d35e32ac37a2e451787699a35874
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6692/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+
+#EXTINF:-1 tvg-id="5693" tvg-name="The Filipino Ch (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/the-filipino-channel.png" group-title="Singtel",The Filipino Ch (HD)
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97d0ab7778ac4400900ca3728a6032da:32a863f9c6e49a8fd6b5fbc234d2a27f
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5693/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="b76e4eb706e3f4d5a1cc27b07de14f09" group-title="TATA PLAY",Peace TV English HD
+http://119.156.228.231:9983/stream/channelid/927887031?ticket=7D82B2B7901A4D2E01014F18AD456C0A64886C71&profile=pass
+#EXTINF:-1 tvg-id="c84e50af925923cb811d9fde34a04686" group-title="TATA PLAY",Peace TV Urdu HD
+http://119.156.228.231:9983/stream/channelid/793792200?ticket=FE51277AFD4AE8997C21A0262E80D3FA76B9BD5B&profile=pass
+#EXTINF:-1 tvg-id="566912cba1164844bc555095e5ec5cd4" group-title="TATA PLAY",PAIGHAM TV
+http://119.156.228.231:9983/stream/channelid/1259497814?ticket=580D0461B8144946A3B88B87C3CC19C469D62DFA&profile=pass
+#EXTINF:-1 tvg-id="1854a4d105e03db1dcdc85e0ba28283c" group-title="TATA PLAY",Saudia Quran
+http://119.156.228.231:9983/stream/channelid/1369723928?ticket=201DCDE1B97B12460A645A3DBC90DFABC1E75DD0&profile=pass
+#EXTINF:-1 tvg-id="c7547ecd745e8740c51ef33dc1ef6781" group-title="TATA PLAY",Saudia Sunnah
+http://119.156.228.231:9983/stream/channelid/1300124871?ticket=2A539E3120F7683A9539E391884056DAD9E08E2E&profile=pass
+#EXTINF:-1 tvg-id="9b3052e3030572ac17481fe3d4fa365b" group-title="TATA PLAY",ARYQTV
+http://119.156.228.231:9983/stream/channelid/1666330779?ticket=1CEE16929EC1C79BD5BC87527360CBAB24B38BB6&profile=pass
+#EXTINF:-1 tvg-id="4b3cdff426817096a13339cf55eabc52" group-title="TATA PLAY",MADANI TV HD
+http://119.156.228.231:9983/stream/channelid/1960787019?ticket=F8C8A1DACC76690B82FB01265222DDD58C0DF812&profile=pass
+#EXTINF:-1 tvg-id="fd0ee5ef48265c9c593fecdcec13cdc1" group-title="TATA PLAY",Hadi TV
+http://119.156.228.231:9983/stream/channelid/1877282557?ticket=A59708E5C572B85EC89ECC08A4CC741077BF61CA&profile=pass
+#EXTINF:-1 tvg-id="1bb8e9900db70e3fe8c612dd8d3ae675" group-title="TATA PLAY",Ahlebait TV
+http://119.156.228.231:9983/stream/channelid/283752475?ticket=5048A12B83EACB80F21C7ED968C5FBD875C4FF6A&profile=pass
+#EXTINF:-1 tvg-id="a27c946d76fd1270c2af792c142330d9" group-title="TATA PLAY",PTV-NEWS HD
+http://119.156.228.231:9983/stream/channelid/1838447778?ticket=EDE6E1D6DE0B6AC9D2000465217530F349F534A5&profile=pass
+#EXTINF:-1 tvg-id="13bbbd1ed036659d49916128ffe78009" group-title="TATA PLAY",GEO NEWS
+http://119.156.228.231:9983/stream/channelid/515750675?ticket=40FB98E582CBBF5947B2C2D33777EA2E907933B2&profile=pass
+#EXTINF:-1 tvg-id="f8f890ea7f95343af037f6180d3187df" group-title="TATA PLAY",SAMAA
+http://119.156.228.231:9983/stream/channelid/1787885816?ticket=735C8D0E0D9CFEE3FBE82F355182E56C4EE60CEF&profile=pass
+#EXTINF:-1 tvg-id="3a42736cfc280b761711e04f9508ea4b" group-title="TATA PLAY",EXPRESS NEWS
+http://119.156.228.231:9983/stream/channelid/1819492922?ticket=9DBA49E80CB3E48E15EC7A4EA12834FA9E561DAF&profile=pass
+#EXTINF:-1 tvg-id="5665a3e2651486eb5255e5097ee42405" group-title="TATA PLAY",Dunya News HD
+http://119.156.228.231:9983/stream/channelid/1654875478?ticket=98EC33E99765742D27BDF54729863AE27463920A&profile=pass
+#EXTINF:-1 tvg-id="5d2d89265313b9ccb44aa336c908e1bd" group-title="TATA PLAY",ARYNewsAsia
+http://119.156.228.231:9983/stream/channelid/646524253?ticket=3B21766EDF63544960B716796004B4D5FC5F55BB&profile=pass
+#EXTINF:-1 tvg-id="8dd056817019ac0f29f3fa61c4ebcb5e" group-title="TATA PLAY",AAJ NEWS
+http://119.156.228.231:9983/stream/channelid/22466701?ticket=88A66B3969B126711E83DAC64EF3768726D1BD44&profile=pass
+#EXTINF:-1 tvg-id="5e0f0489d60fd6ffce30930dc7e41a01" group-title="TATA PLAY",CHANNEL-24
+http://119.156.228.231:9983/stream/channelid/151261022?ticket=E61E22DBD76BB5A5C2173FCB0AE59C9957650EFA&profile=pass
+#EXTINF:-1 tvg-id="c6f137e2034d816cd3c28d9c0f55cc49" group-title="TATA PLAY",BOL News HD
+http://119.156.228.231:9983/stream/channelid/1647833542?ticket=A7E90DEB511656E1620AAE4F6B7F6BE6AAEF26F3&profile=pass
+#EXTINF:-1 tvg-id="5365119f82f52fe009933e059d58837b" group-title="TATA PLAY",Dawn News TV
+http://119.156.228.231:9983/stream/channelid/521233747?ticket=DEAE63BE9CCE2DD637E7E4D91A5FED0608633B1A&profile=pass
+#EXTINF:-1 tvg-id="c0af564cab3497969b75859829a46789" group-title="TATA PLAY",NEWS ONE
+http://119.156.228.231:9983/stream/channelid/1280749504?ticket=E854D980B4CF7F325413E3EBB19BC91958B4828D&profile=pass
+#EXTINF:-1 tvg-id="4ed26ce1fa66c66cba5aadfad83f8902" group-title="TATA PLAY",Public NEWS HD
+http://119.156.228.231:9983/stream/channelid/1634521678?ticket=B036DFBF80D08ACB27AAE462E13ABA55FE677940&profile=pass
+#EXTINF:-1 tvg-id="ee4dd4b17fc09605b5e7e4a06dfb3285" group-title="TATA PLAY",CH 5 NEWS
+http://119.156.228.231:9983/stream/channelid/835997166?ticket=DF66142937BDA1C34696BFFB0C1766C59265D7DF&profile=pass
+#EXTINF:-1 tvg-id="ab984ed171d3bcf8be928e97609a33dc" group-title="TATA PLAY",SUCH TV
+http://119.156.228.231:9983/stream/channelid/1364105387?ticket=98145F25BD41AC9506523F5AE01291F026D48979&profile=pass
+#EXTINF:-1 tvg-id="50a72e4ff0dd54fb29aafb96f4f43ecf" group-title="TATA PLAY",ABBTAKK HD
+http://119.156.228.231:9983/stream/channelid/1328457552?ticket=BF8EE5BEE2F63C40417A25DB1DA50D04B540404E&profile=pass
+#EXTINF:-1 tvg-id="71d77fa6165abf5e3a25fa4d2d1a00f6" group-title="TATA PLAY",92 News HD
+http://119.156.228.231:9983/stream/channelid/645912433?ticket=D05EEC1C76DE66B756DBC6A54FE27B70F923B948&profile=pass
+#EXTINF:-1 tvg-id="9fe379a99150964307194e2a09f9f4c0" group-title="TATA PLAY",HUM NEWS HD
+http://119.156.228.231:9983/stream/channelid/695853983?ticket=2C27B90EACC4EAF347D58992B9851B61CBDBD676&profile=pass
+#EXTINF:-1 tvg-id="948032b63e0360405d8fb7c875a5eb88" group-title="TATA PLAY",Lahore News
+http://119.156.228.231:9983/stream/channelid/909279380?ticket=DED80C0368E2DB9B42753BBC6070C5427C938D5C&profile=pass
+#EXTINF:-1 tvg-id="b4d2e6e861bc86e3f8248e32e0d8dccc" group-title="TATA PLAY",CHAUPAAL NEWS
+http://119.156.228.231:9983/stream/channelid/1759957684?ticket=1EDCB70C53AFA84437D2228A2DA7CB85C6E98750&profile=pass
+#EXTINF:-1 tvg-id="2c9bfe6509616536854f25b34bf944b5" group-title="TATA PLAY",CITY-41
+http://119.156.228.231:9983/stream/channelid/1711184684?ticket=CBE29FA52DBF233C6B1C7FFF78849F1F2C1A9EFC&profile=pass
+#EXTINF:-1 tvg-id="05ef22fcf327340e93ad385b3a5f0a49" group-title="TATA PLAY",CITY-42
+http://119.156.228.231:9983/stream/channelid/2082664197?ticket=DE93C768FE94BCB06210983E77A17CA7A6A8C735&profile=pass
+#EXTINF:-1 tvg-id="935aec2406c23c90747c533fe78220dc" group-title="TATA PLAY",Capital TV
+http://119.156.228.231:9983/stream/channelid/619469459?ticket=1C4E418739E5CCD51E4F6B5F3E2E29D4DCF493A2&profile=pass
+#EXTINF:-1 tvg-id="e3b6a13d756563336915d1d221fe8160" group-title="TATA PLAY",Geo Tez
+http://119.156.228.231:9983/stream/channelid/1034008291?ticket=4E8D6DEC168A7C417C38D9FBCBF284419572FCF0&profile=pass
+#EXTINF:-1 tvg-id="08e1e27c7475d209ca3b3f92c709d289" group-title="TATA PLAY",PTV-Global
+http://119.156.228.231:9983/stream/channelid/2095243528?ticket=07AA3E4C6B68DEB3BE5E7E4D79C2E1F54CF79AB1&profile=pass
+#EXTINF:-1 tvg-id="8df6df5daa264099a73a4160dd39c000" group-title="TATA PLAY",SUN NEWS HD
+http://119.156.228.231:9983/stream/channelid/1574958733?ticket=03865CE4118885ABCE583D7C2B80DD0307031A50&profile=pass
+#EXTINF:-1 tvg-id="dd543e8a7706d95c822e51f571ac24fa" group-title="TATA PLAY",Kohenoor News
+http://119.156.228.231:9983/stream/channelid/171857117?ticket=0E64E080FA2F47EB46B5770A636FC4CAF78FB4B7&profile=pass
+#EXTINF:-1 tvg-id="a3cf03e7a08dede2c703d02538048216" group-title="TATA PLAY",ROHI TV
+http://119.156.228.231:9983/stream/channelid/1728303011?ticket=B7056D3989D9A2A2EC57F5D843C1B14DA9F495BC&profile=pass
+#EXTINF:-1 tvg-id="06fac3d0770ae2621507e507b5cb6c45" group-title="TATA PLAY",TV TODAY
+http://119.156.228.231:9983/stream/channelid/1355020806?ticket=BE2F1ABB8242D1EF7FA56AA789EDCCA5DC5CA09E&profile=pass
+#EXTINF:-1 tvg-id="48dca31386136eb15f37c10ae37a12c0" group-title="TATA PLAY",M-News
+http://119.156.228.231:9983/stream/channelid/329505864?ticket=C11944F73479C0B63900CCA3C1FB5A43B4F1EA03&profile=pass
+#EXTINF:-1 tvg-id="5aa35ebd9e0de47014c2d414053fc5eb" group-title="TATA PLAY",WASEB NEWS
+http://119.156.228.231:9983/stream/channelid/1029612378?ticket=875E20572E443DF06F711DED68173D010AF58218&profile=pass
+#EXTINF:-1 tvg-id="6aa4af2563ca5da3e41813d48f6fb179" group-title="TATA PLAY",DM NEWS ENGLISH
+http://119.156.228.231:9983/stream/channelid/632267882?ticket=16A974647F90CA5C0BE91A39FC946A39147F9C68&profile=pass
+#EXTINF:-1 tvg-id="79d7c344f0b07c03dcacf29f0dd8f4e3" group-title="TATA PLAY",Pakistan-TV
+http://119.156.228.231:9983/stream/channelid/1153685369?ticket=5F03B262FD904F28401D09F811B72502A589C015&profile=pass
+#EXTINF:-1 tvg-id="dc6845f4f64d5e84916f2a109186e847" group-title="TATA PLAY",EXPRESS 24/7
+http://119.156.228.231:9983/stream/channelid/1950705884?ticket=CA186CFD316E6AC5AAE318BA1C7C25F2BF8C04F9&profile=pass
+#EXTINF:-1 tvg-id="6c9e55c1708bbda0b27694c0f063e277" group-title="TATA PLAY",BBC NEWS
+http://119.156.228.231:9983/stream/channelid/1096130156?ticket=CB1FDE893225AC3C947988CEB6B45A733A27A039&profile=pass
+#EXTINF:-1 tvg-id="b4b8a05b8580aa9ab2b8708e14569fe0" group-title="TATA PLAY",DW English HD
+http://119.156.228.231:9983/stream/channelid/1537259700?ticket=7121A3EAE5BD8744F17CFA3C2F2811157F1DEC37&profile=pass
+#EXTINF:-1 tvg-id="56d1bf35f97d5f0e44d09ce820969709" group-title="TATA PLAY",Al Jazeera English HD
+http://119.156.228.231:9983/stream/channelid/901763414?ticket=D5BDD0B00CE5B99A0E79A05FCF2ACDD5EB90BCE9&profile=pass
+#EXTINF:-1 tvg-id="575ba3d4a86f6081468371a213f40e78" group-title="TATA PLAY",NHK WORLD-JPN
+http://119.156.228.231:9983/stream/channelid/1419991895?ticket=7AAEE699CDA852DB1D7E15AA2A84AA7D1C974F40&profile=pass
+#EXTINF:-1 tvg-id="e7615d38941cb50445322fed7099a2fd" group-title="TATA PLAY",TRT World HD
+http://119.156.228.231:9983/stream/channelid/945644007?ticket=5C1322B0EBD4144509C37C19BCF85D643BCFB295&profile=pass
+#EXTINF:-1 tvg-id="cd777080b469b7cd243c955a1b5a17e5" group-title="TATA PLAY",PTV-Home
+http://119.156.228.231:9983/stream/channelid/7370701?ticket=1A003FBA89E30EFA6B174B1BE28CCBB2A44C36F3&profile=pass
+#EXTINF:-1 tvg-id="f378f2b77f86319d2de50792ee0df002" group-title="TATA PLAY",GEO ENT HD
+http://119.156.228.231:9983/stream/channelid/938637555?ticket=BEB00A63AAFC6D302BEB4D589477B031D9835AED&profile=pass
+#EXTINF:-1 tvg-id="9c013f53af7cca49934d2cd13e8e6ccc" group-title="TATA PLAY",HUM TV
+http://119.156.228.231:9983/stream/channelid/1396638108?ticket=36BCAEEE4104E58E68AE66DCB847DDBB4EF38A4D&profile=pass
+#EXTINF:-1 tvg-id="1e629215cbf8d42f4490c93f2f318b0b" group-title="TATA PLAY",GreenEnt - HD
+http://119.156.228.231:9983/stream/channelid/361914910?ticket=CEF80EECB37DC69DCE2E4ED4AF7F81CD3E39DE76&profile=pass
+#EXTINF:-1 tvg-id="b7a3c10ea6b63395da0870b324aaa8a6" group-title="TATA PLAY",AAJ ENT
+http://119.156.228.231:9983/stream/channelid/247571383?ticket=3C051D999E9ED7F7D0EE062D37902FED50B99991&profile=pass
+#EXTINF:-1 tvg-id="4df3c59eec11dd9e11d304d79fb68c5c" group-title="TATA PLAY",ARY Digital HD
+http://119.156.228.231:9983/stream/channelid/516289357?ticket=6BCF322ACAB472AE9DADD39ABCA3627F1835D401&profile=pass
+#EXTINF:-1 tvg-id="fec32ad69881e5f3d1cd77327592d97e" group-title="TATA PLAY",AAN TV - HD
+http://119.156.228.231:9983/stream/channelid/1445643262?ticket=76D6BECCF22EB93411DC6BEF6D7E6E3C09C19F4A&profile=pass
+#EXTINF:-1 tvg-id="da32ffbb7b09d8136d5ee7e270d5c424" group-title="TATA PLAY",HUM SITARAY
+http://119.156.228.231:9983/stream/channelid/1006580442?ticket=649DFB1304CEF27E8378007C8C06F89EF9A79FE1&profile=pass
+#EXTINF:-1 tvg-id="8b44dfbe8cfb6193682c2598a06344aa" group-title="TATA PLAY",EXPRESS ENT
+http://119.156.228.231:9983/stream/channelid/1054819467?ticket=5531945F4C865BB654299B1B90E270BCECB31F90&profile=pass
+#EXTINF:-1 tvg-id="48c069ffae92e9918e34ad27d288d54d" group-title="TATA PLAY",BOL ENT HD
+http://119.156.228.231:9983/stream/channelid/2137636936?ticket=FF224B6967978A0C0BAFBD8C002512E6874407F8&profile=pass
+#EXTINF:-1 tvg-id="3145598ead182f49131d39c95e90a518" group-title="TATA PLAY",GEO KAHANI HD
+http://119.156.228.231:9983/stream/channelid/240731441?ticket=24C32A2423445D1D06A12CBF2009B7226E4F8833&profile=pass
+#EXTINF:-1 tvg-id="8091dbbf7d134fb9a19d1c3ad997427f" group-title="TATA PLAY",ARYZindagi
+http://119.156.228.231:9983/stream/channelid/1071354240?ticket=ECD3B3C8CD0CB8D93B4089601923093CCC801055&profile=pass
+#EXTINF:-1 tvg-id="8337b3a9443164f7f107f3bb01a1edcf" group-title="TATA PLAY",TV ONE
+http://119.156.228.231:9983/stream/channelid/699611011?ticket=87F4B5372B7DAE4E332532D2EC2683A7E6CF809C&profile=pass
+#EXTINF:-1 tvg-id="bf0729bcb33039ae50deeb177b480d25" group-title="TATA PLAY",AUR Life TV
+http://119.156.228.231:9983/stream/channelid/1009321919?ticket=9BB2FB0C8ABFDB1EE42E9BCFA4157A1AD665ED79&profile=pass
+#EXTINF:-1 tvg-id="b67a5f24753ea7d942b31e700cfed057" group-title="TATA PLAY",PLAY ENT
+http://119.156.228.231:9983/stream/channelid/610237110?ticket=825CABCE57FCCD855FAFB53EAA6C608C6BB493E7&profile=pass
+#EXTINF:-1 tvg-id="d53c43857cbe692f076cc1675f27f6b9" group-title="TATA PLAY",APLUS
+http://119.156.228.231:9983/stream/channelid/88292565?ticket=24B5A750B230BF4FD19FD093D945123A9D01E62D&profile=pass
+#EXTINF:-1 tvg-id="e8fd2eb37318ddb08cace67a9bf4a2d3" group-title="TATA PLAY",Sab TV
+http://119.156.228.231:9983/stream/channelid/858717672?ticket=2035F5B8E7E2C3E2D9A5AAAD583741C2D4DFEFD1&profile=pass
+#EXTINF:-1 tvg-id="8e806c0b46e803e6b289eb2e1b77a2f0" group-title="TATA PLAY",By Pass HD
+http://119.156.228.231:9983/stream/channelid/191660174?ticket=CE682AB230F898E47B483DA5D075968A4289977F&profile=pass
+#EXTINF:-1 tvg-id="ca1f6ad95faab603358bc0e022eeb990" group-title="TATA PLAY",M-Entertainment
+http://119.156.228.231:9983/stream/channelid/1500127178?ticket=02500C85865E30A8C449D18A21671E4DEA7963BA&profile=pass
+#EXTINF:-1 tvg-id="2f29ff5588d9d0ed513adaa40472f9a8" group-title="TATA PLAY",Venus HD
+http://119.156.228.231:9983/stream/channelid/1442785583?ticket=5453E66F26EA2C6DC83219E492B2FB50455375A5&profile=pass
+#EXTINF:-1 tvg-id="63ab8cb3692eecafab33d092a82eb89f" group-title="TATA PLAY",LTN FAMILY
+http://119.156.228.231:9983/stream/channelid/864856931?ticket=EC456DBCBD51393281BCB4C47CA794915FA65446&profile=pass
+#EXTINF:-1 tvg-id="e13479f19bffcf6fcdec3bb18b400d16" group-title="TATA PLAY",Venus ENT HD
+http://119.156.228.231:9983/stream/channelid/1903768801?ticket=58EC87472F8CDA965FD36849BAC30A4C95183536&profile=pass
+#EXTINF:-1 tvg-id="f4b396ffd06a208cf96443bacdb2f5e1" group-title="TATA PLAY",MASALA TV
+http://119.156.228.231:9983/stream/channelid/2140582900?ticket=BCF703710EC6FFC7623607B59698B869AE5E883B&profile=pass
+#EXTINF:-1 tvg-id="558d7b283783d20faae079492f354e36" group-title="TATA PLAY",PTV SPORTS SD
+http://119.156.228.231:9983/stream/channelid/679185749?ticket=D0F1522E870046FAF3BD9775261574EBDE22FFBB&profile=pass
+#EXTINF:-1 tvg-id="430967752fc1198d91609b0965b4af14" group-title="TATA PLAY",TEN Sports
+http://119.156.228.231:9983/stream/channelid/1969686851?ticket=82E1598841ED0989267E6C1B0754AE2F80CB73FD&profile=pass
+#EXTINF:-1 tvg-id="36613c515b2baab44b22761ae0a3ca5e" group-title="TATA PLAY",A Sports HD
+http://119.156.228.231:9983/stream/channelid/1362911542?ticket=4B5F9F50653CA818AD620A21B01928BF0D815DB3&profile=pass
+#EXTINF:-1 tvg-id="d48da2a56849f60f719a7ccb127a0438" group-title="TATA PLAY",FAST SPORTS HD
+http://119.156.228.231:9983/stream/channelid/631410132?ticket=CA451B8185697F54C6CFEE6C1FC1A2CAEFA6E670&profile=pass
+#EXTINF:-1 tvg-id="673a09774a641de36f809b54b944a369" group-title="TATA PLAY",Geo Super
+http://119.156.228.231:9983/stream/channelid/1997093479?ticket=91159E4A697D6E6343F6B9B74DE6E4EEAF1506DC&profile=pass
+#EXTINF:-1 tvg-id="68c67a3b7221c9399961eadd826520da" group-title="TATA PLAY",Star Sports 1 Hindi HD
+http://119.156.228.231:9983/stream/channelid/997901928?ticket=8084CAE4A9CDC9C4B74E30347151DB6428D7E299&profile=pass
+#EXTINF:-1 tvg-id="f9ab7a74fe1bc68aa297e32cd833d3a1" group-title="TATA PLAY",Star Sports 1 HD
+http://119.156.228.231:9983/stream/channelid/1954196473?ticket=80E92FDA7EB2F240E600FD146598EEC8014A55E1&profile=pass
+#EXTINF:-1 tvg-id="3f0bbf9dd6e73d3494475d0ef1c6a97b" group-title="TATA PLAY",Star Sports 2 HD
+http://119.156.228.231:9983/stream/channelid/499059519?ticket=151C690AF8457C21D9E7B3E146D8F20087ECF525&profile=pass
+#EXTINF:-1 tvg-id="82489d43f099490615e8b3196796482f" group-title="TATA PLAY",Star Sports Select 1 HD
+http://119.156.228.231:9983/stream/channelid/1134381186?ticket=175431AB6A6BEB684EEA341C11A94211C010B601&profile=pass
+#EXTINF:-1 tvg-id="3c5e35b7255efc6dec575ce74ba33218",Star Sports Select 2 HD
+http://119.156.228.231:9983/stream/channelid/926244412?ticket=FEE972C5B58FDF16166B28C8318D0A4633751260&profile=pass
+#EXTINF:-1 tvg-id="5a55c6aeb8add1bd9c17457e2a2d1238" group-title="TATA PLAY",SONY TEN 1
+http://119.156.228.231:9983/stream/channelid/784749914?ticket=87994C7F864D9ED4BC60E0FAF09059FD183CB5E8&profile=pass
+#EXTINF:-1 tvg-id="a88869e9c9f043eef261f0a9d1a5685e" group-title="TATA PLAY",SONY TEN 2 HD
+http://119.156.228.231:9983/stream/channelid/1768523944?ticket=7ACDEC45D8EF1510023269630B91E7FE192F9ACE&profile=pass
+#EXTINF:-1 tvg-id="d2c50d3b16bb7b0a0878cd7f6bd5d06e" group-title="TATA PLAY",SONY TEN 3
+http://119.156.228.231:9983/stream/channelid/990758354?ticket=B8FF2E4FC844D7D758179F7195E6532A8C7A28F1&profile=pass
+#EXTINF:-1 tvg-id="5dd2f0c987acf05420bd7abe5ca9ca1c" group-title="TATA PLAY",SONY TEN 5 HD
+http://119.156.228.231:9983/stream/channelid/1240519261?ticket=EC5791030F5F63242A3B8A8AD8602D1373D15705&profile=pass
+#EXTINF:-1 tvg-id="d61fa9aa4b5922d18907e520ccc2606e" group-title="TATA PLAY",EUROSPORT HD
+http://119.156.228.231:9983/stream/channelid/715726806?ticket=A3E0EF45DAE6ACB18DA9ADB1EC5298CC591F3A95&profile=pass
+#EXTINF:-1 tvg-id="af7718dc4be8fecc3252f94071816778" group-title="TATA PLAY",EXTREME SPORTS
+http://119.156.228.231:9983/stream/channelid/1545107375?ticket=8E84215917E3A9FA1308CA2D3A2F5BE731EAF909&profile=pass
+#EXTINF:-1 tvg-id="32608a0137522fe376df813349d8cd47" group-title="TATA PLAY",KSA SPORT1 HD
+http://119.156.228.231:9983/stream/channelid/25845810?ticket=C16BA06A244A7F387CF08B0BB27A137B5D25C88A&profile=pass
+#EXTINF:-1 tvg-id="bfea93a8b647f45d192d4fb19b71fefe" group-title="TATA PLAY",KSA SPORT2 HD
+http://119.156.228.231:9983/stream/channelid/680782527?ticket=0A3FE3764F066BB95EE5F5D49734DE5462143283&profile=pass
+#EXTINF:-1 tvg-id="4b1ad00c907dfd8675c5eac544d32970" group-title="TATA PLAY",KSA SPORTS 3 HD
+http://119.156.228.231:9983/stream/channelid/214964811?ticket=9CE0F13BB2EF5B3A76635982CD3945494EFC345A&profile=pass
+#EXTINF:-1 tvg-id="b4ac84faff90931163853280f9601b48" group-title="TATA PLAY",M-Sports
+http://119.156.228.231:9983/stream/channelid/2055515316?ticket=182CE8876371DE122CCF33177E3C250C1EE466B7&profile=pass
+#EXTINF:-1 tvg-id="9740614f5c58d05b7d1780e34eaf5016" group-title="TATA PLAY",CN HD+
+http://119.156.228.231:9983/stream/channelid/1331773591?ticket=353C2A04CC2EB520C80C5638005633C5F287341F&profile=pass
+#EXTINF:-1 tvg-id="44b8f0ce47a4bbfbd307bb72c5e43944" group-title="TATA PLAY",DISNEY CHANNEL
+http://119.156.228.231:9983/stream/channelid/1324398660?ticket=573A361C58BC864331527B9505847DDBA8FD2EA6&profile=pass
+#EXTINF:-1 tvg-id="47743151cc633c2d47290410f4901463" group-title="TATA PLAY",POGO
+http://119.156.228.231:9983/stream/channelid/1362195527?ticket=7DF863E841CAA6ADC0ECF9925A2A156006517D47&profile=pass
+#EXTINF:-1 tvg-id="13c28824ddd9b1fcc60b99ecd4ed17c0" group-title="TATA PLAY",NICK
+http://119.156.228.231:9983/stream/channelid/612942355?ticket=4188F35B1FF48719C87A569913E0954082444959&profile=pass
+#EXTINF:-1 tvg-id="5f240a3be70f4e596c8ad413f4f43d99" group-title="TATA PLAY",NICK HD+
+http://119.156.228.231:9983/stream/channelid/990520415?ticket=0B1B64499E0C4907B67BDD87BD55EE30CE5C3D26&profile=pass
+#EXTINF:-1 tvg-id="808a6de546e06385888782c02a68bcee" group-title="TATA PLAY",DISCOVERY KIDS
+http://119.156.228.231:9983/stream/channelid/1701677696?ticket=B9DCB654F4F88AAF0C48AAA643BEB9EABB86FD67&profile=pass
+#EXTINF:-1 tvg-id="3ec5a065f4bd3e95233761563817c015" group-title="TATA PLAY",SONIC
+http://119.156.228.231:9983/stream/channelid/1705035070?ticket=BAE64EDF81961E630718562953624518DF44F8D2&profile=pass
+#EXTINF:-1 tvg-id="08dfe8d38ff217d2ca4fc83badc9d2ac" group-title="TATA PLAY",NICK JR
+http://119.156.228.231:9983/stream/channelid/1407770376?ticket=C3F09940D6ECCD37ECC96B6E4E56DE1014D9C5DE&profile=pass
+#EXTINF:-1 tvg-id="18290a1113dee4a302966111848e2434" group-title="TATA PLAY",HUNGAMA
+http://119.156.228.231:9983/stream/channelid/285878552?ticket=CE73A5EC9A06643E389E5F82DBC62A5F5858576F&profile=pass
+#EXTINF:-1 tvg-id="bcb8cd9cfd0735a24e1145dc13af821e" group-title="TATA PLAY",Planet Fun
+http://119.156.228.231:9983/stream/channelid/483244220?ticket=F059274E8034348989BD5A47A2BDAC2D7B0DA434&profile=pass
+#EXTINF:-1 tvg-id="32558b08b006440a35309d2f4d5cdb05" group-title="TATA PLAY",HOORA TV
+http://119.156.228.231:9983/stream/channelid/143349042?ticket=E0988854378D7F4F1B61F4FDC5BD90773760C3B5&profile=pass
+#EXTINF:-1 tvg-id="2bbadcea3286f30a640a6d9dc2e849ca" group-title="TATA PLAY",MBC 3
+http://119.156.228.231:9983/stream/channelid/1792850475?ticket=8A399A9D3183407838371D146F0BD368BD99C684&profile=pass
+#EXTINF:-1 tvg-id="d50d00ef208a019b9c1aa91c9e036c46" group-title="TATA PLAY",GEM JUNIOR
+http://119.156.228.231:9983/stream/channelid/1862274517?ticket=76ED24D5BF6432CB458137C0FD5192F4E3A196DC&profile=pass
+#EXTINF:-1 tvg-id="787333981deca53b7325cf302995f66b" group-title="TATA PLAY",GEM KIDS
+http://119.156.228.231:9983/stream/channelid/406025080?ticket=893735FF10B033D6C2C9C69F9E75F3F0A2BBBE49&profile=pass
+#EXTINF:-1 tvg-id="4da57c64e25c6620d655279caa60290d" group-title="TATA PLAY",MINIMAX
+http://119.156.228.231:9983/stream/channelid/1685890381?ticket=7BF714443AF199EB6FE9462325BC886882CE75F0&profile=pass
+#EXTINF:-1 tvg-id="fee018ceb459bad6e63effb61675edcd" group-title="TATA PLAY",Kidzone Pakistan
+http://119.156.228.231:9983/stream/channelid/1310253310?ticket=7B93226A09F477AD722E31BDA94554C07C0742F7&profile=pass
+#EXTINF:-1 tvg-id="c72a50b2be4b37d27b79fb16634f766f" group-title="TATA PLAY",DISCOVERY
+http://119.156.228.231:9983/stream/channelid/844114631?ticket=A6FDB9FA8AFC306ED5CC7FE1E77DE31145EEE7E3&profile=pass
+#EXTINF:-1 tvg-id="c2a0e41160f49d6f900b99591e5b2d59" group-title="TATA PLAY",Discover Pakistan
+http://119.156.228.231:9983/stream/channelid/300196034?ticket=F71318C38A9B83BD552FE1C6C1B9F63F994C872C&profile=pass
+#EXTINF:-1 tvg-id="88da896ad2f5c6831cdd22d30a4f7fff" group-title="TATA PLAY",NAT GEO WILD HD
+http://119.156.228.231:9983/stream/channelid/1787419272?ticket=E51B486132D23BDEBF1FA597AA4AB17989F48175&profile=pass
+#EXTINF:-1 tvg-id="fa7918a2d1c98abf8beb9179f7a98572" group-title="TATA PLAY",NAT GEO HD
+http://119.156.228.231:9983/stream/channelid/572029434?ticket=5AA3D98453DA3C00E95B0CB668CAEE7461922D52&profile=pass
+#EXTINF:-1 tvg-id="76b550849cb8a811baa01cbb410ee033" group-title="TATA PLAY",TLC HD
+http://119.156.228.231:9983/stream/channelid/72398198?ticket=14C8C937037B18CBC8BAC4093EF54D82335EEB5F&profile=pass
+#EXTINF:-1 tvg-id="16ecb5cb605d84bb748d48c03e8ad266" group-title="TATA PLAY",SONY BBC EARTH HD
+http://119.156.228.231:9983/stream/channelid/1270213654?ticket=C49EA916BF9D0559D13C12AF3AEA51A8DC9FA9D2&profile=pass
+#EXTINF:-1 tvg-id="979601bae482a44cbdf04f4d8673d5f9" group-title="TATA PLAY",HISTORY TV18
+http://119.156.228.231:9983/stream/channelid/973182615?ticket=BE08C9AB802674AF9D3B847DE33FC4464493799D&profile=pass
+#EXTINF:-1 tvg-id="792d0112181060611636c62e36c756e4" group-title="TATA PLAY",ID HD
+http://119.156.228.231:9983/stream/channelid/302067065?ticket=16063D60654052D20BEC67AB84AE8B35B0ED969A&profile=pass
+#EXTINF:-1 tvg-id="c7b8d4a8dddcff2b2ab2f930dedec59e" group-title="TATA PLAY",DISCOVERY TURBO
+http://119.156.228.231:9983/stream/channelid/685029575?ticket=20D9C2CA8E55476E411CAF53A05B5212A890616D&profile=pass
+#EXTINF:-1 tvg-id="a42a180519854ab9bfa0c8f991d7c010" group-title="TATA PLAY",DISCOVERY SCIENCE
+http://119.156.228.231:9983/stream/channelid/85469860?ticket=25CEA4D6CC09F4592680A55DC5649523D030D3E6&profile=pass
+#EXTINF:-1 tvg-id="54c0421025ff3671edb25a6df192af69" group-title="TATA PLAY",TRAVEL XP
+http://119.156.228.231:9983/stream/channelid/272810068?ticket=FC7603CF310E5FF746753AEE91537982F8C41EE5&profile=pass
+#EXTINF:-1 tvg-id="a126c91e191dc5e5e812c6a8f9be7f19" group-title="TATA PLAY",GEM NATURE
+http://119.156.228.231:9983/stream/channelid/516499105?ticket=79C5D5033D549BE45F7EA2B9E677576D10D11872&profile=pass
+#EXTINF:-1 tvg-id="5dd7a59ce27f636f30d2853ab5f1f41f" group-title="TATA PLAY",GEM TRAVEL
+http://119.156.228.231:9983/stream/channelid/480630621?ticket=B200C4986D5282A69415180A6CDD2F7383F286F7&profile=pass
+#EXTINF:-1 tvg-id="6432b4432159432f1704ad4eb2785aee" group-title="TATA PLAY",GEM LIFE+
+http://119.156.228.231:9983/stream/channelid/1135882852?ticket=7C4DCB801E7F572592D35F8DA56BD6676D7B2D1B&profile=pass
+#EXTINF:-1 tvg-id="60c805b95d8e41d65093c79f1cc14ec9" group-title="TATA PLAY",Fashion TV HD
+http://119.156.228.231:9983/stream/channelid/956680288?ticket=FDBAF6FBA425A863DBE431511F522736DE44F696&profile=pass
+#EXTINF:-1 tvg-id="c0d7b90a63bdb7fafe1ae5652428333c" group-title="TATA PLAY",Fashion TV Asia
+http://119.156.228.231:9983/stream/channelid/179951552?ticket=20CD2058D71DDE8E8C007889940D82A68909958D&profile=pass
+#EXTINF:-1 tvg-id="e370b3dcc27be6bcbfb3096a801a2ea0" group-title="TATA PLAY",M-World
+http://119.156.228.231:9983/stream/channelid/1555263715?ticket=4975059FF000A9FD5317A0B069F2F4D84CDBCEBC&profile=pass
+#EXTINF:-1 tvg-id="3aa232e0b51e6a62cba58619034f1abc" group-title="TATA PLAY",ROMEDY NOW
+http://119.156.228.231:9983/stream/channelid/1613931066?ticket=513F84AEA66C8FDF7AB2706B0001C74380CBB052&profile=pass
+#EXTINF:-1 tvg-id="c918c07cf697333c3e1ebb024e9034bf" group-title="TATA PLAY",STAR MOVIES
+http://119.156.228.231:9983/stream/channelid/2092964041?ticket=6F778CBB7BA5AF3F02730D9267D6831458716E49&profile=pass
+#EXTINF:-1 tvg-id="7d196037196f65d883e0d28797b98a42" group-title="TATA PLAY",STAR MOVIES SELECT
+http://119.156.228.231:9983/stream/channelid/929044861?ticket=5F1486920C3EBF2562F7BD2B944B6118FC336EF2&profile=pass
+#EXTINF:-1 tvg-id="6347d62103496c871a338360d6310196" group-title="TATA PLAY",MNX HD
+http://119.156.228.231:9983/stream/channelid/567691107?ticket=EF0F7063AD4426727D80076D4540D9CA42D950DE&profile=pass
+#EXTINF:-1 tvg-id="24507f488b897bd8e2c6c77b525cfaae" group-title="TATA PLAY",STAR GOLD THRILLS
+http://119.156.228.231:9983/stream/channelid/1216303140?ticket=9CB8DF14F4C4E25809D8FD357082D70ABA5354FC&profile=pass
+#EXTINF:-1 tvg-id="dcab48ebc6b8ec0f858f388f9a617916" group-title="TATA PLAY",DISNEY INT
+http://119.156.228.231:9983/stream/channelid/1799924700?ticket=1E40EC9D4E5D045210FF13F63180F99EDA99D3EF&profile=pass
+#EXTINF:-1 tvg-id="f6a63b03a73bc4e442bf3a6f85bb4e2e" group-title="TATA PLAY",MN+ HD
+http://119.156.228.231:9983/stream/channelid/54241014?ticket=7040EC6C9C3C177D5E63750134722D06E008CC13&profile=pass
+#EXTINF:-1 tvg-id="44c8424d8c1f01f49faca4cf44427542" group-title="TATA PLAY",MOVIES NOW
+http://119.156.228.231:9983/stream/channelid/1296222276?ticket=5918026EB41037BF47976020C822A9BEB51439DE&profile=pass
+#EXTINF:-1 tvg-id="d12be6b8d6d572a60d536f2176039139" group-title="TATA PLAY",SONY PIX
+http://119.156.228.231:9983/stream/channelid/954608593?ticket=3416505F933B48D44A77620E0DE6FA76E3E1CF91&profile=pass
+#EXTINF:-1 tvg-id="6cf377084f9899a85850a0a7e82dbda7" group-title="TATA PLAY",LotusTV
+http://119.156.228.231:9983/stream/channelid/142078828?ticket=B01DA18AADB9641F91E5840EB7AEC5EDFC03D112&profile=pass
+#EXTINF:-1 tvg-id="71e3db4dc8d547e1608bd8bf01c45498" group-title="TATA PLAY",INPLUS Pakistan
+http://119.156.228.231:9983/stream/channelid/1306256241?ticket=299D1DE2B10D78EB3544D4350BC19CB8C394E40D&profile=pass
+#EXTINF:-1 tvg-id="51e04239ab9857debd8f819b966db159" group-title="TATA PLAY",MBC1
+http://119.156.228.231:9983/stream/channelid/960684113?ticket=4FF7038016835C091005E752377307C524169438&profile=pass
+#EXTINF:-1 tvg-id="a8363f548406fb9504ad426f7a3fdd21" group-title="TATA PLAY",MBC 2
+http://119.156.228.231:9983/stream/channelid/1413428904?ticket=065E7FFF74FC5A4A93397271783BC15A645D9C29&profile=pass
+#EXTINF:-1 tvg-id="e2239aebeb0ee0ce7ffa9b7af9127602" group-title="TATA PLAY",MBC4
+http://119.156.228.231:9983/stream/channelid/1805263842?ticket=3F1797802AF94C2C86AA93D3904D9B70B9830711&profile=pass
+#EXTINF:-1 tvg-id="b4d2db0d8428dc8c3d3961dcb224a9f8" group-title="TATA PLAY",MBC Action
+http://119.156.228.231:9983/stream/channelid/232510132?ticket=C028B5784FCD99BA1938E39CCDC979DF93166763&profile=pass
+#EXTINF:-1 tvg-id="af90d4978414d8b4f4c5e3798247e98f" group-title="TATA PLAY",MBC Bollywood
+http://119.156.228.231:9983/stream/channelid/399806639?ticket=CB6BCF1823C256030268286ADE1F03239DB9A303&profile=pass
+#EXTINF:-1 tvg-id="ced5324f7dc8be7fd6464358a1f25d88" group-title="TATA PLAY",ONYX HD
+http://119.156.228.231:9983/stream/channelid/1328731598?ticket=8D1F84CFDDBBD7F2CF886823DAEE4BFB8834E770&profile=pass
+#EXTINF:-1 tvg-id="488d105539df8f0feb5a45b98a6c83af" group-title="TATA PLAY",MBC Drama
+http://119.156.228.231:9983/stream/channelid/1427148104?ticket=F7BC3924E05C5B9AF1CF69CDFC5912A042089569&profile=pass
+#EXTINF:-1 tvg-id="638d5a5ed8904b90ee157bd43a310255" group-title="TATA PLAY",MAXX
+http://119.156.228.231:9983/stream/channelid/1582992739?ticket=088F5B9B99C81316908E82AA5CFE4017E4C670F0&profile=pass
+#EXTINF:-1 tvg-id="14ede3693345d0b6fc112c9114a5917d" group-title="TATA PLAY",MBC MAX
+http://119.156.228.231:9983/stream/channelid/1776545044?ticket=8DBA2231688ED066E420BF43E6C087E24874423B&profile=pass
+#EXTINF:-1 tvg-id="57596a7638311e159587c025d26000fa" group-title="TATA PLAY",GEM FILM
+http://119.156.228.231:9983/stream/channelid/1986681175?ticket=3700B3396E8EE2254A9FDA6CA939327111492A75&profile=pass
+#EXTINF:-1 tvg-id="1b26bcf13802d2a74cab5d75ae56454d" group-title="TATA PLAY",8XM
+http://119.156.228.231:9983/stream/channelid/1908155931?ticket=12D3A3D00AD3814EE8E9C463FF8E141AA6EFAEB2&profile=pass
+#EXTINF:-1 tvg-id="ed0ed9f083ca9975e89f4895614b7fbd" group-title="TATA PLAY",JALWA
+http://119.156.228.231:9983/stream/channelid/1893273325?ticket=D0866982C224B2EF88DB559A2A6C10E6CC0B10C1&profile=pass
+#EXTINF:-1 tvg-id="4d19e8355faf0900028061d6d1c8028c" group-title="TATA PLAY",ZING
+http://119.156.228.231:9983/stream/channelid/904403277?ticket=C65AE24C3AF8E4BA57A626CEDD663E251AA95111&profile=pass
+#EXTINF:-1 tvg-id="feccf8153ca7f0d5a826bee2a6380571" group-title="TATA PLAY",9X JALWA
+http://119.156.228.231:9983/stream/channelid/368626942?ticket=6B0E3CA23C65C0D9F6A3D40BF9CA075ECB5FC958&profile=pass
+#EXTINF:-1 tvg-id="35aaf37a1c58287c313df80309731d33" group-title="TATA PLAY",9X JHAKAAS
+http://119.156.228.231:9983/stream/channelid/2062789173?ticket=16E37E464946171528ADF3C491312DFFBAD50B20&profile=pass
+#EXTINF:-1 tvg-id="1b0e4891bc2d68be158a8a96e65699e3" group-title="TATA PLAY",9XM
+http://119.156.228.231:9983/stream/channelid/289934875?ticket=539BB370922BA6E62B686259F9AD202C7736868B&profile=pass
+#EXTINF:-1 tvg-id="677bb5999c047db82d73fe461167ab85" group-title="TATA PLAY",ARYMusik
+http://119.156.228.231:9983/stream/channelid/431324007?ticket=FF33F0DA2779BA10EE1D24B273A98EEA7C29D4D4&profile=pass
+#EXTINF:-1 tvg-id="bef6d9ae982492aa09ed6fdbf6f776e6" group-title="TATA PLAY",MIFA + HD
+http://119.156.228.231:9983/stream/channelid/786036414?ticket=96C60402189E90620524F7732155CF26323DD71F&profile=pass
+#EXTINF:-1 tvg-id="dcce943986a68c65595083bb2d7a0213" group-title="TATA PLAY",Music India
+http://119.156.228.231:9983/stream/channelid/966053596?ticket=77A49DEE4A5CE4C2C93178BD4FEB1BD9220E7E90&profile=pass
+#EXTINF:-1 tvg-id="02ef8837220d01eff263d67f108f078c" group-title="TATA PLAY",9X TASHAN
+http://119.156.228.231:9983/stream/channelid/931720962?ticket=4815AF9639A492C0F87D42F017D18DFAD39BC3CE&profile=pass
+#EXTINF:-1 tvg-id="629c6e657b84b509d039785672f7387c" group-title="TATA PLAY",TABBAR HITS
+http://119.156.228.231:9983/stream/channelid/1701747810?ticket=70AAD6BE6C8E0F96A9D6965D700859A6F12E6BD7&profile=pass
+#EXTINF:-1 tvg-id="e13df7f468cfaef17cac423f9a53a051" group-title="TATA PLAY",Balle Balle Music
+http://119.156.228.231:9983/stream/channelid/1962360289?ticket=617D64D9BE20D92B8741E9A562188CDD1CB0C1D5&profile=pass
+#EXTINF:-1 tvg-id="8af6c2b5eb207e85bdccd0e89f7bba71" group-title="TATA PLAY",24B HD
+http://119.156.228.231:9983/stream/channelid/901969546?ticket=9E34C93B7DB3AC2F0B00C406B0C9892F09A93575&profile=pass
+#EXTINF:-1 tvg-id="ba0e12bb9da0fe4877624fb86833606d" group-title="TATA PLAY",MIFA MUSIC HD
+http://119.156.228.231:9983/stream/channelid/991039162?ticket=33AC77D117639BE0CC12348CD31DB37A0273E147&profile=pass
+#EXTINF:-1 tvg-id="ad4bad85dffdce9dea6611a64668d303" group-title="TATA PLAY",STAR PLUS HD
+http://119.156.228.231:9983/stream/channelid/95243181?ticket=AC5613066A73C014919AD98C97A3D276D857AB4C&profile=pass
+#EXTINF:-1 tvg-id="4e1ee0083e828bf2ce03ea6a6895ed30" group-title="TATA PLAY",SONY HD
+http://119.156.228.231:9983/stream/channelid/148905550?ticket=497B4B1E75682035F9652744BE6115877C9F6A91&profile=pass
+#EXTINF:-1 tvg-id="1ad89e7abf748cb3feb089c789150ec9" group-title="TATA PLAY",COLORS HD
+http://119.156.228.231:9983/stream/channelid/2057230362?ticket=D1A380225331754339E838890559DCC697FC7BFE&profile=pass
+#EXTINF:-1 tvg-id="771757fe0e901459b4bcba54433e76e1" group-title="TATA PLAY",STAR BHARAT
+http://119.156.228.231:9983/stream/channelid/2119636855?ticket=2A58E44666331B06864C02C2B232385A6295C101&profile=pass
+#EXTINF:-1 tvg-id="b45a73d7ff9e6ecdc83bd11a64239d92" group-title="TATA PLAY",SONY SAB HD
+http://119.156.228.231:9983/stream/channelid/1467177652?ticket=6C67BB67063EEEE9F377483F8A7430D5FA0EB5B0&profile=pass
+#EXTINF:-1 tvg-id="f9bfe35429375e026ead59d75050f94e" group-title="TATA PLAY",&TV HD
+http://119.156.228.231:9983/stream/channelid/1424211961?ticket=7A8D0FDBD7C7FA69A5882FAD5F3373E3135E24D4&profile=pass
+#EXTINF:-1 tvg-id="f5d379414acf523ffd9a3a72d28d90fc" group-title="TATA PLAY",ZEE TV HD
+http://119.156.228.231:9983/stream/channelid/1098503157?ticket=9E80892817AD1A448CE16ABC1CEA32AD5E030679&profile=pass
+#EXTINF:-1 tvg-id="6a3f4469bfd8c8e11f4a8f5e5315566f" group-title="TATA PLAY",ZEE BOLLYWOOD
+http://119.156.228.231:9983/stream/channelid/1766080362?ticket=2883ACB2394076E4EF5B93600FE3392222D1D375&profile=pass
+#EXTINF:-1 tvg-id="e22910210e3825aa8627d10932120539" group-title="TATA PLAY",COLORS RISHTEY
+http://119.156.228.231:9983/stream/channelid/554707426?ticket=F68889972AF061D9D3C039AC27EB8AF2919FBD43&profile=pass
+#EXTINF:-1 tvg-id="4ccdfad6e0b55cca41580a4e4cea8a6c" group-title="TATA PLAY",SONY PAL
+http://119.156.228.231:9983/stream/channelid/1459277132?ticket=EB408B3F146926DAAF2AB6DED43622D3D1C2832C&profile=pass
+#EXTINF:-1 tvg-id="76e411d892aa1d6fe77e509305344bb9" group-title="TATA PLAY",ZEE CINEMA HD
+http://119.156.228.231:9983/stream/channelid/1477567606?ticket=75EDEAE6A32BB83FD0B1FDEF2D24E200C46331B8&profile=pass
+#EXTINF:-1 tvg-id="d23a0c46adf9581f335d90a96b552324" group-title="TATA PLAY",&PICTURES HD
+http://119.156.228.231:9983/stream/channelid/1175206610?ticket=413259FAAACAFC6E967D33DACF2D46BD8D649677&profile=pass
+#EXTINF:-1 tvg-id="e88ea995fa5522bd421da9c5f46b074b" group-title="TATA PLAY",STAR GOLD HD
+http://119.156.228.231:9983/stream/channelid/363433704?ticket=BD3E9E12026E48FC20935138A5EB21786A3E2FDC&profile=pass
+#EXTINF:-1 tvg-id="5d09dc10ee294bfeaf531d3513bf0f13" group-title="TATA PLAY",STAR GOLD 2 HD
+http://119.156.228.231:9983/stream/channelid/282855773?ticket=628548232FA3DC718FCE4C1A75D9190C92414043&profile=pass
+#EXTINF:-1 tvg-id="b8d0071188244a01474fd686212f1f61" group-title="TATA PLAY",STAR GOLD ROMANCE
+http://119.156.228.231:9983/stream/channelid/285724856?ticket=953A2404F8E3647364AB5A561333F6D594C5B898&profile=pass
+#EXTINF:-1 tvg-id="f6e285ad9ba1612fcd12dc538c63667a" group-title="TATA PLAY",STAR GOLD SELECT HD
+http://119.156.228.231:9983/stream/channelid/763749110?ticket=E6E895C5D8A769B70156CA61D140DA6CD80602B0&profile=pass
+#EXTINF:-1 tvg-id="af0bc23e416bd9e3dbedea39d456dd94" group-title="TATA PLAY",SONY MAX HD
+http://119.156.228.231:9983/stream/channelid/1052904367?ticket=A33C9601816E47480600D824850C74AB458ACFDF&profile=pass
+#EXTINF:-1 tvg-id="819570d42c110407ab980eaacf443720" group-title="TATA PLAY",SONY MAX 2
+http://119.156.228.231:9983/stream/channelid/1416664449?ticket=C0CFEC41F869625C995C7E81EBCC04A431F2ACF3&profile=pass
+#EXTINF:-1 tvg-id="eb6e9166f22079b4653a8f927d47a704" group-title="TATA PLAY",ZEE CLASSIC
+http://119.156.228.231:9983/stream/channelid/1720807147?ticket=0BD57915BB7DA9BEF77214A9E5585E3D2B6B1FE4&profile=pass
+#EXTINF:-1 tvg-id="efd7a64359e5ba7d2efea9be2b3b3e40 "group-title="TATA PLAY",B4U KADAK
+http://119.156.228.231:9983/stream/channelid/1135007727?ticket=062677E53C2CCB6861EE78F9B428DD9F682E5432&profile=pass
+#EXTINF:-1 tvg-id="1edf4516379c5c6da8aec0a2c9d139ac" group-title="TATA PLAY",PITAARA
+http://119.156.228.231:9983/stream/channelid/373677854?ticket=1ABE1371C4EDE1F82EF2CF02D88B5A4071CC85BD&profile=pass
+#EXTINF:-1 tvg-id="ffe4afb5760a441077d8a4161a4a47fe" group-title="TATA PLAY",THE Q
+http://119.156.228.231:9983/stream/channelid/900719871?ticket=2D29F9D2CC26D0EE60B3F2B3C757FDF174174BF7&profile=pass
+#EXTINF:-1 tvg-id="09b3e8d2c4531f570b1c0e5079387b04" group-title="TATA PLAY",Goldmines
+http://119.156.228.231:9983/stream/channelid/1390981897?ticket=973C432C2B64371FF39C126BFA97ED8E2FB8B3FE&profile=pass
+#EXTINF:-1 tvg-id="0592793ae96a96fc9917330976e9c449" group-title="TATA PLAY",GOLDMINES MOVIES
+http://119.156.228.231:9983/stream/channelid/981045765?ticket=C45415CE6AE0FEC5FE287BD3F784DF718A08192F&profile=pass
+#EXTINF:-1 tvg-id="4aeeee3ffb784010f5ebdb2c59a31019" group-title="TATA PLAY",Goldmines 2
+http://119.156.228.231:9983/stream/channelid/1072623178?ticket=297DA7CA610A648BBDE5CF6C5AB0AC846057957F&profile=pass
+#EXTINF:-1 tvg-id="9f9d91fa1749d28aa7e0a0f20f947111" group-title="TATA PLAY",Goldmines Bollywood
+http://119.156.228.231:9983/stream/channelid/2056363423?ticket=6555233299A84185D87ED3C74E9A6EB54764AE3E&profile=pass
+#EXTINF:-1 tvg-id="f74c43b0be3bcd5247b1409324bb4be8" group-title="TATA PLAY",ALL TIME MOVIES
+http://119.156.228.231:9983/stream/channelid/809716983?ticket=0B386B35C1550D49EBEDBC773C5FA2E612FBEF37&profile=pass
+#EXTINF:-1 tvg-id="d1d607c079c6fe30ae634243c291bcd4" group-title="TATA PLAY",A1TV
+http://119.156.228.231:9983/stream/channelid/1074255569?ticket=E95CA2B3E1C6A39A01356351885010D5EB7EBE60&profile=pass
+#EXTINF:-1 tvg-id="325eafe534a5b48d14b3cbbd0f2813e9" group-title="TATA PLAY",Hum Pashto 1
+http://119.156.228.231:9983/stream/channelid/1705991730?ticket=E61FE27013B4FAF0C4A15FAA95FC2EBE59CC33CD&profile=pass
+#EXTINF:-1 tvg-id="856c4b0eadfa87c24296e2bb1d7d79b4" group-title="TATA PLAY",See TV
+http://119.156.228.231:9983/stream/channelid/239824005?ticket=DC4263A5C534F22581792510694617034F5FB7EE&profile=pass
+#EXTINF:-1 tvg-id="80fcd5fc82512dcb36be82674b50d7a6" group-title="TATA PLAY",RAAVI TV
+http://119.156.228.231:9983/stream/channelid/2094398592?ticket=6B981EE074740592E4DC6F9285821CA5C3FB1FFB&profile=pass
+#EXTINF:-1 tvg-id="dc873260d8b5cdecb27fcf0a93d4b28f" group-title="TATA PLAY",ARUJ TV
+http://119.156.228.231:9983/stream/channelid/1613924316?ticket=C3249E99DF440177F47128A8E9DF0CE19FA8CCC9&profile=pass
+#EXTINF:-1 tvg-id="36d7ff9e4dbc1cca3cfac44bfc6da4a0" group-title="TATA PLAY",FILMAX
+http://119.156.228.231:9983/stream/channelid/520083254?ticket=82606F7995D602814A14AD33A63B105F89DAC667&profile=pass
+#EXTINF:-1 tvg-id="250bf36cbdf9b95fe0a2d3cac0f6adcb" group-title="TATA PLAY",FILMAZIA
+http://119.156.228.231:9983/stream/channelid/1827867429?ticket=832ECD5B304D9C0A54AF49F1B486614D59D73880&profile=pass
+#EXTINF:-1 tvg-id="9f5fb6462e54ccda433c32dff08457dc" group-title="TATA PLAY",FILMAZIA PUNJABI
+http://119.156.228.231:9983/stream/channelid/1186357151?ticket=BF27ED238F17BEF3AB0E83740E32795ACBD25B4E&profile=pass
+#EXTINF:-1 tvg-id="55d02dcb229ca0e910f9cd98324a6979" group-title="TATA PLAY",Sindh News
+http://119.156.228.231:9983/stream/channelid/1261293653?ticket=99360026151AF9E056835329A9FA87C01B7D8FD4&profile=pass
+#EXTINF:-1 tvg-id="856d156eddf5acbed433fa876de612c3" group-title="TATA PLAY",K21 NEWS
+http://119.156.228.231:9983/stream/channelid/1846898053?ticket=61B1A3F04C15B25B2A0ECA96DB0FB7C1E21D3305&profile=pass
+#EXTINF:-1 tvg-id="fb47014d9617e817f391395e511111ec" group-title="TATA PLAY",Sindh TV
+http://119.156.228.231:9983/stream/channelid/1291929595?ticket=492FBDAC87F2937FB126C5B6EC8F1EC1BEAEA5D4&profile=pass
+#EXTINF:-1 tvg-id="3962a79478fe577727162c50683c2d69" group-title="TATA PLAY",Isaac TV
+http://119.156.228.231:9983/stream/channelid/346513977?ticket=445B78815E282B47E34EF0A2B62FB41C48D46A99&profile=pass
+#EXTINF:-1 tvg-id="193f5c185a3e3151c80d0f8bce2e6770" group-title="TATA PLAY",AUR News
+http://119.156.228.231:9983/stream/channelid/408698649?ticket=6D5CD52ED6466F276E6CA686D9C443307166F08D&profile=pass
+#EXTINF:-1 tvg-id="201841141bc462e552a63d4946a753c3" group-title="TATA PLAY",SNN News
+http://119.156.228.231:9983/stream/channelid/339810336?ticket=2826D6AB561A6124864F6CAEB8482997756F47E0&profile=pass
+
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" ,SCTV DIGITAL (S6)
 http://opplextv.cyou:8080/nasir6160/nasir/351030
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" ,ANTV DIGITAL (S2)
@@ -4345,404 +5464,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&chan
 #KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
 https://get.perfecttv.net/dash2.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=premiersport
 
-#EXTINF:-1 tvg-id="b76e4eb706e3f4d5a1cc27b07de14f09" group-title="TATA PLAY",Peace TV English HD
-http://119.156.228.231:9983/stream/channelid/927887031?ticket=7D82B2B7901A4D2E01014F18AD456C0A64886C71&profile=pass
-#EXTINF:-1 tvg-id="c84e50af925923cb811d9fde34a04686" group-title="TATA PLAY",Peace TV Urdu HD
-http://119.156.228.231:9983/stream/channelid/793792200?ticket=FE51277AFD4AE8997C21A0262E80D3FA76B9BD5B&profile=pass
-#EXTINF:-1 tvg-id="566912cba1164844bc555095e5ec5cd4" group-title="TATA PLAY",PAIGHAM TV
-http://119.156.228.231:9983/stream/channelid/1259497814?ticket=580D0461B8144946A3B88B87C3CC19C469D62DFA&profile=pass
-#EXTINF:-1 tvg-id="1854a4d105e03db1dcdc85e0ba28283c" group-title="TATA PLAY",Saudia Quran
-http://119.156.228.231:9983/stream/channelid/1369723928?ticket=201DCDE1B97B12460A645A3DBC90DFABC1E75DD0&profile=pass
-#EXTINF:-1 tvg-id="c7547ecd745e8740c51ef33dc1ef6781" group-title="TATA PLAY",Saudia Sunnah
-http://119.156.228.231:9983/stream/channelid/1300124871?ticket=2A539E3120F7683A9539E391884056DAD9E08E2E&profile=pass
-#EXTINF:-1 tvg-id="9b3052e3030572ac17481fe3d4fa365b" group-title="TATA PLAY",ARYQTV
-http://119.156.228.231:9983/stream/channelid/1666330779?ticket=1CEE16929EC1C79BD5BC87527360CBAB24B38BB6&profile=pass
-#EXTINF:-1 tvg-id="4b3cdff426817096a13339cf55eabc52" group-title="TATA PLAY",MADANI TV HD
-http://119.156.228.231:9983/stream/channelid/1960787019?ticket=F8C8A1DACC76690B82FB01265222DDD58C0DF812&profile=pass
-#EXTINF:-1 tvg-id="fd0ee5ef48265c9c593fecdcec13cdc1" group-title="TATA PLAY",Hadi TV
-http://119.156.228.231:9983/stream/channelid/1877282557?ticket=A59708E5C572B85EC89ECC08A4CC741077BF61CA&profile=pass
-#EXTINF:-1 tvg-id="1bb8e9900db70e3fe8c612dd8d3ae675" group-title="TATA PLAY",Ahlebait TV
-http://119.156.228.231:9983/stream/channelid/283752475?ticket=5048A12B83EACB80F21C7ED968C5FBD875C4FF6A&profile=pass
-#EXTINF:-1 tvg-id="a27c946d76fd1270c2af792c142330d9" group-title="TATA PLAY",PTV-NEWS HD
-http://119.156.228.231:9983/stream/channelid/1838447778?ticket=EDE6E1D6DE0B6AC9D2000465217530F349F534A5&profile=pass
-#EXTINF:-1 tvg-id="13bbbd1ed036659d49916128ffe78009" group-title="TATA PLAY",GEO NEWS
-http://119.156.228.231:9983/stream/channelid/515750675?ticket=40FB98E582CBBF5947B2C2D33777EA2E907933B2&profile=pass
-#EXTINF:-1 tvg-id="f8f890ea7f95343af037f6180d3187df" group-title="TATA PLAY",SAMAA
-http://119.156.228.231:9983/stream/channelid/1787885816?ticket=735C8D0E0D9CFEE3FBE82F355182E56C4EE60CEF&profile=pass
-#EXTINF:-1 tvg-id="3a42736cfc280b761711e04f9508ea4b" group-title="TATA PLAY",EXPRESS NEWS
-http://119.156.228.231:9983/stream/channelid/1819492922?ticket=9DBA49E80CB3E48E15EC7A4EA12834FA9E561DAF&profile=pass
-#EXTINF:-1 tvg-id="5665a3e2651486eb5255e5097ee42405" group-title="TATA PLAY",Dunya News HD
-http://119.156.228.231:9983/stream/channelid/1654875478?ticket=98EC33E99765742D27BDF54729863AE27463920A&profile=pass
-#EXTINF:-1 tvg-id="5d2d89265313b9ccb44aa336c908e1bd" group-title="TATA PLAY",ARYNewsAsia
-http://119.156.228.231:9983/stream/channelid/646524253?ticket=3B21766EDF63544960B716796004B4D5FC5F55BB&profile=pass
-#EXTINF:-1 tvg-id="8dd056817019ac0f29f3fa61c4ebcb5e" group-title="TATA PLAY",AAJ NEWS
-http://119.156.228.231:9983/stream/channelid/22466701?ticket=88A66B3969B126711E83DAC64EF3768726D1BD44&profile=pass
-#EXTINF:-1 tvg-id="5e0f0489d60fd6ffce30930dc7e41a01" group-title="TATA PLAY",CHANNEL-24
-http://119.156.228.231:9983/stream/channelid/151261022?ticket=E61E22DBD76BB5A5C2173FCB0AE59C9957650EFA&profile=pass
-#EXTINF:-1 tvg-id="c6f137e2034d816cd3c28d9c0f55cc49" group-title="TATA PLAY",BOL News HD
-http://119.156.228.231:9983/stream/channelid/1647833542?ticket=A7E90DEB511656E1620AAE4F6B7F6BE6AAEF26F3&profile=pass
-#EXTINF:-1 tvg-id="5365119f82f52fe009933e059d58837b" group-title="TATA PLAY",Dawn News TV
-http://119.156.228.231:9983/stream/channelid/521233747?ticket=DEAE63BE9CCE2DD637E7E4D91A5FED0608633B1A&profile=pass
-#EXTINF:-1 tvg-id="c0af564cab3497969b75859829a46789" group-title="TATA PLAY",NEWS ONE
-http://119.156.228.231:9983/stream/channelid/1280749504?ticket=E854D980B4CF7F325413E3EBB19BC91958B4828D&profile=pass
-#EXTINF:-1 tvg-id="4ed26ce1fa66c66cba5aadfad83f8902" group-title="TATA PLAY",Public NEWS HD
-http://119.156.228.231:9983/stream/channelid/1634521678?ticket=B036DFBF80D08ACB27AAE462E13ABA55FE677940&profile=pass
-#EXTINF:-1 tvg-id="ee4dd4b17fc09605b5e7e4a06dfb3285" group-title="TATA PLAY",CH 5 NEWS
-http://119.156.228.231:9983/stream/channelid/835997166?ticket=DF66142937BDA1C34696BFFB0C1766C59265D7DF&profile=pass
-#EXTINF:-1 tvg-id="ab984ed171d3bcf8be928e97609a33dc" group-title="TATA PLAY",SUCH TV
-http://119.156.228.231:9983/stream/channelid/1364105387?ticket=98145F25BD41AC9506523F5AE01291F026D48979&profile=pass
-#EXTINF:-1 tvg-id="50a72e4ff0dd54fb29aafb96f4f43ecf" group-title="TATA PLAY",ABBTAKK HD
-http://119.156.228.231:9983/stream/channelid/1328457552?ticket=BF8EE5BEE2F63C40417A25DB1DA50D04B540404E&profile=pass
-#EXTINF:-1 tvg-id="71d77fa6165abf5e3a25fa4d2d1a00f6" group-title="TATA PLAY",92 News HD
-http://119.156.228.231:9983/stream/channelid/645912433?ticket=D05EEC1C76DE66B756DBC6A54FE27B70F923B948&profile=pass
-#EXTINF:-1 tvg-id="9fe379a99150964307194e2a09f9f4c0" group-title="TATA PLAY",HUM NEWS HD
-http://119.156.228.231:9983/stream/channelid/695853983?ticket=2C27B90EACC4EAF347D58992B9851B61CBDBD676&profile=pass
-#EXTINF:-1 tvg-id="948032b63e0360405d8fb7c875a5eb88" group-title="TATA PLAY",Lahore News
-http://119.156.228.231:9983/stream/channelid/909279380?ticket=DED80C0368E2DB9B42753BBC6070C5427C938D5C&profile=pass
-#EXTINF:-1 tvg-id="b4d2e6e861bc86e3f8248e32e0d8dccc" group-title="TATA PLAY",CHAUPAAL NEWS
-http://119.156.228.231:9983/stream/channelid/1759957684?ticket=1EDCB70C53AFA84437D2228A2DA7CB85C6E98750&profile=pass
-#EXTINF:-1 tvg-id="2c9bfe6509616536854f25b34bf944b5" group-title="TATA PLAY",CITY-41
-http://119.156.228.231:9983/stream/channelid/1711184684?ticket=CBE29FA52DBF233C6B1C7FFF78849F1F2C1A9EFC&profile=pass
-#EXTINF:-1 tvg-id="05ef22fcf327340e93ad385b3a5f0a49" group-title="TATA PLAY",CITY-42
-http://119.156.228.231:9983/stream/channelid/2082664197?ticket=DE93C768FE94BCB06210983E77A17CA7A6A8C735&profile=pass
-#EXTINF:-1 tvg-id="935aec2406c23c90747c533fe78220dc" group-title="TATA PLAY",Capital TV
-http://119.156.228.231:9983/stream/channelid/619469459?ticket=1C4E418739E5CCD51E4F6B5F3E2E29D4DCF493A2&profile=pass
-#EXTINF:-1 tvg-id="e3b6a13d756563336915d1d221fe8160" group-title="TATA PLAY",Geo Tez
-http://119.156.228.231:9983/stream/channelid/1034008291?ticket=4E8D6DEC168A7C417C38D9FBCBF284419572FCF0&profile=pass
-#EXTINF:-1 tvg-id="08e1e27c7475d209ca3b3f92c709d289" group-title="TATA PLAY",PTV-Global
-http://119.156.228.231:9983/stream/channelid/2095243528?ticket=07AA3E4C6B68DEB3BE5E7E4D79C2E1F54CF79AB1&profile=pass
-#EXTINF:-1 tvg-id="8df6df5daa264099a73a4160dd39c000" group-title="TATA PLAY",SUN NEWS HD
-http://119.156.228.231:9983/stream/channelid/1574958733?ticket=03865CE4118885ABCE583D7C2B80DD0307031A50&profile=pass
-#EXTINF:-1 tvg-id="dd543e8a7706d95c822e51f571ac24fa" group-title="TATA PLAY",Kohenoor News
-http://119.156.228.231:9983/stream/channelid/171857117?ticket=0E64E080FA2F47EB46B5770A636FC4CAF78FB4B7&profile=pass
-#EXTINF:-1 tvg-id="a3cf03e7a08dede2c703d02538048216" group-title="TATA PLAY",ROHI TV
-http://119.156.228.231:9983/stream/channelid/1728303011?ticket=B7056D3989D9A2A2EC57F5D843C1B14DA9F495BC&profile=pass
-#EXTINF:-1 tvg-id="06fac3d0770ae2621507e507b5cb6c45" group-title="TATA PLAY",TV TODAY
-http://119.156.228.231:9983/stream/channelid/1355020806?ticket=BE2F1ABB8242D1EF7FA56AA789EDCCA5DC5CA09E&profile=pass
-#EXTINF:-1 tvg-id="48dca31386136eb15f37c10ae37a12c0" group-title="TATA PLAY",M-News
-http://119.156.228.231:9983/stream/channelid/329505864?ticket=C11944F73479C0B63900CCA3C1FB5A43B4F1EA03&profile=pass
-#EXTINF:-1 tvg-id="5aa35ebd9e0de47014c2d414053fc5eb" group-title="TATA PLAY",WASEB NEWS
-http://119.156.228.231:9983/stream/channelid/1029612378?ticket=875E20572E443DF06F711DED68173D010AF58218&profile=pass
-#EXTINF:-1 tvg-id="6aa4af2563ca5da3e41813d48f6fb179" group-title="TATA PLAY",DM NEWS ENGLISH
-http://119.156.228.231:9983/stream/channelid/632267882?ticket=16A974647F90CA5C0BE91A39FC946A39147F9C68&profile=pass
-#EXTINF:-1 tvg-id="79d7c344f0b07c03dcacf29f0dd8f4e3" group-title="TATA PLAY",Pakistan-TV
-http://119.156.228.231:9983/stream/channelid/1153685369?ticket=5F03B262FD904F28401D09F811B72502A589C015&profile=pass
-#EXTINF:-1 tvg-id="dc6845f4f64d5e84916f2a109186e847" group-title="TATA PLAY",EXPRESS 24/7
-http://119.156.228.231:9983/stream/channelid/1950705884?ticket=CA186CFD316E6AC5AAE318BA1C7C25F2BF8C04F9&profile=pass
-#EXTINF:-1 tvg-id="6c9e55c1708bbda0b27694c0f063e277" group-title="TATA PLAY",BBC NEWS
-http://119.156.228.231:9983/stream/channelid/1096130156?ticket=CB1FDE893225AC3C947988CEB6B45A733A27A039&profile=pass
-#EXTINF:-1 tvg-id="b4b8a05b8580aa9ab2b8708e14569fe0" group-title="TATA PLAY",DW English HD
-http://119.156.228.231:9983/stream/channelid/1537259700?ticket=7121A3EAE5BD8744F17CFA3C2F2811157F1DEC37&profile=pass
-#EXTINF:-1 tvg-id="56d1bf35f97d5f0e44d09ce820969709" group-title="TATA PLAY",Al Jazeera English HD
-http://119.156.228.231:9983/stream/channelid/901763414?ticket=D5BDD0B00CE5B99A0E79A05FCF2ACDD5EB90BCE9&profile=pass
-#EXTINF:-1 tvg-id="575ba3d4a86f6081468371a213f40e78" group-title="TATA PLAY",NHK WORLD-JPN
-http://119.156.228.231:9983/stream/channelid/1419991895?ticket=7AAEE699CDA852DB1D7E15AA2A84AA7D1C974F40&profile=pass
-#EXTINF:-1 tvg-id="e7615d38941cb50445322fed7099a2fd" group-title="TATA PLAY",TRT World HD
-http://119.156.228.231:9983/stream/channelid/945644007?ticket=5C1322B0EBD4144509C37C19BCF85D643BCFB295&profile=pass
-#EXTINF:-1 tvg-id="cd777080b469b7cd243c955a1b5a17e5" group-title="TATA PLAY",PTV-Home
-http://119.156.228.231:9983/stream/channelid/7370701?ticket=1A003FBA89E30EFA6B174B1BE28CCBB2A44C36F3&profile=pass
-#EXTINF:-1 tvg-id="f378f2b77f86319d2de50792ee0df002" group-title="TATA PLAY",GEO ENT HD
-http://119.156.228.231:9983/stream/channelid/938637555?ticket=BEB00A63AAFC6D302BEB4D589477B031D9835AED&profile=pass
-#EXTINF:-1 tvg-id="9c013f53af7cca49934d2cd13e8e6ccc" group-title="TATA PLAY",HUM TV
-http://119.156.228.231:9983/stream/channelid/1396638108?ticket=36BCAEEE4104E58E68AE66DCB847DDBB4EF38A4D&profile=pass
-#EXTINF:-1 tvg-id="1e629215cbf8d42f4490c93f2f318b0b" group-title="TATA PLAY",GreenEnt - HD
-http://119.156.228.231:9983/stream/channelid/361914910?ticket=CEF80EECB37DC69DCE2E4ED4AF7F81CD3E39DE76&profile=pass
-#EXTINF:-1 tvg-id="b7a3c10ea6b63395da0870b324aaa8a6" group-title="TATA PLAY",AAJ ENT
-http://119.156.228.231:9983/stream/channelid/247571383?ticket=3C051D999E9ED7F7D0EE062D37902FED50B99991&profile=pass
-#EXTINF:-1 tvg-id="4df3c59eec11dd9e11d304d79fb68c5c" group-title="TATA PLAY",ARY Digital HD
-http://119.156.228.231:9983/stream/channelid/516289357?ticket=6BCF322ACAB472AE9DADD39ABCA3627F1835D401&profile=pass
-#EXTINF:-1 tvg-id="fec32ad69881e5f3d1cd77327592d97e" group-title="TATA PLAY",AAN TV - HD
-http://119.156.228.231:9983/stream/channelid/1445643262?ticket=76D6BECCF22EB93411DC6BEF6D7E6E3C09C19F4A&profile=pass
-#EXTINF:-1 tvg-id="da32ffbb7b09d8136d5ee7e270d5c424" group-title="TATA PLAY",HUM SITARAY
-http://119.156.228.231:9983/stream/channelid/1006580442?ticket=649DFB1304CEF27E8378007C8C06F89EF9A79FE1&profile=pass
-#EXTINF:-1 tvg-id="8b44dfbe8cfb6193682c2598a06344aa" group-title="TATA PLAY",EXPRESS ENT
-http://119.156.228.231:9983/stream/channelid/1054819467?ticket=5531945F4C865BB654299B1B90E270BCECB31F90&profile=pass
-#EXTINF:-1 tvg-id="48c069ffae92e9918e34ad27d288d54d" group-title="TATA PLAY",BOL ENT HD
-http://119.156.228.231:9983/stream/channelid/2137636936?ticket=FF224B6967978A0C0BAFBD8C002512E6874407F8&profile=pass
-#EXTINF:-1 tvg-id="3145598ead182f49131d39c95e90a518" group-title="TATA PLAY",GEO KAHANI HD
-http://119.156.228.231:9983/stream/channelid/240731441?ticket=24C32A2423445D1D06A12CBF2009B7226E4F8833&profile=pass
-#EXTINF:-1 tvg-id="8091dbbf7d134fb9a19d1c3ad997427f" group-title="TATA PLAY",ARYZindagi
-http://119.156.228.231:9983/stream/channelid/1071354240?ticket=ECD3B3C8CD0CB8D93B4089601923093CCC801055&profile=pass
-#EXTINF:-1 tvg-id="8337b3a9443164f7f107f3bb01a1edcf" group-title="TATA PLAY",TV ONE
-http://119.156.228.231:9983/stream/channelid/699611011?ticket=87F4B5372B7DAE4E332532D2EC2683A7E6CF809C&profile=pass
-#EXTINF:-1 tvg-id="bf0729bcb33039ae50deeb177b480d25" group-title="TATA PLAY",AUR Life TV
-http://119.156.228.231:9983/stream/channelid/1009321919?ticket=9BB2FB0C8ABFDB1EE42E9BCFA4157A1AD665ED79&profile=pass
-#EXTINF:-1 tvg-id="b67a5f24753ea7d942b31e700cfed057" group-title="TATA PLAY",PLAY ENT
-http://119.156.228.231:9983/stream/channelid/610237110?ticket=825CABCE57FCCD855FAFB53EAA6C608C6BB493E7&profile=pass
-#EXTINF:-1 tvg-id="d53c43857cbe692f076cc1675f27f6b9" group-title="TATA PLAY",APLUS
-http://119.156.228.231:9983/stream/channelid/88292565?ticket=24B5A750B230BF4FD19FD093D945123A9D01E62D&profile=pass
-#EXTINF:-1 tvg-id="e8fd2eb37318ddb08cace67a9bf4a2d3" group-title="TATA PLAY",Sab TV
-http://119.156.228.231:9983/stream/channelid/858717672?ticket=2035F5B8E7E2C3E2D9A5AAAD583741C2D4DFEFD1&profile=pass
-#EXTINF:-1 tvg-id="8e806c0b46e803e6b289eb2e1b77a2f0" group-title="TATA PLAY",By Pass HD
-http://119.156.228.231:9983/stream/channelid/191660174?ticket=CE682AB230F898E47B483DA5D075968A4289977F&profile=pass
-#EXTINF:-1 tvg-id="ca1f6ad95faab603358bc0e022eeb990" group-title="TATA PLAY",M-Entertainment
-http://119.156.228.231:9983/stream/channelid/1500127178?ticket=02500C85865E30A8C449D18A21671E4DEA7963BA&profile=pass
-#EXTINF:-1 tvg-id="2f29ff5588d9d0ed513adaa40472f9a8" group-title="TATA PLAY",Venus HD
-http://119.156.228.231:9983/stream/channelid/1442785583?ticket=5453E66F26EA2C6DC83219E492B2FB50455375A5&profile=pass
-#EXTINF:-1 tvg-id="63ab8cb3692eecafab33d092a82eb89f" group-title="TATA PLAY",LTN FAMILY
-http://119.156.228.231:9983/stream/channelid/864856931?ticket=EC456DBCBD51393281BCB4C47CA794915FA65446&profile=pass
-#EXTINF:-1 tvg-id="e13479f19bffcf6fcdec3bb18b400d16" group-title="TATA PLAY",Venus ENT HD
-http://119.156.228.231:9983/stream/channelid/1903768801?ticket=58EC87472F8CDA965FD36849BAC30A4C95183536&profile=pass
-#EXTINF:-1 tvg-id="f4b396ffd06a208cf96443bacdb2f5e1" group-title="TATA PLAY",MASALA TV
-http://119.156.228.231:9983/stream/channelid/2140582900?ticket=BCF703710EC6FFC7623607B59698B869AE5E883B&profile=pass
-#EXTINF:-1 tvg-id="558d7b283783d20faae079492f354e36" group-title="TATA PLAY",PTV SPORTS SD
-http://119.156.228.231:9983/stream/channelid/679185749?ticket=D0F1522E870046FAF3BD9775261574EBDE22FFBB&profile=pass
-#EXTINF:-1 tvg-id="430967752fc1198d91609b0965b4af14" group-title="TATA PLAY",TEN Sports
-http://119.156.228.231:9983/stream/channelid/1969686851?ticket=82E1598841ED0989267E6C1B0754AE2F80CB73FD&profile=pass
-#EXTINF:-1 tvg-id="36613c515b2baab44b22761ae0a3ca5e" group-title="TATA PLAY",A Sports HD
-http://119.156.228.231:9983/stream/channelid/1362911542?ticket=4B5F9F50653CA818AD620A21B01928BF0D815DB3&profile=pass
-#EXTINF:-1 tvg-id="d48da2a56849f60f719a7ccb127a0438" group-title="TATA PLAY",FAST SPORTS HD
-http://119.156.228.231:9983/stream/channelid/631410132?ticket=CA451B8185697F54C6CFEE6C1FC1A2CAEFA6E670&profile=pass
-#EXTINF:-1 tvg-id="673a09774a641de36f809b54b944a369" group-title="TATA PLAY",Geo Super
-http://119.156.228.231:9983/stream/channelid/1997093479?ticket=91159E4A697D6E6343F6B9B74DE6E4EEAF1506DC&profile=pass
-#EXTINF:-1 tvg-id="68c67a3b7221c9399961eadd826520da" group-title="TATA PLAY",Star Sports 1 Hindi HD
-http://119.156.228.231:9983/stream/channelid/997901928?ticket=8084CAE4A9CDC9C4B74E30347151DB6428D7E299&profile=pass
-#EXTINF:-1 tvg-id="f9ab7a74fe1bc68aa297e32cd833d3a1" group-title="TATA PLAY",Star Sports 1 HD
-http://119.156.228.231:9983/stream/channelid/1954196473?ticket=80E92FDA7EB2F240E600FD146598EEC8014A55E1&profile=pass
-#EXTINF:-1 tvg-id="3f0bbf9dd6e73d3494475d0ef1c6a97b" group-title="TATA PLAY",Star Sports 2 HD
-http://119.156.228.231:9983/stream/channelid/499059519?ticket=151C690AF8457C21D9E7B3E146D8F20087ECF525&profile=pass
-#EXTINF:-1 tvg-id="82489d43f099490615e8b3196796482f" group-title="TATA PLAY",Star Sports Select 1 HD
-http://119.156.228.231:9983/stream/channelid/1134381186?ticket=175431AB6A6BEB684EEA341C11A94211C010B601&profile=pass
-#EXTINF:-1 tvg-id="3c5e35b7255efc6dec575ce74ba33218",Star Sports Select 2 HD
-http://119.156.228.231:9983/stream/channelid/926244412?ticket=FEE972C5B58FDF16166B28C8318D0A4633751260&profile=pass
-#EXTINF:-1 tvg-id="5a55c6aeb8add1bd9c17457e2a2d1238" group-title="TATA PLAY",SONY TEN 1
-http://119.156.228.231:9983/stream/channelid/784749914?ticket=87994C7F864D9ED4BC60E0FAF09059FD183CB5E8&profile=pass
-#EXTINF:-1 tvg-id="a88869e9c9f043eef261f0a9d1a5685e" group-title="TATA PLAY",SONY TEN 2 HD
-http://119.156.228.231:9983/stream/channelid/1768523944?ticket=7ACDEC45D8EF1510023269630B91E7FE192F9ACE&profile=pass
-#EXTINF:-1 tvg-id="d2c50d3b16bb7b0a0878cd7f6bd5d06e" group-title="TATA PLAY",SONY TEN 3
-http://119.156.228.231:9983/stream/channelid/990758354?ticket=B8FF2E4FC844D7D758179F7195E6532A8C7A28F1&profile=pass
-#EXTINF:-1 tvg-id="5dd2f0c987acf05420bd7abe5ca9ca1c" group-title="TATA PLAY",SONY TEN 5 HD
-http://119.156.228.231:9983/stream/channelid/1240519261?ticket=EC5791030F5F63242A3B8A8AD8602D1373D15705&profile=pass
-#EXTINF:-1 tvg-id="d61fa9aa4b5922d18907e520ccc2606e" group-title="TATA PLAY",EUROSPORT HD
-http://119.156.228.231:9983/stream/channelid/715726806?ticket=A3E0EF45DAE6ACB18DA9ADB1EC5298CC591F3A95&profile=pass
-#EXTINF:-1 tvg-id="af7718dc4be8fecc3252f94071816778" group-title="TATA PLAY",EXTREME SPORTS
-http://119.156.228.231:9983/stream/channelid/1545107375?ticket=8E84215917E3A9FA1308CA2D3A2F5BE731EAF909&profile=pass
-#EXTINF:-1 tvg-id="32608a0137522fe376df813349d8cd47" group-title="TATA PLAY",KSA SPORT1 HD
-http://119.156.228.231:9983/stream/channelid/25845810?ticket=C16BA06A244A7F387CF08B0BB27A137B5D25C88A&profile=pass
-#EXTINF:-1 tvg-id="bfea93a8b647f45d192d4fb19b71fefe" group-title="TATA PLAY",KSA SPORT2 HD
-http://119.156.228.231:9983/stream/channelid/680782527?ticket=0A3FE3764F066BB95EE5F5D49734DE5462143283&profile=pass
-#EXTINF:-1 tvg-id="4b1ad00c907dfd8675c5eac544d32970" group-title="TATA PLAY",KSA SPORTS 3 HD
-http://119.156.228.231:9983/stream/channelid/214964811?ticket=9CE0F13BB2EF5B3A76635982CD3945494EFC345A&profile=pass
-#EXTINF:-1 tvg-id="b4ac84faff90931163853280f9601b48" group-title="TATA PLAY",M-Sports
-http://119.156.228.231:9983/stream/channelid/2055515316?ticket=182CE8876371DE122CCF33177E3C250C1EE466B7&profile=pass
-#EXTINF:-1 tvg-id="9740614f5c58d05b7d1780e34eaf5016" group-title="TATA PLAY",CN HD+
-http://119.156.228.231:9983/stream/channelid/1331773591?ticket=353C2A04CC2EB520C80C5638005633C5F287341F&profile=pass
-#EXTINF:-1 tvg-id="44b8f0ce47a4bbfbd307bb72c5e43944" group-title="TATA PLAY",DISNEY CHANNEL
-http://119.156.228.231:9983/stream/channelid/1324398660?ticket=573A361C58BC864331527B9505847DDBA8FD2EA6&profile=pass
-#EXTINF:-1 tvg-id="47743151cc633c2d47290410f4901463" group-title="TATA PLAY",POGO
-http://119.156.228.231:9983/stream/channelid/1362195527?ticket=7DF863E841CAA6ADC0ECF9925A2A156006517D47&profile=pass
-#EXTINF:-1 tvg-id="13c28824ddd9b1fcc60b99ecd4ed17c0" group-title="TATA PLAY",NICK
-http://119.156.228.231:9983/stream/channelid/612942355?ticket=4188F35B1FF48719C87A569913E0954082444959&profile=pass
-#EXTINF:-1 tvg-id="5f240a3be70f4e596c8ad413f4f43d99" group-title="TATA PLAY",NICK HD+
-http://119.156.228.231:9983/stream/channelid/990520415?ticket=0B1B64499E0C4907B67BDD87BD55EE30CE5C3D26&profile=pass
-#EXTINF:-1 tvg-id="808a6de546e06385888782c02a68bcee" group-title="TATA PLAY",DISCOVERY KIDS
-http://119.156.228.231:9983/stream/channelid/1701677696?ticket=B9DCB654F4F88AAF0C48AAA643BEB9EABB86FD67&profile=pass
-#EXTINF:-1 tvg-id="3ec5a065f4bd3e95233761563817c015" group-title="TATA PLAY",SONIC
-http://119.156.228.231:9983/stream/channelid/1705035070?ticket=BAE64EDF81961E630718562953624518DF44F8D2&profile=pass
-#EXTINF:-1 tvg-id="08dfe8d38ff217d2ca4fc83badc9d2ac" group-title="TATA PLAY",NICK JR
-http://119.156.228.231:9983/stream/channelid/1407770376?ticket=C3F09940D6ECCD37ECC96B6E4E56DE1014D9C5DE&profile=pass
-#EXTINF:-1 tvg-id="18290a1113dee4a302966111848e2434" group-title="TATA PLAY",HUNGAMA
-http://119.156.228.231:9983/stream/channelid/285878552?ticket=CE73A5EC9A06643E389E5F82DBC62A5F5858576F&profile=pass
-#EXTINF:-1 tvg-id="bcb8cd9cfd0735a24e1145dc13af821e" group-title="TATA PLAY",Planet Fun
-http://119.156.228.231:9983/stream/channelid/483244220?ticket=F059274E8034348989BD5A47A2BDAC2D7B0DA434&profile=pass
-#EXTINF:-1 tvg-id="32558b08b006440a35309d2f4d5cdb05" group-title="TATA PLAY",HOORA TV
-http://119.156.228.231:9983/stream/channelid/143349042?ticket=E0988854378D7F4F1B61F4FDC5BD90773760C3B5&profile=pass
-#EXTINF:-1 tvg-id="2bbadcea3286f30a640a6d9dc2e849ca" group-title="TATA PLAY",MBC 3
-http://119.156.228.231:9983/stream/channelid/1792850475?ticket=8A399A9D3183407838371D146F0BD368BD99C684&profile=pass
-#EXTINF:-1 tvg-id="d50d00ef208a019b9c1aa91c9e036c46" group-title="TATA PLAY",GEM JUNIOR
-http://119.156.228.231:9983/stream/channelid/1862274517?ticket=76ED24D5BF6432CB458137C0FD5192F4E3A196DC&profile=pass
-#EXTINF:-1 tvg-id="787333981deca53b7325cf302995f66b" group-title="TATA PLAY",GEM KIDS
-http://119.156.228.231:9983/stream/channelid/406025080?ticket=893735FF10B033D6C2C9C69F9E75F3F0A2BBBE49&profile=pass
-#EXTINF:-1 tvg-id="4da57c64e25c6620d655279caa60290d" group-title="TATA PLAY",MINIMAX
-http://119.156.228.231:9983/stream/channelid/1685890381?ticket=7BF714443AF199EB6FE9462325BC886882CE75F0&profile=pass
-#EXTINF:-1 tvg-id="fee018ceb459bad6e63effb61675edcd" group-title="TATA PLAY",Kidzone Pakistan
-http://119.156.228.231:9983/stream/channelid/1310253310?ticket=7B93226A09F477AD722E31BDA94554C07C0742F7&profile=pass
-#EXTINF:-1 tvg-id="c72a50b2be4b37d27b79fb16634f766f" group-title="TATA PLAY",DISCOVERY
-http://119.156.228.231:9983/stream/channelid/844114631?ticket=A6FDB9FA8AFC306ED5CC7FE1E77DE31145EEE7E3&profile=pass
-#EXTINF:-1 tvg-id="c2a0e41160f49d6f900b99591e5b2d59" group-title="TATA PLAY",Discover Pakistan
-http://119.156.228.231:9983/stream/channelid/300196034?ticket=F71318C38A9B83BD552FE1C6C1B9F63F994C872C&profile=pass
-#EXTINF:-1 tvg-id="88da896ad2f5c6831cdd22d30a4f7fff" group-title="TATA PLAY",NAT GEO WILD HD
-http://119.156.228.231:9983/stream/channelid/1787419272?ticket=E51B486132D23BDEBF1FA597AA4AB17989F48175&profile=pass
-#EXTINF:-1 tvg-id="fa7918a2d1c98abf8beb9179f7a98572" group-title="TATA PLAY",NAT GEO HD
-http://119.156.228.231:9983/stream/channelid/572029434?ticket=5AA3D98453DA3C00E95B0CB668CAEE7461922D52&profile=pass
-#EXTINF:-1 tvg-id="76b550849cb8a811baa01cbb410ee033" group-title="TATA PLAY",TLC HD
-http://119.156.228.231:9983/stream/channelid/72398198?ticket=14C8C937037B18CBC8BAC4093EF54D82335EEB5F&profile=pass
-#EXTINF:-1 tvg-id="16ecb5cb605d84bb748d48c03e8ad266" group-title="TATA PLAY",SONY BBC EARTH HD
-http://119.156.228.231:9983/stream/channelid/1270213654?ticket=C49EA916BF9D0559D13C12AF3AEA51A8DC9FA9D2&profile=pass
-#EXTINF:-1 tvg-id="979601bae482a44cbdf04f4d8673d5f9" group-title="TATA PLAY",HISTORY TV18
-http://119.156.228.231:9983/stream/channelid/973182615?ticket=BE08C9AB802674AF9D3B847DE33FC4464493799D&profile=pass
-#EXTINF:-1 tvg-id="792d0112181060611636c62e36c756e4" group-title="TATA PLAY",ID HD
-http://119.156.228.231:9983/stream/channelid/302067065?ticket=16063D60654052D20BEC67AB84AE8B35B0ED969A&profile=pass
-#EXTINF:-1 tvg-id="c7b8d4a8dddcff2b2ab2f930dedec59e" group-title="TATA PLAY",DISCOVERY TURBO
-http://119.156.228.231:9983/stream/channelid/685029575?ticket=20D9C2CA8E55476E411CAF53A05B5212A890616D&profile=pass
-#EXTINF:-1 tvg-id="a42a180519854ab9bfa0c8f991d7c010" group-title="TATA PLAY",DISCOVERY SCIENCE
-http://119.156.228.231:9983/stream/channelid/85469860?ticket=25CEA4D6CC09F4592680A55DC5649523D030D3E6&profile=pass
-#EXTINF:-1 tvg-id="54c0421025ff3671edb25a6df192af69" group-title="TATA PLAY",TRAVEL XP
-http://119.156.228.231:9983/stream/channelid/272810068?ticket=FC7603CF310E5FF746753AEE91537982F8C41EE5&profile=pass
-#EXTINF:-1 tvg-id="a126c91e191dc5e5e812c6a8f9be7f19" group-title="TATA PLAY",GEM NATURE
-http://119.156.228.231:9983/stream/channelid/516499105?ticket=79C5D5033D549BE45F7EA2B9E677576D10D11872&profile=pass
-#EXTINF:-1 tvg-id="5dd7a59ce27f636f30d2853ab5f1f41f" group-title="TATA PLAY",GEM TRAVEL
-http://119.156.228.231:9983/stream/channelid/480630621?ticket=B200C4986D5282A69415180A6CDD2F7383F286F7&profile=pass
-#EXTINF:-1 tvg-id="6432b4432159432f1704ad4eb2785aee" group-title="TATA PLAY",GEM LIFE+
-http://119.156.228.231:9983/stream/channelid/1135882852?ticket=7C4DCB801E7F572592D35F8DA56BD6676D7B2D1B&profile=pass
-#EXTINF:-1 tvg-id="60c805b95d8e41d65093c79f1cc14ec9" group-title="TATA PLAY",Fashion TV HD
-http://119.156.228.231:9983/stream/channelid/956680288?ticket=FDBAF6FBA425A863DBE431511F522736DE44F696&profile=pass
-#EXTINF:-1 tvg-id="c0d7b90a63bdb7fafe1ae5652428333c" group-title="TATA PLAY",Fashion TV Asia
-http://119.156.228.231:9983/stream/channelid/179951552?ticket=20CD2058D71DDE8E8C007889940D82A68909958D&profile=pass
-#EXTINF:-1 tvg-id="e370b3dcc27be6bcbfb3096a801a2ea0" group-title="TATA PLAY",M-World
-http://119.156.228.231:9983/stream/channelid/1555263715?ticket=4975059FF000A9FD5317A0B069F2F4D84CDBCEBC&profile=pass
-#EXTINF:-1 tvg-id="3aa232e0b51e6a62cba58619034f1abc" group-title="TATA PLAY",ROMEDY NOW
-http://119.156.228.231:9983/stream/channelid/1613931066?ticket=513F84AEA66C8FDF7AB2706B0001C74380CBB052&profile=pass
-#EXTINF:-1 tvg-id="c918c07cf697333c3e1ebb024e9034bf" group-title="TATA PLAY",STAR MOVIES
-http://119.156.228.231:9983/stream/channelid/2092964041?ticket=6F778CBB7BA5AF3F02730D9267D6831458716E49&profile=pass
-#EXTINF:-1 tvg-id="7d196037196f65d883e0d28797b98a42" group-title="TATA PLAY",STAR MOVIES SELECT
-http://119.156.228.231:9983/stream/channelid/929044861?ticket=5F1486920C3EBF2562F7BD2B944B6118FC336EF2&profile=pass
-#EXTINF:-1 tvg-id="6347d62103496c871a338360d6310196" group-title="TATA PLAY",MNX HD
-http://119.156.228.231:9983/stream/channelid/567691107?ticket=EF0F7063AD4426727D80076D4540D9CA42D950DE&profile=pass
-#EXTINF:-1 tvg-id="24507f488b897bd8e2c6c77b525cfaae" group-title="TATA PLAY",STAR GOLD THRILLS
-http://119.156.228.231:9983/stream/channelid/1216303140?ticket=9CB8DF14F4C4E25809D8FD357082D70ABA5354FC&profile=pass
-#EXTINF:-1 tvg-id="dcab48ebc6b8ec0f858f388f9a617916" group-title="TATA PLAY",DISNEY INT
-http://119.156.228.231:9983/stream/channelid/1799924700?ticket=1E40EC9D4E5D045210FF13F63180F99EDA99D3EF&profile=pass
-#EXTINF:-1 tvg-id="f6a63b03a73bc4e442bf3a6f85bb4e2e" group-title="TATA PLAY",MN+ HD
-http://119.156.228.231:9983/stream/channelid/54241014?ticket=7040EC6C9C3C177D5E63750134722D06E008CC13&profile=pass
-#EXTINF:-1 tvg-id="44c8424d8c1f01f49faca4cf44427542" group-title="TATA PLAY",MOVIES NOW
-http://119.156.228.231:9983/stream/channelid/1296222276?ticket=5918026EB41037BF47976020C822A9BEB51439DE&profile=pass
-#EXTINF:-1 tvg-id="d12be6b8d6d572a60d536f2176039139" group-title="TATA PLAY",SONY PIX
-http://119.156.228.231:9983/stream/channelid/954608593?ticket=3416505F933B48D44A77620E0DE6FA76E3E1CF91&profile=pass
-#EXTINF:-1 tvg-id="6cf377084f9899a85850a0a7e82dbda7" group-title="TATA PLAY",LotusTV
-http://119.156.228.231:9983/stream/channelid/142078828?ticket=B01DA18AADB9641F91E5840EB7AEC5EDFC03D112&profile=pass
-#EXTINF:-1 tvg-id="71e3db4dc8d547e1608bd8bf01c45498" group-title="TATA PLAY",INPLUS Pakistan
-http://119.156.228.231:9983/stream/channelid/1306256241?ticket=299D1DE2B10D78EB3544D4350BC19CB8C394E40D&profile=pass
-#EXTINF:-1 tvg-id="51e04239ab9857debd8f819b966db159" group-title="TATA PLAY",MBC1
-http://119.156.228.231:9983/stream/channelid/960684113?ticket=4FF7038016835C091005E752377307C524169438&profile=pass
-#EXTINF:-1 tvg-id="a8363f548406fb9504ad426f7a3fdd21" group-title="TATA PLAY",MBC 2
-http://119.156.228.231:9983/stream/channelid/1413428904?ticket=065E7FFF74FC5A4A93397271783BC15A645D9C29&profile=pass
-#EXTINF:-1 tvg-id="e2239aebeb0ee0ce7ffa9b7af9127602" group-title="TATA PLAY",MBC4
-http://119.156.228.231:9983/stream/channelid/1805263842?ticket=3F1797802AF94C2C86AA93D3904D9B70B9830711&profile=pass
-#EXTINF:-1 tvg-id="b4d2db0d8428dc8c3d3961dcb224a9f8" group-title="TATA PLAY",MBC Action
-http://119.156.228.231:9983/stream/channelid/232510132?ticket=C028B5784FCD99BA1938E39CCDC979DF93166763&profile=pass
-#EXTINF:-1 tvg-id="af90d4978414d8b4f4c5e3798247e98f" group-title="TATA PLAY",MBC Bollywood
-http://119.156.228.231:9983/stream/channelid/399806639?ticket=CB6BCF1823C256030268286ADE1F03239DB9A303&profile=pass
-#EXTINF:-1 tvg-id="ced5324f7dc8be7fd6464358a1f25d88" group-title="TATA PLAY",ONYX HD
-http://119.156.228.231:9983/stream/channelid/1328731598?ticket=8D1F84CFDDBBD7F2CF886823DAEE4BFB8834E770&profile=pass
-#EXTINF:-1 tvg-id="488d105539df8f0feb5a45b98a6c83af" group-title="TATA PLAY",MBC Drama
-http://119.156.228.231:9983/stream/channelid/1427148104?ticket=F7BC3924E05C5B9AF1CF69CDFC5912A042089569&profile=pass
-#EXTINF:-1 tvg-id="638d5a5ed8904b90ee157bd43a310255" group-title="TATA PLAY",MAXX
-http://119.156.228.231:9983/stream/channelid/1582992739?ticket=088F5B9B99C81316908E82AA5CFE4017E4C670F0&profile=pass
-#EXTINF:-1 tvg-id="14ede3693345d0b6fc112c9114a5917d" group-title="TATA PLAY",MBC MAX
-http://119.156.228.231:9983/stream/channelid/1776545044?ticket=8DBA2231688ED066E420BF43E6C087E24874423B&profile=pass
-#EXTINF:-1 tvg-id="57596a7638311e159587c025d26000fa" group-title="TATA PLAY",GEM FILM
-http://119.156.228.231:9983/stream/channelid/1986681175?ticket=3700B3396E8EE2254A9FDA6CA939327111492A75&profile=pass
-#EXTINF:-1 tvg-id="1b26bcf13802d2a74cab5d75ae56454d" group-title="TATA PLAY",8XM
-http://119.156.228.231:9983/stream/channelid/1908155931?ticket=12D3A3D00AD3814EE8E9C463FF8E141AA6EFAEB2&profile=pass
-#EXTINF:-1 tvg-id="ed0ed9f083ca9975e89f4895614b7fbd" group-title="TATA PLAY",JALWA
-http://119.156.228.231:9983/stream/channelid/1893273325?ticket=D0866982C224B2EF88DB559A2A6C10E6CC0B10C1&profile=pass
-#EXTINF:-1 tvg-id="4d19e8355faf0900028061d6d1c8028c" group-title="TATA PLAY",ZING
-http://119.156.228.231:9983/stream/channelid/904403277?ticket=C65AE24C3AF8E4BA57A626CEDD663E251AA95111&profile=pass
-#EXTINF:-1 tvg-id="feccf8153ca7f0d5a826bee2a6380571" group-title="TATA PLAY",9X JALWA
-http://119.156.228.231:9983/stream/channelid/368626942?ticket=6B0E3CA23C65C0D9F6A3D40BF9CA075ECB5FC958&profile=pass
-#EXTINF:-1 tvg-id="35aaf37a1c58287c313df80309731d33" group-title="TATA PLAY",9X JHAKAAS
-http://119.156.228.231:9983/stream/channelid/2062789173?ticket=16E37E464946171528ADF3C491312DFFBAD50B20&profile=pass
-#EXTINF:-1 tvg-id="1b0e4891bc2d68be158a8a96e65699e3" group-title="TATA PLAY",9XM
-http://119.156.228.231:9983/stream/channelid/289934875?ticket=539BB370922BA6E62B686259F9AD202C7736868B&profile=pass
-#EXTINF:-1 tvg-id="677bb5999c047db82d73fe461167ab85" group-title="TATA PLAY",ARYMusik
-http://119.156.228.231:9983/stream/channelid/431324007?ticket=FF33F0DA2779BA10EE1D24B273A98EEA7C29D4D4&profile=pass
-#EXTINF:-1 tvg-id="bef6d9ae982492aa09ed6fdbf6f776e6" group-title="TATA PLAY",MIFA + HD
-http://119.156.228.231:9983/stream/channelid/786036414?ticket=96C60402189E90620524F7732155CF26323DD71F&profile=pass
-#EXTINF:-1 tvg-id="dcce943986a68c65595083bb2d7a0213" group-title="TATA PLAY",Music India
-http://119.156.228.231:9983/stream/channelid/966053596?ticket=77A49DEE4A5CE4C2C93178BD4FEB1BD9220E7E90&profile=pass
-#EXTINF:-1 tvg-id="02ef8837220d01eff263d67f108f078c" group-title="TATA PLAY",9X TASHAN
-http://119.156.228.231:9983/stream/channelid/931720962?ticket=4815AF9639A492C0F87D42F017D18DFAD39BC3CE&profile=pass
-#EXTINF:-1 tvg-id="629c6e657b84b509d039785672f7387c" group-title="TATA PLAY",TABBAR HITS
-http://119.156.228.231:9983/stream/channelid/1701747810?ticket=70AAD6BE6C8E0F96A9D6965D700859A6F12E6BD7&profile=pass
-#EXTINF:-1 tvg-id="e13df7f468cfaef17cac423f9a53a051" group-title="TATA PLAY",Balle Balle Music
-http://119.156.228.231:9983/stream/channelid/1962360289?ticket=617D64D9BE20D92B8741E9A562188CDD1CB0C1D5&profile=pass
-#EXTINF:-1 tvg-id="8af6c2b5eb207e85bdccd0e89f7bba71" group-title="TATA PLAY",24B HD
-http://119.156.228.231:9983/stream/channelid/901969546?ticket=9E34C93B7DB3AC2F0B00C406B0C9892F09A93575&profile=pass
-#EXTINF:-1 tvg-id="ba0e12bb9da0fe4877624fb86833606d" group-title="TATA PLAY",MIFA MUSIC HD
-http://119.156.228.231:9983/stream/channelid/991039162?ticket=33AC77D117639BE0CC12348CD31DB37A0273E147&profile=pass
-#EXTINF:-1 tvg-id="ad4bad85dffdce9dea6611a64668d303" group-title="TATA PLAY",STAR PLUS HD
-http://119.156.228.231:9983/stream/channelid/95243181?ticket=AC5613066A73C014919AD98C97A3D276D857AB4C&profile=pass
-#EXTINF:-1 tvg-id="4e1ee0083e828bf2ce03ea6a6895ed30" group-title="TATA PLAY",SONY HD
-http://119.156.228.231:9983/stream/channelid/148905550?ticket=497B4B1E75682035F9652744BE6115877C9F6A91&profile=pass
-#EXTINF:-1 tvg-id="1ad89e7abf748cb3feb089c789150ec9" group-title="TATA PLAY",COLORS HD
-http://119.156.228.231:9983/stream/channelid/2057230362?ticket=D1A380225331754339E838890559DCC697FC7BFE&profile=pass
-#EXTINF:-1 tvg-id="771757fe0e901459b4bcba54433e76e1" group-title="TATA PLAY",STAR BHARAT
-http://119.156.228.231:9983/stream/channelid/2119636855?ticket=2A58E44666331B06864C02C2B232385A6295C101&profile=pass
-#EXTINF:-1 tvg-id="b45a73d7ff9e6ecdc83bd11a64239d92" group-title="TATA PLAY",SONY SAB HD
-http://119.156.228.231:9983/stream/channelid/1467177652?ticket=6C67BB67063EEEE9F377483F8A7430D5FA0EB5B0&profile=pass
-#EXTINF:-1 tvg-id="f9bfe35429375e026ead59d75050f94e" group-title="TATA PLAY",&TV HD
-http://119.156.228.231:9983/stream/channelid/1424211961?ticket=7A8D0FDBD7C7FA69A5882FAD5F3373E3135E24D4&profile=pass
-#EXTINF:-1 tvg-id="f5d379414acf523ffd9a3a72d28d90fc" group-title="TATA PLAY",ZEE TV HD
-http://119.156.228.231:9983/stream/channelid/1098503157?ticket=9E80892817AD1A448CE16ABC1CEA32AD5E030679&profile=pass
-#EXTINF:-1 tvg-id="6a3f4469bfd8c8e11f4a8f5e5315566f" group-title="TATA PLAY",ZEE BOLLYWOOD
-http://119.156.228.231:9983/stream/channelid/1766080362?ticket=2883ACB2394076E4EF5B93600FE3392222D1D375&profile=pass
-#EXTINF:-1 tvg-id="e22910210e3825aa8627d10932120539" group-title="TATA PLAY",COLORS RISHTEY
-http://119.156.228.231:9983/stream/channelid/554707426?ticket=F68889972AF061D9D3C039AC27EB8AF2919FBD43&profile=pass
-#EXTINF:-1 tvg-id="4ccdfad6e0b55cca41580a4e4cea8a6c" group-title="TATA PLAY",SONY PAL
-http://119.156.228.231:9983/stream/channelid/1459277132?ticket=EB408B3F146926DAAF2AB6DED43622D3D1C2832C&profile=pass
-#EXTINF:-1 tvg-id="76e411d892aa1d6fe77e509305344bb9" group-title="TATA PLAY",ZEE CINEMA HD
-http://119.156.228.231:9983/stream/channelid/1477567606?ticket=75EDEAE6A32BB83FD0B1FDEF2D24E200C46331B8&profile=pass
-#EXTINF:-1 tvg-id="d23a0c46adf9581f335d90a96b552324" group-title="TATA PLAY",&PICTURES HD
-http://119.156.228.231:9983/stream/channelid/1175206610?ticket=413259FAAACAFC6E967D33DACF2D46BD8D649677&profile=pass
-#EXTINF:-1 tvg-id="e88ea995fa5522bd421da9c5f46b074b" group-title="TATA PLAY",STAR GOLD HD
-http://119.156.228.231:9983/stream/channelid/363433704?ticket=BD3E9E12026E48FC20935138A5EB21786A3E2FDC&profile=pass
-#EXTINF:-1 tvg-id="5d09dc10ee294bfeaf531d3513bf0f13" group-title="TATA PLAY",STAR GOLD 2 HD
-http://119.156.228.231:9983/stream/channelid/282855773?ticket=628548232FA3DC718FCE4C1A75D9190C92414043&profile=pass
-#EXTINF:-1 tvg-id="b8d0071188244a01474fd686212f1f61" group-title="TATA PLAY",STAR GOLD ROMANCE
-http://119.156.228.231:9983/stream/channelid/285724856?ticket=953A2404F8E3647364AB5A561333F6D594C5B898&profile=pass
-#EXTINF:-1 tvg-id="f6e285ad9ba1612fcd12dc538c63667a" group-title="TATA PLAY",STAR GOLD SELECT HD
-http://119.156.228.231:9983/stream/channelid/763749110?ticket=E6E895C5D8A769B70156CA61D140DA6CD80602B0&profile=pass
-#EXTINF:-1 tvg-id="af0bc23e416bd9e3dbedea39d456dd94" group-title="TATA PLAY",SONY MAX HD
-http://119.156.228.231:9983/stream/channelid/1052904367?ticket=A33C9601816E47480600D824850C74AB458ACFDF&profile=pass
-#EXTINF:-1 tvg-id="819570d42c110407ab980eaacf443720" group-title="TATA PLAY",SONY MAX 2
-http://119.156.228.231:9983/stream/channelid/1416664449?ticket=C0CFEC41F869625C995C7E81EBCC04A431F2ACF3&profile=pass
-#EXTINF:-1 tvg-id="eb6e9166f22079b4653a8f927d47a704" group-title="TATA PLAY",ZEE CLASSIC
-http://119.156.228.231:9983/stream/channelid/1720807147?ticket=0BD57915BB7DA9BEF77214A9E5585E3D2B6B1FE4&profile=pass
-#EXTINF:-1 tvg-id="efd7a64359e5ba7d2efea9be2b3b3e40 "group-title="TATA PLAY",B4U KADAK
-http://119.156.228.231:9983/stream/channelid/1135007727?ticket=062677E53C2CCB6861EE78F9B428DD9F682E5432&profile=pass
-#EXTINF:-1 tvg-id="1edf4516379c5c6da8aec0a2c9d139ac" group-title="TATA PLAY",PITAARA
-http://119.156.228.231:9983/stream/channelid/373677854?ticket=1ABE1371C4EDE1F82EF2CF02D88B5A4071CC85BD&profile=pass
-#EXTINF:-1 tvg-id="ffe4afb5760a441077d8a4161a4a47fe" group-title="TATA PLAY",THE Q
-http://119.156.228.231:9983/stream/channelid/900719871?ticket=2D29F9D2CC26D0EE60B3F2B3C757FDF174174BF7&profile=pass
-#EXTINF:-1 tvg-id="09b3e8d2c4531f570b1c0e5079387b04" group-title="TATA PLAY",Goldmines
-http://119.156.228.231:9983/stream/channelid/1390981897?ticket=973C432C2B64371FF39C126BFA97ED8E2FB8B3FE&profile=pass
-#EXTINF:-1 tvg-id="0592793ae96a96fc9917330976e9c449" group-title="TATA PLAY",GOLDMINES MOVIES
-http://119.156.228.231:9983/stream/channelid/981045765?ticket=C45415CE6AE0FEC5FE287BD3F784DF718A08192F&profile=pass
-#EXTINF:-1 tvg-id="4aeeee3ffb784010f5ebdb2c59a31019" group-title="TATA PLAY",Goldmines 2
-http://119.156.228.231:9983/stream/channelid/1072623178?ticket=297DA7CA610A648BBDE5CF6C5AB0AC846057957F&profile=pass
-#EXTINF:-1 tvg-id="9f9d91fa1749d28aa7e0a0f20f947111" group-title="TATA PLAY",Goldmines Bollywood
-http://119.156.228.231:9983/stream/channelid/2056363423?ticket=6555233299A84185D87ED3C74E9A6EB54764AE3E&profile=pass
-#EXTINF:-1 tvg-id="f74c43b0be3bcd5247b1409324bb4be8" group-title="TATA PLAY",ALL TIME MOVIES
-http://119.156.228.231:9983/stream/channelid/809716983?ticket=0B386B35C1550D49EBEDBC773C5FA2E612FBEF37&profile=pass
-#EXTINF:-1 tvg-id="d1d607c079c6fe30ae634243c291bcd4" group-title="TATA PLAY",A1TV
-http://119.156.228.231:9983/stream/channelid/1074255569?ticket=E95CA2B3E1C6A39A01356351885010D5EB7EBE60&profile=pass
-#EXTINF:-1 tvg-id="325eafe534a5b48d14b3cbbd0f2813e9" group-title="TATA PLAY",Hum Pashto 1
-http://119.156.228.231:9983/stream/channelid/1705991730?ticket=E61FE27013B4FAF0C4A15FAA95FC2EBE59CC33CD&profile=pass
-#EXTINF:-1 tvg-id="856c4b0eadfa87c24296e2bb1d7d79b4" group-title="TATA PLAY",See TV
-http://119.156.228.231:9983/stream/channelid/239824005?ticket=DC4263A5C534F22581792510694617034F5FB7EE&profile=pass
-#EXTINF:-1 tvg-id="80fcd5fc82512dcb36be82674b50d7a6" group-title="TATA PLAY",RAAVI TV
-http://119.156.228.231:9983/stream/channelid/2094398592?ticket=6B981EE074740592E4DC6F9285821CA5C3FB1FFB&profile=pass
-#EXTINF:-1 tvg-id="dc873260d8b5cdecb27fcf0a93d4b28f" group-title="TATA PLAY",ARUJ TV
-http://119.156.228.231:9983/stream/channelid/1613924316?ticket=C3249E99DF440177F47128A8E9DF0CE19FA8CCC9&profile=pass
-#EXTINF:-1 tvg-id="36d7ff9e4dbc1cca3cfac44bfc6da4a0" group-title="TATA PLAY",FILMAX
-http://119.156.228.231:9983/stream/channelid/520083254?ticket=82606F7995D602814A14AD33A63B105F89DAC667&profile=pass
-#EXTINF:-1 tvg-id="250bf36cbdf9b95fe0a2d3cac0f6adcb" group-title="TATA PLAY",FILMAZIA
-http://119.156.228.231:9983/stream/channelid/1827867429?ticket=832ECD5B304D9C0A54AF49F1B486614D59D73880&profile=pass
-#EXTINF:-1 tvg-id="9f5fb6462e54ccda433c32dff08457dc" group-title="TATA PLAY",FILMAZIA PUNJABI
-http://119.156.228.231:9983/stream/channelid/1186357151?ticket=BF27ED238F17BEF3AB0E83740E32795ACBD25B4E&profile=pass
-#EXTINF:-1 tvg-id="55d02dcb229ca0e910f9cd98324a6979" group-title="TATA PLAY",Sindh News
-http://119.156.228.231:9983/stream/channelid/1261293653?ticket=99360026151AF9E056835329A9FA87C01B7D8FD4&profile=pass
-#EXTINF:-1 tvg-id="856d156eddf5acbed433fa876de612c3" group-title="TATA PLAY",K21 NEWS
-http://119.156.228.231:9983/stream/channelid/1846898053?ticket=61B1A3F04C15B25B2A0ECA96DB0FB7C1E21D3305&profile=pass
-#EXTINF:-1 tvg-id="fb47014d9617e817f391395e511111ec" group-title="TATA PLAY",Sindh TV
-http://119.156.228.231:9983/stream/channelid/1291929595?ticket=492FBDAC87F2937FB126C5B6EC8F1EC1BEAEA5D4&profile=pass
-#EXTINF:-1 tvg-id="3962a79478fe577727162c50683c2d69" group-title="TATA PLAY",Isaac TV
-http://119.156.228.231:9983/stream/channelid/346513977?ticket=445B78815E282B47E34EF0A2B62FB41C48D46A99&profile=pass
-#EXTINF:-1 tvg-id="193f5c185a3e3151c80d0f8bce2e6770" group-title="TATA PLAY",AUR News
-http://119.156.228.231:9983/stream/channelid/408698649?ticket=6D5CD52ED6466F276E6CA686D9C443307166F08D&profile=pass
-#EXTINF:-1 tvg-id="201841141bc462e552a63d4946a753c3" group-title="TATA PLAY",SNN News
-http://119.156.228.231:9983/stream/channelid/339810336?ticket=2826D6AB561A6124864F6CAEB8482997756F47E0&profile=pass
+
 
 
 #EXTINF:-1 tvg-chno="1" tvg-id="iptv36.one" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/one.png",ONE FHD (Duplicated)
@@ -4754,14 +5476,14 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:1180-0c9c-ad1f-4e5d-aa48.smil/play
 #EXTINF:-1 tvg-chno="3" tvg-id="iptv36.thaipbs" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/thaipbs.png",Thai PBS FHD
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-id="iptv36.blank" group-title="Blank" tvg-logo="https://iptv36.vercel.app/logo/blank.jpg",Blank CH 04
-https://iptv36.vercel.app/nosignal.m3u8?ch=blank04
+#EXTINF:-1 tvg-chno="4" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 04
+https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV04
 
 #EXTINF:-1 tvg-chno="5" tvg-id="iptv36.tv5" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tv5.png",TV5 FHD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="6" tvg-id="iptv36.blank" group-title="Blank" tvg-logo="https://iptv36.vercel.app/logo/blank.jpg",Blank CH 06
-https://iptv36.vercel.app/nosignal.m3u8?ch=blank06
+#EXTINF:-1 tvg-chno="6" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 06
+https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV06
 
 #EXTINF:-1 tvg-chno="7" tvg-id="iptv36.tsports" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tsports.png",T-Sports [เสีย]
 https://iptv36.vercel.app/nosignal.m3u8?ch=tsports
@@ -4778,35 +5500,35 @@ https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
 #EXTINF:-1 tvg-chno="11" tvg-id="iptv36.nbtcentral" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/nbt.png?v=4",NBT Central FHD
 https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-id="iptv36.blank" group-title="Blank" tvg-logo="https://iptv36.vercel.app/logo/blank.jpg",Blank CH 12
-https://iptv36.vercel.app/nosignal.m3u8?ch=blank12
+#EXTINF:-1 tvg-chno="12" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 12
+https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV12
 
 #EXTINF:-1 tvg-chno="13" tvg-id="iptv36.workpoint" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/workpoint.png",Workpoint TV [เสีย]
 https://iptv36.vercel.app/nosignal.m3u8?ch=workpoint
 
-#EXTINF:-1 tvg-chno="14" tvg-id="iptv36.blank" group-title="Blank" tvg-logo="https://iptv36.vercel.app/logo/blank.jpg",Blank CH 14
-https://iptv36.vercel.app/nosignal.m3u8?ch=blank14
+#EXTINF:-1 tvg-chno="14" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 14
+https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV14
 
-#EXTINF:-1 tvg-chno="15" tvg-id="iptv36.blank" group-title="Blank" tvg-logo="https://iptv36.vercel.app/logo/blank.jpg",Blank CH 15
-https://iptv36.vercel.app/nosignal.m3u8?ch=blank15
+#EXTINF:-1 tvg-chno="15" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 15
+https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV15
 
 #EXTINF:-1 tvg-chno="16" tvg-id="iptv36.tnn16" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tnn16.png",TNN16 [เสีย]
 https://iptv36.vercel.app/nosignal.m3u8?ch=tnn16
 
-#EXTINF:-1 tvg-chno="17" tvg-id="iptv36.blank" group-title="Blank" tvg-logo="https://iptv36.vercel.app/logo/blank.jpg",Blank CH 17
-https://iptv36.vercel.app/nosignal.m3u8?ch=blank17
+#EXTINF:-1 tvg-chno="17" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 17
+https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV17
 
-#EXTINF:-1 tvg-chno="18" tvg-id="iptv36.blank" group-title="Blank" tvg-logo="https://iptv36.vercel.app/logo/blank.jpg",Blank CH 18
-https://iptv36.vercel.app/nosignal.m3u8?ch=blank18
+#EXTINF:-1 tvg-chno="18" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 18
+https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV18
 
-#EXTINF:-1 tvg-chno="19" tvg-id="iptv36.blank" group-title="Blank" tvg-logo="https://iptv36.vercel.app/logo/blank.jpg",Blank CH 19
-https://iptv36.vercel.app/nosignal.m3u8?ch=blank19
+#EXTINF:-1 tvg-chno="19" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 19
+https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV19
 
-#EXTINF:-1 tvg-chno="20" tvg-id="iptv36.blank" group-title="Blank" tvg-logo="https://iptv36.vercel.app/logo/blank.jpg",Blank CH 20
-https://iptv36.vercel.app/nosignal.m3u8?ch=blank20
+#EXTINF:-1 tvg-chno="20" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 20
+https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV20
 
-#EXTINF:-1 tvg-chno="21" tvg-id="iptv36.blank" group-title="Blank" tvg-logo="https://iptv36.vercel.app/logo/blank.jpg",Blank CH 21
-https://iptv36.vercel.app/nosignal.m3u8?ch=blank21
+#EXTINF:-1 tvg-chno="21" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 21
+https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV21
 
 #EXTINF:-1 tvg-chno="22" tvg-id="iptv36.nation" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/nation.png",Nation TV FHD
 #EXTVLCOPT:http-referrer=https://www.nationtv.tv/
@@ -4821,8 +5543,8 @@ https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 #EXTINF:-1 tvg-chno="25" tvg-id="iptv36.gmm25" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/gmm25.png",GMM25 FHD
 https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
 
-#EXTINF:-1 tvg-chno="26" tvg-id="iptv36.blank" group-title="Blank" tvg-logo="https://iptv36.vercel.app/logo/blank.jpg",Blank CH 26
-https://iptv36.vercel.app/nosignal.m3u8?ch=blank26
+#EXTINF:-1 tvg-chno="26" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 26
+https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV26
 
 #EXTINF:-1 tvg-chno="27" tvg-id="iptv36.ch8" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch8.png",CH8 HD
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
