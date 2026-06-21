@@ -68,9 +68,9 @@ http://103.148.44.38:8000/play/a092/index.m3u8
 http://103.148.44.38:8000/play/a093/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",CCTV17
 http://103.148.44.38:8000/play/a044/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",CGTNIndonesiaDOCUMENTARY
+#EXTINF:Indonesia1 group-title="INDONESIA",CGTN DOCUMENTARY
 http://103.148.44.38:8000/play/a051/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",CHINISEIndonesiaDRAMA
+#EXTINF:Indonesia1 group-title="INDONESIA",CHINISE DRAMA
 http://103.148.44.38:8000/play/a06w/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",CNA
 http://103.148.44.38:8000/play/a04r/index.m3u8
@@ -78,29 +78,29 @@ http://103.148.44.38:8000/play/a04r/index.m3u8
 http://103.148.44.38:8000/play/a00h/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",CNBC
 http://103.148.44.38:8000/play/a054/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",CNBCIndonesiaINDO
+#EXTINF:Indonesia1 group-title="INDONESIA",CNBC INDO
 http://103.148.44.38:8000/play/a055/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",CNN
 http://103.148.44.38:8000/play/a05q/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",DAIIIndonesiaTV
+#EXTINF:Indonesia1 group-title="INDONESIA",DAII TV
 http://103.148.44.38:8000/play/a06b/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",GALAXI
 http://103.148.44.38:8000/play/a05z/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",GALAXYIndonesiaPREMIUN
+#EXTINF:Indonesia1 group-title="INDONESIA",GALAXY PREMIUN
 http://103.148.44.38:8000/play/a056/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",GEN ENT Indonesia TVNIndonesiaMOVIES 
+#EXTINF:Indonesia1 group-title="INDONESIA",TVN MOVIES 
 http://103.148.44.38:8000/play/a052/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",GEN ENT Indonesia [052] Dunia Lain
+#EXTINF:Indonesia1 group-title="INDONESIA",Dunia Lain
 http://103.148.44.38:8000/play/a01a/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",GEN ENT Indonesia [523] KIndonesiaPlus (Trial)
+#EXTINF:Indonesia1 group-title="INDONESIA",K Plus (Trial)
 http://103.148.44.38:8000/play/a01b/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",GEN ENT Indonesia [576] KIX
+#EXTINF:Indonesia1 group-title="INDONESIA",KIX
 http://103.148.44.38:8000/play/a01i/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",GEN ENT Indonesia [578] TVN
+#EXTINF:Indonesia1 group-title="INDONESIA",TVN
 http://103.148.44.38:8000/play/a01k/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",GEN ENT Indonesia [579] KJEPANG World
+#EXTINF:Indonesia1 group-title="INDONESIA",KJEPANG World
 http://103.148.44.38:8000/play/a01l/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",GEN ENT Indonesia [580] Aniplus
+#EXTINF:Indonesia1 group-title="INDONESIA",Aniplus
 http://103.148.44.38:8000/play/a01m/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",HITS
 http://103.148.44.38:8000/play/a01g/index.m3u8
@@ -110,63 +110,61 @@ http://103.148.44.38:8000/play/a05c/index.m3u8
 http://103.148.44.38:8000/play/a05p/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",K+
 http://103.148.44.38:8000/play/a02s/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",KIDS Indonesia [000] Disney Channel (HD)
+#EXTINF:Indonesia1 group-title="INDONESIA",Disney Channel (HD)
 http://103.148.44.38:8000/play/a03c/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",KIDS Indonesia [384] Nickelodeon
+#EXTINF:Indonesia1 group-title="INDONESIA",Nickelodeon
 http://103.148.44.38:8000/play/a03f/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",KIDS Indonesia [385] Nick Jr.
+#EXTINF:Indonesia1 group-title="INDONESIA",Nick Jr.
 http://103.148.44.38:8000/play/a03g/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",KOMPASIndonesiaTV
+#EXTINF:Indonesia1 group-title="INDONESIA",KOMPASTV
 http://103.148.44.38:8000/play/a05a/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",LIFESTYLE Indonesia [484] Fashion TV
+#EXTINF:Indonesia1 group-title="INDONESIA",Fashion TV
 http://103.148.44.38:8000/play/a011/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",LOCAL Indonesia [007] Usee Otomoto
+#EXTINF:Indonesia1 group-title="INDONESIA",Usee Otomoto
 http://103.148.44.38:8000/play/a003/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",LOCAL Indonesia [042] INSERT
+#EXTINF:Indonesia1 group-title="INDONESIA",INSERT
 http://103.148.44.38:8000/play/a006/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",LOCALIndonesiaALIndonesiaQURANIndonesiaTV
-http://103.148.44.38:8000/play/a04u/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",LOCALIndonesiaCNNIndonesiaINDONESIA
+#EXTINF:Indonesia1 group-title="INDONESIA",LOCALIndonesiaCNNINDONESIA
 http://103.148.44.38:8000/play/a03r/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",LOCALIndonesiaRODJAIndonesiaTV
+#EXTINF:Indonesia1 group-title="INDONESIA",LOCALIndonesiaRODJATV
 http://103.148.44.38:8000/play/a04t/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",LOCALIndonesiaTVRIIndonesiaINDONESIA
+#EXTINF:Indonesia1 group-title="INDONESIA",LOCALIndonesiaTVRIINDONESIA
 http://103.148.44.38:8000/play/a03t/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",LOCALIndonesiaTVRIIndonesiaSPORT
+#EXTINF:Indonesia1 group-title="INDONESIA",LOCALIndonesiaTVRISPORT
 http://103.148.44.38:8000/play/a03x/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",MIndonesiaKIDZ
+#EXTINF:Indonesia1 group-title="INDONESIA",MKIDZ
 http://103.148.44.38:8000/play/a09w/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",MDIndonesiaENTERTAIMEN
+#EXTINF:Indonesia1 group-title="INDONESIA",MDENTERTAIMEN
 http://103.148.44.38:8000/play/a06g/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",METROIndonesiaTV
+#EXTINF:Indonesia1 group-title="INDONESIA",METROTV
 http://103.148.44.38:8000/play/a059/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",MOVIES Indonesia [000] FOX Family (HD)
+#EXTINF:Indonesia1 group-title="INDONESIA",FOX Family (HD)
 http://103.148.44.38:8000/play/a02e/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",MOVIES Indonesia [000] FOX Movies Premium (HD)
+#EXTINF:Indonesia1 group-title="INDONESIA",FOX Movies Premium (HD)
 http://103.148.44.38:8000/play/a02c/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",MOVIES Indonesia [000] HBO Hits (HD)
+#EXTINF:Indonesia1 group-title="INDONESIA",HBO Hits (HD)
 http://103.148.44.38:8000/play/a02m/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",MOVIES Indonesia [000] HBO Hits (HD)
+#EXTINF:Indonesia1 group-title="INDONESIA",HBO Hits (HD)
 http://103.148.44.38:8000/play/a028/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",MOVIES Indonesia [119] Flik
+#EXTINF:Indonesia1 group-title="INDONESIA",Flik
 http://103.148.44.38:8000/play/a020/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",MOVIES Indonesia [617] GALAXY (Trial)
+#EXTINF:Indonesia1 group-title="INDONESIA",GALAXY (Trial)
 http://103.148.44.38:8000/play/a023/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",MOVIES Indonesia [682] HBO Signature
+#EXTINF:Indonesia1 group-title="INDONESIA",HBO Signature
 http://103.148.44.38:8000/play/a025/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",MOVIES Indonesia [683] Cinemax
+#EXTINF:Indonesia1 group-title="INDONESIA",Cinemax
 http://103.148.44.38:8000/play/a026/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",MOVIES Indonesia [685] HBO Family
+#EXTINF:Indonesia1 group-title="INDONESIA",HBO Family
 http://103.148.44.38:8000/play/a029/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",MOVIES Indonesia [691] Celestial
+#EXTINF:Indonesia1 group-title="INDONESIA",Celestial
 http://103.148.44.38:8000/play/a02h/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",MOVIES Indonesia [695] Cinema World
+#EXTINF:Indonesia1 group-title="INDONESIA",Cinema World
 http://103.148.44.38:8000/play/a02l/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",MUSIC Indonesia [453] PRAMBORS (Trial)
+#EXTINF:Indonesia1 group-title="INDONESIA",PRAMBORS (Trial)
 http://103.148.44.38:8000/play/a014/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",NBAIndonesiaTV
+#EXTINF:Indonesia1 group-title="INDONESIA",NBATV
 http://103.148.44.38:8000/play/a03m/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",NETIndonesiaTV
+#EXTINF:Indonesia1 group-title="INDONESIA",NETTV
 http://103.148.44.38:8000/play/a05b/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",DISC
 http://103.148.44.38:8000/play/a09q/index.m3u8
@@ -183,23 +181,23 @@ http://103.148.44.38:8000/play/a09c/index.m3u8
 http://103.148.44.38:8000/play/a09d/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",CINEMAX
 http://103.148.44.38:8000/play/a09e/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",ROCKIndonesiaENTERTEINT
+#EXTINF:Indonesia1 group-title="INDONESIA",ROCKENTERTEINT
 http://103.148.44.38:8000/play/a053/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",RTV
 http://103.148.44.38:8000/play/a04w/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",SPORTS Indonesia [000] BeIn Sport 3 (HD)
+#EXTINF:Indonesia1 group-title="INDONESIA", eIn Sport 3 (HD)
 http://103.148.44.38:8000/play/a02q/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",SPORTS Indonesia [782] BeIn Sport 2
+#EXTINF:Indonesia1 group-title="INDONESIA",BeIn Sport 2
 http://103.148.44.38:8000/play/a02o/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",TRANSIndonesia7
+#EXTINF:Indonesia1 group-title="INDONESIA",TRANS7
 http://103.148.44.38:8000/play/a05f/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",TRANSIndonesiaTV
+#EXTINF:Indonesia1 group-title="INDONESIA",TRANSTV
 http://103.148.44.38:8000/play/a05e/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",TV SERIES Indonesia [588] Sony Channel
+#EXTINF:Indonesia1 group-title="INDONESIA",Sony Channel
 http://103.148.44.38:8000/play/a01v/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",TVIndonesiaK+
+#EXTINF:Indonesia1 group-title="INDONESIA",TVK+
 http://103.148.44.38:8000/play/a05s/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",TV9IndonesiaNUSANTARA
+#EXTINF:Indonesia1 group-title="INDONESIA",TV9NUSANTARA
 http://103.148.44.38:8000/play/a06m/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",TVJEPANG
 http://103.148.44.38:8000/play/a03p/index.m3u8
@@ -207,11 +205,11 @@ http://103.148.44.38:8000/play/a03p/index.m3u8
 http://103.148.44.38:8000/play/a058/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",TVP
 http://103.148.44.38:8000/play/a06j/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",TVRIIndonesiaKanalIndonesia3
+#EXTINF:Indonesia1 group-title="INDONESIA",TVRI3
 http://103.148.44.38:8000/play/a05t/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",TVRIIndonesiaSport
+#EXTINF:Indonesia1 group-title="INDONESIA",TVRISport
 http://103.148.44.38:8000/play/a05u/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",TVRIIndonesiaWORLD
+#EXTINF:Indonesia1 group-title="INDONESIA",TVRIWORLD
 http://103.148.44.38:8000/play/a03w/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",VTV
 http://103.148.44.38:8000/play/a09u/index.m3u8
