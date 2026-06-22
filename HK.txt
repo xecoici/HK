@@ -1,45 +1,43 @@
-
-
 #EXTM3U
-#EXTINF:-1 logo="http://i.imgur.com/D1o9by9.png" tvg-id="9bd41a5c12e9c23b13d517aa867b7ca2",KBS JOY
+#EXTINF:-1 logo="http://i.imgur.com/D1o9by9.png" tvg-id="9bd41a5c12e9c23b13d517aa867b7ca2" group-title="KT-KOREA",KBS JOY
 http://mdlstay.com:9981/stream/channelid/1545262235?ticket=4346C7471E835D0826B08879384AC0AFF014D291&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="4b852da4eb23bf46a1d6d0fb92bbfa5a",SBS
+#EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="4b852da4eb23bf46a1d6d0fb92bbfa5a" group-title="KT-KOREA",SBS
 http://mdlstay.com:9981/stream/channelid/606963019?ticket=58684F4E95F9A4A0FFCC41A06561C340BDBB6BA1&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/XgibZbD.png" tvg-id="b6d61484fa49718af3d8332b22803d6b",KBS2
+#EXTINF:-1 logo="http://i.imgur.com/XgibZbD.png" tvg-id="b6d61484fa49718af3d8332b22803d6b" group-title="KT-KOREA",KBS2
 http://mdlstay.com:9981/stream/channelid/68474550?ticket=F09B2512B2591BEF5C062DCAA99A5D7F4593A897&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/DJHN8M6.png" tvg-id="5b3c3d11da70ab4f09145bec5a0d37a8",OBS
+#EXTINF:-1 logo="http://i.imgur.com/DJHN8M6.png" tvg-id="5b3c3d11da70ab4f09145bec5a0d37a8" group-title="KT-KOREA",OBS
 http://mdlstay.com:9981/stream/channelid/289225819?ticket=D8E2AE52B64D23565D0CB755B72C5E885B36B5C2&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/e31o5gw.png" tvg-id="3699dd962949f20c31e6ba1aa80960d2",KBS1
+#EXTINF:-1 logo="http://i.imgur.com/e31o5gw.png" tvg-id="3699dd962949f20c31e6ba1aa80960d2" group-title="KT-KOREA",KBS1
 http://mdlstay.com:9981/stream/channelid/383621430?ticket=D48C2AE7D7A930032C86862C0A6AA4F734CF7B58&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/WViFruZ.png" tvg-id="63e1e5a45a287774dc65da5dea3175ff",EBS1
+#EXTINF:-1 logo="http://i.imgur.com/WViFruZ.png" tvg-id="63e1e5a45a287774dc65da5dea3175ff" group-title="KT-KOREA",EBS1
 http://mdlstay.com:9981/stream/channelid/619045219?ticket=6EDCE114401F8B8A7995BB5FE7E5368126853150&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/RIrBF4D.png" tvg-id="0628809cfad7d0c14a9def478f0e8288",EBS2
+#EXTINF:-1 logo="http://i.imgur.com/RIrBF4D.png" tvg-id="0628809cfad7d0c14a9def478f0e8288" group-title="KT-KOREA",EBS2
 http://mdlstay.com:9981/stream/channelid/478160902?ticket=CC05265C4EB9F55D3462DBFBFEC40A139A5CB0C7&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/duig32i.png" tvg-id="6a3ec278fd8de8c383ff5c9e6873f18a",MBC
+#EXTINF:-1 logo="http://i.imgur.com/duig32i.png" tvg-id="6a3ec278fd8de8c383ff5c9e6873f18a" group-title="KT-KOREA",MBC
 http://mdlstay.com:9981/stream/channelid/2025995882?ticket=9B0508918FFBF3FB9790595632F261725F37936E&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/YOYosLG.png" tvg-id="d4f4933c9fcd01980e345e4815a7cb5b",JTBC
+#EXTINF:-1 logo="http://i.imgur.com/YOYosLG.png" tvg-id="d4f4933c9fcd01980e345e4815a7cb5b" group-title="KT-KOREA",JTBC
 http://mdlstay.com:9981/stream/channelid/1016329428?ticket=409FC5BFAA61ABBA95A289E4C05B0519AFF1B11F&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/p0mvIJN.png" tvg-id="30dc33a53a4f92986cf98eec55278df4",MBN
+#EXTINF:-1 logo="http://i.imgur.com/p0mvIJN.png" tvg-id="30dc33a53a4f92986cf98eec55278df4" group-title="KT-KOREA",MBN
 http://mdlstay.com:9981/stream/channelid/624155696?ticket=277B1D1FA866ECFB0A9D4B141D517B1D7F4ABA0B&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/OJ9A8fZ.png" tvg-id="18b1507f85c0cb33da83302a284f8fb0",tvN
+#EXTINF:-1 logo="http://i.imgur.com/OJ9A8fZ.png" tvg-id="18b1507f85c0cb33da83302a284f8fb0" group-title="KT-KOREA",tvN
 http://mdlstay.com:9981/stream/channelid/2135994648?ticket=C8CCE6A0B08C988DC7D362776974D2F12959B156&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/xti35f5.png" tvg-id="245742354f37b770cab2d4f074703571",채널A
+#EXTINF:-1 logo="http://i.imgur.com/xti35f5.png" tvg-id="245742354f37b770cab2d4f074703571" group-title="KT-KOREA",채널A
 http://mdlstay.com:9981/stream/channelid/893540132?ticket=0F32DFB4489DECA42B06DE77EE2BE740E1CF0473&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/ShJ5joR.png" tvg-id="7703285f2fead32617133f079196c0bb",TV조선
+#EXTINF:-1 logo="http://i.imgur.com/ShJ5joR.png" tvg-id="7703285f2fead32617133f079196c0bb" group-title="KT-KOREA",TV조선
 http://mdlstay.com:9981/stream/channelid/1596457847?ticket=5C04DD9F79BC55B44EDF0192B98DAF44C6A91948&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ENA_logo.svg" tvg-id="83226ebee0c11abb8aa6922caf49e2de",ENA
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ENA_logo.svg" tvg-id="83226ebee0c11abb8aa6922caf49e2de" group-title="KT-KOREA",ENA
 http://mdlstay.com:9981/stream/channelid/1047405187?ticket=98015761199FC6F2A02A3ACCD9C3F96E24FAE0D0&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TvN_STORY_logo.png" tvg-id="c232b4bb3d10c3345fde7687d86904fe",tvN STORY
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TvN_STORY_logo.png" tvg-id="c232b4bb3d10c3345fde7687d86904fe" group-title="KT-KOREA",tvN STORY
 http://mdlstay.com:9981/stream/channelid/1001665218?ticket=C32FA95084A50C6400F1A7B18B58915D65A3896E&profile=pass
-#EXTINF:-1 logo="https://i.namu.wiki/i/jfI0RegbDHMIf2XUfcReCOUP49yDRfvSCA9bzvxOE5MlZvapcuR4Kq4MGzj0OJaX4ooK5pRt8IlnFOwyPyv1G8hMqWfq2TFpm5LqbaPh9p8rAmvJnWXo_KJH9b_73ZW5aYWekgRLdoXU_s4rpxN3SA.svg" tvg-id="1fa1709bdf9a8e808b1687bb8f68ddf5",채널S
+#EXTINF:-1 logo="https://i.namu.wiki/i/jfI0RegbDHMIf2XUfcReCOUP49yDRfvSCA9bzvxOE5MlZvapcuR4Kq4MGzj0OJaX4ooK5pRt8IlnFOwyPyv1G8hMqWfq2TFpm5LqbaPh9p8rAmvJnWXo_KJH9b_73ZW5aYWekgRLdoXU_s4rpxN3SA.svg" tvg-id="1fa1709bdf9a8e808b1687bb8f68ddf5" group-title="KT-KOREA",채널S
 http://mdlstay.com:9981/stream/channelid/460366111?ticket=615A007110B1C82367EE18737158BB52E9F89884&profile=pass
-#EXTINF:-1 logo="https://i.namu.wiki/i/XwKaXG0Ho7mdekIHLKZg2v0hd2BeS9z4gOcMVGK_kHFfJEPANGKHa14LEEip4NQViggLXg49Z4D0k999nHOxPH9EWRbdN-AscVkcjJ8O9dSJ59kAxnLHATXpgh8SnG0CT5dE0pMQHBiYdVH3j9YjFhtuPA.svg" tvg-id="d5eaf386d5c3d340d88ec072e7502a54",ENA PLAY
+#EXTINF:-1 logo="https://i.namu.wiki/i/XwKaXG0Ho7mdekIHLKZg2v0hd2BeS9z4gOcMVGK_kHFfJEPANGKHa14LEEip4NQViggLXg49Z4D0k999nHOxPH9EWRbdN-AscVkcjJ8O9dSJ59kAxnLHATXpgh8SnG0CT5dE0pMQHBiYdVH3j9YjFhtuPA.svg" tvg-id="d5eaf386d5c3d340d88ec072e7502a54" group-title="KT-KOREA",ENA PLAY
 http://mdlstay.com:9981/stream/channelid/116648661?ticket=F1D7F6C2201CCFFBB025589D75B531BCC72A63A9&profile=pass
-#EXTINF:-1 logo="https://i.namu.wiki/i/2_uGa01KJlvVjYB0pfUTe0FjX_YVr28mwXHExSSlx60Hw0hf8UzcA1NHBMHauhj_v4APuE7LZd3b91sA29YOJWYt1M4-mCHJgUVJRjjuUJgqkCgmco8GdwF-lUXgOp0L9WwqOyUSihEqW_nTKZbL3w.webp" tvg-id="d5533a391ced214ee0d26f3e4258975b",MBN 플러스
+#EXTINF:-1 logo="https://i.namu.wiki/i/2_uGa01KJlvVjYB0pfUTe0FjX_YVr28mwXHExSSlx60Hw0hf8UzcA1NHBMHauhj_v4APuE7LZd3b91sA29YOJWYt1M4-mCHJgUVJRjjuUJgqkCgmco8GdwF-lUXgOp0L9WwqOyUSihEqW_nTKZbL3w.webp" tvg-id="d5533a391ced214ee0d26f3e4258975b" group-title="KT-KOREA",MBN 플러스
 http://mdlstay.com:9981/stream/channelid/960123861?ticket=EE005EA18734CE2320AA6DF1A9E33ECCF642ACCB&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/EwThLNU.png" tvg-id="cd019bb4e99a1dddbdb85443c8d75588",JTBC4
+#EXTINF:-1 logo="https://i.imgur.com/EwThLNU.png" tvg-id="cd019bb4e99a1dddbdb85443c8d75588" group-title="KT-KOREA",JTBC4
 http://mdlstay.com:9981/stream/channelid/882573773?ticket=33B607AAA9ACF175E07F0FAD344C93539287C2C2&profile=pass
-#EXTINF:-1 logo="https://i.namu.wiki/i/jdJ2wKwuEduYGmmxNbpV57hKJrpR_kGL5Xw0rrZV-VN8D0gKGVyDRo58wyKMr9PbBZc9LdIgoSCJppBnnhcbgiQ-HvMKP-Q92tVA7QZihyY5Ku-vgM4WDIUEJ0lEse29RPW7ZaK8BR2tvl2Et08fPA.svg" tvg-id="b262aad590c15d294e924f4bccaddd7e",채널S 플러스
+#EXTINF:-1 logo="https://i.namu.wiki/i/jdJ2wKwuEduYGmmxNbpV57hKJrpR_kGL5Xw0rrZV-VN8D0gKGVyDRo58wyKMr9PbBZc9LdIgoSCJppBnnhcbgiQ-HvMKP-Q92tVA7QZihyY5Ku-vgM4WDIUEJ0lEse29RPW7ZaK8BR2tvl2Et08fPA.svg" tvg-id="b262aad590c15d294e924f4bccaddd7e" group-title="KT-KOREA",채널S 플러스
 http://mdlstay.com:9981/stream/channelid/1437229746?ticket=15852B2FEF709D85DCEC6F5A73FA13103ECB0133&profile=pass
 
 #EXTINF:Indonesia1 group-title="INDONESIA",AFN
@@ -214,50 +212,284 @@ http://103.148.44.38:8000/play/a03w/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",VTV
 http://103.148.44.38:8000/play/a09u/index.m3u8
 
-#------ Unifi TV分类开始 ------
+#EXTINF:-1 group-title="ASTRO-MLY",AFN
+http://75.127.89.169:35441/endday20260630.php?id=819#http://75.127.89.169:35441/endday20260630.php?id=820
+#EXTINF:-1 group-title="ASTRO-MLY",TV5
+http://75.127.89.169:35441/endday20260630.php?id=821#http://75.127.89.169:35441/endday20260630.php?id=822
+#EXTINF:-1 group-title="ASTRO-MLY",BERITA RTM
+http://75.127.89.169:35441/endday20260630.php?id=825#http://75.127.89.169:35441/endday20260630.php?id=826
+#EXTINF:-1 group-title="ASTRO-MLY",TV1
+http://75.127.89.169:35441/endday20260630.php?id=829
+#EXTINF:-1 group-title="ASTRO-MLY",TV2
+http://75.127.89.169:35441/endday20260630.php?id=831#http://75.127.89.169:35441/endday20260630.php?id=832
+#EXTINF:-1 group-title="ASTRO-MLY",TV3
+http://75.127.89.169:35441/endday20260630.php?id=833#http://75.127.89.169:35441/endday20260630.php?id=834
+#EXTINF:-1 group-title="ASTRO-MLY",ASTRO RIA
+http://75.127.89.169:35441/endday20260630.php?id=835#http://75.127.89.169:35441/endday20260630.php?id=836
+#EXTINF:-1 group-title="ASTRO-MLY",ASTRO RIA
+http://75.127.89.169:35441/endday20260630.php?id=836
+#EXTINF:-1 group-title="ASTRO-MLY",ASTRO PRIMA
+http://75.127.89.169:35441/endday20260630.php?id=837
+#EXTINF:-1 group-title="ASTRO-MLY",ASTRO PRIMA
+http://75.127.89.169:35441/endday20260630.php?id=838
+#EXTINF:-1 group-title="ASTRO-MLY",ASTRO OASIS
+http://75.127.89.169:35441/endday20260630.php?id=839
+#EXTINF:-1 group-title="ASTRO-MLY",ASTRO CITRA
+http://75.127.89.169:35441/endday20260630.php?id=842
+#EXTINF:-1 group-title="ASTRO-MLY",ASTRO CITRA
+http://75.127.89.169:35441/endday20260630.php?id=841
+#EXTINF:-1 group-title="ASTRO-MLY",ASTRO RANIA
+http://75.127.89.169:35441/endday20260630.php?id=843#http://75.127.89.169:35441/endday20260630.php?id=844
+#EXTINF:-1 group-title="ASTRO-MLY",ASTRO AURA
+http://75.127.89.169:35441/endday20260630.php?id=845#http://75.127.89.169:35441/endday20260630.php?id=846
+#EXTINF:-1 group-title="ASTRO-MLY", TV OKEY
+http://75.127.89.169:35441/endday20260630.php?id=853
+#EXTINF:-1 group-title="ASTRO-MLY",COLOURS
+http://75.127.89.169:35441/endday20260630.php?id=849#http://75.127.89.169:35441/endday20260630.php?id=883#http://75.127.89.169:35441/endday20260630.php?id=884
+#EXTINF:-1 group-title="ASTRO-MLY",TVS
+http://75.127.89.169:35441/endday20260630.php?id=851
+#EXTINF:-1 group-title="ASTRO-MLY",ZEE TAMIL
+http://75.127.89.169:35441/endday20260630.php?id=886
+#EXTINF:-1 group-title="ASTRO-MLY",TV7
+DidikTV7,http://atryffad.usa3.345123.xyz/jrw.php?id=DidikTV7FHD
+#EXTINF:-1 group-title="ASTRO-MLY",8TV
+8TV 八度空間,http://75.127.89.169:35441/endday20260630.php?id=857
+#EXTINF:-1 group-title="ASTRO-MLY",iQIYI
+http://75.127.89.169:35441/endday20260630.php?id=891#http://75.127.89.169:35441/endday20260630.php?id=892
+#EXTINF:-1 group-title="ASTRO-MLY",TVB千禧经典台
+http://75.127.89.169:35441/endday20260630.php?id=893#http://75.127.89.169:35441/endday20260630.php?id=894
+#EXTINF:-1 group-title="ASTRO-MLY",Astro AEC
+http://75.127.89.169:35441/endday20260630.php?id=895
+#EXTINF:-1 group-title="ASTRO-MLY",Astro AEC
+http://75.127.89.169:35441/endday20260630.php?id=896
+#EXTINF:-1 group-title="ASTRO-MLY",Astro QJ
+http://75.127.89.169:35441/endday20260630.php?id=897
+#EXTINF:-1 group-title="ASTRO-MLY",Astro QJ
+http://75.127.89.169:35441/endday20260630.php?id=898
+#EXTINF:-1 group-title="ASTRO-MLY",天映频道HK
+http://75.127.89.169:35441/endday20260630.php?id=899#http://75.127.89.169:35441/endday20260630.php?id=901
+#EXTINF:-1 group-title="ASTRO-MLY",天映频道(國)
+http://75.127.89.169:35441/endday20260630.php?id=902
+#EXTINF:-1 group-title="ASTRO-MLY",天映经典MY
+http://75.127.89.169:35441/endday20260630.php?id=903
+#EXTINF:-1 group-title="ASTRO-MLY",天映经典(國)
+http://75.127.89.169:35441/endday20260630.php?id=923#http://75.127.89.169:35441/endday20260630.php?id=924
+#EXTINF:-1 group-title="ASTRO-MLY",TVB翡翠台MY(粤),
+http://75.127.89.169:35441/endday20260630.php?id=903#http://75.127.89.169:35441/endday20260630.php?id=906
+#EXTINF:-1 group-title="ASTRO-MLY",TVB翡翠台MY(國)
+http://75.127.89.169:35441/endday20260630.php?id=904
+#EXTINF:-1 group-title="ASTRO-MLY",AOD 311(粤)
+http://75.127.89.169:35441/endday20260630.php?id=909#http://75.127.89.169:35441/endday20260630.php?id=910
+#EXTINF:-1 group-title="ASTRO-MLY",AOD 311(國)
+http://75.127.89.169:35441/endday20260630.php?id=910
+#EXTINF:-1 group-title="ASTRO-MLY",中天亞洲台(馬來)
+http://75.127.89.169:35441/endday20260630.php?id=911#http://75.127.89.169:35441/endday20260630.php?id=912
+#EXTINF:-1 group-title="ASTRO-MLY",TVB娱乐新闻台
+http://75.127.89.169:35441/endday20260630.php?id=913#http://75.127.89.169:35441/endday20260630.php?id=914
+#EXTINF:-1 group-title="ASTRO-MLY",TVB星河频道(粤)
+http://75.127.89.169:35441/endday20260630.php?id=917#http://75.127.89.169:35441/endday20260630.php?id=918
+#EXTINF:-1 group-title="ASTRO-MLY",TVB星河频道(國)
+http://75.127.89.169:35441/endday20260630.php?id=915#http://75.127.89.169:35441/endday20260630.php?id=916
+#EXTINF:-1 group-title="ASTRO-MLY",TVBSAsia
+http://75.127.89.169:35441/endday20260630.php?id=919#http://75.127.89.169:35441/endday20260630.php?id=920
+#EXTINF:-1 group-title="ASTRO-MLY",天映經典
+http://75.127.89.169:35441/endday20260630.php?id=921#http://75.127.89.169:35441/endday20260630.php?id=922
+#EXTINF:-1 group-title="ASTRO-MLY",天映經典(粤)
+http://75.127.89.169:35441/endday20260630.php?id=923#http://75.127.89.169:35441/endday20260630.php?id=924
+#EXTINF:-1 group-title="ASTRO-MLY",凤凰中文(馬來)
+http://75.127.89.169:35441/endday20260630.php?id=926#http://75.127.89.169:35441/endday20260630.php?id=925
+#EXTINF:-1 group-title="ASTRO-MLY",凤凰资讯(馬來)
+http://75.127.89.169:35441/endday20260630.php?id=928#http://75.127.89.169:35441/endday20260630.php?id=927
+#EXTINF:-1 group-title="ASTRO-MLY",欢喜台
+http://75.127.89.169:35441/endday20260630.php?id=931
+#EXTINF:-1 group-title="ASTRO-MLY",欢
+http://75.127.89.169:35441/endday20260630.php?id=933
+#EXTINF:-1 group-title="ASTRO-MLY",SukanRTM
+http://atryffad.usa3.345123.xyz/jrw.php?id=RTMSukanFHD
+#EXTINF:-1 group-title="ASTRO-MLY",BeritaRTM
+http://atryffad.usa3.345123.xyz/jrw.php?id=BeritartmFHD
+#EXTINF:-1 group-title="ASTRO-MLY",HEROES
+http://atryffad.usa3.345123.xyz/jrw.php?id=HeroesFHD
+#EXTINF:-1 group-title="ASTRO-MLY",9TV
+http://75.127.89.169:35441/endday20260630.php?id=861
+#EXTINF:-1 group-title="ASTRO-MLY",Vaanavil
+http://75.127.89.169:35441/endday20260630.php?id=863#http://75.127.89.169:35441/endday20260630.php?id=864
+#EXTINF:-1 group-title="ASTRO-MLY",Adithya
+http://75.127.89.169:35441/endday20260630.php?id=865#http://75.127.89.169:35441/endday20260630.php?id=866#http://75.127.89.169:35441/endday20260630.php?id=867
+#EXTINF:-1 group-title="ASTRO-MLY",TV
+http://75.127.89.169:35441/endday20260630.php?id=869#http://75.127.89.169:35441/endday20260630.php?id=870
+#EXTINF:-1 group-title="ASTRO-MLY",SUNmusic
+http://75.127.89.169:35441/endday20260630.php?id=871#http://75.127.89.169:35441/endday20260630.php?id=872
+#EXTINF:-1 group-title="ASTRO-MLY",Adithya
+http://75.127.89.169:35441/endday20260630.php?id=873
+#EXTINF:-1 group-title="ASTRO-MLY",SunNews
+http://75.127.89.169:35441/endday20260630.php?id=875
+#EXTINF:-1 group-title="ASTRO-MLY",KTV
+http://75.127.89.169:35441/endday20260630.php?id=877#http://75.127.89.169:35441/endday20260630.php?id=878#http://75.127.89.169:35441/endday20260630.php?id=1053
+#EXTINF:-1 group-title="ASTRO-MLY",SunLIFE
+http://75.127.89.169:35441/endday20260630.php?id=879#http://75.127.89.169:35441/endday20260630.php?id=880
+#EXTINF:-1 group-title="ASTRO-MLY",StarVijay
+http://75.127.89.169:35441/endday20260630.php?id=881#http://75.127.89.169:35441/endday20260630.php?id=882
+#EXTINF:-1 group-title="ASTRO-MLY",astro Thongathirai
+http://75.127.89.169:35441/endday20260630.php?id=887#http://75.127.89.169:35441/endday20260630.php?id=888
+#EXTINF:-1 group-title="ASTRO-MLY",Z ClNEMA
+http://75.127.89.169:35441/endday20260630.php?id=889#http://75.127.89.169:35441/endday20260630.php?id=890
+#EXTINF:-1 group-title="ASTRO-MLY",KBSWorld
+http://75.127.89.169:35441/endday20260630.php?id=934#http://75.127.89.169:35441/endday20260630.php?id=935
+#EXTINF:-1 group-title="ASTRO-MLY",One(國)
+http://75.127.89.169:35441/endday20260630.php?id=939
+#EXTINF:-1 group-title="ASTRO-MLY",One(馬來)
+http://75.127.89.169:35441/endday20260630.php?id=941
+#EXTINF:-1 group-title="ASTRO-MLY",One(韓)
+http://75.127.89.169:35441/endday20260630.php?id=940
+#EXTINF:-1 group-title="ASTRO-MLY",One
+http://atryffad.usa3.345123.xyz/jrw.php?id=ONEMalayFHD
+#EXTINF:-1 group-title="ASTRO-MLY",tvN(國)
+http://75.127.89.169:35441/endday20260630.php?id=943
+#EXTINF:-1 group-title="ASTRO-MLY",K+
+http://75.127.89.169:35441/endday20260630.php?id=948
+#EXTINF:-1 group-title="ASTRO-MLY",NHK World Premium
+http://75.127.89.169:35441/endday20260630.php?id=949#http://75.127.89.169:35441/endday20260630.php?id=950
+#EXTINF:-1 group-title="ASTRO-MLY",HITSmoves
+http://75.127.89.169:35441/endday20260630.php?id=951#http://75.127.89.169:35441/endday20260630.php?id=952
+#EXTINF:-1 group-title="ASTRO-MLY",Boo
+http://75.127.89.169:35441/endday20260630.php?id=953#http://75.127.89.169:35441/endday20260630.php?id=954
+#EXTINF:-1 group-title="ASTRO-MLY"astro showtime
+http://75.127.89.169:35441/endday20260630.php?id=955#http://75.127.89.169:35441/endday20260630.php?id=956
+#EXTINF:-1 group-title="ASTRO-MLY",astro FAMTime
+http://75.127.89.169:35441/endday20260630.php?id=958
+#EXTINF:-1 group-title="ASTRO-MLY",astro showcase
+http://75.127.89.169:35441/endday20260630.php?id=959#http://75.127.89.169:35441/endday20260630.php?id=960
+#EXTINF:-1 group-title="ASTRO-MLY",ROCKAction
+http://75.127.89.169:35441/endday20260630.php?id=961#http://75.127.89.169:35441/endday20260630.php?id=962
+#EXTINF:-1 group-title="ASTRO-MLY",RockExtreme
+http://75.127.89.169:35441/endday20260630.php?id=963#http://75.127.89.169:35441/endday20260630.php?id=964
+#EXTINF:-1 group-title="ASTRO-MLY",tvN MOVES
+http://75.127.89.169:35441/endday20260630.php?id=965#http://75.127.89.169:35441/endday20260630.php?id=966
+#EXTINF:-1 group-title="ASTRO-MLY",astro AWANI
+http://75.127.89.169:35441/endday20260630.php?id=967#http://75.127.89.169:35441/endday20260630.php?id=968
+#EXTINF:-1 group-title="ASTRO-MLY",HBO
+http://atryffad.usa3.345123.xyz/jrw.php?id=HBOFHDEN
+#EXTINF:-1 group-title="ASTRO-MLY",HBO
+http://atryffad.usa3.345123.xyz/jrw.php?id=HBOMY
+#EXTINF:-1 group-title="ASTRO-MLY",HBO
+http://atryffad.usa3.345123.xyz/jrw.php?id=hbosg
+#EXTINF:-1 group-title="ASTRO-MLY",Cinemax
+http://atryffad.usa3.345123.xyz/jrw.php?id=Cinemax
+#EXTINF:-1 group-title="ASTRO-MLY",HBOFamily
+http://atryffad.usa3.345123.xyz/jrw.php?id=HBOFamilyMY
+#EXTINF:-1 group-title="ASTRO-MLY",HBOFamily
+http://atryffad.usa3.345123.xyz/jrw.php?id=hbofamilysg
+#EXTINF:-1 group-title="ASTRO-MLY",HBOHits
+http://atryffad.usa3.345123.xyz/jrw.php?id=HBOHitsMY
+#EXTINF:-1 group-title="ASTRO-MLY",HBOHits
+http://atryffad.usa3.345123.xyz/jrw.php?id=hbohitssg
+#EXTINF:-1 group-title="ASTRO-MLY",Awani
+http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAwaniFHD
+#EXTINF:-1 group-title="ASTRO-MLY",Bernama
+http://75.127.89.169:35441/endday20260630.php?id=969#http://75.127.89.169:35441/endday20260630.php?id=970
+#EXTINF:-1 group-title="ASTRO-MLY",CGTN
+http://75.127.89.169:35441/endday20260630.php?id=971#http://75.127.89.169:35441/endday20260630.php?id=972
+#EXTINF:-1 group-title="ASTRO-MLY",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="ASTRO-MLY",Love Nature(國),
+http://75.127.89.169:35441/endday20260630.php?id=994#http://75.127.89.169:35441/endday20260630.php?id=995
+#EXTINF:-1 group-title="ASTRO-MLY",探索頻道(英)
+,http://75.127.89.169:35441/endday20260630.php?id=996#http://75.127.89.169:35441/endday20260630.php?id=997
+#EXTINF:-1 group-title="ASTRO-MLY",探索亞洲(英)
+http://75.127.89.169:35441/endday20260630.php?id=998#http://75.127.89.169:35441/endday20260630.php?id=999
+#EXTINF:-1 group-title="ASTRO-MLY",BBC EARTH
+http://75.127.89.169:35441/endday20260630.php?id=1001
+#EXTINF:-1 group-title="ASTRO-MLY",History
+http://75.127.89.169:35441/endday20260630.php?id=1002#http://75.127.89.169:35441/endday20260630.php?id=1003
+#EXTINF:-1 group-title="ASTRO-MLY",AstroCeria
+http://75.127.89.169:35441/endday20260630.php?id=1006#http://75.127.89.169:35441/endday20260630.php?id=1007#http://75.127.89.169:35441/endday20260630.php?id=1008#http://75.127.89.169:35441/endday20260630.php?id=1009
+#EXTINF:-1 group-title="ASTRO-MLY",Ceria
+http://atryffad.usa3.345123.xyz/jrw.php?id=AstroCeriaMulFHD
+#EXTINF:-1 group-title="ASTRO-MLY",CartoonNetwork
+http://75.127.89.169:35441/endday20260630.php?id=1010#http://75.127.89.169:35441/endday20260630.php?id=1011#http://75.127.89.169:35441/endday20260630.php?id=1013#http://75.127.89.169:35441/endday20260630.php?id=1014#http://75.127.89.169:35441/endday20260630.php?id=1015
+#EXTINF:-1 group-title="ASTRO-MLY",CBeebies
+http://atryffad.usa3.345123.xyz/jrw.php?id=CBeebiesFHD
+#EXTINF:-1 group-title="ASTRO-MLY",AXN
+http://75.127.89.169:35441/endday20260630.php?id=1035
+#EXTINF:-1 group-title="ASTRO-MLY",Hits NOW
+http://75.127.89.169:35441/endday20260630.php?id=1036#http://75.127.89.169:35441/endday20260630.php?id=1037
+#EXTINF:-1 group-title="ASTRO-MLY",Lifetime
+http://75.127.89.169:35441/endday20260630.php?id=1039
+#EXTINF:-1 group-title="ASTRO-MLY",HlTS
+http://75.127.89.169:35441/endday20260630.php?id=1040
+#EXTINF:-1 group-title="ASTRO-MLY",TLC
+http://75.127.89.169:35441/endday20260630.php?id=1042#http://75.127.89.169:35441/endday20260630.php?id=1043
+#EXTINF:-1 group-title="ASTRO-MLY",afn
+http://75.127.89.169:35441/endday20260630.php?id=1044#http://75.127.89.169:35441/endday20260630.php?id=1046
+#EXTINF:-1 group-title="ASTRO-MLY",AFN
+http://75.127.89.169:35441/endday20260630.php?id=1045
+#EXTINF:-1 group-title="ASTRO-MLY",Ci
+http://75.127.89.169:35441/endday20260630.php?id=1047#http://75.127.89.169:35441/endday20260630.php?id=1048
+#EXTINF:-1 group-title="ASTRO-MLY",WarnerTV
+http://atryffad.usa3.345123.xyz/jrw.php?id=WarnerTVFHDMY
+#EXTINF:-1 group-title="ASTRO-MLY",HGTV
+http://75.127.89.169:35441/endday20260630.php?id=1049#http://75.127.89.169:35441/endday20260630.php?id=1050
+#EXTINF:-1 group-title="ASTRO-MLY",Arena
+http://75.127.89.169:35441/endday20260630.php?id=1054#http://75.127.89.169:35441/endday20260630.php?id=1055
+#EXTINF:-1 group-title="ASTRO-MLY",Arena2
+http://75.127.89.169:35441/endday20260630.php?id=1057
+#EXTINF:-1 group-title="ASTRO-MLY",Arena BoIa
+http://75.127.89.169:35441/endday20260630.php?id=1058#http://75.127.89.169:35441/endday20260630.php?id=1059
+#EXTINF:-1 group-title="ASTRO-MLY",Arena BoIa2
+http://75.127.89.169:35441/endday20260630.php?id=1060#http://75.127.89.169:35441/endday20260630.php?id=1061
+#EXTINF:-1 group-title="ASTRO-MLY",Grandstand
+http://75.127.89.169:35441/endday20260630.php?id=1062#http://75.127.89.169:35441/endday20260630.php?id=1063
+#EXTINF:-1 group-title="ASTRO-MLY",PremierLeague2
+http://75.127.89.169:35441/endday20260630.php?id=1066#http://75.127.89.169:35441/endday20260630.php?id=1067
+#EXTINF:-1 group-title="ASTRO-MLY",FootbaII
+http://75.127.89.169:35441/endday20260630.php?id=1069#http://75.127.89.169:35441/endday20260630.php?id=1070
+#EXTINF:-1 group-title="ASTRO-MLY",Badminton
+http://75.127.89.169:35441/endday20260630.php?id=1072
+#EXTINF:-1 group-title="ASTRO-MLY",SportsPlus
+http://75.127.89.169:35441/endday20260630.php?id=1073
+#EXTINF:-1 group-title="ASTRO-MLY",cricbuzz
+http://75.127.89.169:35441/endday20260630.php?id=1086
+#EXTINF:-1 group-title="ASTRO-MLY",PREMlERSPORTS
+http://75.127.89.169:35441/endday20260630.php?id=1087
 
+#------ Unifi TV分类开始 ------
 #EXTINF:-1 group-title="Unifi TV",TV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fe3d74e8cbc4ee0b071a64257068e38:77ece75d9526f5beac0ab6bf1ee3bd89
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV1)/master.mpd?kid=1fe3d74e-8cbc-4ee0-b071-a64257068e38
-
 #EXTINF:-1 group-title="Unifi TV",TV2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0749c883bbdb4d5a9483a65e719a13dc:24c0fce8e6c3bf6b43790b117e0e89e3
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV2)/master.mpd?kid=0749c883-bbdb-4d5a-9483-a65e719a13dc
-
 #EXTINF:-1 group-title="Unifi TV",TV3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV3)/master.mpd?kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
-
 #EXTINF:-1 group-title="Unifi TV",Didik TV KPM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f9bd00304a34972a80e5ff79aff982f:95a9dfd543b897f8edebf6db32877d79
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Didik)/master.mpd?kid=6f9bd003-04a3-4972-a80e-5ff79aff982f
-
 #EXTINF:-1 group-title="Unifi TV",8TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(8TV)/master.mpd?kid=da1cb24f-55db-4ae1-b323-19c365920539
-
 #EXTINF:-1 group-title="Unifi TV",TV9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV9)/master.mpd?kid=eea0828c-38d7-4407-a5c3-84ad730d7224
-
 #EXTINF:-1 group-title="Unifi TV",Salam HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -271,105 +503,90 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Salam)/master.mpd?kid=32
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3665ce09fcb49229602d45d1d5be4d4:eb122760bbad018974689ce1372bce26
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TVAL)/master.mpd?kid=f3665ce0-9fcb-4922-9602-d45d1d5be4d4
-
 #EXTINF:-1 group-title="Unifi TV",SIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(SIAR)/master.mpd?kid=5489f58c-64ad-40db-a471-c8b1c2693e2a
-
 #EXTINF:-1 group-title="Unifi TV",TV Sarawak
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe6c43961ea8401e8e8bc211b1197961:b9ce7dc616a3987e2b8900ce44735b07
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TVS)/master.mpd?kid=fe6c4396-1ea8-401e-8e8b-c211b1197961
-
 #EXTINF:-1 group-title="Unifi TV",Dunia Sinema HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(DuniaSin)/master.mpd?kid=01a17625-701e-4734-b02a-a22c8657bd6f
-
 #EXTINF:-1 group-title="Unifi TV",PESONA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6a2211cff9545979f6f1a09851fa495:804119b128f5fe51dba371d18b3c70c5
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Pesona)/master.mpd?kid=d6a2211c-ff95-4597-9f6f-1a09851fa495
-
 #EXTINF:-1 group-title="Unifi TV",tvN Movies HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=52480b6651c243e2b48b04ab3ecf05ec:aa3513df0bc2d949ee44c52204665d50
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(tVnM)/master.mpd?kid=52480b66-51c2-43e2-b48b-04ab3ecf05ec
-
 #EXTINF:-1 group-title="Unifi TV",tvN HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=925fe1266db744a3b9524a23a6cc524b:d1266e747e241339a539e54f26890286
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(tVNHD)/master.mpd?kid=925fe126-6db7-44a3-b952-4a23a6cc524b
-
 #EXTINF:-1 group-title="Unifi TV",TVB Jade
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98a7777c449e411f95a3441a014b43cb:682736567be5f2c0a0ae6120d06a59d7
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(tvbjade)/master.mpd?kid=98a7777c-449e-411f-95a3-441a014b43cb
-
 #EXTINF:-1 group-title="Unifi TV",TVB Xing He
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4548ce69a714947b7cc397a64e31139:248c84e70fd360e45006760baad12ecc
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(tvbxinghe)/master.mpd?kid=f4548ce6-9a71-4947-b7cc-397a64e31139
-
 #EXTINF:-1 group-title="Unifi TV",CCTV-4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=61f56bac8d6d4e818c4cbfb9099abde6:029c725769175e6a0739b073e4a70bbf
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(CCTV4)/master.mpd?kid=61f56bac-8d6d-4e81-8c4c-bfb9099abde6
-
 #EXTINF:-1 group-title="Unifi TV",Phoenix Hong Kong Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f9ce370227a460480227f54a31133a2:bdd8eff0eff475d74b6deaf8c5c7ef69
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(phoenixhongkong)/master.mpd?kid=5f9ce370-227a-4604-8022-7f54a31133a2
-
 #EXTINF:-1 group-title="Unifi TV",SETI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d267de2a8184683bd8de9ff6a761b2a:ff83fafbef57e24fc626a9f589ca1da9
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Seti)/master.mpd?kid=9d267de2-a818-4683-bd8d-e9ff6a761b2a
-
 #EXTINF:-1 group-title="Unifi TV",Celestial Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=107e13b213a94a6cbb6d02c25653c083:044af5b9e0258e2d39437ee03365fd2d
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Celestial)/master.mpd?kid=107e13b2-13a9-4a6c-bb6d-02c25653c083
-
 #EXTINF:-1 group-title="Unifi TV",Celestial Classic Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5dcc7b00add745619ff1dd29ac7e591c:cdab9ac07955a7a2ea78b03343b77fbd
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(CelestialC)/master.mpd?kid=5dcc7b00-add7-4561-9ff1-dd29ac7e591c
-
 #EXTINF:-1 group-title="Unifi TV",Zee Thirai
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd7282e920e5437a9b1f01bc6f81795c:99763370f0763b0f7119aab091cc70c8
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(ZeeThi)/master.mpd?kid=bd7282e9-20e5-437a-9b1f-01bc6f81795c
-
 #EXTINF:-1 group-title="Unifi TV",Sony YAY!
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1399,6 +1616,8 @@ https://ucdn.starhubgo.com/bpk-tv/ETTVAsiaHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=83dea75029954534b0b4842b523b5cf9:e99e600f3356e93c8828260cc1c27a44
 https://ucdn.starhubgo.com/bpk-tv/e-LeHD/output/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 HD" group-title="ASTRO" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tv1.png", 101 TV1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3759,22 +3978,18 @@ https://sintang.go.id/go2rtc/api/stream.mp4?src=SIMPANG_PERINDAKOP_01&mp4=all&h2
 http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/1449.ts
 #EXTINF:-1 tvg-logo="" group-title="SINGAPURA",Sport
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:79:1F:11&stream=1284559&extension=ts&play_token=Ee2mJUXz0k
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SINGAPURA",TNT1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SINGAPURA",TNT2
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SINGAPURA",TNT3
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
-
 #EXTINF:-1 tvg-logo="" group-title="SINGAPURA",Movie Movie
 http://77.90.60.172:55555/2/video/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SINGAPURA",爱尔达体育1台
@@ -4007,53 +4222,40 @@ http://77.90.60.172:8888/4
 
 #EXTINF:-1 tvg-name="AOD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AOD.png" group-title="SINGAPURA",ASTRO AOD
 http://o11.163189.xyz/stream/live/aod/
-
 #EXTINF:-1 tvg-name="AEC" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AEC.png" group-title="SINGAPURA",ASTRO AEC
 http://o11.163189.xyz/stream/live/aec/
-
 #EXTINF:-1 tvg-name="QJ" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/QJ.png" group-title="SINGAPURA",ASTRO QJ
 http://o11.163189.xyz/stream/live/qj/
-
 #EXTINF:-1 tvg-name="HUAHEEDAI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HUA HEE DAI.png" group-title="SINGAPURA",ASTRO 欢喜台
 http://o11.163189.xyz/stream/live/hxt/
-
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="SINGAPURA",ch5
 http://cdn6.163189.xyz/163189/ch5
-
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="SINGAPURA",8tv
 http://cdn6.163189.xyz/163189/8tv
-
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="SINGAPURA",ch8
 http://cdn6.163189.xyz/163189/ch8
-
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="SINGAPURA",chu
 http://cdn6.163189.xyz/163189/chu
-
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="SINGAPURA",PlayboyHD
 http://79.127.207.193/PlayboyHD/playlist.m3u8
-
 #EXTINF:-1 group-title="SINGAPURA" tvg-logo="",M Live 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-
 #EXTINF:-1 group-title="SINGAPURA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvAPN1XkaodgywgdZVy6Us1UCXT5mnghfVg&s", M Live 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
 #EXTINF:-1 group-title="SINGAPURA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWDv3Px_63rhHZ1c_9cJy8_Ou7uJuaEVWBAQ&s", M Live 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
 #EXTINF:-1 tvg-id="" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/Dt0kA7e.png" group-title="SINGAPURA",Oktolidays
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
-
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="SPORT",Bein 4k
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1556138&extension=ts&play_token=h9XRsSqAtx
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="SPORT",Bein 4k(2)
@@ -4082,18 +4284,15 @@ http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D8:BD:55&stream=1948636&
 http://sewv654wfJEPANGdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SHQHNV72QRZFCT/7322/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",FOX SPORT 2
 http://sewv654wfJEPANGdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SHQHNV72QRZFCT/7323/index.m3u8
-
 #EXTINF:-1 tvg-id="FOX - HDR10 4K" tvg-name="FOX - HDR10 4K" tvg-logo="" group-title="SPORT",FOX - HDR10 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/t2l7sxqngp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-
 #EXTINF:-1 tvg-id="FOX - HDR10 4K" tvg-name="FOX - HDR10 4K" tvg-logo="" group-title="SPORT",HAMI,
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=684b5a454b366b5a464344624d4a7a79:34716f7632336b65544d49396a7a4675
 https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hamitv-live184/da-tlmr-fhd-4s-ma/ll-test-hamitv-live184.mpd
-
 #EXTINF:-1 tvg-name="TNTSPORTS1HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-1.png" group-title="SPORT",TNT Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4114,7 +4313,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1
 http://74.91.26.218:82/live/ttv.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",TSN
 https://iptv.852851.xyz/ch/68e97c59f10d99489065f1e85c13a85b/master.m3u8
-
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="🇹🇼 台湾频道",TTV
 http://74.91.26.218:82/live/ttv.m3u8
 
@@ -4495,46 +4693,6 @@ https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_541_6A79C475.m3u8
 https://82a3f998e9154bd4808b1d9e15550293.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qy3bd3dkwwk4x/35dee29a-3d42-4c75-a22f-2495cd1fd0ea/0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",Crayon Sinchan
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_1301_A2CD4035.m3u8
-
-
-
-
-#EXTINF:-1 group-title="STARHUB" tvg-id="ABC.Australia.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d05e49ef06764933b441934b0df7afd7:28f08dc6b642be5bf24651671f73e11b
-https://ucdn.starhubgo.com/bpk-tv/ABCAustralia/output/manifest.mpd
-#EXTINF:-1 group-title="STARHUB" tvg-id="BBC.Earth.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png",BBC Earth HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fad0942337db4c7e910cca2680cbae89:f48adcc739a34ac96a4848ad0bfba6cf
-https://ucdn.starhubgo.com/bpk-tv/BBCEarthHD/output/manifest.mpd
-#EXTINF:-1 group-title="STARHUB" tvg-id="BBC.Lifestyle.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png",BBC Lifestyle
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=06bbd3e5972746be9307aff0ca171ef1:63d0ed83314277f18961f29fd7e90e03
-https://ucdn.starhubgo.com/bpk-tv/BBCLifestyleHD/output/manifest.mpd
-#EXTINF:-1 group-title="STARHUB" tvg-id="Crime.+.Investigation™.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",Crime + Investigation HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cc82e4d16944e3680ecd7f798ad934a:efd9b267c84effe30cf80dd8e9f9d499
-https://ucdn.starhubgo.com/bpk-tv/CrimeplusInvestigationHD/output/manifest.mpd
-#EXTINF:-1 group-title="STARHUB" tvg-id="Discovery.Channel.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/422_1920x1080_HTV.png",Discovery HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58e01c2c642b407197ee4773d19c1b02:fea2e9072ca6f49f297e5123d75cf490
-https://ucdn.starhubgo.com/bpk-tv/DiscoveryCh/output/manifest.mpd
-#EXTINF:-1 group-title="STARHUB" tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/443_1920x1080_HTV.png",FashionTV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b9c09ade79141e39e25f18da05bee00:f805cca7aab475afeb9b55251e0f4302
-https://ucdn.starhubgo.com/bpk-tv/FashionTV/output/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Kalbar",PONTV
 https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w277463652.m3u8
@@ -5293,279 +5451,65 @@ https://akariko.netgenx.site/stream/jp/bbc_news/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="JEPANG" tvg-id="tJEPANGnewsJEPANG.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG351.gif",TJEPANG News
 https://akariko.netgenx.site/stream/jp/tJEPANG_news/stream-output.m3u8?mode=hls
 
-
-#EXTINF:-1,(US) Newsmax 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/180596
-#EXTINF:-1,(US) ABC news 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/1593
-#EXTINF:-1,(US) Bloomberg 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18239
-#EXTINF:-1,(US) Bravo 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18237
-#EXTINF:-1,(US) CJEPANG 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18233
-#EXTINF:-1,(US) CJEPANGN 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18231
-#EXTINF:-1,(US) CNBC 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18227
-#EXTINF:-1,(US) CNN 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18225
-#EXTINF:-1,(US) E! Network
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/24827
-#EXTINF:-1,(US) Fox News 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18209
-#EXTINF:-1,(US) FXX 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/24821
-#EXTINF:-1,(US) MSNBC HD+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/63171
-#EXTINF:-1,(US) NASA TV Public
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/63314
-#EXTINF:-1,(US) NBC 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18172
-#EXTINF:-1,(US) NHL Network 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18207
-#EXTINF:-1,(US) O.W.N (Oprah Winfrey Network) 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18161
-#EXTINF:-1,(US) TJEPANG 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18148
-#EXTINF:-1,(US) TLC 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18144
-#EXTINF:-1,(US) USA Network 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18133
-#EXTINF:-1,(US) Viceland 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18140
-#EXTINF:-1,(US) Starz Cinema 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/24817
-#EXTINF:-1,(US) Showtime 2 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/24819
-#EXTINF:-1,(US) AFN Prime Pacific
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/24820
-#EXTINF:-1,(US) AMC 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18243
-#EXTINF:-1,(US) Freeform 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18203
-#EXTINF:-1,(US) HGTV 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/23880
-#EXTINF:-1,(US) Showtime 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18181
-#EXTINF:-1,(US) Cinemax 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18228
-#EXTINF:-1,(US) Starz Edge HD+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/63175
-#EXTINF:-1,(US) Starz Comedy HD+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/63174
-#EXTINF:-1,(US) Showtime East HD+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/63173
-#EXTINF:-1,(US) Cartoon Network 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/24825
-#EXTINF:-1,(US) Nickelodeon HD+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/63172
-#EXTINF:-1,(US) AFN Prime Atlantic HD+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/63165
-#EXTINF:-1,(US) FX Movie Channel 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18246
-#EXTINF:-1,(US) HBO 2 HD+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/63169
-#EXTINF:-1,(US) HBO Comedy HD+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/63170
-#EXTINF:-1,(US) HBO Family 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18193
-#EXTINF:-1,(US) HBO Signature 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18192
-#EXTINF:-1,(US) HBO Zone 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18191
-#EXTINF:-1,(US) The CW 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18160
-#EXTINF:-1,(US) Comedy Central 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/24826
-#EXTINF:-1,(US) TNT 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18143
-#EXTINF:-1,(US) A&E 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18252
-#EXTINF:-1,(US) ABC 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18244
-#EXTINF:-1,(US) Food Network 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18211
-#EXTINF:-1,(US) Hallmark 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/19944
-#EXTINF:-1,(US) Animal Planet 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18241
-#EXTINF:-1,(US) Discovery Channel  4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/24822
-#EXTINF:-1,(US) Discovery Science HD+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/63168
-#EXTINF:-1,(US) History Channel 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18188
-#EXTINF:-1,(US) National Geographic 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18175
-#EXTINF:-1,(US) Bein Sports 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18240
-#EXTINF:-1,(US) AFN Sport
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/63164
-#EXTINF:-1,(US) BET 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/24824
-#EXTINF:-1,(US) ESPN 2 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18215
-#EXTINF:-1,(US) ESPN News 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18214
-#EXTINF:-1,(US) Fight Network 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/29513
-#EXTINF:-1,(US) ESPN Plus 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/19942
-#EXTINF:-1,(US) ESPN 1 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18206
-#EXTINF:-1,(US) ESPN 2 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18205
-#EXTINF:-1,(US) NFL Network 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/102466
-#EXTINF:-1,(US) NFL RedZone 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/102465
-#EXTINF:-1,(US) MLB Network 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/24828
-#EXTINF:-1,(US) NBA 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18174
-#EXTINF:-1,(US) NBC Golf 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18173
-#EXTINF:-1,(US) NBJEPANGN 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/19941
-#EXTINF:-1,(US) SportsNet One 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18154
-#EXTINF:-1,(US) CJEPANG SPORT+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/205347
-#EXTINF:-1,(US) TSN 1 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18139
-#EXTINF:-1,(US) TSN 2 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18138
-#EXTINF:-1,(US) TSN 3 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18137
-#EXTINF:-1,(US) TSN 4 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18136
-#EXTINF:-1,(US) TSN 5 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18135
-#EXTINF:-1,(US) Willow Cricket 4K+
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18129
-#EXTINF:-1,(US) World Fishing Network
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/65891
-#EXTINF:-1,(US) WWE
-http://dz01.nxtbox.de:80/NLUFUKBYRKTR/BYRKTRUFK/18127
-
-#EXTINF:-1,True Sports HD group-title="TRUE SPORT"
-http://54.37.19.157/tsp1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,True Sports 2 HD group-title="TRUE SPORT"
-http://54.37.19.157/tsp2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,True Sports 3 HD group-title="TRUE SPORT"
-http://54.37.19.157/tsp3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,True Sports 4 HD group-title="TRUE SPORT"
-http://54.37.19.157/tsp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1,True Sports 5 HD group-title="TRUE SPORT"
-http://54.37.19.157/tsp5/tracks-v1a1/mono.m3u8
-#EXTINF:-1,True Sports 7 HD group-title="TRUE SPORT"
-http://54.37.19.157/tsp7/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 1 HD group-title="TRUE SPORT"
-http://54.37.19.157/bein1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 2 HD group-title="TRUE SPORT"
-http://54.37.19.157/bein2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 3 HD group-title="TRUE SPORT"
-http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 4 HD group-title="TRUE SPORT"
-http://54.37.19.157/bein4/tracks-v1a1/mono.m3u8
-#EXTINF:-1,True spotv 1 group-title="TRUE SPORT"
-http://54.37.19.157/spotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,True spotv 2 group-title="TRUE SPORT"
-http://54.37.19.157/spotv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,GOLF+2 HD group-title="TRUE SPORT"
-http://54.37.19.157/golf/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Tennis group-title="TRUE SPORT"
-http://54.37.19.157/tennis/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-chno="1" tvg-id="iptv36.one" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/one.png",ONE FHD (Duplicated)
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8?v=1
-
 #EXTINF:-1 tvg-chno="2" tvg-id="iptv36.nbt" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/nbt.png?v=4",NBT FHD
 https://cdn-edge.iiptvcdn.com/live_event/smil:1180-0c9c-ad1f-4e5d-aa48.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="3" tvg-id="iptv36.thaipJEPANG" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/thaipJEPANG.png",Thai PJEPANG FHD
 https://thaipJEPANG-live.cdn.byteark.com/live/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="4" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 04
 https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV04
-
 #EXTINF:-1 tvg-chno="5" tvg-id="iptv36.tv5" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tv5.png",TV5 FHD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="6" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 06
 https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV06
-
 #EXTINF:-1 tvg-chno="7" tvg-id="iptv36.tsports" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tsports.png",T-Sports [เสีย]
 https://iptv36.vercel.app/nosignal.m3u8?ch=tsports
-
 #EXTINF:-1 tvg-chno="8" tvg-id="iptv36.ch8" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch8.png",CH8
 https://cco-streamer2.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
-
 #EXTINF:-1 tvg-chno="9" tvg-id="iptv36.mcot" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/mcot.png",MCOT FHD
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="10" tvg-id="iptv36.tptv" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tptv.png",TPTV FHD
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
-
 #EXTINF:-1 tvg-chno="11" tvg-id="iptv36.nbtcentral" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/nbt.png?v=4",NBT Central FHD
 https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="12" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 12
 https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV12
-
 #EXTINF:-1 tvg-chno="13" tvg-id="iptv36.workpoint" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/workpoint.png",Workpoint TV [เสีย]
 https://iptv36.vercel.app/nosignal.m3u8?ch=workpoint
-
 #EXTINF:-1 tvg-chno="14" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 14
 https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV14
-
 #EXTINF:-1 tvg-chno="15" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 15
 https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV15
-
 #EXTINF:-1 tvg-chno="16" tvg-id="iptv36.tnn16" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tnn16.png",TNN16 [เสีย]
 https://iptv36.vercel.app/nosignal.m3u8?ch=tnn16
-
 #EXTINF:-1 tvg-chno="17" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 17
 https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV17
-
 #EXTINF:-1 tvg-chno="18" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 18
 https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV18
-
 #EXTINF:-1 tvg-chno="19" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 19
 https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV19
-
 #EXTINF:-1 tvg-chno="20" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 20
 https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV20
-
 #EXTINF:-1 tvg-chno="21" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 21
 https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV21
-
 #EXTINF:-1 tvg-chno="22" tvg-id="iptv36.nation" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/nation.png",Nation TV FHD
 #EXTVLCOPT:http-referrer=https://www.nationtv.tv/
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
-
 #EXTINF:-1 tvg-chno="23" tvg-id="iptv36.workpoint" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/workpoint.png",Workpoint TV
 https://cco-streamer2.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
-
 #EXTINF:-1 tvg-chno="24" tvg-id="iptv36.true4u" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/true4u.png",True4U HD
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
-
 #EXTINF:-1 tvg-chno="25" tvg-id="iptv36.gmm25" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/gmm25.png",GMM25 FHD
 https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
-
 #EXTINF:-1 tvg-chno="26" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 26
 https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV26
-
 #EXTINF:-1 tvg-chno="27" tvg-id="iptv36.ch8" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch8.png",CH8 HD
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
-
 #EXTINF:-1 tvg-chno="28" tvg-id="iptv36.mono29" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/mono29.png?v=3",MONO29 Soundtrack FHD
 https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="29" tvg-id="iptv36.mono29" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/mono29.png?v=3",MONO29 FHD
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
-
 #EXTINF:-1 tvg-chno="30" tvg-id="iptv36.mcot" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/mcot.png",MCOT FHD
 https://cco-streamer2.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 
@@ -5575,601 +5519,67 @@ https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/
 #EXTINF:-1 tvg-chno="32" tvg-id="iptv36.thairath" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/thairath.png",Thairath TV HD
 #EXTVLCOPT:http-referrer=https://www.thairath.co.th/
 https://ssai-streaming.thairath.co.th/bamm-JEPANGai/720p/index.m3u8
-
 #EXTINF:-1 tvg-chno="33" tvg-id="iptv36.ch3" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch3.png",CH3 [เสีย]
 https://iptv36.vercel.app/nosignal.m3u8?ch=ch3
-
 #EXTINF:-1 tvg-chno="34" tvg-id="iptv36.amarin" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/amarin.png",Amarin TV [เสีย]
 https://iptv36.vercel.app/nosignal.m3u8?ch=amarin
-
 #EXTINF:-1 tvg-chno="35" tvg-id="iptv36.ch7" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch7.png",CH7 FHD
 #EXTVLCOPT:http-referrer=https://www.ch7.com/
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
-
 #EXTINF:-1 tvg-chno="36" tvg-id="iptv36.pptv" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
 https://pptv36-9h0yba.cdn.byteark.com/bamm-JEPANGai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1775068801&x_ark_path_prefix=%2Fbamm-JEPANGai%2F&x_ark_signature=dO12PPpdK1ZEX5ukFry0xA
-
 #EXTINF:-1 tvg-chno="37" group-title="Thai Free TV" tvg-logo="http://iptv36.mooo.com/logo/info.png",2026-04-01T19:42
 http://iptv36.mooo.com/logo/info.png
-
 #EXTINF:-1 tvg-chno="38" group-title="Thai Free TV" tvg-logo="http://iptv36.mooo.com/logo/info.png",https://iptv36.mooo.com/
 http://iptv36.mooo.com/logo/info.png
-
 #EXTM3U url-tvg="https://iptv36.vercel.app/epg.xml" refresh="3600"
-#
-# Homepage: http://iptv36.mooo.com/ (Find another version of IPTV playlists here)
-# Automatically update at: 2026-04-01T19:42 ICT
-
 #EXTINF:-1 tvg-chno="1" tvg-id="iptv36.nbt" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/nbt.png?v=4",NBT FHD
 https://cdn-edge.iiptvcdn.com/live_event/smil:1180-0c9c-ad1f-4e5d-aa48.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="2" tvg-id="iptv36.thaipJEPANG" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/thaipJEPANG.png",Thai PJEPANG FHD
 https://thaipJEPANG-live.cdn.byteark.com/live/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="3" tvg-id="iptv36.tv5" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tv5.png",TV5 FHD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="4" tvg-id="iptv36.tptv" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tptv.png",TPTV FHD
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
-
 #EXTINF:-1 tvg-chno="5" tvg-id="iptv36.nbtcentral" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/nbt.png?v=4",NBT Central FHD
 https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="6" tvg-id="iptv36.nation" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/nation.png",Nation TV FHD
 #EXTVLCOPT:http-referrer=https://www.nationtv.tv/
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
-
 #EXTINF:-1 tvg-chno="7" tvg-id="iptv36.workpoint" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/workpoint.png",Workpoint TV
 https://cco-streamer2.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
-
 #EXTINF:-1 tvg-chno="8" tvg-id="iptv36.workpoint" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/workpoint.png",Workpoint TV [เสีย]
 https://iptv36.vercel.app/nosignal.m3u8?ch=workpoint
-
 #EXTINF:-1 tvg-chno="9" tvg-id="iptv36.true4u" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/true4u.png",True4U HD
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
-
 #EXTINF:-1 tvg-chno="10" tvg-id="iptv36.gmm25" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/gmm25.png",GMM25 FHD
 https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
-
 #EXTINF:-1 tvg-chno="11" tvg-id="iptv36.ch8" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch8.png",CH8 HD
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
-
 #EXTINF:-1 tvg-chno="12" tvg-id="iptv36.ch8" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch8.png",CH8
 https://cco-streamer2.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
-
 #EXTINF:-1 tvg-chno="13" tvg-id="iptv36.mono29" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/mono29.png?v=3",MONO29 FHD
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
-
 #EXTINF:-1 tvg-chno="14" tvg-id="iptv36.mono29" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/mono29.png?v=3",MONO29 Soundtrack FHD
 https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="15" tvg-id="iptv36.mcot" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/mcot.png",MCOT FHD
 https://cco-streamer2.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
-
 #EXTINF:-1 tvg-chno="16" tvg-id="iptv36.mcot" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/mcot.png",MCOT FHD
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="17" tvg-id="iptv36.one" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/one.png",ONE FHD
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
-
 #EXTINF:-1 tvg-chno="18" tvg-id="iptv36.thairath" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/thairath.png",Thairath TV HD
 #EXTVLCOPT:http-referrer=https://www.thairath.co.th/
 https://ssai-streaming.thairath.co.th/bamm-JEPANGai/720p/index.m3u8
-
 #EXTINF:-1 tvg-chno="19" tvg-id="iptv36.ch7" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch7.png",CH7 FHD
 #EXTVLCOPT:http-referrer=https://www.ch7.com/
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
-
 #EXTINF:-1 tvg-chno="20" tvg-id="iptv36.pptv" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
 https://pptv36-9h0yba.cdn.byteark.com/bamm-JEPANGai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1775068801&x_ark_path_prefix=%2Fbamm-JEPANGai%2F&x_ark_signature=dO12PPpdK1ZEX5ukFry0xA
-
 #EXTINF:-1 tvg-chno="21" group-title="Thai Free TV" tvg-logo="http://iptv36.mooo.com/logo/info.png",2026-04-01T19:42
 http://iptv36.mooo.com/logo/info.png
-
 #EXTINF:-1 tvg-chno="22" group-title="Thai Free TV" tvg-logo="http://iptv36.mooo.com/logo/info.png",https://iptv36.mooo.com/
 http://iptv36.mooo.com/logo/info.png
 
-#EXTM3U
-#EXTINF:-1 tvg-id="92" tvg-logo="" group-title="世界杯",CCTV5
-iptv://main.quiciptv.com:9906/live/cctv5/index.m3u8
-#EXTINF:-1 tvg-id="93" tvg-logo="" group-title="世界杯",cctv5plus
-iptv://main.quiciptv.com:9906/live/cctv5p/index.m3u8
-#EXTINF:-1 tvg-id="94" tvg-logo="" group-title="世界杯",foxsport1美国
-iptv://main.quiciptv.com:9906/live/foxsport1us/index.m3u8
-#EXTINF:-1 tvg-id="95" tvg-logo="" group-title="世界杯",foxsport2美国
-iptv://main.quiciptv.com:9906/live/foxsport2us/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-logo="" group-title="世界杯",FOX 纽约
-iptv://main.quiciptv.com:9906/live/foxus/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="/tvlogo/00c73f8fcc5945108db1d4a1fecef346.png" group-title="香港频道",翡翠台
-iptv://main.quiciptv.com:9906/live/fcthd/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-logo="/tvlogo/aedf23d4de734167a9b2940b0f64e285.png" group-title="香港频道",TVB新闻台
-iptv://main.quiciptv.com:9906/live/tvbnews/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-logo="/tvlogo/5533a6a5a473419a84773aa9c88e9a64.png" group-title="香港频道",TVB Plus
-iptv://main.quiciptv.com:9906/live/tvbplus/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-logo="/tvlogo/76208e569cf140908845e75216e47b7c.png" group-title="香港频道",tvb明珠台
-iptv://main.quiciptv.com:9906/live/tvbmzt/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-logo="/tvlogo/6959808744c54ba8abb827bbdf0014c3.png" group-title="香港频道",凤凰中文台
-iptv://main.quiciptv.com:9906/live/fhzw/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-logo="/tvlogo/593268310eeb4ff3b747dbd4aa062f0f.png" group-title="香港频道",凤凰资讯台
-iptv://main.quiciptv.com:9906/live/fhzx/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo="/tvlogo/abe661f2b5544c32bd664433af488242.png" group-title="香港频道",凤凰香港台
-iptv://main.quiciptv.com:9906/live/fhxg/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-logo="/tvlogo/fa0183e52d6546a389bfb5813998bd45.png" group-title="香港频道",TVB 88跑马台
-iptv://main.quiciptv.com:9906/live/tvb88/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-logo="/tvlogo/5e4eba0e98b94bfe8212503976ce6d45.png" group-title="香港频道",VIU HD
-iptv://main.quiciptv.com:9906/live/viuhd/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-logo="/tvlogo/0fb4b576e9d74b41ae1e40c9fac190de.png" group-title="香港频道",VIU Six
-iptv://main.quiciptv.com:9906/live/viusix/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-logo="/tvlogo/d66c99f081b64a77b93092661e54e3fb.png" group-title="香港频道",亚洲动作台
-iptv://main.quiciptv.com:9906/live/yzdzt/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-logo="/tvlogo/e6b7d2a04c904ac98b505a95560e0b12.png" group-title="香港频道",tvb星河
-iptv://main.quiciptv.com:9906/live/tvbxhyy/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-logo="/tvlogo/569b61c542e543659dc2873af897bd47.png" group-title="香港频道",美亚电影HD
-iptv://main.quiciptv.com:9906/live/mydyhd/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-logo="/tvlogo/fa0183e52d6546a389bfb5813998bd45.png" group-title="香港频道",my tvsuper free
-iptv://main.quiciptv.com:9906/live/tvbfree/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-logo="/tvlogo/fa0183e52d6546a389bfb5813998bd45.png" group-title="香港频道",黄金翡翠台
-iptv://main.quiciptv.com:9906/live/tvbhjfct/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-logo="/tvlogo/56a647ec331649a8abf2de7e2d598439.png" group-title="香港频道",娱乐新闻台
-iptv://main.quiciptv.com:9906/live/tvbylxwt/index.m3u8
-#EXTINF:-1 tvg-id="18" tvg-logo="/tvlogo/6bbc85f0fe994076bfb414d15c524153.png" group-title="香港频道",KIX
-iptv://main.quiciptv.com:9906/live/kixhk/index.m3u8
-#EXTINF:-1 tvg-id="19" tvg-logo="" group-title="香港频道",now爆谷台
-iptv://main.quiciptv.com:9906/live/nowbgt/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-logo="/tvlogo/175653a6a98a4ba0b6734261749b4f27.png" group-title="香港频道",Thrill
-iptv://main.quiciptv.com:9906/live/thrill/index.m3u8
-#EXTINF:-1 tvg-id="21" tvg-logo="" group-title="香港频道",now星影台
-iptv://main.quiciptv.com:9906/live/nowxyt/index.m3u8
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="香港频道",now新闻
-iptv://main.quiciptv.com:9906/live/nownews/index.m3u8
-#EXTINF:-1 tvg-id="23" tvg-logo="" group-title="香港频道",now财经
-iptv://main.quiciptv.com:9906/live/nowcj/index.m3u8
-#EXTINF:-1 tvg-id="24" tvg-logo="" group-title="香港频道",now直播新闻
-iptv://main.quiciptv.com:9906/live/nowlive/index.m3u8
-#EXTINF:-1 tvg-id="25" tvg-logo="" group-title="香港频道",now华剧
-iptv://main.quiciptv.com:9906/live/nowhj/index.m3u8
-#EXTINF:-1 tvg-id="26" tvg-logo="" group-title="香港频道",有线18台
-iptv://main.quiciptv.com:9906/live/yx18/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-logo="" group-title="香港频道",hoy77
-iptv://main.quiciptv.com:9906/live/hoy66/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-logo="" group-title="香港频道",hoy78
-iptv://main.quiciptv.com:9906/live/hoy67/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-logo="" group-title="香港频道",hoy76
-iptv://main.quiciptv.com:9906/live/hoy79/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-logo="" group-title="香港频道",香港C+
-iptv://main.quiciptv.com:9906/live/cplushk/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-logo="" group-title="香港频道",now紫金
-iptv://main.quiciptv.com:9906/live/nowzj/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-logo="" group-title="香港频道",now viu剧集
-iptv://main.quiciptv.com:9906/live/nowviujj/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-logo="" group-title="香港频道",亚洲动作台国语
-iptv://main.quiciptv.com:9906/live/yzdztgy/index.m3u8
-#EXTINF:-1 tvg-id="35" tvg-logo="" group-title="香港频道",rthk31
-iptv://main.quiciptv.com:9906/live/rthk31/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-logo="" group-title="香港频道",rthk32
-iptv://main.quiciptv.com:9906/live/rthk32/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-logo="" group-title="香港频道",now668
-iptv://main.quiciptv.com:9906/live/now668/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-logo="" group-title="香港频道",now668国语
-iptv://main.quiciptv.com:9906/live/now668gy/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-logo="" group-title="香港频道",popc电影
-iptv://main.quiciptv.com:9906/live/popc/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-logo="" group-title="香港频道",千禧经典台
-iptv://main.quiciptv.com:9906/live/qxjdthk/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-logo="" group-title="香港频道",TVB华语剧
-iptv://main.quiciptv.com:9906/live/tvbhyj/index.m3u8
-#EXTINF:-1 tvg-id="42" tvg-logo="" group-title="香港频道",TVB粤语片
-iptv://main.quiciptv.com:9906/live/tvbyyp/index.m3u8
-#EXTINF:-1 tvg-id="43" tvg-logo="" group-title="香港频道",TVB亚洲剧台
-iptv://main.quiciptv.com:9906/live/tvbyzjt/index.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="台湾频道",台视HD
-iptv://main.quiciptv.com:9906/live/tshd/index.m3u8
-#EXTINF:-1 tvg-id="101" tvg-logo="" group-title="台湾频道",中视HD
-iptv://main.quiciptv.com:9906/live/zshd/index.m3u8
-#EXTINF:-1 tvg-id="102" tvg-logo="" group-title="台湾频道",华视HD
-iptv://main.quiciptv.com:9906/live/hshd/index.m3u8
-#EXTINF:-1 tvg-id="103" tvg-logo="" group-title="台湾频道",民视
-iptv://main.quiciptv.com:9906/live/mshd/index.m3u8
-#EXTINF:-1 tvg-id="104" tvg-logo="" group-title="台湾频道",公视hd
-iptv://main.quiciptv.com:9906/live/gshd/index.m3u8
-#EXTINF:-1 tvg-id="105" tvg-logo="" group-title="台湾频道",东森新闻
-iptv://main.quiciptv.com:9906/live/dsxw/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-logo="" group-title="台湾频道",中天新闻
-iptv://main.quiciptv.com:9906/live/ztxw/index.m3u8
-#EXTINF:-1 tvg-id="107" tvg-logo="" group-title="台湾频道",民视新闻
-iptv://main.quiciptv.com:9906/live/msxw/index.m3u8
-#EXTINF:-1 tvg-id="108" tvg-logo="" group-title="台湾频道",寰宇新闻
-iptv://main.quiciptv.com:9906/live/hyxw/index.m3u8
-#EXTINF:-1 tvg-id="109" tvg-logo="" group-title="台湾频道",寰宇新闻台湾
-iptv://main.quiciptv.com:9906/live/hyxwtw/index.m3u8
-#EXTINF:-1 tvg-id="110" tvg-logo="" group-title="台湾频道",壹电视新闻
-iptv://main.quiciptv.com:9906/live/ydsxw/index.m3u8
-#EXTINF:-1 tvg-id="111" tvg-logo="" group-title="台湾频道",TVBSHD
-iptv://main.quiciptv.com:9906/live/tvbshd/index.m3u8
-#EXTINF:-1 tvg-id="112" tvg-logo="" group-title="台湾频道",tvbs新闻
-iptv://main.quiciptv.com:9906/live/tvbsnews/index.m3u8
-#EXTINF:-1 tvg-id="113" tvg-logo="" group-title="台湾频道",年代新闻
-iptv://main.quiciptv.com:9906/live/ndxw/index.m3u8
-#EXTINF:-1 tvg-id="114" tvg-logo="" group-title="台湾频道",非凡新闻
-iptv://main.quiciptv.com:9906/live/ffxw/index.m3u8
-#EXTINF:-1 tvg-id="115" tvg-logo="" group-title="台湾频道",三立新闻
-iptv://main.quiciptv.com:9906/live/slxw/index.m3u8
-#EXTINF:-1 tvg-id="116" tvg-logo="" group-title="台湾频道",镜电视新闻
-iptv://main.quiciptv.com:9906/live/jdsxw/index.m3u8
-#EXTINF:-1 tvg-id="117" tvg-logo="" group-title="台湾频道",台视新闻
-iptv://main.quiciptv.com:9906/live/tsxw/index.m3u8
-#EXTINF:-1 tvg-id="118" tvg-logo="" group-title="台湾频道",三立财经
-iptv://main.quiciptv.com:9906/live/slcj/index.m3u8
-#EXTINF:-1 tvg-id="119" tvg-logo="" group-title="台湾频道",寰宇财经
-iptv://main.quiciptv.com:9906/live/hycj/index.m3u8
-#EXTINF:-1 tvg-id="120" tvg-logo="" group-title="台湾频道",东森财经
-iptv://main.quiciptv.com:9906/live/dscj/index.m3u8
-#EXTINF:-1 tvg-id="121" tvg-logo="" group-title="台湾频道",东森电影
-iptv://main.quiciptv.com:9906/live/dsdy/index.m3u8
-#EXTINF:-1 tvg-id="122" tvg-logo="" group-title="台湾频道",龙翔时代
-iptv://main.quiciptv.com:9906/live/lxdy/index.m3u8
-#EXTINF:-1 tvg-id="123" tvg-logo="" group-title="台湾频道",龙华电影
-iptv://main.quiciptv.com:9906/live/lhdy/index.m3u8
-#EXTINF:-1 tvg-id="124" tvg-logo="" group-title="台湾频道",纬来电影
-iptv://main.quiciptv.com:9906/live/wldy/index.m3u8
-#EXTINF:-1 tvg-id="125" tvg-logo="" group-title="台湾频道",好莱坞电影
-iptv://main.quiciptv.com:9906/live/hlwdy/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-logo="" group-title="台湾频道",靖天电影
-iptv://main.quiciptv.com:9906/live/jtdy/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-logo="" group-title="台湾频道",龙华洋片
-iptv://main.quiciptv.com:9906/live/lhyp/index.m3u8
-#EXTINF:-1 tvg-id="128" tvg-logo="" group-title="台湾频道",靖天映画
-iptv://main.quiciptv.com:9906/live/jtyh/index.m3u8
-#EXTINF:-1 tvg-id="129" tvg-logo="" group-title="台湾频道",HBOHD
-iptv://main.quiciptv.com:9906/live/hbosg/index.m3u8
-#EXTINF:-1 tvg-id="130" tvg-logo="" group-title="台湾频道",HBO HITS
-iptv://main.quiciptv.com:9906/live/hbohits/index.m3u8
-#EXTINF:-1 tvg-id="131" tvg-logo="" group-title="台湾频道",Hbo Family
-iptv://main.quiciptv.com:9906/live/hbofam/index.m3u8
-#EXTINF:-1 tvg-id="132" tvg-logo="" group-title="台湾频道",HBO Signature
-iptv://main.quiciptv.com:9906/live/hbofam/index.m3u8
-#EXTINF:-1 tvg-id="133" tvg-logo="" group-title="台湾频道",Cinemax
-iptv://main.quiciptv.com:9906/live/cinemax/index.m3u8
-#EXTINF:-1 tvg-id="134" tvg-logo="" group-title="台湾频道",AXN台湾
-iptv://main.quiciptv.com:9906/live/axntw/index.m3u8
-#EXTINF:-1 tvg-id="135" tvg-logo="" group-title="台湾频道",华纳电影台
-iptv://main.quiciptv.com:9906/live/warnertw/index.m3u8
-#EXTINF:-1 tvg-id="136" tvg-logo="" group-title="台湾频道",Cinema World
-iptv://main.quiciptv.com:9906/live/Cinemaworldtw/index.m3u8
-#EXTINF:-1 tvg-id="137" tvg-logo="" group-title="台湾频道",CATCHPLAY
-iptv://main.quiciptv.com:9906/live/CATCHPLAY/index.m3u8
-#EXTINF:-1 tvg-id="138" tvg-logo="" group-title="台湾频道",中天综合
-iptv://main.quiciptv.com:9906/live/ztzh/index.m3u8
-#EXTINF:-1 tvg-id="139" tvg-logo="" group-title="台湾频道",tvbs欢乐
-iptv://main.quiciptv.com:9906/live/tvbshl/index.m3u8
-#EXTINF:-1 tvg-id="140" tvg-logo="" group-title="台湾频道",tvbs精彩
-iptv://main.quiciptv.com:9906/live/tvbsjc/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-logo="" group-title="台湾频道",中天娱乐
-iptv://main.quiciptv.com:9906/live/ztyl/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-logo="" group-title="台湾频道",东森综合
-iptv://main.quiciptv.com:9906/live/dszh/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="" group-title="台湾频道",三立综合
-iptv://main.quiciptv.com:9906/live/slzh/index.m3u8
-#EXTINF:-1 tvg-id="144" tvg-logo="" group-title="台湾频道",三立都会
-iptv://main.quiciptv.com:9906/live/sldh/index.m3u8
-#EXTINF:-1 tvg-id="145" tvg-logo="" group-title="台湾频道",八大综合
-iptv://main.quiciptv.com:9906/live/bdzh/index.m3u8
-#EXTINF:-1 tvg-id="146" tvg-logo="" group-title="台湾频道",纬来综合
-iptv://main.quiciptv.com:9906/live/wlzh/index.m3u8
-#EXTINF:-1 tvg-id="147" tvg-logo="" group-title="台湾频道",高点综合
-iptv://main.quiciptv.com:9906/live/gdzh/index.m3u8
-#EXTINF:-1 tvg-id="148" tvg-logo="" group-title="台湾频道",八大娱乐
-iptv://main.quiciptv.com:9906/live/bdyl/index.m3u8
-#EXTINF:-1 tvg-id="149" tvg-logo="" group-title="台湾频道",年代much
-iptv://main.quiciptv.com:9906/live/ndmuch/index.m3u8
-#EXTINF:-1 tvg-id="150" tvg-logo="" group-title="台湾频道",中视经典
-iptv://main.quiciptv.com:9906/live/zsjd/index.m3u8
-#EXTINF:-1 tvg-id="200" tvg-logo="/tvlogo/c6fd37abea3b48469e5fdb900ec2536d.png" group-title="体育频道",Bein sport 1 MY
-iptv://main.quiciptv.com:9906/live/beinsport1my/index.m3u8
-#EXTINF:-1 tvg-id="201" tvg-logo="/tvlogo/aa4ebbd6c8944f86b0453013eadb204d.png" group-title="体育频道",Bein Sport 2 my
-iptv://main.quiciptv.com:9906/live/beinsport2my/index.m3u8
-#EXTINF:-1 tvg-id="202" tvg-logo="/tvlogo/779fd7529d61498babd20e24c9509a80.png" group-title="体育频道",Bein Sport 3 my
-iptv://main.quiciptv.com:9906/live/beinsport3my/index.m3u8
-#EXTINF:-1 tvg-id="204" tvg-logo="/tvlogo/76f7a0d1fe164e5c8073f1c2e7261b07.png" group-title="体育频道",Bein Sport1 au
-iptv://main.quiciptv.com:9906/live/beinsport1au/index.m3u8
-#EXTINF:-1 tvg-id="205" tvg-logo="/tvlogo/583ecd643cdd4d6eb1625734166c6c3c.png" group-title="体育频道",Bein Sport2 au
-iptv://main.quiciptv.com:9906/live/beinsport2au/index.m3u8
-#EXTINF:-1 tvg-id="206" tvg-logo="/tvlogo/297d3598123b429898b4183c3c3c7935.png" group-title="体育频道",Bein Sport 3 au
-iptv://main.quiciptv.com:9906/live/beinsport3au/index.m3u8
-#EXTINF:-1 tvg-id="207" tvg-logo="/tvlogo/9eeee7bf419d48c891149e2304194fbc.png" group-title="体育频道",Fubo Sports1
-iptv://main.quiciptv.com:9906/live/fubosport1/index.m3u8
-#EXTINF:-1 tvg-id="208" tvg-logo="/tvlogo/0ee4bf2ab7c54347a4b8488873f147dc.png" group-title="体育频道",Fubo Sports2
-iptv://main.quiciptv.com:9906/live/fubosport2ca/index.m3u8
-#EXTINF:-1 tvg-id="209" tvg-logo="/tvlogo/e8df991f370f4886be55aca3410edd19.png" group-title="体育频道",Arena Sport1 Premiumme黑山
-iptv://main.quiciptv.com:9906/live/a1phs/index.m3u8
-#EXTINF:-1 tvg-id="210" tvg-logo="/tvlogo/3d9323cdd96b4698b32cee1ec468b39b.png" group-title="体育频道",Arena Sport2 Premiumme 黑山
-iptv://main.quiciptv.com:9906/live/a2phs/index.m3u8
-#EXTINF:-1 tvg-id="211" tvg-logo="/tvlogo/cf672fe62d7f4e5295682d3a68987d6e.png" group-title="体育频道",Arena Sport 3 Premiumme黑山
-iptv://main.quiciptv.com:9906/live/a3phs/index.m3u8
-#EXTINF:-1 tvg-id="212" tvg-logo="" group-title="体育频道",Arena Sport4 Premiumme黑山
-iptv://main.quiciptv.com:9906/live/a4phs/index.m3u8
-#EXTINF:-1 tvg-id="213" tvg-logo="" group-title="体育频道",Arena Sport5 Premiumme 黑山
-iptv://main.quiciptv.com:9906/live/a5phs/index.m3u8
-#EXTINF:-1 tvg-id="214" tvg-logo="/tvlogo/d3034bebba154fe0aa7150cc6aea99c5.png" group-title="体育频道",Arena Sport 1 克罗地亚
-iptv://main.quiciptv.com:9906/live/arena1cl/index.m3u8
-#EXTINF:-1 tvg-id="215" tvg-logo="/tvlogo/ae93eabccf7a4cf796a11f18d0c5e9bd.png" group-title="体育频道",Arena Sport2 克罗地亚
-iptv://main.quiciptv.com:9906/live/arena2cl/index.m3u8
-#EXTINF:-1 tvg-id="216" tvg-logo="/tvlogo/e2528fb1d80c4f3c922fe0c0183603be.png" group-title="体育频道",Arena Sport 3克罗地亚
-iptv://main.quiciptv.com:9906/live/arena3cl/index.m3u8
-#EXTINF:-1 tvg-id="217" tvg-logo="/tvlogo/9f6f20387ddd40a7be2b2fff081de6bb.png" group-title="体育频道",Arena Sport 4 克罗地亚
-iptv://main.quiciptv.com:9906/live/arena4cl/index.m3u8
-#EXTINF:-1 tvg-id="218" tvg-logo="/tvlogo/257487b345204fdfb4ee8eab9a0c518b.png" group-title="体育频道",Arena Sport 5 克罗地亚
-iptv://main.quiciptv.com:9906/live/arena5cl/index.m3u8
-#EXTINF:-1 tvg-id="219" tvg-logo="/tvlogo/29644bb6b0154a528b539dea849d7e6a.png" group-title="体育频道",Arena Sport 6 克罗地亚
-iptv://main.quiciptv.com:9906/live/arena6cl/index.m3u8
-#EXTINF:-1 tvg-id="220" tvg-logo="/tvlogo/22aec2141198466687878336156cfe30.png" group-title="体育频道",Arena Sport 7 克罗地亚
-iptv://main.quiciptv.com:9906/live/arena7cl/index.m3u8
-#EXTINF:-1 tvg-id="221" tvg-logo="/tvlogo/ab3d0431365841819fa2a14096e09be1.png" group-title="体育频道",Arena Sport 8 克罗地亚
-iptv://main.quiciptv.com:9906/live/arena8cl/index.m3u8
-#EXTINF:-1 tvg-id="222" tvg-logo="/tvlogo/012f47af65dd487ea26f4754385622b0.png" group-title="体育频道",Arena Sport 9 克罗地亚
-iptv://main.quiciptv.com:9906/live/arena9cl/index.m3u8
-#EXTINF:-1 tvg-id="223" tvg-logo="/tvlogo/fc1456c62cf743e1bf09058ddbbb2e88.png" group-title="体育频道",Arena Sport 10 克罗地亚
-iptv://main.quiciptv.com:9906/live/arena10cl/index.m3u8
-#EXTINF:-1 tvg-id="225" tvg-logo="/tvlogo/8a3bcb007aef4fc5a9f15ea02d14f7e6.png" group-title="体育频道",Eleven Sport 1 PL
-iptv://main.quiciptv.com:9906/live/eleven1pl/index.m3u8
-#EXTINF:-1 tvg-id="226" tvg-logo="/tvlogo/58e28ad0e2d243a790bcd01d011cad08.png" group-title="体育频道",Eleven Sport 2 PL
-iptv://main.quiciptv.com:9906/live/eleven2pl/index.m3u8
-#EXTINF:-1 tvg-id="227" tvg-logo="/tvlogo/9b8bdfc1443a4f3d8f78765a129d00da.png" group-title="体育频道",Eleven Sport 3 PL
-iptv://main.quiciptv.com:9906/live/eleven3pl/index.m3u8
-#EXTINF:-1 tvg-id="228" tvg-logo="/tvlogo/fb9098dc9c9a419ebee5aadaaba07165.png" group-title="体育频道",Eleven Sport 4 PL
-iptv://main.quiciptv.com:9906/live/eleven4pl/index.m3u8
-#EXTINF:-1 tvg-id="229" tvg-logo="/tvlogo/5216d37298f54e30aaed828395e5f1ea.png" group-title="体育频道",TV3 PLUS DK
-iptv://main.quiciptv.com:9906/live/tv3plusdk/index.m3u8
-#EXTINF:-1 tvg-id="230" tvg-logo="/tvlogo/6cbfecd03948487a8686f8e3254ea6f4.png" group-title="体育频道",TV3 Sport dk
-iptv://main.quiciptv.com:9906/live/tv3sportdk/index.m3u8
-#EXTINF:-1 tvg-id="231" tvg-logo="/tvlogo/f7f7f9f7b4bd4c6cb12ded0a7b9784d0.png" group-title="体育频道",tv3 plus dk
-iptv://main.quiciptv.com:9906/live/tv3plus/index.m3u8
-#EXTINF:-1 tvg-id="232" tvg-logo="/tvlogo/006cf628c4b3463fab9152eb8eac6185.png" group-title="体育频道",TV3 MAX dk
-iptv://main.quiciptv.com:9906/live/tv3max/index.m3u8
-#EXTINF:-1 tvg-id="233" tvg-logo="/tvlogo/8bd11b809c36427eaa8793a815c321ba.png" group-title="体育频道",SEE DK
-iptv://main.quiciptv.com:9906/live/seehd/index.m3u8
-#EXTINF:-1 tvg-id="234" tvg-logo="" group-title="体育频道",TV4 Fotboll
-iptv://main.quiciptv.com:9906/live/TV4Fotbollse/index.m3u8
-#EXTINF:-1 tvg-id="236" tvg-logo="/tvlogo/38e748248d8048debf15dcfd17ea8e9f.png" group-title="体育频道",SPORT 5以色列
-iptv://main.quiciptv.com:9906/live/sport5is/index.m3u8
-#EXTINF:-1 tvg-id="237" tvg-logo="/tvlogo/4d3e0c672e81433ab40611cbe45e51a0.png" group-title="体育频道",Sport5 Gold以色列
-iptv://main.quiciptv.com:9906/live/sport5gold/index.m3u8
-#EXTINF:-1 tvg-id="238" tvg-logo="/tvlogo/6537a0cd1f5e4c5f8ff1060a101f3328.png" group-title="体育频道",Sport5 Live
-iptv://main.quiciptv.com:9906/live/sport5live/index.m3u8
-#EXTINF:-1 tvg-id="239" tvg-logo="/tvlogo/eea3fd98a11f4c7bb04ade62310658a4.png" group-title="体育频道",Sport5 Plus
-iptv://main.quiciptv.com:9906/live/sport5plus/index.m3u8
-#EXTINF:-1 tvg-id="240" tvg-logo="/tvlogo/6e328f5144df4b088151d8abf1590522.png" group-title="体育频道",Sport5 Stars
-iptv://main.quiciptv.com:9906/live/sport5stars/index.m3u8
-#EXTINF:-1 tvg-id="241" tvg-logo="" group-title="体育频道",Sport 5 4K
-iptv://main.quiciptv.com:9906/live/sport54k/index.m3u8
-#EXTINF:-1 tvg-id="243" tvg-logo="/tvlogo/6aa348aa18874b17a31405ca1db1490c.png" group-title="体育频道",Premier Sports1 uk
-iptv://main.quiciptv.com:9906/live/premiersports1uk/index.m3u8
-#EXTINF:-1 tvg-id="244" tvg-logo="/tvlogo/23eaa3d2c07e4fbf80b921877e394ddd.png" group-title="体育频道",PremierSports2uk
-iptv://main.quiciptv.com:9906/live/premiersports2uk/index.m3u8
-#EXTINF:-1 tvg-id="245" tvg-logo="" group-title="体育频道",Fox Sport 1 us
-iptv://main.quiciptv.com:9906/live/foxsport1us/index.m3u8
-#EXTINF:-1 tvg-id="246" tvg-logo="" group-title="体育频道",Fox Sport 2 us
-iptv://main.quiciptv.com:9906/live/foxsport2us/index.m3u8
-#EXTINF:-1 tvg-id="247" tvg-logo="" group-title="体育频道",Now Sport plus
-iptv://main.quiciptv.com:9906/live/nowsportplus/index.m3u8
-#EXTINF:-1 tvg-id="248" tvg-logo="" group-title="体育频道",Now Sport golf 2
-iptv://main.quiciptv.com:9906/live/nowsportgolf1/index.m3u8
-#EXTINF:-1 tvg-id="249" tvg-logo="" group-title="体育频道",Now Sport Golf 3
-iptv://main.quiciptv.com:9906/live/nowsportgolf3/index.m3u8
-#EXTINF:-1 tvg-id="250" tvg-logo="" group-title="体育频道",Now Sport 精选
-iptv://main.quiciptv.com:9906/live/nowsportjx/index.m3u8
-#EXTINF:-1 tvg-id="257" tvg-logo="/tvlogo/98b15d5fc90149c0bde7b0c934679194.png" group-title="体育频道",Spuer Sport
-iptv://main.quiciptv.com:9906/live/supersporthk/index.m3u8
-#EXTINF:-1 tvg-id="258" tvg-logo="/tvlogo/96429acdb2974f209ab4c042da1a7788.png" group-title="体育频道",爱尔达体育1
-iptv://main.quiciptv.com:9906/live/aedty1/index.m3u8
-#EXTINF:-1 tvg-id="259" tvg-logo="/tvlogo/8b0d42f584a949208b042813ca786c15.png" group-title="体育频道",爱尔达体育2
-iptv://main.quiciptv.com:9906/live/aedty2/index.m3u8
-#EXTINF:-1 tvg-id="260" tvg-logo="/tvlogo/6818e6adcb8b4ceebfe89c8b0e463551.png" group-title="体育频道",爱尔达体育3
-iptv://main.quiciptv.com:9906/live/aedty3/index.m3u8
-#EXTINF:-1 tvg-id="261" tvg-logo="/tvlogo/dcf45408a9e34a83b3029a0f71ee7ce9.png" group-title="体育频道",爱尔达体育4
-iptv://main.quiciptv.com:9906/live/aedty4/index.m3u8
-#EXTINF:-1 tvg-id="262" tvg-logo="" group-title="体育频道",爱尔达体育MAX1
-iptv://main.quiciptv.com:9906/live/aedtymax1/index.m3u8
-#EXTINF:-1 tvg-id="263" tvg-logo="" group-title="体育频道",爱尔达体育max2
-iptv://main.quiciptv.com:9906/live/aedtymax2/index.m3u8
-#EXTINF:-1 tvg-id="264" tvg-logo="" group-title="体育频道",爱尔达体育max3
-iptv://main.quiciptv.com:9906/live/aedtymax3/index.m3u8
-#EXTINF:-1 tvg-id="265" tvg-logo="" group-title="体育频道",爱尔达体育max4
-iptv://main.quiciptv.com:9906/live/aedtymax4/index.m3u8
-#EXTINF:-1 tvg-id="266" tvg-logo="" group-title="体育频道",nowsport1
-iptv://main.quiciptv.com:9906/live/nowsport1/index.m3u8
-#EXTINF:-1 tvg-id="267" tvg-logo="" group-title="体育频道",nowsport2
-iptv://main.quiciptv.com:9906/live/nowsport2/index.m3u8
-#EXTINF:-1 tvg-id="268" tvg-logo="" group-title="体育频道",nowsport3
-iptv://main.quiciptv.com:9906/live/nowsport3/index.m3u8
-#EXTINF:-1 tvg-id="269" tvg-logo="" group-title="体育频道",nowsport4
-iptv://main.quiciptv.com:9906/live/nowsport4/index.m3u8
-#EXTINF:-1 tvg-id="270" tvg-logo="" group-title="体育频道",nowsport5
-iptv://main.quiciptv.com:9906/live/nowsport5/index.m3u8
-#EXTINF:-1 tvg-id="271" tvg-logo="" group-title="体育频道",nowsport6
-iptv://main.quiciptv.com:9906/live/nowsport6/index.m3u8
-#EXTINF:-1 tvg-id="272" tvg-logo="" group-title="体育频道",nowsport7
-iptv://main.quiciptv.com:9906/live/nowsport7/index.m3u8
-#EXTINF:-1 tvg-id="301" tvg-logo="/tvlogo/85cbe63649e241eda9c10214c82af73d.png" group-title="英超频道",Sky Sport Epl 英国
-iptv://main.quiciptv.com:9906/live/skysportepl/index.m3u8
-#EXTINF:-1 tvg-id="302" tvg-logo="" group-title="英超频道",Fubo Sport 1 CA
-iptv://main.quiciptv.com:9906/live/fubosport1/index.m3u8
-#EXTINF:-1 tvg-id="303" tvg-logo="" group-title="英超频道",Fubo Sport 2 CA
-iptv://main.quiciptv.com:9906/live/fubosport2ca/index.m3u8
-#EXTINF:-1 tvg-id="304" tvg-logo="/tvlogo/50ae571bf63447859ae68a284653102a.png" group-title="英超频道",Hub Premier 1
-iptv://main.quiciptv.com:9906/live/hubepl1/index.m3u8
-#EXTINF:-1 tvg-id="305" tvg-logo="/tvlogo/9e9257a9ca1a47909f1c8253fd7925fe.png" group-title="英超频道",Hub Premier 2
-iptv://main.quiciptv.com:9906/live/hubepl2/index.m3u8
-#EXTINF:-1 tvg-id="306" tvg-logo="/tvlogo/206caa5cb3f1443aae97f006fe51bb20.png" group-title="英超频道",Hub Premier 3
-iptv://main.quiciptv.com:9906/live/hubepl3/index.m3u8
-#EXTINF:-1 tvg-id="307" tvg-logo="/tvlogo/07cf7ebe16ee42309a10cb048a9a17a8.png" group-title="英超频道",Hub Premier 4
-iptv://main.quiciptv.com:9906/live/hubepl4/index.m3u8
-#EXTINF:-1 tvg-id="308" tvg-logo="/tvlogo/d8573c3dd7f14fe9a049ad7e97b48b46.png" group-title="英超频道",Hub Premier 5
-iptv://main.quiciptv.com:9906/live/hubepl5/index.m3u8
-#EXTINF:-1 tvg-id="309" tvg-logo="/tvlogo/f9b7f8e7c0f64e0e8047bd4c0c6b0f13.png" group-title="英超频道",Hub Premier 6
-iptv://main.quiciptv.com:9906/live/hubepl6/index.m3u8
-#EXTINF:-1 tvg-id="310" tvg-logo="/tvlogo/dac1b6938523435b831c7cf9194b0289.png" group-title="英超频道",Hub Premier 7
-iptv://main.quiciptv.com:9906/live/hubepl7/index.m3u8
-#EXTINF:-1 tvg-id="311" tvg-logo="" group-title="英超频道",SKY EPL DE
-iptv://main.quiciptv.com:9906/live/skyeplde/index.m3u8
-#EXTINF:-1 tvg-id="312" tvg-logo="/tvlogo/8525474b632d43abbea2b80b8080052b.png" group-title="英超频道",now 621
-iptv://main.quiciptv.com:9906/live/now621/index.m3u8
-#EXTINF:-1 tvg-id="313" tvg-logo="/tvlogo/113b2905e0754fcbbd7dbd5cad1d1569.png" group-title="英超频道",now 622
-iptv://main.quiciptv.com:9906/live/now622/index.m3u8
-#EXTINF:-1 tvg-id="314" tvg-logo="/tvlogo/08364e3267b54820bfd6fbe0c8e3be93.png" group-title="英超频道",now 623
-iptv://main.quiciptv.com:9906/live/now623/index.m3u8
-#EXTINF:-1 tvg-id="315" tvg-logo="/tvlogo/268b518bf2714b0ba7b1d3a806f198db.png" group-title="英超频道",now 624
-iptv://main.quiciptv.com:9906/live/now624/index.m3u8
-#EXTINF:-1 tvg-id="316" tvg-logo="/tvlogo/a7a467784017432ea83aa628e69d9d34.png" group-title="英超频道",now 625
-iptv://main.quiciptv.com:9906/live/now625/index.m3u8
-#EXTINF:-1 tvg-id="317" tvg-logo="/tvlogo/03f3b434fc2f4c22ac2d6f8c726d4a37.png" group-title="英超频道",now 626
-iptv://main.quiciptv.com:9906/live/now626/index.m3u8
-#EXTINF:-1 tvg-id="318" tvg-logo="/tvlogo/fd3999d7dc6e467dbd3b6dd0308047a3.png" group-title="英超频道",V SPORT 1
-iptv://main.quiciptv.com:9906/live/vsport1/index.m3u8
-#EXTINF:-1 tvg-id="600" tvg-logo="/tvlogo/b454e37c133547ceb4ff16c7222c4534.png" group-title="英超频道",Vsport Extra
-iptv://main.quiciptv.com:9906/live/vsportextrase/index.m3u8
-#EXTINF:-1 tvg-id="601" tvg-logo="/tvlogo/11a804c838d24e219703998122c5c50e.png" group-title="英超频道",Vsport Premium
-iptv://main.quiciptv.com:9906/live/vsportpremium/index.m3u8
-#EXTINF:-1 tvg-id="602" tvg-logo="/tvlogo/1aab56c3487d45a5ad9a18d8d9f74018.png" group-title="英超频道",viaplay
-iptv://main.quiciptv.com:9906/live/viaplay/index.m3u8
-#EXTINF:-1 tvg-id="603" tvg-logo="" group-title="英超频道",Vsport Fotboll
-iptv://main.quiciptv.com:9906/live/vsportfootball/index.m3u8
-#EXTINF:-1 tvg-id="604" tvg-logo="" group-title="英超频道",Viaplay 1 urheilu
-iptv://main.quiciptv.com:9906/live/viaplay1urheilu/index.m3u8
-#EXTINF:-1 tvg-id="605" tvg-logo="" group-title="英超频道",Viaplay 3 urheilu
-iptv://main.quiciptv.com:9906/live/viaplay3urheilu/index.m3u8
-#EXTINF:-1 tvg-id="80" tvg-logo="/tvlogo/d65f8abdc0874074aa93e85a8cc12718.png" group-title="新加坡",Channel 5
-iptv://main.quiciptv.com:9906/live/channel5sg/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-logo="/tvlogo/456a842a4f474c158b8ae2d53e8ee80b.png" group-title="新加坡",Channel 8
-iptv://main.quiciptv.com:9906/live/channel8sg/index.m3u8
-#EXTINF:-1 tvg-id="82" tvg-logo="/tvlogo/450376623f6347db8e99736555467faa.png" group-title="新加坡",Channel U
-iptv://main.quiciptv.com:9906/live/channelusg/index.m3u8
-#EXTINF:-1 tvg-id="83" tvg-logo="/tvlogo/2c865db937d04b39b891121c6a23f037.png" group-title="新加坡",CNA
-iptv://main.quiciptv.com:9906/live/asianews/index.m3u8
-#EXTINF:-1 tvg-id="84" tvg-logo="/tvlogo/eed708c6ad784974b61f92f16f660fde.png" group-title="新加坡",HBOHD
-iptv://main.quiciptv.com:9906/live/hbosg/index.m3u8
-#EXTINF:-1 tvg-id="85" tvg-logo="/tvlogo/17d6766a11e246659a7e7132f9b404fa.png" group-title="新加坡",Hbo Hits
-iptv://main.quiciptv.com:9906/live/hbohits/index.m3u8
-#EXTINF:-1 tvg-id="86" tvg-logo="/tvlogo/3a924fbeb2014cbb99e0bf81950c3e4e.png" group-title="新加坡",Hbo Family
-iptv://main.quiciptv.com:9906/live/hbofam/index.m3u8
-#EXTINF:-1 tvg-id="87" tvg-logo="/tvlogo/aa442de418d34838a24c7b9d48e612e9.png" group-title="新加坡",天映电影HD
-iptv://main.quiciptv.com:9906/live/tyhdsg/index.m3u8
-#EXTINF:-1 tvg-id="88" tvg-logo="/tvlogo/eb7d61ce63a640ad8216b5f4b3af11c4.png" group-title="新加坡",天映经典国语
-iptv://main.quiciptv.com:9906/live/tyjd/index.m3u8
-#EXTINF:-1 tvg-id="89" tvg-logo="" group-title="新加坡",如意台
-iptv://main.quiciptv.com:9906/live/ruyitai/index.m3u8
-#EXTINF:-1 tvg-id="90" tvg-logo="" group-title="新加坡",HUB娱家台
-iptv://main.quiciptv.com:9906/live/yujiatai/index.m3u8
-#EXTINF:-1 tvg-id="91" tvg-logo="" group-title="新加坡",HUB都会
-iptv://main.quiciptv.com:9906/live/hubdh/index.m3u8
-#EXTINF:-1 tvg-id="283" tvg-logo="/tvlogo/b2b994327bb34d6f9ca52c802a7525c5.png" group-title="西甲频道",Match Futboll2
-iptv://main.quiciptv.com:9906/live/matchfutboll2/index.m3u8
-#EXTINF:-1 tvg-id="290" tvg-logo="/tvlogo/95e349161d4e4280b719a809dd0d7447.png" group-title="西甲频道",西甲1
-iptv://main.quiciptv.com:9906/live/laligatv/index.m3u8
-#EXTINF:-1 tvg-id="291" tvg-logo="/tvlogo/5d46d4de3ce8422183de8a65fcbd7153.png" group-title="西甲频道",ONE 1
-iptv://main.quiciptv.com:9906/live/one1is/index.m3u8
-#EXTINF:-1 tvg-id="319" tvg-logo="" group-title="德甲德乙法乙",sky德甲
-iptv://main.quiciptv.com:9906/live/skybund/index.m3u8
-#EXTINF:-1 tvg-id="320" tvg-logo="/tvlogo/33759e6c2cf24f3fa971fd1e42a40b1a.png" group-title="德甲德乙法乙",beinsport1法国
-iptv://main.quiciptv.com:9906/live/beinsport1fr/index.m3u8
-#EXTINF:-1 tvg-id="321" tvg-logo="/tvlogo/51926080edd74418b917ee933a6789d2.png" group-title="德甲德乙法乙",beinsport2法国
-iptv://main.quiciptv.com:9906/live/beinsport2fr/index.m3u8
-#EXTINF:-1 tvg-id="323" tvg-logo="/tvlogo/7a012fc6278d4df98f1a09037380ef65.png" group-title="德甲德乙法乙",beinsport3法国
-iptv://main.quiciptv.com:9906/live/beinsport3fr/index.m3u8
-#EXTINF:-1 tvg-id="324" tvg-logo="/tvlogo/c6856dcea36e4bd7aee6745af008af6e.png" group-title="德甲德乙法乙",bein max 4法国
-iptv://main.quiciptv.com:9906/live/beinmax4/index.m3u8
-#EXTINF:-1 tvg-id="325" tvg-logo="/tvlogo/c6856dcea36e4bd7aee6745af008af6e.png" group-title="德甲德乙法乙",beinmax5法国
-iptv://main.quiciptv.com:9906/live/beinmax5/index.m3u8
-#EXTINF:-1 tvg-id="326" tvg-logo="/tvlogo/c6856dcea36e4bd7aee6745af008af6e.png" group-title="德甲德乙法乙",bein max 6法国
-iptv://main.quiciptv.com:9906/live/beinmax6/index.m3u8
-#EXTINF:-1 tvg-id="327" tvg-logo="/tvlogo/c6856dcea36e4bd7aee6745af008af6e.png" group-title="德甲德乙法乙",beinmax7法国
-iptv://main.quiciptv.com:9906/live/beinmax7/index.m3u8
-#EXTINF:-1 tvg-id="328" tvg-logo="/tvlogo/c6856dcea36e4bd7aee6745af008af6e.png" group-title="德甲德乙法乙",beinmax8法国
-iptv://main.quiciptv.com:9906/live/beinmax8/index.m3u8
-#EXTINF:-1 tvg-id="329" tvg-logo="/tvlogo/c6856dcea36e4bd7aee6745af008af6e.png" group-title="德甲德乙法乙",beinmax9法国
-iptv://main.quiciptv.com:9906/live/beinmax9/index.m3u8
-#EXTINF:-1 tvg-id="330" tvg-logo="/tvlogo/c6856dcea36e4bd7aee6745af008af6e.png" group-title="德甲德乙法乙",beinmax10法国
-iptv://main.quiciptv.com:9906/live/beinmax10/index.m3u8
-#EXTINF:-1 tvg-id="340" tvg-logo="" group-title="意甲频道",ONE 2
-iptv://217.79.181.65:9906/live/onesport2/index.m3u8
-#EXTINF:-1 tvg-id="341" tvg-logo="" group-title="意甲频道",Match Futboll 1
-https://hls3.quiciptv.com/live/matchfutboll1/index.m3u8
-#EXTINF:-1 tvg-id="777" tvg-logo="/tvlogo/38e748248d8048debf15dcfd17ea8e9f.png" group-title="法甲频道",SPORT 5
-https://hls3.quiciptv.com/live/sport5/index.m3u8
-#EXTINF:-1 tvg-id="778" tvg-logo="/tvlogo/6537a0cd1f5e4c5f8ff1060a101f3328.png" group-title="法甲频道",sport 5 live
-https://hls3.quiciptv.com/live/sport5live/index.m3u8
-#EXTINF:-1 tvg-id="779" tvg-logo="/tvlogo/eea3fd98a11f4c7bb04ade62310658a4.png" group-title="法甲频道",sport 5 plus
-https://hls3.quiciptv.com/live/sport5plus/index.m3u8
-#EXTINF:-1 tvg-id="500" tvg-logo="" group-title="其他联赛",俄超联赛
-https://hls3.quiciptv.com/live/matchpremerhd/index.m3u8
-#EXTINF:-1 tvg-id="501" tvg-logo="" group-title="其他联赛",Match Futboll 3
-https://hls3.quiciptv.com/live/matchfutboll3/index.m3u8
-#EXTINF:-1 tvg-id="298" tvg-logo="" group-title="NBA",now nba英语
-iptv://main.quiciptv.com:9906/live/nownbayy/index.m3u8
-#EXTINF:-1 tvg-id="299" tvg-logo="" group-title="NBA",now nba 641
-iptv://main.quiciptv.com:9906/live/wabc/index.m3u8
-#EXTINF:-1 tvg-id="300" tvg-logo="" group-title="NBA",NBATV
-iptv://main.quiciptv.com:9906/live/nbaus/index.m3u8
-#EXTINF:-1 tvg-id="390" tvg-logo="" group-title="测试频道",潘多拉玩美
-iptv://main.quiciptv.com:9906/live/pdlwm/index.m3u8
-#EXTINF:-1 tvg-id="391" tvg-logo="" group-title="测试频道",松视1台
-iptv://main.quiciptv.com:9906/live/ss1t/index.m3u8
-#EXTINF:-1 tvg-id="392" tvg-logo="" group-title="测试频道",松视2台
-iptv://main.quiciptv.com:9906/live/ss3t/index.m3u8
-#EXTINF:-1 tvg-id="393" tvg-logo="" group-title="测试频道",彩虹e台
-iptv://main.quiciptv.com:9906/live/chet/index.m3u8
-#EXTINF:-1 tvg-id="394" tvg-logo="" group-title="测试频道",彩虹K台
-iptv://main.quiciptv.com:9906/live/chkt/index.m3u8
-#EXTINF:-1 tvg-id="395" tvg-logo="" group-title="测试频道",惊艳成人电影台
-iptv://main.quiciptv.com:9906/live/jyds/index.m3u8
-#EXTINF:-1 tvg-id="396" tvg-logo="" group-title="测试频道",香蕉台
-iptv://main.quiciptv.com:9906/live/xjt/index.m3u8
-#EXTINF:-1 tvg-id="397" tvg-logo="" group-title="测试频道",极限电影台
-iptv://main.quiciptv.com:9906/live/jxdyt/index.m3u8
-#EXTINF:-1 tvg-id="398" tvg-logo="" group-title="测试频道",look tv
-iptv://main.quiciptv.com:9906/live/looktv/index.m3u8
-#EXTINF:-1 tvg-id="399" tvg-logo="" group-title="测试频道",Midnight韩国
-iptv://main.quiciptv.com:9906/live/Midnight/index.m3u8
-#EXTINF:-1 tvg-id="400" tvg-logo="" group-title="测试频道",乐活频道
-iptv://main.quiciptv.com:9906/live/lhpd/index.m3u8
-#EXTINF:-1 tvg-id="401" tvg-logo="" group-title="测试频道",hiplay
-iptv://main.quiciptv.com:9906/live/hiplay/index.m3u8
-#EXTINF:-1 tvg-id="402" tvg-logo="" group-title="测试频道",hot
-iptv://main.quiciptv.com:9906/live/hot/index.m3u8
-#EXTINF:-1 tvg-id="403" tvg-logo="" group-title="测试频道",彩虹R台
-iptv://main.quiciptv.com:9906/live/chr/index.m3u8
-#EXTINF:-1 tvg-id="404" tvg-logo="" group-title="测试频道",潘多拉粉红
-iptv://main.quiciptv.com:9906/live/pdlfh/index.m3u8
-#EXTINF:-1 tvg-id="407" tvg-logo="" group-title="测试频道",松视3台
-iptv://main.quiciptv.com:9906/live/ss2/index.m3u8
-#EXTINF:-1 tvg-id="408" tvg-logo="" group-title="测试频道",彩虹电影
-iptv://main.quiciptv.com:9906/live/chdy/index.m3u8
-#EXTINF:-1 tvg-id="409" tvg-logo="" group-title="测试频道",奥视1台
-iptv://main.quiciptv.com:9906/live/as1t/index.m3u8
-#EXTINF:-1 tvg-id="410" tvg-logo="" group-title="测试频道",奥视2台
-iptv://main.quiciptv.com:9906/live/as2/index.m3u8
-#EXTINF:-1 tvg-id="411" tvg-logo="" group-title="测试频道",奥视3台
-iptv://main.quiciptv.com:9906/live/as3/index.m3u8
-#EXTINF:-1 tvg-id="412" tvg-logo="" group-title="测试频道",Babes
-iptv://main.quiciptv.com:9906/live/babes/index.m3u8
-#EXTINF:-1 tvg-id="413" tvg-logo="" group-title="测试频道",Desire
-iptv://main.quiciptv.com:9906/live/desire/index.m3u8
-#EXTINF:-1 tvg-id="414" tvg-logo="" group-title="测试频道",Bangu
-iptv://main.quiciptv.com:9906/live/bangu/index.m3u8
-#EXTINF:-1 tvg-id="415" tvg-logo="" group-title="测试频道",Brazzers TV
-iptv://main.quiciptv.com:9906/live/brazzers/index.m3u8
-#EXTINF:-1 tvg-id="416" tvg-logo="" group-title="测试频道",Dorcel
-iptv://main.quiciptv.com:9906/live/docrel/index.m3u8
-#EXTINF:-1 tvg-id="417" tvg-logo="" group-title="测试频道",Dusk
-iptv://main.quiciptv.com:9906/live/dusk/index.m3u8
-#EXTINF:-1 tvg-id="418" tvg-logo="" group-title="测试频道",LEO
-iptv://main.quiciptv.com:9906/live/leo/index.m3u8
-#EXTINF:-1 tvg-id="419" tvg-logo="" group-title="测试频道",leogold
-iptv://main.quiciptv.com:9906/live/leogold/index.m3u8
-#EXTINF:-1 tvg-id="420" tvg-logo="" group-title="测试频道",Extaxy
-iptv://main.quiciptv.com:9906/live/extasy/index.m3u8
-#EXTINF:-1 tvg-id="421" tvg-logo="" group-title="测试频道",passion
-iptv://main.quiciptv.com:9906/live/passion/index.m3u8
-#EXTINF:-1 tvg-id="423" tvg-logo="" group-title="测试频道",Amateurs
-iptv://main.quiciptv.com:9906/live/amateurs/index.m3u8
+
 
