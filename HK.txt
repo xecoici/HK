@@ -1,19 +1,19 @@
 
 
 #EXTM3U
-#EXTINF:-1 logo="http://i.imgur.com/D1o9by9.png" tvg-id="9bd41a5c12e9c23b13d517aa867b7ca2",KJEPANG JOY
+#EXTINF:-1 logo="http://i.imgur.com/D1o9by9.png" tvg-id="9bd41a5c12e9c23b13d517aa867b7ca2",KBS JOY
 http://mdlstay.com:9981/stream/channelid/1545262235?ticket=4346C7471E835D0826B08879384AC0AFF014D291&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="4b852da4eb23bf46a1d6d0fb92bbfa5a",SJEPANG
+#EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="4b852da4eb23bf46a1d6d0fb92bbfa5a",SBS
 http://mdlstay.com:9981/stream/channelid/606963019?ticket=58684F4E95F9A4A0FFCC41A06561C340BDBB6BA1&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/XgibZbD.png" tvg-id="b6d61484fa49718af3d8332b22803d6b",KJEPANG2
+#EXTINF:-1 logo="http://i.imgur.com/XgibZbD.png" tvg-id="b6d61484fa49718af3d8332b22803d6b",KBS2
 http://mdlstay.com:9981/stream/channelid/68474550?ticket=F09B2512B2591BEF5C062DCAA99A5D7F4593A897&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/DJHN8M6.png" tvg-id="5b3c3d11da70ab4f09145bec5a0d37a8",OJEPANG
+#EXTINF:-1 logo="http://i.imgur.com/DJHN8M6.png" tvg-id="5b3c3d11da70ab4f09145bec5a0d37a8",OBS
 http://mdlstay.com:9981/stream/channelid/289225819?ticket=D8E2AE52B64D23565D0CB755B72C5E885B36B5C2&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/e31o5gw.png" tvg-id="3699dd962949f20c31e6ba1aa80960d2",KJEPANG1
+#EXTINF:-1 logo="http://i.imgur.com/e31o5gw.png" tvg-id="3699dd962949f20c31e6ba1aa80960d2",KBS1
 http://mdlstay.com:9981/stream/channelid/383621430?ticket=D48C2AE7D7A930032C86862C0A6AA4F734CF7B58&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/WViFruZ.png" tvg-id="63e1e5a45a287774dc65da5dea3175ff",EJEPANG1
+#EXTINF:-1 logo="http://i.imgur.com/WViFruZ.png" tvg-id="63e1e5a45a287774dc65da5dea3175ff",EBS1
 http://mdlstay.com:9981/stream/channelid/619045219?ticket=6EDCE114401F8B8A7995BB5FE7E5368126853150&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/RIrBF4D.png" tvg-id="0628809cfad7d0c14a9def478f0e8288",EJEPANG2
+#EXTINF:-1 logo="http://i.imgur.com/RIrBF4D.png" tvg-id="0628809cfad7d0c14a9def478f0e8288",EBS2
 http://mdlstay.com:9981/stream/channelid/478160902?ticket=CC05265C4EB9F55D3462DBFBFEC40A139A5CB0C7&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/duig32i.png" tvg-id="6a3ec278fd8de8c383ff5c9e6873f18a",MBC
 http://mdlstay.com:9981/stream/channelid/2025995882?ticket=9B0508918FFBF3FB9790595632F261725F37936E&profile=pass
