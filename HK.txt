@@ -916,6 +916,63 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&ch
 #KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
 https://get.perfecttv.net/myunifi.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=fifa3&kid=f88c0e6e-f2de-4f92-b7ce-07e50cb2d937
 
+#EXTINF:-1 group-title="STARHUB-NO.VPN",SurIa
+http://75.127.89.169:35441/endday20260630.php?id=1089
+#EXTINF:-1 group-title="STARHUB-NO.VPN",CH 5
+http://75.127.89.169:35441/endday20260630.php?id=1090
+#EXTINF:-1 group-title="STARHUB-NO.VPN",CH 8
+http://75.127.89.169:35441/endday20260630.php?id=1091
+#EXTINF:-1 group-title="STARHUB-NO.VPN",CH U
+http://75.127.89.169:35441/endday20260630.php?id=1092
+#EXTINF:-1 group-title="STARHUB-NO.VPN",翡翠台
+http://75.127.89.169:35441/endday20260630.php?id=1093
+#EXTINF:-1 group-title="STARHUB-NO.VPN",TVB星河(國)
+http://75.127.89.169:35441/endday20260630.php?id=1094
+#EXTINF:-1 group-title="STARHUB-NO.VPN",天映頻道(國)
+http://75.127.89.169:35441/endday20260630.php?id=1095
+#EXTINF:-1 group-title="STARHUB-NO.VPN",HUB娱家
+http://75.127.89.169:35441/endday20260630.php?id=1105#http://75.127.89.169:35441/endday20260630.php?id=1106
+#EXTINF:-1 group-title="STARHUB-NO.VPN",HUB都會
+http://75.127.89.169:35441/endday20260630.php?id=1107#http://75.127.89.169:35441/endday20260630.php?id=1108
+#EXTINF:-1 group-title="STARHUB-NO.VPN",astro sensasi
+http://75.127.89.169:35441/endday20260630.php?id=1109
+#EXTINF:-1 group-title="STARHUB-NO.VPN",astro warna
+http://75.127.89.169:35441/endday20260630.php?id=1110
+#EXTINF:-1 group-title="STARHUB-NO.VPN",Mediacorp Suria
+http://75.127.89.169:35441/endday20260630.php?id=1111
+#EXTINF:-1 group-title="STARHUB-NO.VPN",HubSports1
+http://75.127.89.169:35441/endday20260630.php?id=1122
+#EXTINF:-1 group-title="STARHUB-NO.VPN",HubSports2
+http://75.127.89.169:35441/endday20260630.php?id=1123
+#EXTINF:-1 group-title="STARHUB-NO.VPN",HubSports3
+http://75.127.89.169:35441/endday20260630.php?id=1124
+#EXTINF:-1 group-title="STARHUB-NO.VPN",HubSports4
+http://75.127.89.169:35441/endday20260630.php?id=1125
+#EXTINF:-1 group-title="STARHUB-NO.VPN",HubSports5
+http://75.127.89.169:35441/endday20260630.php?id=1126
+#EXTINF:-1 group-title="STARHUB-NO.VPN",HubPremier1
+http://75.127.89.169:35441/endday20260630.php?id=1127
+#EXTINF:-1 group-title="STARHUB-NO.VPN",HubPremier2
+http://75.127.89.169:35441/endday20260630.php?id=1128
+#EXTINF:-1 group-title="STARHUB-NO.VPN",HubPremier3
+http://75.127.89.169:35441/endday20260630.php?id=1129
+#EXTINF:-1 group-title="STARHUB-NO.VPN",HubPremier4
+http://75.127.89.169:35441/endday20260630.php?id=1130
+#EXTINF:-1 group-title="STARHUB-NO.VPN",HubPremier5
+http://75.127.89.169:35441/endday20260630.php?id=1131
+#EXTINF:-1 group-title="STARHUB-NO.VPN",HubPremier6
+http://75.127.89.169:35441/endday20260630.php?id=1132
+#EXTINF:-1 group-title="STARHUB-NO.VPN",HubPremier7
+http://atryffad.usa3.345123.xyz/jrw.php?id=HubPremier7
+#EXTINF:-1 group-title="STARHUB-NO.VPN",SuperSport
+ttp://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports1
+#EXTINF:-1 group-title="STARHUB-NO.VPN",SuperSport2
+,http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports2
+#EXTINF:-1 group-title="STARHUB-NO.VPN",SuperSport3
+,http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports3
+#EXTINF:-1 group-title="STARHUB-NO.VPN"SuperSport4
+http://atryffad.usa3.345123.xyz/jrw.php?id=AstroSupersport4FHD
+
 #EXTM3U/output/manifest.mpd
 #EXTINF:-1 group-title="STARHUB" tvg-id="ABC.Australia.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
