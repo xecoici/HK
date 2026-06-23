@@ -39,6 +39,30 @@ http://mdlstay.com:9981/stream/channelid/960123861?ticket=EE005EA18734CE2320AA6D
 http://mdlstay.com:9981/stream/channelid/882573773?ticket=33B607AAA9ACF175E07F0FAD344C93539287C2C2&profile=pass
 #EXTINF:-1 logo="https://i.namu.wiki/i/jdJ2wKwuEduYGmmxNbpV57hKJrpR_kGL5Xw0rrZV-VN8D0gKGVyDRo58wyKMr9PbBZc9LdIgoSCJppBnnhcbgiQ-HvMKP-Q92tVA7QZihyY5Ku-vgM4WDIUEJ0lEse29RPW7ZaK8BR2tvl2Et08fPA.svg" tvg-id="b262aad590c15d294e924f4bccaddd7e" group-title="KT-KOREA",채널S 플러스
 http://mdlstay.com:9981/stream/channelid/1437229746?ticket=15852B2FEF709D85DCEC6F5A73FA13103ECB0133&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",ITV
+http://mdlstay.com:9981/play/stream/mux/85dfe9d573724e71fb1f478f6eb0785f?title=207MHz%20%2F%20QAM256
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",Ch Btv
+http://mdlstay.com:9981/play/stream/mux/034534a6445541c55ee4ddfb777ed040?title=279.012MHz%20%2F%20QAM256
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",Korea Y
+http://mdlstay.com:9981/play/stream/mux/de3760531d6ef7429e93669e10eb0bfc?title=213MHz%20%2F%20QAM256
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",Korea X
+http://mdlstay.com:9981/play/stream/mux/98ceee36a685c2b6696f01ac5c53ec3b?title=219MHz%20%2F%20QAM256
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",SPOTV
+http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305429000000_0281
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",MBC Eve
+http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305429000000_00bf
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",Dramacube
+http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305423000000_02c7
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",Xone
+http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305417000000_010f
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",Xone
+http://mdlstay.com:9981/play/stream/mux/c5da19e0ee40b07118e74b6bebc713c3?title=225MHz%20%2F%20QAM256
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",CH China
+http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305417000000_0001
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",E channel
+http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305411000000_024f
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",CMC
+http://mdlstay.com:9981/play/stream/mux/99a75d85db833ea5cc384221e265dc2c?title=249.012MHz%20%2F%20QAM256
 
 #EXTINF:Indonesia1 group-title="INDONESIA",AFN
 http://103.148.44.38:8000/play/a04y/index.m3u8
@@ -5041,30 +5065,7 @@ http://124.63.136.174:9981/play/ticket/stream/channel/32b2891ec8cd950f659351a27e
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_72_D4D8D054.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",JTBC Sport
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_541_6A79C475.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Korea",ITV
-http://mdlstay.com:9981/play/stream/mux/85dfe9d573724e71fb1f478f6eb0785f?title=207MHz%20%2F%20QAM256
-#EXTINF:-1 tvg-logo="" group-title="Korea",Ch Btv
-http://mdlstay.com:9981/play/stream/mux/034534a6445541c55ee4ddfb777ed040?title=279.012MHz%20%2F%20QAM256
-#EXTINF:-1 tvg-logo="" group-title="Korea",Korea Y
-http://mdlstay.com:9981/play/stream/mux/de3760531d6ef7429e93669e10eb0bfc?title=213MHz%20%2F%20QAM256
-#EXTINF:-1 tvg-logo="" group-title="Korea",Korea X
-http://mdlstay.com:9981/play/stream/mux/98ceee36a685c2b6696f01ac5c53ec3b?title=219MHz%20%2F%20QAM256
-#EXTINF:-1 tvg-logo="" group-title="Korea",SPOTV
-http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305429000000_0281
-#EXTINF:-1 tvg-logo="" group-title="Korea",MBC Eve
-http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305429000000_00bf
-#EXTINF:-1 tvg-logo="" group-title="Korea",Dramacube
-http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305423000000_02c7
-#EXTINF:-1 tvg-logo="" group-title="Korea",Xone
-http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305417000000_010f
-#EXTINF:-1 tvg-logo="" group-title="Korea",Xone
-http://mdlstay.com:9981/play/stream/mux/c5da19e0ee40b07118e74b6bebc713c3?title=225MHz%20%2F%20QAM256
-#EXTINF:-1 tvg-logo="" group-title="Korea",CH China
-http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305417000000_0001
-#EXTINF:-1 tvg-logo="" group-title="Korea",E channel
-http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305411000000_024f
-#EXTINF:-1 tvg-logo="" group-title="Korea",CMC
-http://mdlstay.com:9981/play/stream/mux/99a75d85db833ea5cc384221e265dc2c?title=249.012MHz%20%2F%20QAM256
+
 #EXTINF:-1 tvg-logo="" group-title="Korea",Detective Conan
 https://82a3f998e9154bd4808b1d9e15550293.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qy3bd3dkwwk4x/35dee29a-3d42-4c75-a22f-2495cd1fd0ea/0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",Crayon Sinchan
