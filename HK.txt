@@ -1084,7 +1084,7 @@ https://ucdn.starhubgo.com/bpk-tv/AsianetMov/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
-https://ucdn.starhubgo.com/bpk-tv/HuJEPANGensasiHD/output/manifest.mpd
+https://ucdn.starhubgo.com/bpk-tv/HubsensasiHD/output/manifest.mpd
 #EXTINF:-1 group-title="STARHUB" tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",Astro Warna HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
