@@ -63,6 +63,8 @@ http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT33
 http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305411000000_024f
 #EXTINF:-1 tvg-logo="" group-title="KT-KOREA",CMC
 http://mdlstay.com:9981/play/stream/mux/99a75d85db833ea5cc384221e265dc2c?title=249.012MHz%20%2F%20QAM256
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",NOW KOREA
+http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305423000000_00a1
 
 #EXTINF:Indonesia1 group-title="INDONESIA",AFN
 http://103.148.44.38:8000/play/a04y/index.m3u8
