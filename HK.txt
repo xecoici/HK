@@ -120,7 +120,7 @@ http://103.148.44.38:8000/play/a01b/index.m3u8
 http://103.148.44.38:8000/play/a01i/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",TVN
 http://103.148.44.38:8000/play/a01k/index.m3u8
-#EXTINF:Indonesia1 group-title="INDONESIA",KJEPANG World
+#EXTINF:Indonesia1 group-title="INDONESIA",KBS World
 http://103.148.44.38:8000/play/a01l/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",Aniplus
 http://103.148.44.38:8000/play/a01m/index.m3u8
@@ -1965,12 +1965,12 @@ https://load.perfecttv.net/rwt.m3u8?username=vip_0v99vlkb&password=wNGqM2Kw&chan
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://get.perfecttv.net/dash2.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=tvbjade
 
-#EXTINF:-1 tvg-id="TVJEPANGASIA" tvg-name="TVJEPANG Asia HD" group-title="ASTRO" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tvJEPANG.png",129 TVJEPANG Asia
+#EXTINF:-1 tvg-id="TVBSASIA" tvg-name="TVBS Asia HD" group-title="ASTRO" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tvbs.png",129 TVBS Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
-https://get.perfecttv.net/dash2.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=tvJEPANGasia
+https://get.perfecttv.net/dash2.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=tvbsasia
 
 #EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB Xing He HD" group-title="ASTRO" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tvbxinghe.png",130 TVB 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2034,10 +2034,10 @@ https://get.perfecttv.net/astro_10802.mpd?username=vip_0v99vlkb&password=wNGqM2K
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 https://get.perfecttv.net/astro_10802.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=kplus
 
-#EXTINF:-1 group-logo="" group-title="ASTRO" tvg-id="KJEPANGW" tvg-logo="https://get.perfecttv.net/logo/kJEPANGworld.png" ,204 KJEPANG World
+#EXTINF:-1 group-logo="" group-title="ASTRO" tvg-id="KBSW" tvg-logo="https://get.perfecttv.net/logo/kBSworld.png" ,204 KBS World
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
-https://get.perfecttv.net/astro_10802.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=kJEPANGworld
+https://get.perfecttv.net/astro_10802.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=kbsworld
 
 
 #=======india=======
@@ -2766,7 +2766,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&chan
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=e676c88f5cc74beebed5f6fb6406c23c:7091db9a73ccea572d2b7b4461f0c8e5
 #KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZJEPANG200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZBS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 ##https://cf.perfecttv.net/rwt.m3u8?username=vip_0v99vlkb&password=wNGqM2Kw&channel=sportplushd
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_primary.mpd
 
@@ -3296,7 +3296,7 @@ https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/
 https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5503/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
 
 
-#EXTINF:-1 tvg-id="6507" tvg-name="TVJEPANG Asia" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tvJEPANG-asia.png" group-title="Singtel",TVJEPANG Asia
+#EXTINF:-1 tvg-id="6507" tvg-name="TVBS Asia" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tvbs-asia.png" group-title="Singtel",TVBS Asia
 #EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3328,7 +3328,7 @@ https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/
 https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5513/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
 
 
-#EXTINF:-1 tvg-id="6516" tvg-name="TVJEPANG News" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tvJEPANG-news.png" group-title="Singtel",TVJEPANG News
+#EXTINF:-1 tvg-id="6516" tvg-name="TVBS News" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tvbs-news.png" group-title="Singtel",TVBS News
 #EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3359,7 +3359,7 @@ https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/
 https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5521/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
 
 
-#EXTINF:-1 tvg-id="5038" tvg-name="KJEPANG World (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/kJEPANG-world-hd.png" group-title="Singtel",KJEPANG World (HD)
+#EXTINF:-1 tvg-id="5038" tvg-name="KBS World (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/kbs-world-hd.png" group-title="Singtel",KBS World (HD)
 #EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4313,7 +4313,7 @@ http://103.148.44.38:8000/play/a05c/index.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" ,MNCTV (S2)
 http://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png" ,MOJI DIGITAL (S4)
-https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhJEPANGfdg/ts
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhBSfdg/ts
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" ,Trans TV DIGITAL (S3)
 http://103.148.44.38:8000/play/a05e/index.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" ,RTV DIGITAL (S4)
@@ -4388,19 +4388,19 @@ http://tv24.site:80/play/live.php?mac=00:1A:79:EF:78:08&stream=500942&extension=
 #EXTINF:-1 tvg-logo="" group-title="Radio",KLASIK FM
 https://28093.live.streamtheworld.com/RADIO_KLASIK.mp3
 #EXTINF:-1 tvg-logo="" group-title="Radio",GOXUAN
-https://stream-eu-a.rJEPANG.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8
+https://stream-eu-a.rbs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radio",LITE FM
-https://stream.rJEPANG.revma.com/bn4ex8sbv4uvv
+https://stream.rbs.revma.com/bn4ex8sbv4uvv
 #EXTINF:-1 tvg-logo="" group-title="Radio",MY FM
-https://stream-eu-a.rJEPANG.revma.com/hc3unrtbv4uvv/1_g2gokxomg4tb02/playlist.m3u8
+https://stream-eu-a.rbs.revma.com/hc3unrtbv4uvv/1_g2gokxomg4tb02/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radio",MELODY FM
-https://stream-eu-a.rJEPANG.revma.com/2u1n6dtbv4uvv/7_w0cr3cmmz25o02/playlist.m3u8
+https://stream-eu-a.rbs.revma.com/2u1n6dtbv4uvv/7_w0cr3cmmz25o02/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radio",KENYALANG FM
-https://n34a-eu.rJEPANG.revma.com/qyg9zmvbv4uvv/52_15nleuhxrs9mr02/playlist.m3u8
+https://n34a-eu.rbs.revma.com/qyg9zmvbv4uvv/52_15nleuhxrs9mr02/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radio",AI FM
 https://22283.live.streamtheworld.com/AI_FMAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="Radio",CAT FM
-https://n12.rJEPANG.revma.com/51qe53rv0y3vv.m4a?rj-ttl=5&rj-tok=AAABnlLql9EAoDOtEEL30_YiVg
+https://n12.rbs.revma.com/51qe53rv0y3vv.m4a?rj-ttl=5&rj-tok=AAABnlLql9EAoDOtEEL30_YiVg
 #EXTINF:-1 tvg-logo="" group-title="Radio",RRI NET
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8?session=FQ84KS8RpbJVitHjZtreZQ
 #EXTINF:-1 tvg-logo="" group-title="Radio",RRI Pro3
@@ -4419,7 +4419,7 @@ https://cast3.asurahosting.com/proxy/radios29/stream
 https://streaming.volarefm.com/
 #EXTINF:-1 tvg-logo="" group-title="Radio",SAMARIA
 https://pu.klikhost.com/proxy/gracia/stream
-https://stream.rJEPANG.revma.com/h77wwp48kxcwv
+https://stream.rbs.revma.com/h77wwp48kxcwv
 #EXTINF:-1 tvg-logo="" group-title="Radio",SMF Radio
 https://22403.live.streamtheworld.com/987FMAAC.aac?1779863600376
 #EXTINF:-1 tvg-logo="" group-title="Radio",V channel
@@ -4440,7 +4440,7 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=6
 https://ha.msbot.dpdns.org/4gtv_api.php?id=169
 #EXTINF:-1 tvg-id="107" tvg-name="客家電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv043_mobile.png" group-title="Taiwan",客家電視台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=107
-#EXTINF:-1 tvg-id="227" tvg-name="TVJEPANG精采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="Taiwan",TVJEPANG精采台
+#EXTINF:-1 tvg-id="227" tvg-name="TVJEPANG精采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="Taiwan",TVBS精采台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=227
 #EXTINF:-1 tvg-id="21" tvg-name="靖天綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png" group-title="Taiwan",靖天綜合台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=21
@@ -4476,9 +4476,9 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=34
 https://ha.msbot.dpdns.org/4gtv_api.php?id=31
 #EXTINF:-1 tvg-id="229" tvg-name="三立新聞iNEWS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live089_mobile.png" group-title="Taiwan",三立新聞iNEWS
 https://ha.msbot.dpdns.org/4gtv_api.php?id=229
-#EXTINF:-1 tvg-id="291" tvg-name="TVJEPANG新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv072_mobile.png" group-title="Taiwan",TVJEPANG新聞
+#EXTINF:-1 tvg-id="291" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv072_mobile.png" group-title="Taiwan",TVBS新聞
 https://ha.msbot.dpdns.org/4gtv_api.php?id=291
-#EXTINF:-1 tvg-id="473" tvg-name="TVJEPANG新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live072_mobile.png" group-title="Taiwan",TVJEPANG新聞
+#EXTINF:-1 tvg-id="473" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live072_mobile.png" group-title="Taiwan",TVBS新聞
 https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 #EXTINF:-1 tvg-id="293" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv019_mobile.png" group-title="Taiwan",東森財經新聞台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=293
@@ -4492,7 +4492,7 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=36
 https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 #EXTINF:-1 tvg-id="224" tvg-name="SBN全球財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live060_mobile.png" group-title="Taiwan",SBN全球財經台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=224
-#EXTINF:-1 tvg-id="472" tvg-name="TVJEPANG" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live073_mobile.png" group-title="Taiwan",TVJEPANG
+#EXTINF:-1 tvg-id="472" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live073_mobile.png" group-title="Taiwan",TVBS
 https://ha.msbot.dpdns.org/4gtv_api.php?id=472
 #EXTINF:-1 tvg-id="174" tvg-name="東森購物二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live046_mobile.png" group-title="Taiwan",東森購物二台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=174
@@ -4508,7 +4508,7 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=84
 https://ha.msbot.dpdns.org/4gtv_api.php?id=119
 #EXTINF:-1 tvg-id="88" tvg-name="靖天資訊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv065_mobile.png" group-title="Taiwan",靖天資訊台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=88
-#EXTINF:-1 tvg-id="184" tvg-name="TVJEPANG歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" group-title="Taiwan",TVJEPANG歡樂台
+#EXTINF:-1 tvg-id="184" tvg-name="TVBS歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" group-title="Taiwan",TVBS歡樂台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=184
 #EXTINF:-1 tvg-id="446" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png" group-title="Taiwan", KMTV
 https://ha.msbot.dpdns.org/4gtv_api.php?id=446
@@ -4649,9 +4649,9 @@ http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D8:BD:55&stream=1948658&
 #EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",NOW SPORT HK
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D8:BD:55&stream=1948636&extension=ts&play_token=eWuBxgcGHF
 #EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",FOX SPORT 1
-http://sewv654wfJEPANGdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SHQHNV72QRZFCT/7322/index.m3u8
+http://sewv654wfbsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SHQHNV72QRZFCT/7322/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",FOX SPORT 2
-http://sewv654wfJEPANGdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SHQHNV72QRZFCT/7323/index.m3u8
+http://sewv654wfbsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SHQHNV72QRZFCT/7323/index.m3u8
 #EXTINF:-1 tvg-id="FOX - HDR10 4K" tvg-name="FOX - HDR10 4K" tvg-logo="" group-title="SPORT",FOX - HDR10 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
@@ -4973,13 +4973,13 @@ http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
 
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="🇹🇼 台湾频道",龍華電影台44
 https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Korea",KJEPANG1
-https://backup.760515.xyz/playlist/KJEPANG1-playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Korea",KJEPANG2
-https://backup.760515.xyz/playlist/KJEPANG2-playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Korea",KJEPANG2
+#EXTINF:-1 tvg-logo="" group-title="Korea",KBS1
+https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",KBS2
+https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",KBS2
 https://z3.ubtvfans.com/live/rx4/3075/4725e31211a20d0c89324552126fbf4f/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Korea",KJEPANG DRAMA
+#EXTINF:-1 tvg-logo="" group-title="Korea",KBS DRAMA
 http://124.63.136.174:9981/stream/channelid/1271934190?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
@@ -5001,17 +5001,17 @@ http://mdlstay.com:9981/play/stream/mux/c8d003353ba25e092e6d77824f34600f?title=2
 http://124.63.136.174:9981/stream/channelid/432553632?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC DRAMA NET
 http://124.63.136.174:9981/stream/channelid/1747375277?profile=pass
-#EXTINF:-1 tvg-logo="" group-title="Korea",SJEPANG
+#EXTINF:-1 tvg-logo="" group-title="Korea",SBS
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Korea",SJEPANG
-https://media.jiJEPANG.co.kr/stream/1_2000_143677/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Korea",SJEPANG
+#EXTINF:-1 tvg-logo="" group-title="Korea",SBS
+https://media.jibs.co.kr/stream/1_2000_143677/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",SBS
 http://124.63.136.174:9981/stream/channelid/1538002823?profile=pass
-#EXTINF:-1 tvg-logo="" group-title="Korea",SJEPANG
+#EXTINF:-1 tvg-logo="" group-title="Korea",SBS
 http://124.63.136.174:9981/stream/channelid/1538002823?profile=pass
-#EXTINF:-1 tvg-logo="" group-title="Korea",SJEPANGFun
+#EXTINF:-1 tvg-logo="" group-title="Korea",SBSFun
 http://124.63.136.174:9981/stream/channelid/62864489?profile=pass
-#EXTINF:-1 tvg-logo="" group-title="Korea",SJEPANG SPORT
+#EXTINF:-1 tvg-logo="" group-title="Korea",SBS SPORT
 http://124.63.136.174:9981/stream/channelid/821661478?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",ChosunTV
 http://onair.cdn.tvchosun.com///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////origin1////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////_definst_///////////tvchosun_s1////////////////////////////////////chunklist.m3u8
@@ -5019,8 +5019,8 @@ http://onair.cdn.tvchosun.com///////////////////////////////////////////////////
 https://backup.760515.xyz/playlist/TV%20CHOSUN%202-playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",MOVIE
 http://124.63.136.174:9981/stream/channelid/2115967845?profile=pass
-#EXTINF:-1 tvg-logo="" group-title="Korea",OJEPANG
-https://vod3.oJEPANG.co.kr:444/live/oJEPANGstream1/tv.stream/chunklist_w1714106009.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",OBS
+https://vod3.obs.co.kr:444/live/obsstream1/tv.stream/chunklist_w1714106009.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",JTBC
 https://backup.760515.xyz/playlist/JTBC-playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",JTBC
@@ -5094,7 +5094,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="Brunei",RTB Go Live FHD
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d0fabc707_0V7z.jpg" group-title="Juli",MTV China
-https://px.tv911.ccwu.cc/lr/dLQOnLmljWaB6Ry9ZNSNVrfOVJEPANGIVCel6iIMdN0h/playlist.m3u8?cu=881505fa&cd=522026b5&cp=2b008d24&cn=31c60c2f&rp=nl_4dL1OjL_hjLdO&tid=m9c00d3e4b8fb&tsum=2581f7f43f4d948f156c4c043d01650e&ct=20607
+https://px.tv911.ccwu.cc/lr/dLQOnLmljWaB6Ry9ZNSNVrfOVbsIVCel6iIMdN0h/playlist.m3u8?cu=881505fa&cd=522026b5&cp=2b008d24&cn=31c60c2f&rp=nl_4dL1OjL_hjLdO&tid=m9c00d3e4b8fb&tsum=2581f7f43f4d948f156c4c043d01650e&ct=20607
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Juli",翡翠台
 http://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Juli",翡翠台
@@ -5649,45 +5649,45 @@ https://akariko.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
 https://akariko.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="JEPANG" tvg-id="joexdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe5-051-400x400.png",TV Asahi
 https://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="jorxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png",TJEPANG
-https://akariko.netgenx.site/stream/jp/tJEPANG/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="jotxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png",TV JEPANG
-https://akariko.netgenx.site/stream/jp/tv_JEPANG/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JEPANG" tvg-id="jorxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png",TBS
+https://akariko.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JEPANG" tvg-id="jotxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png",TV BS
+https://akariko.netgenx.site/stream/jp/tv_bs/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="JEPANG" tvg-id="jocxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe4-081-400x400.png",Fuji TV
 https://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="JEPANGmx1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-091-400x400.png",JEPANG MX1
-https://akariko.netgenx.site/stream/jp/JEPANG_mx1/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="JEPANGmx2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-093-400x400.png",JEPANG MX2
-https://akariko.netgenx.site/stream/jp/JEPANG_mx2/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JEPANG" tvg-id="bsmx1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-091-400x400.png",BS MX1
+https://akariko.netgenx.site/stream/jp/bs_mx1/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JEPANG" tvg-id="bsmx2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-093-400x400.png",BS MX2
+https://akariko.netgenx.site/stream/jp/bs_mx2/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="JEPANG" tvg-id="nhkJEPANG.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-101-400x400.png",NHK JEPANG
-https://akariko.netgenx.site/stream/jp/nhk_JEPANG/stream-output.m3u8?mode=hls
+https://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="JEPANG" tvg-id="JEPANGnippontv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-141-400x400.png",JEPANG NTV
-https://akariko.netgenx.site/stream/jp/JEPANG_ntv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="JEPANGasahi.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-151-400x400.png",JEPANG Asahi
+https://akariko.netgenx.site/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JEPANG" tvg-id="bsGasahi.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-151-400x400.png",JEPANG Asahi
 https://akariko.netgenx.site/stream/jp/JEPANG_asahi/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="JEPANGtJEPANG.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-161-400x400.png",JEPANG TJEPANG
-https://akariko.netgenx.site/stream/jp/JEPANG_tJEPANG/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="JEPANGtvJEPANG.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-171-400x400.png",JEPANG TV JEPANG
-https://akariko.netgenx.site/stream/jp/JEPANG_tv_JEPANG/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="JEPANGfuji.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-181-400x400.png",JEPANG Fuji
-https://akariko.netgenx.site/stream/jp/JEPANG_fuji/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="JEPANG10_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-200-400x400.png",JEPANG 10
-https://akariko.netgenx.site/stream/jp/JEPANG_10/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="JEPANG11.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-211-400x400.png",JEPANG 11
-https://akariko.netgenx.site/stream/jp/JEPANG11/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="JEPANG12トゥエルビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-222-400x400.png",JEPANG 12
-https://akariko.netgenx.site/stream/jp/JEPANG_12/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="nhkJEPANGp4k.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-000b-101-400x400.png",NHK JEPANG4K
-https://akariko.netgenx.site/stream/jp/nhk_JEPANG4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JEPANG" tvg-id="bs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-161-400x400.png",bsbs
+https://akariko.netgenx.site/stream/jp/bsbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JEPANG" tvg-id="bsbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-171-400x400.png",JEPANG TV JEPANG
+https://akariko.netgenx.site/stream/jp/bs_tv_bs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JEPANG" tvg-id="bsfuji.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-181-400x400.png",JEPANG Fuji
+https://akariko.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JEPANG" tvg-id="bs10_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-200-400x400.png",JEPANG 10
+https://akariko.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JEPANG" tvg-id="bs11.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-211-400x400.png",JEPANG 11
+https://akariko.netgenx.site/stream/jp/bs11/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JEPANG" tvg-id="bs12トゥエルビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-222-400x400.png",JEPANG 12
+https://akariko.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JEPANG" tvg-id="nhkbsp4k.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-000b-101-400x400.png",NHK JEPANG4K
+https://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="JEPANG" tvg-id="wowowprime.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG191.gif",WOWOW Prime 
 https://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="JEPANG" tvg-id="wowowcinema.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG193.gif",WOWOW Cinema
 https://akariko.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="JEPANG" tvg-id="wowowlive.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG192.gif",WOWOW Live
 https://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="JEPANG10プレミアム_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG201.gif",JEPANG 10 Premium
-https://akariko.netgenx.site/stream/jp/JEPANG_10_premium/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JEPANG" tvg-id="bs10プレミアム_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG201.gif",JEPANG 10 Premium
+https://akariko.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="JEPANG" tvg-id="jsports1.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG242.gif",JSport 1
 https://akariko.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="JEPANG" tvg-id="jsports2.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG243.gif",JSport 2
@@ -5708,10 +5708,10 @@ https://akariko.netgenx.site/stream/jp/fishing_vision/stream-output.m3u8?mode=hl
 https://akariko.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="JEPANG" tvg-id="disneychannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG256.gif",Disney Channel
 https://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="j-com-JEPANG_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-260-400x400.png",Jcom JEPANG
-https://akariko.netgenx.site/stream/jp/jcom_JEPANG/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="JEPANGよしもと_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-265-400x400.png",JEPANG Yoshimoto
-https://media1.netgenx.site/JEPANG_Yoshimoto/index.m3u8
+#EXTINF:-1 group-title="JEPANG" tvg-id="j-com-bs_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-260-400x400.png",Jcom JEPANG
+https://akariko.netgenx.site/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JEPANG" tvg-id="bsよしもと_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/JEPANGd/logo-0004-265-400x400.png",JEPANG Yoshimoto
+https://media1.netgenx.site/bs_Yoshimoto/index.m3u8
 
 #EXTINF:-1 group-title="JEPANG" tvg-id="skya.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG250.gif",Sky A
 https://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
@@ -5743,10 +5743,10 @@ https://akariko.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
 https://akariko.netgenx.site/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="JEPANG" tvg-id="mondotv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG295.gif",Mondo TV
 https://akariko.netgenx.site/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="tJEPANGchannel1.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG296.gif",TJEPANG Channel 1
-https://akariko.netgenx.site/stream/jp/tJEPANG_channel_1/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="tJEPANGchannel2.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG297.gif",TJEPANG Channel 2
-https://akariko.netgenx.site/stream/jp/tJEPANG_channel_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JEPANG" tvg-id="tbschannel1.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG296.gif",TJEPANG Channel 1
+https://akariko.netgenx.site/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JEPANG" tvg-id="tbschannel2.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG297.gif",TJEPANG Channel 2
+https://akariko.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="JEPANG" tvg-id="tvasahichannel1.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG298.gif",TV Asahi Channel 1
 https://akariko.netgenx.site/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="JEPANG" tvg-id="tvasahichannel2.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG299.gif",TV Asahi Channel 2
@@ -5825,15 +5825,15 @@ https://akariko.netgenx.site/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
 https://akariko.netgenx.site/stream/jp/cnn_j/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="JEPANG" tvg-id="bbcnews.uk@asiapacific" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG353.gif",BBC News  
 https://akariko.netgenx.site/stream/jp/bbc_news/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="JEPANG" tvg-id="tJEPANGnewsJEPANG.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG351.gif",TJEPANG News
-https://akariko.netgenx.site/stream/jp/tJEPANG_news/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="JEPANG" tvg-id="tbsnewsbs.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/JEPANG351.gif",TJEPANG News
+https://akariko.netgenx.site/stream/jp/tbs_news/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-chno="1" tvg-id="iptv36.one" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/one.png",ONE FHD (Duplicated)
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8?v=1
 #EXTINF:-1 tvg-chno="2" tvg-id="iptv36.nbt" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/nbt.png?v=4",NBT FHD
 https://cdn-edge.iiptvcdn.com/live_event/smil:1180-0c9c-ad1f-4e5d-aa48.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="iptv36.thaipJEPANG" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/thaipJEPANG.png",Thai PJEPANG FHD
-https://thaipJEPANG-live.cdn.byteark.com/live/playlist.m3u8
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="iptv36.Thai Free TV" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/Thai Free TV.jpg",Thai Free TV CH 04
 https://iptv36.vercel.app/nosignal.m3u8?ch=Thai Free TV04
 #EXTINF:-1 tvg-chno="5" tvg-id="iptv36.tv5" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tv5.png",TV5 FHD
@@ -5895,7 +5895,7 @@ https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/
 
 #EXTINF:-1 tvg-chno="32" tvg-id="iptv36.thairath" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/thairath.png",Thairath TV HD
 #EXTVLCOPT:http-referrer=https://www.thairath.co.th/
-https://ssai-streaming.thairath.co.th/bamm-JEPANGai/720p/index.m3u8
+https://ssai-streaming.thairath.co.th/bamm-bsai/720p/index.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-id="iptv36.ch3" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch3.png",CH3 [เสีย]
 https://iptv36.vercel.app/nosignal.m3u8?ch=ch3
 #EXTINF:-1 tvg-chno="34" tvg-id="iptv36.amarin" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/amarin.png",Amarin TV [เสีย]
@@ -5904,7 +5904,7 @@ https://iptv36.vercel.app/nosignal.m3u8?ch=amarin
 #EXTVLCOPT:http-referrer=https://www.ch7.com/
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-id="iptv36.pptv" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
-https://pptv36-9h0yba.cdn.byteark.com/bamm-JEPANGai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1775068801&x_ark_path_prefix=%2Fbamm-JEPANGai%2F&x_ark_signature=dO12PPpdK1ZEX5ukFry0xA
+https://pptv36-9h0yba.cdn.byteark.com/bamm-bsai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1775068801&x_ark_path_prefix=%2Fbamm-JEPANGai%2F&x_ark_signature=dO12PPpdK1ZEX5ukFry0xA
 #EXTINF:-1 tvg-chno="37" group-title="Thai Free TV" tvg-logo="http://iptv36.mooo.com/logo/info.png",2026-04-01T19:42
 http://iptv36.mooo.com/logo/info.png
 #EXTINF:-1 tvg-chno="38" group-title="Thai Free TV" tvg-logo="http://iptv36.mooo.com/logo/info.png",https://iptv36.mooo.com/
@@ -5912,8 +5912,8 @@ http://iptv36.mooo.com/logo/info.png
 #EXTM3U url-tvg="https://iptv36.vercel.app/epg.xml" refresh="3600"
 #EXTINF:-1 tvg-chno="1" tvg-id="iptv36.nbt" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/nbt.png?v=4",NBT FHD
 https://cdn-edge.iiptvcdn.com/live_event/smil:1180-0c9c-ad1f-4e5d-aa48.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="iptv36.thaipJEPANG" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/thaipJEPANG.png",Thai PJEPANG FHD
-https://thaipJEPANG-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="iptv36.thaipbs" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/thaipJEPANG.png",Thai PJEPANG FHD
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="iptv36.tv5" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tv5.png",TV5 FHD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="iptv36.tptv" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tptv.png",TPTV FHD
@@ -5947,12 +5947,12 @@ https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/pla
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="iptv36.thairath" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/thairath.png",Thairath TV HD
 #EXTVLCOPT:http-referrer=https://www.thairath.co.th/
-https://ssai-streaming.thairath.co.th/bamm-JEPANGai/720p/index.m3u8
+https://ssai-streaming.thairath.co.th/bamm-bsai/720p/index.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="iptv36.ch7" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch7.png",CH7 FHD
 #EXTVLCOPT:http-referrer=https://www.ch7.com/
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-id="iptv36.pptv" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
-https://pptv36-9h0yba.cdn.byteark.com/bamm-JEPANGai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1775068801&x_ark_path_prefix=%2Fbamm-JEPANGai%2F&x_ark_signature=dO12PPpdK1ZEX5ukFry0xA
+https://pptv36-9h0yba.cdn.byteark.com/bamm-bsai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1775068801&x_ark_path_prefix=%2Fbamm-bsai%2F&x_ark_signature=dO12PPpdK1ZEX5ukFry0xA
 #EXTINF:-1 tvg-chno="21" group-title="Thai Free TV" tvg-logo="http://iptv36.mooo.com/logo/info.png",2026-04-01T19:42
 http://iptv36.mooo.com/logo/info.png
 #EXTINF:-1 tvg-chno="22" group-title="Thai Free TV" tvg-logo="http://iptv36.mooo.com/logo/info.png",https://iptv36.mooo.com/
