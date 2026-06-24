@@ -5096,7 +5096,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="Brunei",RTB Go Live FHD
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d0fabc707_0V7z.jpg" group-title="Juli",MTV China
-https://px.tv911.ccwu.cc/lr/dLQOnLmljWaB6Ry9ZNSNVrfOVbsIVCel6iIMdN0h/playlist.m3u8?cu=881505fa&cd=522026b5&cp=2b008d24&cn=31c60c2f&rp=nl_4dL1OjL_hjLdO&tid=m9c00d3e4b8fb&tsum=2581f7f43f4d948f156c4c043d01650e&ct=20607
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GR0Zgy&tk=B9eddFxBG9JM
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Juli",翡翠台
 http://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Juli",翡翠台
