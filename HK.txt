@@ -4607,7 +4607,7 @@ http://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="SINGAPURA",chu
 http://cdn6.163189.xyz/163189/chu
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="SINGAPURA",PlayboyHD
-http://79.127.207.193/PlayboyHD/playlist.m3u8
+http://s.abapx.in:80/silvana4640/canais9751/147354
 #EXTINF:-1 group-title="SINGAPURA" tvg-logo="",M Live 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
