@@ -1,4 +1,4 @@
-#EXTM3U
+0#EXTM3U
 #EXTINF:-1 logo="http://i.imgur.com/D1o9by9.png" tvg-id="9bd41a5c12e9c23b13d517aa867b7ca2" group-title="KT-KOREA",KBS JOY
 http://mdlstay.com:9981/stream/channelid/1545262235?ticket=4346C7471E835D0826B08879384AC0AFF014D291&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="4b852da4eb23bf46a1d6d0fb92bbfa5a" group-title="KT-KOREA",SBS
@@ -5063,8 +5063,8 @@ http://124.63.136.174:9981/play/ticket/stream/channel/c4b8b37eb79a4cf780e7f5914d
 http://124.63.136.174:9981/stream/channelid/512340530?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",OCN MOVIE2
 http://124.63.136.174:9981/play/ticket/stream/channel/32b2891ec8cd950f659351a27ef9f70d?title=11%20%3A%20OCN%20MOVIES2
-#EXTINF:-1 tvg-logo="" group-title="Korea",FIFA
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_72_D4D8D054.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",NOW HK
+http://rihou.cc:555/tv/[Hv]Now%E6%98%9F%E5%BD%B1
 #EXTINF:-1 tvg-logo="" group-title="Korea",JTBC Sport
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_541_6A79C475.m3u8
 
