@@ -4019,7 +4019,7 @@ http://119.156.228.231:9983/stream/channelid/408698649?ticket=6D5CD52ED6466F276E
 #EXTINF:-1 tvg-id="201841141bc462e552a63d4946a753c3" group-title="TATA PLAY",SNN News
 http://119.156.228.231:9983/stream/channelid/339810336?ticket=2826D6AB561A6124864F6CAEB8482997756F47E0&profile=pass
 
-#EXTINF:-1 tvg-logo="https://pjytv.760515.xyz/logo/YTN.png" group-title="Korea Backup",YTN
+#EXTINF:-1 tvg-logo="https://pjytv.760515.xyz/logo/YTN.png" group-title="Korea",YTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/YTN-playlist.m3u8
 
