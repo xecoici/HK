@@ -5215,7 +5215,7 @@ https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_1301_A2CD4035.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Kalbar",PONTV
 https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w277463652.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Kalbar",TVRI Kalbar
-https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+https://www.youtube.com/live/3AxX-2Er_fg?si=Lje6HdnKZv4JfxJV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Kalbar",RUAI TV
 https://www.youtube.com/live/3AxX-2Er_fg?si=Lje6HdnKZv4JfxJV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Brunei",RTB Sukmaindera
