@@ -224,7 +224,7 @@ http://jm14.modhospital.kr:9981/stream/channelid/80?ticket=3CF2E9E393FC436C95290
 http://jm14.modhospital.kr:9981/stream/channelid/13?ticket=AAA3B05CBDE64E0EBD24382E9470DF3FE00A552D
 #EXTINF:-1 tvg-logo="" group-title="KOREA-DTV",쇼핑엔T
 http://jm14.modhospital.kr:9981/stream/channelid/27?ticket=B6E38B7D6C1E74BC8C0137B8C6F744D712E5D227
-#EXTINF:-1 tvg-logo="" group-title="KOREA-DTV",스카이드라마
+#EXTINF:-1 tvg-logo="" group-title="KOREA-DTV",ENA
 http://jm14.modhospital.kr:9981/stream/channelid/91?ticket=FA817B8C55B98E44B145BBD18171E95062261F3A
 #EXTINF:-1 tvg-logo="" group-title="KOREA-DTV",스카이엔터
 http://jm14.modhospital.kr:9981/stream/channelid/75?ticket=17C636A87C8DDBEFDD0F457D40840A4FBD60805F
