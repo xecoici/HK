@@ -66,7 +66,6 @@ http://mdlstay.com:9981/play/stream/mux/99a75d85db833ea5cc384221e265dc2c?title=2
 #EXTINF:-1 tvg-logo="" group-title="KT-KOREA",NOW KOREA
 http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305423000000_00a1
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="KOREA-DTV",AXN
 http://jm14.modhospital.kr:9981/stream/channelid/49?ticket=2D699FEE978DEA8334C10403BBA3AAE935DD0508
 #EXTINF:-1 tvg-logo="" group-title="KOREA-DTV",BTN불교TV
