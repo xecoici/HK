@@ -958,8 +958,12 @@ http://75.127.89.169:35441/endday20260630.php?id=1094
 http://75.127.89.169:35441/endday20260630.php?id=1095
 #EXTINF:-1 group-title="STARHUB-NO.VPN",HUB娱家
 http://75.127.89.169:35441/endday20260630.php?id=1105#http://75.127.89.169:35441/endday20260630.php?id=1106
+#EXTINF:-1 group-title="STARHUB-NO.VPN",HUB娱家
+HUB娱家,http://rihou.cc:555/tv/[Hk]HUB娱家
 #EXTINF:-1 group-title="STARHUB-NO.VPN",HUB都會
 http://75.127.89.169:35441/endday20260630.php?id=1107#http://75.127.89.169:35441/endday20260630.php?id=1108
+#EXTINF:-1 group-title="STARHUB-NO.VPN",HUB都會
+HUB都会,http://rihou.cc:555/tv/[Hk]HUB都会
 #EXTINF:-1 group-title="STARHUB-NO.VPN",astro sensasi
 http://75.127.89.169:35441/endday20260630.php?id=1109
 #EXTINF:-1 group-title="STARHUB-NO.VPN",astro warna
