@@ -5431,7 +5431,7 @@ https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w27
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Kalbar",TVRI Kalbar
 https://www.youtube.com/live/6LMFkSXzXvk?si=pVzNaImWYCGMgSGh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Kalbar",RUAI TV
-https://www.youtube.com/live/3AxX-2Er_fg?si=Lje6HdnKZv4JfxJV
+https://stream2.smg.my/live/tvsplus_1080p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Brunei",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Brunei",RTB Sukmaindera
