@@ -774,6 +774,386 @@ http://216.28.215.14:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="LATIN",Zoom
 http://216.28.215.14:8000/play/a02l/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/7ec0ed528468eb2c50eb15c8abe92ace.png" tvg-id="4f4acb362c3f2a26707fa724a49292a8" tvg-chno="1" group-title="GERMANY" group-title="GERMANY",DAS ERSTE ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/919292495?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/8e1f515bbd75120a5102524325ad69b9.png" tvg-id="ae1a5a3eeb94097e60b3ddd494c6f07a" tvg-chno="2" group-title="GERMANY",ARD ALPHA ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1046092462?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/9ca420484a2a31f20b58809f6b038011.png" tvg-id="4c1b52a105678bc92ce99d6d2e8cf3bd" tvg-chno="3" group-title="GERMANY",ZDF ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/559029068?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5a3f647ae21c5083f0f72fc443958c3d.png" tvg-id="57156b0eb85f498152017558b081b4fa" tvg-chno="4" group-title="GERMANY",ZDF NEO ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/241898839?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/e52aaea6756b7480c5591dedf433f5f3.png" tvg-id="ed97ee6aedee833879c719b7d2adfbe7" tvg-chno="5" group-title="GERMANY",ZDF INFO ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1794021357?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/c7e4d37bf16cbb2307710b52ff4b1310.png" tvg-id="60bfc1a9bde69d17b5fd1ce1ea7ee9f4" tvg-chno="6" group-title="GERMANY",SAT.1 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/700563296?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/89ced1ce1a03b8684d396b15bfd54908.png" tvg-id="55c805e84d6d59cb496ff4e692dd9a2a" tvg-chno="7" group-title="GERMANY",SAT.1 EMOTIONS ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1745209429?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/4afaf43ece415eaaed50d59fe6e0814d.png" tvg-id="8afedda20cc4cd171ec48acd9eb45c13" tvg-chno="8" group-title="GERMANY",SAT.1 GOLD ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/584973962?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/bb4e0314ee7e1b7694c2021b4224b995.png" tvg-id="3a356b765d0509f0a9b1de140401896e" tvg-chno="9" group-title="GERMANY",RTL ᴜʜᴅ
+http://89.182.149.167:9981/stream/channelid/1986737466?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/12d0ac2f0c8c91ab6710405bb031a184.png" tvg-id="3d9b76f2d9992c2344019a2cf55e1b6f" tvg-chno="10" group-title="GERMANY",RTL ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1920375613?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/7ec18f4ada8044f94d9a8784ff919b0e.png" tvg-id="01c9d736f00e86513a62a1bf9f308287" tvg-chno="11" group-title="GERMANY",RTL ZWEI ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/920111361?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/1941514d3c66e7866bf78bae62a7570b.png" tvg-id="d5c9f9ac4da3cc5fed8537966b320cab" tvg-chno="12" group-title="GERMANY",NITRO ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/754567637?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5ef6f6dea4d01fa0ac6c71d26cf7dc78.png" tvg-id="069ead41f51fc2b20530d6c3c3b1c02e" tvg-chno="13" group-title="GERMANY",RTL PASSION ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1101897222?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/eaa1e997276b7c68069756459c39ee25.png" tvg-id="8ed08b4bf37d7741e5c845db96509ea5" tvg-chno="14" group-title="GERMANY",RTL LIVING ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1267454094?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/f13ac4feddee85bab4f98d7914807501.png" tvg-id="201d096b135d9d839a46933db3847900" tvg-chno="15" group-title="GERMANY",RTL UP ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1795759392?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/b9d35f8543420a656b939d815d77e544.png" tvg-id="026c186519db73c516881c78f4c3f98a" tvg-chno="16" group-title="GERMANY",RTL SUPER ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1696099330?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/85f06f1f90d3f4b38c61c5f58402a1f6.png" tvg-id="66cc4d14dd07a71fcd8316d776fa4ade" tvg-chno="17" group-title="GERMANY",RTL CRIME ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/340642918?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ca9400902ead748e73f2e712005e3f64.png" tvg-id="82bd1af22c03ec7e74f92ea53163af15" tvg-chno="18" group-title="GERMANY",SKY CRIME ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1914355074?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d91128b33949b3a563a73b6aed3658e9.png" tvg-id="c9e5a2227f330c3d695cf8a3044fe61c" tvg-chno="19" group-title="GERMANY",CRIME & INVESTIGATION ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/581101001?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/2575862053148df6094d19c99965449e.png" tvg-id="fb818a9fceeacc629e674ddd447b0cd7" tvg-chno="20" group-title="GERMANY",TOP TRUE CRIME ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/529170939?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/b335b3db60dec7fe6782e6e1d64f2be0.png" tvg-id="1c681802b3ef891f7d8de5906319b0eb" tvg-chno="21" group-title="GERMANY",TLC ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/35153948?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/675939f10a0ec51336c7587611f15514.png" tvg-id="8daa0198e570e2d2b23573b65fcbab19" tvg-chno="22" group-title="GERMANY",PRO 7 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/402762381?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/0221a748601332724fb1256da8aa5231.png" tvg-id="7a9857f89be41fe3f52b6325182ce6ed" tvg-chno="23" group-title="GERMANY",PRO 7 MAXX ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/2019006586?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/c3c016a27989d180a50eb9004451636e.png" tvg-id="b91b88c982fa86cef5a1b28758530f35" tvg-chno="24" group-title="GERMANY",PRO 7 FUN ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1233656761?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/313b68905d950363c2ff67fb7fed2668.png" tvg-id="26f51c21b9c0f621538644b591249dbc" tvg-chno="25" group-title="GERMANY",KABEL EINS ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/555545894?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/50b64d46ab73314b997fda01c517b270.png" tvg-id="697515103be1e52ae50e0150833d60b9" tvg-chno="26" group-title="GERMANY",KABEL EINS DOKU ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/269841769?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/efedc3c624fe8c0e70620acb4c1671ac.png" tvg-id="b10f96d0d911b46ceadf65a799963831" tvg-chno="27" group-title="GERMANY",KABEL EINS CLASSICS ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1352011697?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/17e9b480808898226ac05fe9dd558135.png" tvg-id="6598e917739761e73f9e9918f43e581d" tvg-chno="28" group-title="GERMANY",VOX ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/401184869?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/0886edab69ca8eceace9044cc5d26c10.png" tvg-id="4a743937d8437e93665433ceeca7e729" tvg-chno="29" group-title="GERMANY",VOX UP ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/926512202?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5bb4839992d342ee1b688e97b1061f1d.png" tvg-id="cd8227d283e417a7e34d93759bfc834a" tvg-chno="30" group-title="GERMANY",N-TV ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1378321101?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6364bfd53cb1fd72c1199e1ec6d90bdc.png" tvg-id="51339f204c70c0c72b6268fd49ab2fc8" tvg-chno="31" group-title="GERMANY",WELT ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/547304273?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/76f883187a861d107a731408f258b017.png" tvg-id="3337ecad9b67d623ffee3ac39d977a3f" tvg-chno="32" group-title="GERMANY",TAGESSCHAU 24 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/770455347?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/0356bc7fe82ba6dfb98244ffd530cd62.png" tvg-id="f63a79e459659283cbf3fa578908203b" tvg-chno="33" group-title="GERMANY",DISNEY CHANNEL ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1685666550?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/1530b410a7e48f3c5d6217be27382717.png" tvg-id="58964453a41407f0749f43bc6c3546df" tvg-chno="34" group-title="GERMANY",KIKA ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1397003864?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d627dee88480e6dbf51ed5ec0fe2988a.png" tvg-id="a3cb83df5b07161d921910cfd1872ff9" tvg-chno="35" group-title="GERMANY",SERVUS TV AT ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1602472867?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/47ce2376938a184b9f382d1bf286bd37.png" tvg-id="02020f2c0df9ed0e3ba9adda2cb959e8" tvg-chno="36" group-title="GERMANY",ORF 1 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/739181058?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/7eff7c4e8d3d058abe0811144bc49a00.png" tvg-id="535a5a44162ac0e291d6eec322d3a91d" tvg-chno="37" group-title="GERMANY",ORF 2 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1146772051?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/66dea52a1b80c9366fe77f677cb90357.png" tvg-id="66aeb9672c0464426597cb8e2f60d862" tvg-chno="38" group-title="GERMANY",ORF III ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1740222054?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6197f4a7101e8fe294cb44d7fdd624ac.png" tvg-id="0ed6e26c8d1ff5920ed59d1d1709719d" tvg-chno="39" group-title="GERMANY",PULS 4 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1826805262?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/c6e0e2b10d59333cfe91c77b57fc044a.png" tvg-id="2a26b50fdd5323eb5313dd23b1642ea6" tvg-chno="40" group-title="GERMANY",PULS 8 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/263530026?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/0cf5157070532eb44fe1c71532ae9123.png" tvg-id="413c282cbabd46e22aeb9aaab8c57ac7" tvg-chno="41" group-title="GERMANY",PULS 24 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/740834369?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/9eb5931a74baa5af64c33b7a28d09a7f.png" tvg-id="b4dcf6d5fef211b2997809e3f7b0d619" tvg-chno="42" group-title="GERMANY",ATV ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1442241716?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/06ad33b015a57ef861aa4acb967e5d1d.png" tvg-id="9409458d188dd321d68aaed40763705b" tvg-chno="43" group-title="GERMANY",ATV 2 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/222628244?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/852944f11696d30e22b28d3c6123a283.png" tvg-id="904ea8e80d998894e37eed9d60443fc0" tvg-chno="44" group-title="GERMANY",WARNER COMEDY ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1755860624?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/1a43b3099995005afc5ad10f9437def0.png" tvg-id="ad6cb55536f0223bc36b3d359c6b920c" tvg-chno="45" group-title="GERMANY",WARNER FILM ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1437953197?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5f84afaa5a6e4c7c0ba7ecc874e93928.png" tvg-id="2e91e4a2627ad435bf36894f48898926" tvg-chno="46" group-title="GERMANY",WARNER SERIE ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/585404718?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/9a38f1151b4831579896ebd3a0c9fe77.png" tvg-id="f136b91e892b8eb0f70698624e973926" tvg-chno="47" group-title="GERMANY",13TH STREET ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/515454705?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d21c469a02e7b9e6f87e552512ed777b.png" tvg-id="b05a1ba7fb851fff50499e4f3ed39816" tvg-chno="48" group-title="GERMANY",SYFY ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/656104112?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6ad43f92101ed606d14c61e8d4525c06.png" tvg-id="22fcb34d006ec827598f0b18caf16572" tvg-chno="49" group-title="GERMANY",SIXX ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1303641122?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/cfe373fd1aacdba5dc6fefb6d37772a1.png" tvg-id="e53b5fe951365e181aaf089f679b074f" tvg-chno="50" group-title="GERMANY",UNIVERSAL TV ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1767848933?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ee9b91a3a9235e1ace040e1a44a03e7c.png" tvg-id="828d72adc31a0ea3e353fa41008632aa" tvg-chno="51" group-title="GERMANY",KINOWELT TV ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/762482050?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/3f55e6d1afef0191fa5d1460be7ef5b5.png" tvg-id="17e80e08bb047fafdaa4fa63cef09860" tvg-chno="52" group-title="GERMANY",TELE 5 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/135194647?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/90b3b429600b821139d0c16ba0e3b4cf.png" tvg-id="03d0f4bf791e2bd8f3f50ab9b4f30d51" tvg-chno="53" group-title="GERMANY",ONE ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1073008643?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/b881528a74feae4f3c3fe8d8a2a42bd3.png" tvg-id="00a9d982be7a03af07db6c7997e30c79" tvg-chno="54" group-title="GERMANY",ANIXE+ ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/47819008?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/1322e756225cff4e05152084ae9d2a7d.png" tvg-id="e4f236d69177ea2a58f79d8f9a384851" tvg-chno="55" group-title="GERMANY",AXN BLACK ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1446441700?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/b75fa3b3b678830536bf5df058d3b78d.png" tvg-id="a98147d26e1ca3496eeb2002c3d6f715" tvg-chno="56" group-title="GERMANY",AXN WHITE ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1380417961?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/4e22dfac0b2bcf7708728be309a8d865.png" tvg-id="c0f7877b620eb7f2f39fd8c9b822697b" tvg-chno="57" group-title="GERMANY",HEIMATKANAL ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/2072508352?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/162793ccdc52766b70241dacb22e1e4c.png" tvg-id="fbf0334e6313cf383b1d4599eea9d2c3" tvg-chno="58" group-title="GERMANY",ROMANCE TV ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1312026875?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/9999764778eb3df632a0f4ce5838b9f0.png" tvg-id="d272d0125fc763069869bc5efb8a4f34" tvg-chno="59" group-title="GERMANY",COMEDY CENTRAL ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/315650770?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/9ca77282cbaf17b84e1641a01ca6e66b.png" tvg-id="83f0f77e35ae640e17cc73a942203fbe" tvg-chno="60" group-title="GERMANY",SKY CINEMA PREMIERE ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/2130178179?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/9475728bcb6995bcc95c052627d4e38d.png" tvg-id="46289de6f0087f2cb9b5066a6707ac46" tvg-chno="61" group-title="GERMANY",SKY CINEMA HIGHLIGHTS ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1721575494?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/18ca98950293ccbd272471c61c270862.png" tvg-id="9ba48b42e3e8e9f5a0b0e31898bfec31" tvg-chno="62" group-title="GERMANY",SKY CINEMA ACTION ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1116447899?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d7f601c0f297ffaaad9f3f369267c424.png" tvg-id="1521bb3d1fdc9b4f448f9bf4e4b7a8b7" tvg-chno="63" group-title="GERMANY",SKY CINEMA FAMILY ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1035673877?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/068fbd72405deeff86de6b3c8805ee89.png" tvg-id="d95725cd3cafbbb680fc7576a4ec2f00" tvg-chno="64" group-title="GERMANY",SKY CINEMA CLASSICS ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1294292953?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/e0eb72dd69ac795d76fb740ec6b62302.png" tvg-id="cca024aa9b32ec724b51e858a7591bc8" tvg-chno="65" group-title="GERMANY",SKY ATLANTIC ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/707043532?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/01987b762437fc854e3e58e0cdf3f87b.png" tvg-id="acf2dd1bc0b494392fb78e701bbf1b9d" tvg-chno="66" group-title="GERMANY",SKY KRIMI ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/467530412?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/cc9ab2c1ca149eb3824b2b57f5064ab8.png" tvg-id="f6ec35409eb65831ef2ad2177a24c3f9" tvg-chno="67" group-title="GERMANY",SKY ONE ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1077275894?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a019448bf90167915ab5945c1d658d28.png" tvg-id="a9146f6e0a24f0d98b8df3c05ed1e281" tvg-chno="69" group-title="GERMANY",SKY SHOWCASE ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1852773545?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/590999a36634240304a0a291a13bf19f.png" tvg-id="d9fe2c1c52a869a37d268255092650a4" tvg-chno="70" group-title="GERMANY",SKY NATURE ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/472710873?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/41226b97eb2ae78f0c07cb2f40ebaca5.png" tvg-id="844551a8efb6b8f15f6a13430a949968" tvg-chno="71" group-title="GERMANY",SKY DOCUMENTARIES ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/676414852?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a60654b409ae054e4523c1394d6c898d.png" tvg-id="29b026908158a6b5ca3977ccd43f240a" tvg-chno="72" group-title="GERMANY",HGTV ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/270970921?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/f6642e261dbd3d484fa33ed701dc3d9f.png" tvg-id="cc8f1392d723d640dd6f482bc6b9a5cd" tvg-chno="73" group-title="GERMANY",DMAX ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/303271884?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/85a48754204d3ec1d571464692285ade.png" tvg-id="5dbafd2fec5565339351f949b3d473d7" tvg-chno="74" group-title="GERMANY",DISCOVERY CHANNEL ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/805157469?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/97c9c2501e7db531c77e56aba647dec8.png" tvg-id="3fe12e4734cad92fbf526c64ae46e0db" tvg-chno="75" group-title="GERMANY",HISTORY CHANNEL ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1194254655?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6a2f1240b66818e9ab96f18e28716d1d.png" tvg-id="20ca0e4b83547fa24f0dc4bee17d19c9" tvg-chno="76" group-title="GERMANY",NAT GEO ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1259260448?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/8b3c279f5a5d63d0695a905914582a99.png" tvg-id="d2cce335c76b9d51ac548c2fdc35ef04" tvg-chno="77" group-title="GERMANY",NAT GEO WILD ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/904121554?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/9b27bbdf26d5656df69187f9e1e9a052.png" tvg-id="8f1df5960ed3b91cc92a6e144c60f92f" tvg-chno="78" group-title="GERMANY",ANIMAL PLANET ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/385162639?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/3dd665741bfcd04fb9e9bff74f9f3c82.png" tvg-id="64e310ad4d680c3fa11d208a58db745e" tvg-chno="79" group-title="GERMANY",GEO TV ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/756081508?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/df2e8443be8dd88ed148a5d627ca9d16.png" tvg-id="6d18451d2278f59d2abee730a0d8cbc1" tvg-chno="80" group-title="GERMANY",WELT DER WUNDER ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/491067501?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/1e3099a533d133f8e430bc7610b7ddf3.png" tvg-id="b6b1b655c0f8639f26b9fb797117fb5e" tvg-chno="81" group-title="GERMANY",SPIEGEL GESCHICHTE ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1438036406?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/2982b7112a481881537399cd289c2c22.png" tvg-id="cc14bf389d81ce1bb5308502db390734" tvg-chno="82" group-title="GERMANY",N24 DOKU
+http://89.182.149.167:9981/stream/channelid/952046796?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/afe537c650337ab1e575bc72ef71bf25.png" tvg-id="7ef533aa09405eba850c21eb98b85d9d" tvg-chno="83" group-title="GERMANY",DOKUSAT ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/708048254?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/e08c39da7e161b61d5f3bd766e1cc3a6.png" tvg-id="8b32f9c7615effb6dc35dca1f71da1a0" tvg-chno="84" group-title="GERMANY",ARTE ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1207513739?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/3d897a949f2c731698349e51e1f4dbd3.png" tvg-id="d40f3f723d867bfea80dc367dae5f6e1" tvg-chno="85" group-title="GERMANY",WAIDWERK ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1916735444?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/b88dd643f63d161604b0451d169e4ea6.png" tvg-id="8fab01a8cfbbe589c4b37f11f05d9365" tvg-chno="86" group-title="GERMANY",MOTORVISION TV ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/671198095?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/40b2997a3cbca82eb95033a5a5bf2643.png" tvg-id="05cdbda50a9da0f4d335e33127ac2876" tvg-chno="87" group-title="GERMANY",AUTO MOTOR SPORT ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/633195781?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/c0beda9746c90e20a471a27cf1218c4e.png" tvg-id="9fee3b5d2230da7a1f668b19ab5ea344" tvg-chno="88" group-title="GERMANY",3SAT ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1564208799?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/052b8d8e81cc9198544569daae947a7f.png" tvg-id="ff9a641e949ba71ec079a81b37265521" tvg-chno="89" group-title="GERMANY",WDR ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/509909759?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5f2638b1e3520f79078701967cd070df.png" tvg-id="d3b41df202804ba0846945651d6e6855" tvg-chno="90" group-title="GERMANY",SWR ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1914549459?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/c413a0bd2fd0905bd044f67915f3c74c.png" tvg-id="c6e774dee3d7b0773ee8f383219905a4" tvg-chno="91" group-title="GERMANY",HR FERNSEHEN ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1584719814?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/b7e2edc3fc1d96caf4622eac6ffa42b0.png" tvg-id="51560fc60769d915f08c8106f587ff5f" tvg-chno="92" group-title="GERMANY",SR FERNSEHEN ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1175410257?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5ad915ec40773083ef4bc8bd7eed0dbe.png" tvg-id="5570ab1359cd295d47462f7a5c48d952" tvg-chno="93" group-title="GERMANY",MDR ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/330002517?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d602754e54a5130a927c17198fbbbb5c.png" tvg-id="479536df840a16a4975a0a537495ae2a" tvg-chno="94" group-title="GERMANY",MÜNCHEN TV ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1597412679?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ec877119d8cc446e81efeae11fe8a640.png" tvg-id="29a329a1b8f89945216971c5e29796de" tvg-chno="95" group-title="GERMANY",RBB ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/556376873?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/191bb13438d59b9c940a16ea842fad64.png" tvg-id="9f337885b8d40826de4c68f6dd372ffd" tvg-chno="96" group-title="GERMANY",SONNENKLAR TV ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/91763615?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a31631c74fa091c6c5cb96c8ad1a072c.png" tvg-id="42cd0d394edb2533cd45c59cea02fc11" tvg-chno="97" group-title="GERMANY",RADIO BREMEN ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/957205826?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ee1b787d0dd1f45ce820f634763d2ff2.png" tvg-id="9d309dabac62c1d8cf3974479abc24d0" tvg-chno="98" group-title="GERMANY",EUROSPORT 1 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/731721885?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/c9f239295ba3d078a74fcfa3cef97dce.png" tvg-id="1e86e5f72d0133d23412f6b4fce022fa" tvg-chno="99" group-title="GERMANY",EUROSPORT 2 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/2011530782?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/11ab1b5ad4e6ef881567fe2de573c25f.png" tvg-id="733bfe5d7482bd22c8afea32d3c009a8" tvg-chno="100" group-title="GERMANY",SPORT1 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1576942451?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/c5aa66a659541e5c071fc2909caad4e4.png" tvg-id="b836838b355c9da7aa8647f82bacc218" tvg-chno="101" group-title="GERMANY",SPORTDIGITAL FUSSBALL ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/193148600?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/72b7b7911335722814aec77972b7ab87.png" tvg-id="47961b643d127cc959b66cd83d7c58cf" tvg-chno="102" group-title="GERMANY",SPORTDIGITAL 1+ ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1679529543?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d9520263592938d5b874c782c1e99dfc.png" tvg-id="1cdebacdf023a3d4d7be12cac7679ad1" tvg-chno="103" group-title="GERMANY",SERVUS TV MOTORSPORT ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1304092188?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/901369cf3ca05f4a721276edf33f1f54.png" tvg-id="6990d6b9beb4f5501f2ae8576272d56e" tvg-chno="104" group-title="GERMANY",DF 1 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/970362985?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/e6b91a9ccde79f6ce1f10b45e3688257.png" tvg-id="561374a765da7acb2bff7281aad8c3ff" tvg-chno="105" group-title="GERMANY",ESPORTS 1 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/661918550?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5c6595ace3c13f6f535d73912c095d9a.png" tvg-id="05d4a12c919e9f036ce1708f05b0df90" tvg-chno="106" group-title="GERMANY",ORF+ SPORT ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/748803077?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/98f7e97d1ed5ed68e6cfe41714446c30.png" tvg-id="005f81613a22f959d72a39408cf87c75" tvg-chno="107" group-title="GERMANY",SKY SPORT AUSTRIA 1 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1635868416?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/225b6a86c4cb18d9fff7548e7aaea6c1.png" tvg-id="261d023cbe180e6d56a9f91c69bf4e3b" tvg-chno="108" group-title="GERMANY",SKY SPORT NEWS ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1006771494?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/2a49c7c60a2a37acf3394de1f94c2748.png" tvg-id="93ad75a17e04334b87896619a72aa63a" tvg-chno="109" group-title="GERMANY",SKY SPORT TOP EVENT ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/561360275?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/0e68c64f07259aec436308721264a1f9.png" tvg-id="ee02a0b75ddc8d87349f41703a3f00a0" tvg-chno="110" group-title="GERMANY",SKY SPORT MIX ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/933233390?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/07587f07038761e61eed9c88a0a08727.png" tvg-id="e57d0d2321f93e62de9f36d9fd897823" tvg-chno="111" group-title="GERMANY",SKY SPORT F1 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/588086757?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5def1e88d8aa8e85895180ba6401f011.png" tvg-id="d84bb8888f8b5d8e0c1253e462eb96f4" tvg-chno="112" group-title="GERMANY",SKY SPORT GOLF ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/146295768?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/389fc2bea43dfaa0dc97b89fdc95ee44.png" tvg-id="fcc809ae88a8999c6ed4c7d1fd3e2308" tvg-chno="113" group-title="GERMANY",SKY SPORT PREMIER LEAGUE ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/772393212?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/9731e257143b0abd1fbd836222c1b30f.png" tvg-id="41544e577b7e20b262981d7d89240e1d" tvg-chno="114" group-title="GERMANY",SKY SPORT TENNIS ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1464751169?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/f44ba02700c9da625d36e77b840e702f.png" tvg-id="7109836b7898bc929e235976c6e0734c" tvg-chno="115" group-title="GERMANY",SKY SPORT 1 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1803749745?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d237e936fe4a2c6bf191bd110c312b8a.png" tvg-id="a6c5edd3ec27ca0bee44e46053d0c0d9" tvg-chno="116" group-title="GERMANY",SKY SPORT 2 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1408091558?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/4cbfbd1b2252e2e24d3f9b720c2c69bf.png" tvg-id="b9d57f7ab7a4f236e4a1af76fb818e4c" tvg-chno="117" group-title="GERMANY",SKY SPORT 3 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/2055198137?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d4ad4609a9e52ee7005043d442236ea7.png" tvg-id="11791fbab474dfc940aa986c99b3076f" tvg-chno="118" group-title="GERMANY",SKY SPORT 4 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/975141137?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d178541efa7ab57a382ca4bc5996bf96.png" tvg-id="c320cfb1e46611f5900104c551a14b36" tvg-chno="119" group-title="GERMANY",SKY SPORT 5 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/835657923?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/f5d50012aacbfa2005e122c779d60337.png" tvg-id="8dcc99744035af04dc96ea5e2feb2f63" tvg-chno="120" group-title="GERMANY",BUNDESLIGA ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1956236429?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/95a5167d9450c772bfe552e9653ef8ba.png" tvg-id="fb64a7ecff6ac87e3d730f7bdd4f2c39" tvg-chno="121" group-title="GERMANY",BUNDESLIGA 1 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1822909691?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6177455a0224c5d8e76c8dd4e0d2b389.png" tvg-id="65223d7a026f1d7f72c09217eaba6ab6" tvg-chno="122" group-title="GERMANY",BUNDESLIGA 2 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/2050826853?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/b2578be33f916aadda116b6291b11d88.png" tvg-id="81852bc8350fd8671e1b1a3edee8ca26" tvg-chno="123" group-title="GERMANY",BUNDESLIGA 3 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1210811777?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a804f3e445988cce13d62ad9e6a4cea2.png" tvg-id="dc324e511f2c257de455cb362097fa84" tvg-chno="124" group-title="GERMANY",BUNDESLIGA 4 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1364079324?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6805a3483041b66ad908d0698b3ac4b8.png" tvg-id="9376cf4d94dc73779b791071d4b3b764" tvg-chno="125" group-title="GERMANY",BUNDESLIGA 5 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1305441939?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/fc93e227c7a6455f49c04e98916f32a5.png" tvg-id="62caf271d122a3f0967f765b5c68f864" tvg-chno="127" group-title="GERMANY",DAZN 2 ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1911736930?profile=pass
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a410f884c4fbaed744c6a2fab04b22f8.png" tvg-id="48cdd9ca5b9398f3ff2222691d48cbba" tvg-chno="128" group-title="GERMANY",MTV ʀᴀᴡ
+http://89.182.149.167:9981/stream/channelid/1255787848?profile=pass
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=iu8x0vhwvbz31qswg76s6nwky_image-header_pDach_1715786527000&quality=70" tvg-id="26f6697d4a9da4ae78c19eae712634b2" tvg-chno="129" group-title="GERMANY",DAZN BILLIARD TV
+http://89.182.149.167:9981/stream/channelid/2104096294?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/09b1b42b7b60fd324e604050fda5a96a.png" tvg-id="0dd551256eaa8aa1dfb5e13c4f691aae" tvg-chno="130" group-title="GERMANY",AT: Sky Sport Austria 5 HD
+http://89.182.149.167:9981/stream/channelid/626119949?profile=pass
+#EXTINF:-1 tvg-logo="http://89.182.149.167:9981/imagecache/1" tvg-id="4dd854057ff69cde2d17cb4d430ccef3" tvg-chno="131" group-title="GERMANY",AT: Sky Sport Austria 6 HD
+http://89.182.149.167:9981/stream/channelid/89446477?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/28334152741.png" tvg-id="8169a848ed909828c8e3bac38953b79f" tvg-chno="132" group-title="GERMANY",AT: ATV FHD
+http://89.182.149.167:9981/stream/channelid/1218996609?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/40903054181.png" tvg-id="54c13b038a55df1ca2ca2434b9139401" tvg-chno="133" group-title="GERMANY",AT: ATV SD
+http://89.182.149.167:9981/stream/channelid/54247764?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/74229705401.png" tvg-id="d41b64f68fb03f3aee2064b5d24d7f25" tvg-chno="135" group-title="GERMANY",AT: Deutsches Musik Fernsehen FHD
+http://89.182.149.167:9981/stream/channelid/1986272212?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/96570314071.png" tvg-id="38dec1491b9c448827ffc0260b1679ad" tvg-chno="137" group-title="GERMANY",AT: Kabel.1 DOKU FHD
+http://89.182.149.167:9981/stream/channelid/1237442104?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/38060286651.png" tvg-id="3f9524f4faf6d63308a7b953fd379787" tvg-chno="138" group-title="GERMANY",AT: Ländle TV FHD
+http://89.182.149.167:9981/stream/channelid/1948554559?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/91663090931.png" tvg-id="d641054574021f977d8744c09a1c67b0" tvg-chno="140" group-title="GERMANY",AT: OE24 TV FHD
+http://89.182.149.167:9981/stream/channelid/1157972438?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/66345131311.png" tvg-id="39d315e6ece930516889ada2eea53628" tvg-chno="142" group-title="GERMANY",AT: ORF 1 FHD
+http://89.182.149.167:9981/stream/channelid/1712706361?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/44518887831.png" tvg-id="f4986de452c0c184e3d4bd51a05a2329" tvg-chno="143" group-title="GERMANY",AT: ORF 1 SD
+http://89.182.149.167:9981/stream/channelid/1684904180?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/82747750121.png" tvg-id="dab5a2720c44dd6c918fead6a057e3a3" tvg-chno="144" group-title="GERMANY",AT: ORF 2 WIEN HD
+http://89.182.149.167:9981/stream/channelid/1923266010?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/chimg/4251111736.png" tvg-id="3d2db473c46035b4111a2ca7abc67bc4" tvg-chno="145" group-title="GERMANY",AT: ORF 3 HD
+http://89.182.149.167:9981/stream/channelid/1941187901?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/chimg/9581427860.png" tvg-id="d7591c3a761bd5cf4d3b208c1c516b5f" tvg-chno="146" group-title="GERMANY",AT: ORF 3 SD
+http://89.182.149.167:9981/stream/channelid/974936535?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/chimg/8887642701.png" tvg-id="223cc9427d2fb692b6c518b9aeb25f1b" tvg-chno="147" group-title="GERMANY",AT: ORF Sport+ SD
+http://89.182.149.167:9981/stream/channelid/1120484386?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/66363550011.png" tvg-id="3408959b3cdb85c01c454d77288786c4" tvg-chno="148" group-title="GERMANY",AT: PRO7 MAXX FHD
+http://89.182.149.167:9981/stream/channelid/462751796?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/chimg/8776714615.png" tvg-id="699ffd84bb5d547c1ff7dbf12a699007" tvg-chno="149" group-title="GERMANY",AT: PULS 24 FHD
+http://89.182.149.167:9981/stream/channelid/83730281?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Puls4.svg/553px-Puls4.svg.png" tvg-id="f3da3b1f40ad3af030d185f07467fa95" tvg-chno="150" group-title="GERMANY",AT: PULS 4 SD
+http://89.182.149.167:9981/stream/channelid/524016371?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/19880631311.png" tvg-id="19b0c84ca2c8b3713512391ce0a6563f" tvg-chno="151" group-title="GERMANY",AT: R9 HD
+http://89.182.149.167:9981/stream/channelid/1288220697?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/chimg/6655468873.png" tvg-id="dfa4bb9d40a4e33c497ce22aecb1261f" tvg-chno="152" group-title="GERMANY",AT: RTL FHD
+http://89.182.149.167:9981/stream/channelid/498836703?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/97526042061.png" tvg-id="6f6b7420562d98cda76169665ef9185b" tvg-chno="153" group-title="GERMANY",AT: RTL UP FHD
+http://89.182.149.167:9981/stream/channelid/544500591?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54926304811.png" tvg-id="0c5f7922979908f8b8f453fb04907eb8" tvg-chno="154" group-title="GERMANY",AT: Servus TV FHD
+http://89.182.149.167:9981/stream/channelid/578379532?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/58742891971.png" tvg-id="d38a8a692b230750b373b5c290eaf9b3" tvg-chno="155" group-title="GERMANY",AT: Servus TV HD
+http://89.182.149.167:9981/stream/channelid/1770687187?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/26877815301.png" tvg-id="3b1931b9a3b6d89a527a786265ea852b" tvg-chno="156" group-title="GERMANY",AT: SKY Sport Austria 1 FHD
+http://89.182.149.167:9981/stream/channelid/959519035?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/37292619441.png" tvg-id="97ce2794115aa70479c41d475634b6da" tvg-chno="158" group-title="GERMANY",AT: SKY Sport Austria 3 HD (event Only)
+http://89.182.149.167:9981/stream/channelid/338153111?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/37906945951.png" tvg-id="2d0182707d08f59f4f3227487ecf3572" tvg-chno="159" group-title="GERMANY",AT: SKY Sport Austria 4 FHD (event Only)
+http://89.182.149.167:9981/stream/channelid/1887568173?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/82276845851.png" tvg-id="db9cecb1a8f00e8b8a4cf7bfabd0de91" tvg-chno="160" group-title="GERMANY",AT: SKY Sport Austria 4 HD (event Only)
+http://89.182.149.167:9981/stream/channelid/837590235?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/98372625021.png" tvg-id="1665bb4a57017862fb03974d14c646f8" tvg-chno="161" group-title="GERMANY",AT: PULS 24 FHD
+http://89.182.149.167:9981/stream/channelid/1253795094?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/11056518151.png" tvg-id="79f6b775ef97d8442bb1f07f3779c034" tvg-chno="162" group-title="GERMANY",AT: DMAX HD
+http://89.182.149.167:9981/stream/channelid/1974990457?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/60303262221.png" tvg-id="5496af774380f426fba9845765b30d0f" tvg-chno="163" group-title="GERMANY",AT: ORF 2 HD
+http://89.182.149.167:9981/stream/channelid/2007995988?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/73357796211.png" tvg-id="915575871968a24a0b03619d3768aa09" tvg-chno="164" group-title="GERMANY",AT: SKY Sport Austria 1 HD
+http://89.182.149.167:9981/stream/channelid/125130129?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/22736605451.png" tvg-id="43ee85a8520ab04daaf78d265e1aff4b" tvg-chno="165" group-title="GERMANY",AT: SKY Sport Austria 2 HD
+http://89.182.149.167:9981/stream/channelid/679865923?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/91344484241.png" tvg-id="245fcf07ed05c2da8dbc2e79c5ba86cb" tvg-chno="166" group-title="GERMANY",AU: FOX Sports 507 HD
+http://89.182.149.167:9981/stream/channelid/131030820?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/22594794671.png" tvg-id="f05905d9baaacb47725bb0ee3cceb31d" tvg-chno="167" group-title="GERMANY",AT: ATV HD
+http://89.182.149.167:9981/stream/channelid/1493522928?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/73648048941.png" tvg-id="4a474469498a582cd88b3f38f5b61680" tvg-chno="168" group-title="GERMANY",AT: FOX Sports NEWS FHD
+http://89.182.149.167:9981/stream/channelid/1766082378?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/55004455811.png" tvg-id="64d91111b647d53b9d0681f601974b72" tvg-chno="169" group-title="GERMANY",AT: ORF 1  HD
+http://89.182.149.167:9981/stream/channelid/286382436?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/63277991211.png" tvg-id="5c9aa2bbb5f59e95fffc0b323123ac48" tvg-chno="170" group-title="GERMANY",AT: ORF 2  HD
+http://89.182.149.167:9981/stream/channelid/1000512092?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/31756656831.png" tvg-id="06a7c22950fff69b71b8d1386f56d55b" tvg-chno="171" group-title="GERMANY",AT: ORF 3 HD
+http://89.182.149.167:9981/stream/channelid/700622598?profile=pass
+#EXTINF:-1 tvg-logo="http://89.182.149.167:9981/imagecache/2" tvg-id="9ca1d957aa9203b4fce1cc441b7f2162" tvg-chno="172" group-title="GERMANY",CH: Blue Sports HD
+http://89.182.149.167:9981/stream/channelid/1473880476?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/81206889051.png" tvg-id="245f8a29e94a390504f40a9e84246b1b" tvg-chno="175" group-title="GERMANY",CH: 4+ HD
+http://89.182.149.167:9981/stream/channelid/696934180?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/41762297941.png" tvg-id="1344a4e5168dd1389a2dbe4f4be5d526" tvg-chno="176" group-title="GERMANY",CH: 6+ HD
+http://89.182.149.167:9981/stream/channelid/1705264147?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/49658426701.png" tvg-id="e7cd1ddb93a836f8da90b321f7cea9c3" tvg-chno="177" group-title="GERMANY",CH: BLUE Sport 1 HD
+http://89.182.149.167:9981/stream/channelid/1528679911?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/97139557721.png" tvg-id="bd89f5779d1b9797c7f6bf6f67b80316" tvg-chno="178" group-title="GERMANY",CH: BLUE Sport 2 HD
+http://89.182.149.167:9981/stream/channelid/2012580285?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/71008240671.png" tvg-id="92ba0e221b7ceef6b04f4555ab1105c8" tvg-chno="179" group-title="GERMANY",CH: BLUE ZOOM HD
+http://89.182.149.167:9981/stream/channelid/571390610?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/chimg/2857606183.png" tvg-id="396de358d4ac7b751ab3d5dba06b1e88" tvg-chno="180" group-title="GERMANY",CH: Canal Alpha (neuchÂtel)  HD
+http://89.182.149.167:9981/stream/channelid/1491299641?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/32765614381.png" tvg-id="b18606dec88039ce4bcf6a7d536f852d" tvg-chno="181" group-title="GERMANY",CH: Canal Alpha HD
+http://89.182.149.167:9981/stream/channelid/1577486001?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/45044327881.png" tvg-id="0452588ac286a08d4eae84cd29d60351" tvg-chno="184" group-title="GERMANY",CH: MY Sport 2 FHD
+http://89.182.149.167:9981/stream/channelid/173560324?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/35438142781.png" tvg-id="382c20b651add20f6f325460c10c1151" tvg-chno="185" group-title="GERMANY",CH: MY Sport 3 FHD
+http://89.182.149.167:9981/stream/channelid/908078136?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/79344718091.png" tvg-id="f18ed88d9d5b6b3d4e846be41eaba174" tvg-chno="186" group-title="GERMANY",CH: MY Sport 4 FHD
+http://89.182.149.167:9981/stream/channelid/232296177?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/24291062541.png" tvg-id="5d497b30f718c45191e3544c8febe305" tvg-chno="188" group-title="GERMANY",CH: MY Sport 6 FHD
+http://89.182.149.167:9981/stream/channelid/813386077?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/63302193671.png" tvg-id="bc3ceaaf2cca17f276e3770a173bb181" tvg-chno="189" group-title="GERMANY",CH: MY Sport 7 FHD
+http://89.182.149.167:9981/stream/channelid/803880124?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/52719663471.png" tvg-id="93c81d9556bd30f2b9737bdca3c988cb" tvg-chno="190" group-title="GERMANY",CH: MY Sport 8 FHD
+http://89.182.149.167:9981/stream/channelid/354273427?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/97909988051.png" tvg-id="54ab3d4cb6d2b818711af257e052a96b" tvg-chno="192" group-title="GERMANY",CH: Mysports 3 HD
+http://89.182.149.167:9981/stream/channelid/1279109972?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/25439799831.png" tvg-id="469b04716c6252a60a1f3eca5d016c7f" tvg-chno="194" group-title="GERMANY",CH: RTS DEUX HD
+http://89.182.149.167:9981/stream/channelid/1896127302?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/15195120971.png" tvg-id="73cc0e3efed2296f3130cccaa96a50f3" tvg-chno="195" group-title="GERMANY",CH: RTS UN HD
+http://89.182.149.167:9981/stream/channelid/1041157235?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/32601702071.png" tvg-id="a01918c0f91fd47a2f54072b7ca475e0" tvg-chno="196" group-title="GERMANY",CH: SRF 1 HD
+http://89.182.149.167:9981/stream/channelid/1075321248?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/17151789911.png" tvg-id="79dcef241394d41d5a2c07cdc9771582" tvg-chno="197" group-title="GERMANY",CH: SRF 1 HD
+http://89.182.149.167:9981/stream/channelid/619699321?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/55195674251.png" tvg-id="c098cc2ca4bdc96dc03fe4a39ca4df62" tvg-chno="198" group-title="GERMANY",CH: SRF 2 HD
+http://89.182.149.167:9981/stream/channelid/751605952?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/43410260631.png" tvg-id="ff5f8b22fc0bd36d151c79e8fe53cfff" tvg-chno="199" group-title="GERMANY",CH: SRF INFO HD
+http://89.182.149.167:9981/stream/channelid/579559423?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/15181248001.png" tvg-id="73813ed55bb5dc952a35c43ba97cf082" tvg-chno="200" group-title="GERMANY",CH: SRF INFO HD
+http://89.182.149.167:9981/stream/channelid/1430159731?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/73330743101.png" tvg-id="22bd015448e01606a8de6d119ff8dbd6" tvg-chno="202" group-title="GERMANY",CH: TELE 1 HD
+http://89.182.149.167:9981/stream/channelid/1409400098?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/53323838771.png" tvg-id="d84f63242bc65ea12893896cabc9f61d" tvg-chno="203" group-title="GERMANY",CH: TELE Basel HD
+http://89.182.149.167:9981/stream/channelid/610488280?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/79966588941.png" tvg-id="25cb635abcf05964167c0b5248d0cc40" tvg-chno="204" group-title="GERMANY",CH: TELE M1 HD
+http://89.182.149.167:9981/stream/channelid/1516489509?profile=pass
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/70200822471.png" tvg-id="3f202eb0c8bc4703cc7b1d0529dba0af" tvg-chno="206" group-title="GERMANY",CH: Telezuri HD
+http://89.182.149.167:9981/stream/channelid/808329279?profile=pass
 
 #------ Unifi TV分类开始 ------
 #EXTINF:-1 group-title="Unifi TV",TV1
