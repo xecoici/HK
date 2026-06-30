@@ -1,4 +1,4 @@
-0#EXTM3U
+#EXTM3U
 #EXTINF:-1 logo="http://i.imgur.com/D1o9by9.png" tvg-id="9bd41a5c12e9c23b13d517aa867b7ca2" group-title="KT-KOREA",KBS JOY
 http://mdlstay.com:9981/stream/channelid/1545262235?ticket=4346C7471E835D0826B08879384AC0AFF014D291&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="4b852da4eb23bf46a1d6d0fb92bbfa5a" group-title="KT-KOREA",SBS
@@ -446,246 +446,334 @@ http://103.148.44.38:8000/play/a03w/index.m3u8
 #EXTINF:Indonesia1 group-title="INDONESIA",VTV
 http://103.148.44.38:8000/play/a09u/index.m3u8
 
-#EXTINF:-1 group-title="ASTRO-MLY",AFN
-http://75.127.89.169:35441/endday20260630.php?id=819#http://75.127.89.169:35441/endday20260630.php?id=820
-#EXTINF:-1 group-title="ASTRO-MLY",TV5
-http://75.127.89.169:35441/endday20260630.php?id=821#http://75.127.89.169:35441/endday20260630.php?id=822
-#EXTINF:-1 group-title="ASTRO-MLY",BERITA RTM
-http://75.127.89.169:35441/endday20260630.php?id=825#http://75.127.89.169:35441/endday20260630.php?id=826
-#EXTINF:-1 group-title="ASTRO-MLY",TV1
-http://75.127.89.169:35441/endday20260630.php?id=829
-#EXTINF:-1 group-title="ASTRO-MLY",TV2
-http://75.127.89.169:35441/endday20260630.php?id=831#http://75.127.89.169:35441/endday20260630.php?id=832
-#EXTINF:-1 group-title="ASTRO-MLY",TV3
-http://75.127.89.169:35441/endday20260630.php?id=833#http://75.127.89.169:35441/endday20260630.php?id=834
-#EXTINF:-1 group-title="ASTRO-MLY",ASTRO RIA
-http://75.127.89.169:35441/endday20260630.php?id=835#http://75.127.89.169:35441/endday20260630.php?id=836
-#EXTINF:-1 group-title="ASTRO-MLY",ASTRO RIA
-http://75.127.89.169:35441/endday20260630.php?id=836
-#EXTINF:-1 group-title="ASTRO-MLY",ASTRO PRIMA
-http://75.127.89.169:35441/endday20260630.php?id=837
-#EXTINF:-1 group-title="ASTRO-MLY",ASTRO PRIMA
-http://75.127.89.169:35441/endday20260630.php?id=838
-#EXTINF:-1 group-title="ASTRO-MLY",ASTRO OASIS
-http://75.127.89.169:35441/endday20260630.php?id=839
-#EXTINF:-1 group-title="ASTRO-MLY",ASTRO CITRA
-http://75.127.89.169:35441/endday20260630.php?id=842
-#EXTINF:-1 group-title="ASTRO-MLY",ASTRO CITRA
-http://75.127.89.169:35441/endday20260630.php?id=841
-#EXTINF:-1 group-title="ASTRO-MLY",ASTRO RANIA
-http://75.127.89.169:35441/endday20260630.php?id=843#http://75.127.89.169:35441/endday20260630.php?id=844
-#EXTINF:-1 group-title="ASTRO-MLY",ASTRO AURA
-http://75.127.89.169:35441/endday20260630.php?id=845#http://75.127.89.169:35441/endday20260630.php?id=846
-#EXTINF:-1 group-title="ASTRO-MLY", TV OKEY
-http://75.127.89.169:35441/endday20260630.php?id=853
-#EXTINF:-1 group-title="ASTRO-MLY",COLOURS
-http://75.127.89.169:35441/endday20260630.php?id=849#http://75.127.89.169:35441/endday20260630.php?id=883#http://75.127.89.169:35441/endday20260630.php?id=884
-#EXTINF:-1 group-title="ASTRO-MLY",TVS
-http://75.127.89.169:35441/endday20260630.php?id=851
-#EXTINF:-1 group-title="ASTRO-MLY",ZEE TAMIL
-http://75.127.89.169:35441/endday20260630.php?id=886
-#EXTINF:-1 group-title="ASTRO-MLY",TV7
-DidikTV7,http://atryffad.usa3.345123.xyz/jrw.php?id=DidikTV7FHD
-#EXTINF:-1 group-title="ASTRO-MLY",8TV
-8TV 八度空間,http://75.127.89.169:35441/endday20260630.php?id=857
-#EXTINF:-1 group-title="ASTRO-MLY",iQIYI
-http://75.127.89.169:35441/endday20260630.php?id=891#http://75.127.89.169:35441/endday20260630.php?id=892
-#EXTINF:-1 group-title="ASTRO-MLY",TVB千禧经典台
-http://75.127.89.169:35441/endday20260630.php?id=893#http://75.127.89.169:35441/endday20260630.php?id=894
-#EXTINF:-1 group-title="ASTRO-MLY",Astro AEC
-http://75.127.89.169:35441/endday20260630.php?id=895
-#EXTINF:-1 group-title="ASTRO-MLY",Astro AEC
-http://75.127.89.169:35441/endday20260630.php?id=896
-#EXTINF:-1 group-title="ASTRO-MLY",Astro QJ
-http://75.127.89.169:35441/endday20260630.php?id=897
-#EXTINF:-1 group-title="ASTRO-MLY",Astro QJ
-http://75.127.89.169:35441/endday20260630.php?id=898
-#EXTINF:-1 group-title="ASTRO-MLY",天映频道HK
-http://75.127.89.169:35441/endday20260630.php?id=899#http://75.127.89.169:35441/endday20260630.php?id=901
-#EXTINF:-1 group-title="ASTRO-MLY",天映频道(國)
-http://75.127.89.169:35441/endday20260630.php?id=902
-#EXTINF:-1 group-title="ASTRO-MLY",天映经典MY
-http://75.127.89.169:35441/endday20260630.php?id=903
-#EXTINF:-1 group-title="ASTRO-MLY",天映经典(國)
-http://75.127.89.169:35441/endday20260630.php?id=923#http://75.127.89.169:35441/endday20260630.php?id=924
-#EXTINF:-1 group-title="ASTRO-MLY",TVB翡翠台MY(粤),
-http://75.127.89.169:35441/endday20260630.php?id=903#http://75.127.89.169:35441/endday20260630.php?id=906
-#EXTINF:-1 group-title="ASTRO-MLY",TVB翡翠台MY(國)
-http://75.127.89.169:35441/endday20260630.php?id=904
-#EXTINF:-1 group-title="ASTRO-MLY",AOD 311(粤)
-http://75.127.89.169:35441/endday20260630.php?id=909#http://75.127.89.169:35441/endday20260630.php?id=910
-#EXTINF:-1 group-title="ASTRO-MLY",AOD 311(國)
-http://75.127.89.169:35441/endday20260630.php?id=910
-#EXTINF:-1 group-title="ASTRO-MLY",中天亞洲台(馬來)
-http://75.127.89.169:35441/endday20260630.php?id=911#http://75.127.89.169:35441/endday20260630.php?id=912
-#EXTINF:-1 group-title="ASTRO-MLY",TVB娱乐新闻台
-http://75.127.89.169:35441/endday20260630.php?id=913#http://75.127.89.169:35441/endday20260630.php?id=914
-#EXTINF:-1 group-title="ASTRO-MLY",TVB星河频道(粤)
-http://75.127.89.169:35441/endday20260630.php?id=917#http://75.127.89.169:35441/endday20260630.php?id=918
-#EXTINF:-1 group-title="ASTRO-MLY",TVB星河频道(國)
-http://75.127.89.169:35441/endday20260630.php?id=915#http://75.127.89.169:35441/endday20260630.php?id=916
-#EXTINF:-1 group-title="ASTRO-MLY",TVBSAsia
-http://75.127.89.169:35441/endday20260630.php?id=919#http://75.127.89.169:35441/endday20260630.php?id=920
-#EXTINF:-1 group-title="ASTRO-MLY",天映經典
-http://75.127.89.169:35441/endday20260630.php?id=921#http://75.127.89.169:35441/endday20260630.php?id=922
-#EXTINF:-1 group-title="ASTRO-MLY",天映經典(粤)
-http://75.127.89.169:35441/endday20260630.php?id=923#http://75.127.89.169:35441/endday20260630.php?id=924
-#EXTINF:-1 group-title="ASTRO-MLY",凤凰中文(馬來)
-http://75.127.89.169:35441/endday20260630.php?id=926#http://75.127.89.169:35441/endday20260630.php?id=925
-#EXTINF:-1 group-title="ASTRO-MLY",凤凰资讯(馬來)
-http://75.127.89.169:35441/endday20260630.php?id=928#http://75.127.89.169:35441/endday20260630.php?id=927
-#EXTINF:-1 group-title="ASTRO-MLY",欢喜台
-http://75.127.89.169:35441/endday20260630.php?id=931
-#EXTINF:-1 group-title="ASTRO-MLY",欢
-http://75.127.89.169:35441/endday20260630.php?id=933
-#EXTINF:-1 group-title="ASTRO-MLY",SukanRTM
-http://atryffad.usa3.345123.xyz/jrw.php?id=RTMSukanFHD
-#EXTINF:-1 group-title="ASTRO-MLY",BeritaRTM
-http://atryffad.usa3.345123.xyz/jrw.php?id=BeritartmFHD
-#EXTINF:-1 group-title="ASTRO-MLY",HEROES
-http://atryffad.usa3.345123.xyz/jrw.php?id=HeroesFHD
-#EXTINF:-1 group-title="ASTRO-MLY",9TV
-http://75.127.89.169:35441/endday20260630.php?id=861
-#EXTINF:-1 group-title="ASTRO-MLY",Vaanavil
-http://75.127.89.169:35441/endday20260630.php?id=863#http://75.127.89.169:35441/endday20260630.php?id=864
-#EXTINF:-1 group-title="ASTRO-MLY",Adithya
-http://75.127.89.169:35441/endday20260630.php?id=865#http://75.127.89.169:35441/endday20260630.php?id=866#http://75.127.89.169:35441/endday20260630.php?id=867
-#EXTINF:-1 group-title="ASTRO-MLY",TV
-http://75.127.89.169:35441/endday20260630.php?id=869#http://75.127.89.169:35441/endday20260630.php?id=870
-#EXTINF:-1 group-title="ASTRO-MLY",SUNmusic
-http://75.127.89.169:35441/endday20260630.php?id=871#http://75.127.89.169:35441/endday20260630.php?id=872
-#EXTINF:-1 group-title="ASTRO-MLY",Adithya
-http://75.127.89.169:35441/endday20260630.php?id=873
-#EXTINF:-1 group-title="ASTRO-MLY",SunNews
-http://75.127.89.169:35441/endday20260630.php?id=875
-#EXTINF:-1 group-title="ASTRO-MLY",KTV
-http://75.127.89.169:35441/endday20260630.php?id=877#http://75.127.89.169:35441/endday20260630.php?id=878#http://75.127.89.169:35441/endday20260630.php?id=1053
-#EXTINF:-1 group-title="ASTRO-MLY",SunLIFE
-http://75.127.89.169:35441/endday20260630.php?id=879#http://75.127.89.169:35441/endday20260630.php?id=880
-#EXTINF:-1 group-title="ASTRO-MLY",StarVijay
-http://75.127.89.169:35441/endday20260630.php?id=881#http://75.127.89.169:35441/endday20260630.php?id=882
-#EXTINF:-1 group-title="ASTRO-MLY",astro Thongathirai
-http://75.127.89.169:35441/endday20260630.php?id=887#http://75.127.89.169:35441/endday20260630.php?id=888
-#EXTINF:-1 group-title="ASTRO-MLY",Z ClNEMA
-http://75.127.89.169:35441/endday20260630.php?id=889#http://75.127.89.169:35441/endday20260630.php?id=890
-#EXTINF:-1 group-title="ASTRO-MLY",KBSWorld
-http://75.127.89.169:35441/endday20260630.php?id=934#http://75.127.89.169:35441/endday20260630.php?id=935
-#EXTINF:-1 group-title="ASTRO-MLY",One(國)
-http://75.127.89.169:35441/endday20260630.php?id=939
-#EXTINF:-1 group-title="ASTRO-MLY",One(馬來)
-http://75.127.89.169:35441/endday20260630.php?id=941
-#EXTINF:-1 group-title="ASTRO-MLY",One(韓)
-http://75.127.89.169:35441/endday20260630.php?id=940
-#EXTINF:-1 group-title="ASTRO-MLY",One
-http://atryffad.usa3.345123.xyz/jrw.php?id=ONEMalayFHD
-#EXTINF:-1 group-title="ASTRO-MLY",tvN(國)
-http://75.127.89.169:35441/endday20260630.php?id=943
-#EXTINF:-1 group-title="ASTRO-MLY",K+
-http://75.127.89.169:35441/endday20260630.php?id=948
-#EXTINF:-1 group-title="ASTRO-MLY",NHK World Premium
-http://75.127.89.169:35441/endday20260630.php?id=949#http://75.127.89.169:35441/endday20260630.php?id=950
-#EXTINF:-1 group-title="ASTRO-MLY",HITSmoves
-http://75.127.89.169:35441/endday20260630.php?id=951#http://75.127.89.169:35441/endday20260630.php?id=952
-#EXTINF:-1 group-title="ASTRO-MLY",Boo
-http://75.127.89.169:35441/endday20260630.php?id=953#http://75.127.89.169:35441/endday20260630.php?id=954
-#EXTINF:-1 group-title="ASTRO-MLY"astro showtime
-http://75.127.89.169:35441/endday20260630.php?id=955#http://75.127.89.169:35441/endday20260630.php?id=956
-#EXTINF:-1 group-title="ASTRO-MLY",astro FAMTime
-http://75.127.89.169:35441/endday20260630.php?id=958
-#EXTINF:-1 group-title="ASTRO-MLY",astro showcase
-http://75.127.89.169:35441/endday20260630.php?id=959#http://75.127.89.169:35441/endday20260630.php?id=960
-#EXTINF:-1 group-title="ASTRO-MLY",ROCKAction
-http://75.127.89.169:35441/endday20260630.php?id=961#http://75.127.89.169:35441/endday20260630.php?id=962
-#EXTINF:-1 group-title="ASTRO-MLY",RockExtreme
-http://75.127.89.169:35441/endday20260630.php?id=963#http://75.127.89.169:35441/endday20260630.php?id=964
-#EXTINF:-1 group-title="ASTRO-MLY",tvN MOVES
-http://75.127.89.169:35441/endday20260630.php?id=965#http://75.127.89.169:35441/endday20260630.php?id=966
-#EXTINF:-1 group-title="ASTRO-MLY",astro AWANI
-http://75.127.89.169:35441/endday20260630.php?id=967#http://75.127.89.169:35441/endday20260630.php?id=968
-#EXTINF:-1 group-title="ASTRO-MLY",HBO
-http://atryffad.usa3.345123.xyz/jrw.php?id=HBOFHDEN
-#EXTINF:-1 group-title="ASTRO-MLY",HBO
-http://atryffad.usa3.345123.xyz/jrw.php?id=HBOMY
-#EXTINF:-1 group-title="ASTRO-MLY",HBO
-http://atryffad.usa3.345123.xyz/jrw.php?id=hbosg
-#EXTINF:-1 group-title="ASTRO-MLY",Cinemax
-http://atryffad.usa3.345123.xyz/jrw.php?id=Cinemax
-#EXTINF:-1 group-title="ASTRO-MLY",HBOFamily
-http://atryffad.usa3.345123.xyz/jrw.php?id=HBOFamilyMY
-#EXTINF:-1 group-title="ASTRO-MLY",HBOFamily
-http://atryffad.usa3.345123.xyz/jrw.php?id=hbofamilysg
-#EXTINF:-1 group-title="ASTRO-MLY",HBOHits
-http://atryffad.usa3.345123.xyz/jrw.php?id=HBOHitsMY
-#EXTINF:-1 group-title="ASTRO-MLY",HBOHits
-http://atryffad.usa3.345123.xyz/jrw.php?id=hbohitssg
-#EXTINF:-1 group-title="ASTRO-MLY",Awani
-http://atryffad.usa3.345123.xyz/jrw.php?id=AstroAwaniFHD
-#EXTINF:-1 group-title="ASTRO-MLY",Bernama
-http://75.127.89.169:35441/endday20260630.php?id=969#http://75.127.89.169:35441/endday20260630.php?id=970
-#EXTINF:-1 group-title="ASTRO-MLY",CGTN
-http://75.127.89.169:35441/endday20260630.php?id=971#http://75.127.89.169:35441/endday20260630.php?id=972
-#EXTINF:-1 group-title="ASTRO-MLY",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="ASTRO-MLY",Love Nature(國),
-http://75.127.89.169:35441/endday20260630.php?id=994#http://75.127.89.169:35441/endday20260630.php?id=995
-#EXTINF:-1 group-title="ASTRO-MLY",探索頻道(英)
-,http://75.127.89.169:35441/endday20260630.php?id=996#http://75.127.89.169:35441/endday20260630.php?id=997
-#EXTINF:-1 group-title="ASTRO-MLY",探索亞洲(英)
-http://75.127.89.169:35441/endday20260630.php?id=998#http://75.127.89.169:35441/endday20260630.php?id=999
-#EXTINF:-1 group-title="ASTRO-MLY",BBC EARTH
-http://75.127.89.169:35441/endday20260630.php?id=1001
-#EXTINF:-1 group-title="ASTRO-MLY",History
-http://75.127.89.169:35441/endday20260630.php?id=1002#http://75.127.89.169:35441/endday20260630.php?id=1003
-#EXTINF:-1 group-title="ASTRO-MLY",AstroCeria
-http://75.127.89.169:35441/endday20260630.php?id=1006#http://75.127.89.169:35441/endday20260630.php?id=1007#http://75.127.89.169:35441/endday20260630.php?id=1008#http://75.127.89.169:35441/endday20260630.php?id=1009
-#EXTINF:-1 group-title="ASTRO-MLY",Ceria
-http://atryffad.usa3.345123.xyz/jrw.php?id=AstroCeriaMulFHD
-#EXTINF:-1 group-title="ASTRO-MLY",CartoonNetwork
-http://75.127.89.169:35441/endday20260630.php?id=1010#http://75.127.89.169:35441/endday20260630.php?id=1011#http://75.127.89.169:35441/endday20260630.php?id=1013#http://75.127.89.169:35441/endday20260630.php?id=1014#http://75.127.89.169:35441/endday20260630.php?id=1015
-#EXTINF:-1 group-title="ASTRO-MLY",CBeebies
-http://atryffad.usa3.345123.xyz/jrw.php?id=CBeebiesFHD
-#EXTINF:-1 group-title="ASTRO-MLY",AXN
-http://75.127.89.169:35441/endday20260630.php?id=1035
-#EXTINF:-1 group-title="ASTRO-MLY",Hits NOW
-http://75.127.89.169:35441/endday20260630.php?id=1036#http://75.127.89.169:35441/endday20260630.php?id=1037
-#EXTINF:-1 group-title="ASTRO-MLY",Lifetime
-http://75.127.89.169:35441/endday20260630.php?id=1039
-#EXTINF:-1 group-title="ASTRO-MLY",HlTS
-http://75.127.89.169:35441/endday20260630.php?id=1040
-#EXTINF:-1 group-title="ASTRO-MLY",TLC
-http://75.127.89.169:35441/endday20260630.php?id=1042#http://75.127.89.169:35441/endday20260630.php?id=1043
-#EXTINF:-1 group-title="ASTRO-MLY",afn
-http://75.127.89.169:35441/endday20260630.php?id=1044#http://75.127.89.169:35441/endday20260630.php?id=1046
-#EXTINF:-1 group-title="ASTRO-MLY",AFN
-http://75.127.89.169:35441/endday20260630.php?id=1045
-#EXTINF:-1 group-title="ASTRO-MLY",Ci
-http://75.127.89.169:35441/endday20260630.php?id=1047#http://75.127.89.169:35441/endday20260630.php?id=1048
-#EXTINF:-1 group-title="ASTRO-MLY",WarnerTV
-http://atryffad.usa3.345123.xyz/jrw.php?id=WarnerTVFHDMY
-#EXTINF:-1 group-title="ASTRO-MLY",HGTV
-http://75.127.89.169:35441/endday20260630.php?id=1049#http://75.127.89.169:35441/endday20260630.php?id=1050
-#EXTINF:-1 group-title="ASTRO-MLY",Arena
-http://75.127.89.169:35441/endday20260630.php?id=1054#http://75.127.89.169:35441/endday20260630.php?id=1055
-#EXTINF:-1 group-title="ASTRO-MLY",Arena2
-http://75.127.89.169:35441/endday20260630.php?id=1057
-#EXTINF:-1 group-title="ASTRO-MLY",Arena BoIa
-http://75.127.89.169:35441/endday20260630.php?id=1058#http://75.127.89.169:35441/endday20260630.php?id=1059
-#EXTINF:-1 group-title="ASTRO-MLY",Arena BoIa2
-http://75.127.89.169:35441/endday20260630.php?id=1060#http://75.127.89.169:35441/endday20260630.php?id=1061
-#EXTINF:-1 group-title="ASTRO-MLY",Grandstand
-http://75.127.89.169:35441/endday20260630.php?id=1062#http://75.127.89.169:35441/endday20260630.php?id=1063
-#EXTINF:-1 group-title="ASTRO-MLY",PremierLeague2
-http://75.127.89.169:35441/endday20260630.php?id=1066#http://75.127.89.169:35441/endday20260630.php?id=1067
-#EXTINF:-1 group-title="ASTRO-MLY",FootbaII
-http://75.127.89.169:35441/endday20260630.php?id=1069#http://75.127.89.169:35441/endday20260630.php?id=1070
-#EXTINF:-1 group-title="ASTRO-MLY",Badminton
-http://75.127.89.169:35441/endday20260630.php?id=1072
-#EXTINF:-1 group-title="ASTRO-MLY",SportsPlus
-http://75.127.89.169:35441/endday20260630.php?id=1073
-#EXTINF:-1 group-title="ASTRO-MLY",cricbuzz
-http://75.127.89.169:35441/endday20260630.php?id=1086
-#EXTINF:-1 group-title="ASTRO-MLY",PREMlERSPORTS
-http://75.127.89.169:35441/endday20260630.php?id=1087
+#EXTINF:-1 group-title="TATA PLAY-RS", BBC EARTH HD 
+http://103.155.18.186:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS", TEN 2 HD 
+http://103.155.18.186:8000/play/a06n/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",&pictures HD - Rs 19.00
+http://103.155.18.186:8000/play/a06b/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",&tv HD - Rs 19.00
+http://103.155.18.186:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Colors Cineplex - Rs 19.00
+http://103.155.18.186:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Colors Cineplex Bollywood - Rs 0.10
+http://103.155.18.186:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Colors HD - Rs 19.00
+http://103.155.18.186:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Colors Tamil HD - Rs 7.00
+http://103.155.18.186:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",D Tamil - Rs 3.50
+http://103.155.18.186:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Discovery HD - Rs 8.00
+http://103.155.18.186:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Discovery Science - Rs 1.00
+http://103.155.18.186:8000/play/a060/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Discovery Turbo - Rs 1.00
+http://103.155.18.186:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Disney Channel - Rs 10.00
+http://103.155.18.186:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Disney International HD - Rs 19.00
+http://103.155.18.186:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Eurosport HD - Rs 6.00
+http://103.155.18.186:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",History TV18 HD - Rs 7.00 
+http://103.155.18.186:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",MNX - Rs 5.00
+http://103.155.18.186:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Movies Now HD - Rs 14.00
+http://103.155.18.186:8000/play/a057/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",NATIONAL GEOGRAPHIC HD - Rs 14.00
+http://103.155.18.186:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Nat Geo Wild HD - Rs 8.00
+http://103.155.18.186:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Nick  - Rs 6.00
+http://103.155.18.186:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Nick Jr. - Rs 1.00
+http://103.155.18.186:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Romedy Now - Rs 5.00
+http://103.155.18.186:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",SET HD - Rs 19.00
+http://103.155.18.186:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",SONY MAX HD 
+http://103.155.18.186:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",SONY PIX HD 
+http://103.155.18.186:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",SONY SAB HD - Rs 19.00
+http://103.155.18.186:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",SONY SPORTS TEN 1 HD - Rs 19.00
+http://103.155.18.186:8000/play/a09p/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",SONY SPORTS TEN 3 Hindi HD - Rs 25.00
+http://103.155.18.186:8000/play/a09q/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",SONY SPORTS TEN 5 HD - Rs 25.00
+http://103.155.18.186:8000/play/a09r/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",STAR GOLD HD - Rs 19.00
+http://103.155.18.186:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",STAR Maa HD - Rs 22.00
+http://103.155.18.186:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",STAR Movies HD - Rs 19.00
+http://103.155.18.186:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",STAR Movies Select HD - Rs 19.00
+http://103.155.18.186:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",STAR Plus HD - Rs 22.00
+http://103.155.18.186:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Sonic - Rs 1.00
+http://103.155.18.186:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Sports 18 - 1 HD - Rs 19.00
+http://103.155.18.186:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Sports 18 3 - Rs 4.00
+http://103.155.18.186:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Star Bharat HD
+http://103.155.18.186:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Star Gold 2 - Rs 3.00
+http://103.155.18.186:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Star Gold 2 HD - Rs 5.00
+http://103.155.18.186:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Star Gold Romance - Rs 2.00
+http://103.155.18.186:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Star Gold Select HD - Rs 8.00
+http://103.155.18.186:8000/play/a068/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Star Gold Thrills - Rs 2.00
+http://103.155.18.186:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Star Pravah HD - Rs 19.00
+http://103.155.18.186:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Star Sports 1 HD - Rs 19.00
+http://103.155.18.186:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Star Sports 1 Hindi HD - Rs 19.00
+http://103.155.18.186:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Star Sports Select 1 HD - Rs 19.00
+http://103.155.18.186:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Star Sports Select 2 HD - Rs 15.00
+http://103.155.18.186:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Sun Music HD - Rs 19.00
+http://103.155.18.186:8000/play/a06k/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",TLC HD - Rs 3.00
+http://103.155.18.186:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Travelxp HD - Rs 9.00
+http://103.155.18.186:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Unite8 Sports 1 HD - Rs 9.00
+http://103.155.18.186:8000/play/a125/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Unite8 Sports 2 HD - Rs 11.00
+http://103.155.18.186:8000/play/a126/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Vijay Super - Rs 10.00
+http://103.155.18.186:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Zee Cafe HD - Rs 10.00
+http://103.155.18.186:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Zee Cinema HD - Rs 19.00
+http://103.155.18.186:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Zee Marathi HD - Rs 19.00
+http://103.155.18.186:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY-RS",Zee TV HD - Rs 19.00
+http://103.155.18.186:8000/play/a04g/index.m3u8
+
+#EXTINF:-1 group-title="LATIN",AE Mundo
+http://216.28.215.14:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="LATIN",AXN
+http://216.28.215.14:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="LATIN",AXN HD
+http://216.28.215.14:8000/play/a0db/index.m3u8
+#EXTINF:-1 group-title="LATIN",America TV PY
+http://216.28.215.14:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="LATIN",Animal Planet
+http://216.28.215.14:8000/play/a0dw/index.m3u8
+#EXTINF:-1 group-title="LATIN",Animal Planet HD
+http://216.28.215.14:8000/play/a0d6/index.m3u8
+#EXTINF:-1 group-title="LATIN",BabyFirst
+http://216.28.215.14:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="LATIN",CNN Espanol
+http://216.28.215.14:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="LATIN",Canal Caracol
+http://216.28.215.14:8000/play/a0f6/index.m3u8
+#EXTINF:-1 group-title="LATIN",Canal Estrellas
+http://216.28.215.14:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="LATIN",Canal Institucional
+http://216.28.215.14:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="LATIN",Canal RCN
+http://216.28.215.14:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="LATIN",Canal Uno
+http://216.28.215.14:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="LATIN",Canal del Congreso
+http://216.28.215.14:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="LATIN",Capital
+http://216.28.215.14:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="LATIN",Cartoon Network
+http://216.28.215.14:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="LATIN",Cinecanal
+http://216.28.215.14:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="LATIN",Cinemax
+http://216.28.215.14:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="LATIN",City TV
+http://216.28.215.14:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="LATIN",DHE HD
+http://216.28.215.14:8000/play/a0cv/index.m3u8
+#EXTINF:-1 group-title="LATIN",Discovery Channel
+http://216.28.215.14:8000/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="LATIN",Discovery ID
+http://216.28.215.14:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="LATIN",Discovery Kids
+http://216.28.215.14:8000/play/a0ez/index.m3u8
+#EXTINF:-1 group-title="LATIN",Discovery Theater HD
+http://216.28.215.14:8000/play/a0et/index.m3u8
+#EXTINF:-1 group-title="LATIN",Discovery Turbo
+http://216.28.215.14:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="LATIN",Discovery World HD
+http://216.28.215.14:8000/play/a0eu/index.m3u8
+#EXTINF:-1 group-title="LATIN",Disney Channel
+http://216.28.215.14:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="LATIN",Disney Jr
+http://216.28.215.14:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="LATIN",E Entertainment
+http://216.28.215.14:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="LATIN",ESPN
+http://216.28.215.14:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="LATIN",ESPN 2
+http://216.28.215.14:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="LATIN",ESPN 2 Latin
+http://216.28.215.14:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="LATIN",ESPN 3
+http://216.28.215.14:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="LATIN",ESPN 3 HD
+http://216.28.215.14:8000/play/a0eq/index.m3u8
+#EXTINF:-1 group-title="LATIN",ESPN 4 HD
+http://216.28.215.14:8000/play/a0f5/index.m3u8
+#EXTINF:-1 group-title="LATIN",ESPN 5
+http://216.28.215.14:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="LATIN",ESPN 5 HD
+http://216.28.215.14:8000/play/a0er/index.m3u8
+#EXTINF:-1 group-title="LATIN",ESPN 6
+http://216.28.215.14:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="LATIN",ESPN 6 HD
+http://216.28.215.14:8000/play/a0ep/index.m3u8
+#EXTINF:-1 group-title="LATIN",ESPN 7
+http://216.28.215.14:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="LATIN",ESPN 7HD
+http://216.28.215.14:8000/play/a0d9/index.m3u8
+#EXTINF:-1 group-title="LATIN",ESPN CO
+http://216.28.215.14:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="LATIN",ESPN Premium HD
+http://216.28.215.14:8000/play/a0es/index.m3u8
+#EXTINF:-1 group-title="LATIN",El Gourmet HD
+http://216.28.215.14:8000/play/a0ew/index.m3u8
+#EXTINF:-1 group-title="LATIN",Enlace
+http://216.28.215.14:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="LATIN",Esne TV
+http://216.28.215.14:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="LATIN",FX
+http://216.28.215.14:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="LATIN",HBO
+http://216.28.215.14:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="LATIN",HBO 2
+http://216.28.215.14:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="LATIN",HBO Family
+http://216.28.215.14:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="LATIN",HBO Family HD
+http://216.28.215.14:8000/play/a0ca/index.m3u8
+#EXTINF:-1 group-title="LATIN",HBO POP HD
+http://216.28.215.14:8000/play/a0ex/index.m3u8
+#EXTINF:-1 group-title="LATIN",HBO Plus
+http://216.28.215.14:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="LATIN",HBO XTREME HD
+http://216.28.215.14:8000/play/a0cu/index.m3u8
+#EXTINF:-1 group-title="LATIN",HBO Xtreme SD
+http://216.28.215.14:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="LATIN",History Channel
+http://216.28.215.14:8000/play/a0e0/index.m3u8
+#EXTINF:-1 group-title="LATIN",History Channel HD
+http://216.28.215.14:8000/play/a0d7/index.m3u8
+#EXTINF:-1 group-title="LATIN",HomeandHealth
+http://216.28.215.14:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="LATIN",ID HD
+http://216.28.215.14:8000/play/a0dc/index.m3u8
+#EXTINF:-1 group-title="LATIN",IPUC
+http://216.28.215.14:8000/play/a0d4/index.m3u8
+#EXTINF:-1 group-title="LATIN",Las Estrellas HD
+http://216.28.215.14:8000/play/a0cd/index.m3u8
+#EXTINF:-1 group-title="LATIN",Lifetime
+http://216.28.215.14:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="LATIN",MEGA HD
+http://216.28.215.14:8000/play/a0ey/index.m3u8
+#EXTINF:-1 group-title="LATIN",MTV
+http://216.28.215.14:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="LATIN",Nat Geo HD
+http://216.28.215.14:8000/play/a0d8/index.m3u8
+#EXTINF:-1 group-title="LATIN",National Geographic
+http://216.28.215.14:8000/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="LATIN",Nick Jr
+http://216.28.215.14:8000/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="LATIN",Nickelodeon
+http://216.28.215.14:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="LATIN",Pasiones HD
+http://216.28.215.14:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="LATIN",RCN Novelas
+http://216.28.215.14:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="LATIN",STAR CHANNEL
+http://216.28.215.14:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="LATIN",Senal Colombia
+http://216.28.215.14:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="LATIN",Sony
+http://216.28.215.14:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="LATIN",Sony HD
+http://216.28.215.14:8000/play/a0da/index.m3u8
+#EXTINF:-1 group-title="LATIN",Space
+http://216.28.215.14:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="LATIN",Studio Universal
+http://216.28.215.14:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="LATIN",TCM
+http://216.28.215.14:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="LATIN",TLC
+http://216.28.215.14:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="LATIN",TNT
+http://216.28.215.14:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="LATIN",TNT HD
+http://216.28.215.14:8000/play/a0f4/index.m3u8
+#EXTINF:-1 group-title="LATIN",TNT Novelas
+http://216.28.215.14:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="LATIN",TNT Novelas HD
+http://216.28.215.14:8000/play/a0em/index.m3u8
+#EXTINF:-1 group-title="LATIN",TNT Series HD
+http://216.28.215.14:8000/play/a0el/index.m3u8
+#EXTINF:-1 group-title="LATIN",TNT Sports Premiun HD
+http://216.28.215.14:8000/play/a0en/index.m3u8
+#EXTINF:-1 group-title="LATIN",TRO
+http://216.28.215.14:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="LATIN",TVE
+http://216.28.215.14:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="LATIN",Teleantioquia
+http://216.28.215.14:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="LATIN",Telecafe
+http://216.28.215.14:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="LATIN",Telecaribe
+http://216.28.215.14:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="LATIN",Teleislas
+http://216.28.215.14:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="LATIN",Telemundo
+http://216.28.215.14:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="LATIN",Telepacifico
+http://216.28.215.14:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="LATIN",Trece
+http://216.28.215.14:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="LATIN",USA SD
+http://216.28.215.14:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="LATIN",Universal
+http://216.28.215.14:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="LATIN",Universal Cinema SD
+http://216.28.215.14:8000/play/a0f1/index.m3u8
+#EXTINF:-1 group-title="LATIN",Universal Comedy SD
+http://216.28.215.14:8000/play/a0f2/index.m3u8
+#EXTINF:-1 group-title="LATIN",Universal Premiere SD
+http://216.28.215.14:8000/play/a0f0/index.m3u8
+#EXTINF:-1 group-title="LATIN",ViaX
+http://216.28.215.14:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="LATIN",Warner
+http://216.28.215.14:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="LATIN",Win
+http://216.28.215.14:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="LATIN",Winsport
+http://216.28.215.14:8000/play/a0do/index.m3u8
+#EXTINF:-1 group-title="LATIN",Zona Latina
+http://216.28.215.14:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="LATIN",Zoom
+http://216.28.215.14:8000/play/a02l/index.m3u8
+
 
 #------ Unifi TV分类开始 ------
 #EXTINF:-1 group-title="Unifi TV",TV1
@@ -1150,66 +1238,6 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&ch
 #KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
 https://get.perfecttv.net/myunifi.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=fifa3&kid=f88c0e6e-f2de-4f92-b7ce-07e50cb2d937
 
-#EXTINF:-1 group-title="STARHUB-NO.VPN",SurIa
-http://75.127.89.169:35441/endday20260630.php?id=1089
-#EXTINF:-1 group-title="STARHUB-NO.VPN",CH 5
-http://75.127.89.169:35441/endday20260630.php?id=1090
-#EXTINF:-1 group-title="STARHUB-NO.VPN",CH 8
-http://75.127.89.169:35441/endday20260630.php?id=1091
-#EXTINF:-1 group-title="STARHUB-NO.VPN",CH U
-http://75.127.89.169:35441/endday20260630.php?id=1092
-#EXTINF:-1 group-title="STARHUB-NO.VPN",翡翠台
-http://75.127.89.169:35441/endday20260630.php?id=1093
-#EXTINF:-1 group-title="STARHUB-NO.VPN",TVB星河(國)
-http://75.127.89.169:35441/endday20260630.php?id=1094
-#EXTINF:-1 group-title="STARHUB-NO.VPN",天映頻道(國)
-http://75.127.89.169:35441/endday20260630.php?id=1095
-#EXTINF:-1 group-title="STARHUB-NO.VPN",HUB娱家
-http://75.127.89.169:35441/endday20260630.php?id=1105#http://75.127.89.169:35441/endday20260630.php?id=1106
-#EXTINF:-1 group-title="STARHUB-NO.VPN",HUB娱家
-HUB娱家,http://rihou.cc:555/tv/[Hk]HUB娱家
-#EXTINF:-1 group-title="STARHUB-NO.VPN",HUB都會
-http://75.127.89.169:35441/endday20260630.php?id=1107#http://75.127.89.169:35441/endday20260630.php?id=1108
-#EXTINF:-1 group-title="STARHUB-NO.VPN",HUB都會
-HUB都会,http://rihou.cc:555/tv/[Hk]HUB都会
-#EXTINF:-1 group-title="STARHUB-NO.VPN",astro sensasi
-http://75.127.89.169:35441/endday20260630.php?id=1109
-#EXTINF:-1 group-title="STARHUB-NO.VPN",astro warna
-http://75.127.89.169:35441/endday20260630.php?id=1110
-#EXTINF:-1 group-title="STARHUB-NO.VPN",Mediacorp Suria
-http://75.127.89.169:35441/endday20260630.php?id=1111
-#EXTINF:-1 group-title="STARHUB-NO.VPN",HubSports1
-http://75.127.89.169:35441/endday20260630.php?id=1122
-#EXTINF:-1 group-title="STARHUB-NO.VPN",HubSports2
-http://75.127.89.169:35441/endday20260630.php?id=1123
-#EXTINF:-1 group-title="STARHUB-NO.VPN",HubSports3
-http://75.127.89.169:35441/endday20260630.php?id=1124
-#EXTINF:-1 group-title="STARHUB-NO.VPN",HubSports4
-http://75.127.89.169:35441/endday20260630.php?id=1125
-#EXTINF:-1 group-title="STARHUB-NO.VPN",HubSports5
-http://75.127.89.169:35441/endday20260630.php?id=1126
-#EXTINF:-1 group-title="STARHUB-NO.VPN",HubPremier1
-http://75.127.89.169:35441/endday20260630.php?id=1127
-#EXTINF:-1 group-title="STARHUB-NO.VPN",HubPremier2
-http://75.127.89.169:35441/endday20260630.php?id=1128
-#EXTINF:-1 group-title="STARHUB-NO.VPN",HubPremier3
-http://75.127.89.169:35441/endday20260630.php?id=1129
-#EXTINF:-1 group-title="STARHUB-NO.VPN",HubPremier4
-http://75.127.89.169:35441/endday20260630.php?id=1130
-#EXTINF:-1 group-title="STARHUB-NO.VPN",HubPremier5
-http://75.127.89.169:35441/endday20260630.php?id=1131
-#EXTINF:-1 group-title="STARHUB-NO.VPN",HubPremier6
-http://75.127.89.169:35441/endday20260630.php?id=1132
-#EXTINF:-1 group-title="STARHUB-NO.VPN",HubPremier7
-http://atryffad.usa3.345123.xyz/jrw.php?id=HubPremier7
-#EXTINF:-1 group-title="STARHUB-NO.VPN",SuperSport
-ttp://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports1
-#EXTINF:-1 group-title="STARHUB-NO.VPN",SuperSport2
-,http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports2
-#EXTINF:-1 group-title="STARHUB-NO.VPN",SuperSport3
-,http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports3
-#EXTINF:-1 group-title="STARHUB-NO.VPN"SuperSport4
-http://atryffad.usa3.345123.xyz/jrw.php?id=AstroSupersport4FHD
 
 #EXTM3U/output/manifest.mpd
 #EXTINF:-1 group-title="新加坡-HUB" tvg-id="ABC.Australia.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia HD
