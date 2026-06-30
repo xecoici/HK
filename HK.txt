@@ -5143,7 +5143,10 @@ https://cdn.19891230.eu.org/hk/now-333/index.m3u8
 http://tv24.site:80/play/live.php?mac=00:1A:79:EF:78:08&stream=500942&extension=ts&play_token=sguxwNKhk0
 #EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="SINGAPURA",Fairychild HD
 #KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
-
+EXTINF:-1 tvg-logo="" group-title="Sport",NHKbS8k
+https://xe.k-20.xyz/nhkbs8k
+EXTINF:-1 tvg-logo="" group-title="Sport",EURO SPORT 4K
+http://hanaiptv.com:8080/samQuNi96G/U6Z9mTNgRG/110713
 #EXTINF:-1 tvg-logo="" group-title="Radio",KLASIK FM
 https://28093.live.streamtheworld.com/RADIO_KLASIK.mp3
 EXTINF:-1 tvg-logo="" group-title="Radio",GOXUAN
