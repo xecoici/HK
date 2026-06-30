@@ -5392,7 +5392,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1556138&exte
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1950411
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="SPORT",ELEVEN
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=483973&extension=ts&play_token=GzOQgls8AA
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png?w=272" group-title="SPORT",ELEVEN PL
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png?w=272" group-title="SPORT",ELE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1544301&extension=ts&play_token=vEHrDv8457
 #EXTINF:-1 tvg-id="Hub.Premier.4.sg" group-title="SPORT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png?w=272",NOW Sport
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1556135&extension=ts&play_token=MN20bOQm9o
@@ -5440,6 +5440,10 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
 #EXTINF:-1 tvg-name="TNTSPORTS3HD" group-title="SPORT",NHK BS4K
 https://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-name="TNTSPORTS3HD" group-title="SPORT",NHK BS8K
+https://xe.k-20.xyz/nhkbs8k
+EXTINF:-1 tvg-name="TNTSPORTS3HD" group-title="SPORT",EUROSPORT 4K
+http://hanaiptv.com:8080/samQuNi96G/U6Z9mTNgRG/110713
 
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="🇹🇼 台湾频道",TTV
 http://74.91.26.218:82/live/ttv.m3u8
