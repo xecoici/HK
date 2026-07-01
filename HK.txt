@@ -1,54 +1,54 @@
 #EXTM3U
 #EXTINF:-1 logo="http://i.imgur.com/D1o9by9.png" tvg-id="9bd41a5c12e9c23b13d517aa867b7ca2" group-title="KT-KOREA",KBS JOY
-http://mdlstay.com:9981/stream/channelid/1545262235?ticket=4346C7471E835D0826B08879384AC0AFF014D291&profile=pass
+http://mdlstay.com:9981/stream/channelid/17097021?ticket=72C222087B3312F5B858CEC320BFB6F7D2BD7832&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="4b852da4eb23bf46a1d6d0fb92bbfa5a" group-title="KT-KOREA",SBS
-http://mdlstay.com:9981/stream/channelid/606963019?ticket=58684F4E95F9A4A0FFCC41A06561C340BDBB6BA1&profile=pass
+http://mdlstay.com:9981/stream/channelid/1846157086?ticket=9996913A18E01120D318A46E773799E9A0611277&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/XgibZbD.png" tvg-id="b6d61484fa49718af3d8332b22803d6b" group-title="KT-KOREA",KBS2
-http://mdlstay.com:9981/stream/channelid/68474550?ticket=F09B2512B2591BEF5C062DCAA99A5D7F4593A897&profile=pass
+http://mdlstay.com:9981/stream/channelid/307270065?ticket=650A861A19EDD57C7372B2F75512B5D31F95B30E&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/DJHN8M6.png" tvg-id="5b3c3d11da70ab4f09145bec5a0d37a8" group-title="KT-KOREA",OBS
-http://mdlstay.com:9981/stream/channelid/289225819?ticket=D8E2AE52B64D23565D0CB755B72C5E885B36B5C2&profile=pass
+http://mdlstay.com:9981/stream/channelid/2032192999?ticket=01CC41A916AE363CBD8C36667DB13F5BB66E546B&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/e31o5gw.png" tvg-id="3699dd962949f20c31e6ba1aa80960d2" group-title="KT-KOREA",KBS1
-http://mdlstay.com:9981/stream/channelid/383621430?ticket=D48C2AE7D7A930032C86862C0A6AA4F734CF7B58&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/WViFruZ.png" tvg-id="63e1e5a45a287774dc65da5dea3175ff" group-title="KT-KOREA",EBS1
-http://mdlstay.com:9981/stream/channelid/619045219?ticket=6EDCE114401F8B8A7995BB5FE7E5368126853150&profile=pass
+http://mdlstay.com:9981/stream/channelid/217809681?ticket=8FB33B5A00136E694C3619A251534B2ADE45C9A1&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/RIrBF4D.png" tvg-id="0628809cfad7d0c14a9def478f0e8288" group-title="KT-KOREA",EBS2
 http://mdlstay.com:9981/stream/channelid/478160902?ticket=CC05265C4EB9F55D3462DBFBFEC40A139A5CB0C7&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/duig32i.png" tvg-id="6a3ec278fd8de8c383ff5c9e6873f18a" group-title="KT-KOREA",MBC
-http://mdlstay.com:9981/stream/channelid/2025995882?ticket=9B0508918FFBF3FB9790595632F261725F37936E&profile=pass
+http://mdlstay.com:9981/stream/channelid/1673969627?ticket=724C3AE7ED3B73487C408C5033F0C630CFDF121D&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/YOYosLG.png" tvg-id="d4f4933c9fcd01980e345e4815a7cb5b" group-title="KT-KOREA",JTBC
 http://mdlstay.com:9981/stream/channelid/1016329428?ticket=409FC5BFAA61ABBA95A289E4C05B0519AFF1B11F&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/p0mvIJN.png" tvg-id="30dc33a53a4f92986cf98eec55278df4" group-title="KT-KOREA",MBN
 http://mdlstay.com:9981/stream/channelid/624155696?ticket=277B1D1FA866ECFB0A9D4B141D517B1D7F4ABA0B&profile=pass
+#EXTINF:-1 logo="http://mdlstay.com:9981/imagecache/12" tvg-id="25a6aeb146795db16d3097bdc78f9a9c" group-title="KT-KOREA",MBN+
+http://mdlstay.com:9981/stream/channelid/833529381?ticket=07741AA6499DDA2257C5F435E1960D3AC1D6E25F&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/OJ9A8fZ.png" tvg-id="18b1507f85c0cb33da83302a284f8fb0" group-title="KT-KOREA",tvN
-http://mdlstay.com:9981/stream/channelid/2135994648?ticket=C8CCE6A0B08C988DC7D362776974D2F12959B156&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/xti35f5.png" tvg-id="245742354f37b770cab2d4f074703571" group-title="KT-KOREA",채널A
-http://mdlstay.com:9981/stream/channelid/893540132?ticket=0F32DFB4489DECA42B06DE77EE2BE740E1CF0473&profile=pass
+http://mdlstay.com:9981/stream/channelid/955565526?ticket=D4B8DF2C8D26C52E63E69B63164D9FBCAA21C77F&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/xti35f5.png" tvg-id="245742354f37b770cab2d4f074703571" group-title="KT-KOREA",CH A
+http://mdlstay.com:9981/stream/channelid/1622534130?ticket=AB5654367146A5FA957D5AA84292EF1AF07C608B&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/ShJ5joR.png" tvg-id="7703285f2fead32617133f079196c0bb" group-title="KT-KOREA",TV조선
-http://mdlstay.com:9981/stream/channelid/1596457847?ticket=5C04DD9F79BC55B44EDF0192B98DAF44C6A91948&profile=pass
+http://mdlstay.com:9981/stream/channelid/941906384?ticket=6BABB736FFFF69FFBE8CAD7D2BAD2BAC8511CC29&profile=pass
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ENA_logo.svg" tvg-id="83226ebee0c11abb8aa6922caf49e2de" group-title="KT-KOREA",ENA
-http://mdlstay.com:9981/stream/channelid/1047405187?ticket=98015761199FC6F2A02A3ACCD9C3F96E24FAE0D0&profile=pass
+http://mdlstay.com:9981/stream/channelid/1306280877?ticket=B1AA25BFD552A9D820B5B574396428CDC2194BDA&profile=pass
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TvN_STORY_logo.png" tvg-id="c232b4bb3d10c3345fde7687d86904fe" group-title="KT-KOREA",tvN STORY
-http://mdlstay.com:9981/stream/channelid/1001665218?ticket=C32FA95084A50C6400F1A7B18B58915D65A3896E&profile=pass
+http://mdlstay.com:9981/stream/channelid/1142832611?ticket=8F0FC9384A8175F21CBDC65D6398A8F27B259B7A&profile=pass
 #EXTINF:-1 logo="https://i.namu.wiki/i/jfI0RegbDHMIf2XUfcReCOUP49yDRfvSCA9bzvxOE5MlZvapcuR4Kq4MGzj0OJaX4ooK5pRt8IlnFOwyPyv1G8hMqWfq2TFpm5LqbaPh9p8rAmvJnWXo_KJH9b_73ZW5aYWekgRLdoXU_s4rpxN3SA.svg" tvg-id="1fa1709bdf9a8e808b1687bb8f68ddf5" group-title="KT-KOREA",채널S
-http://mdlstay.com:9981/stream/channelid/460366111?ticket=615A007110B1C82367EE18737158BB52E9F89884&profile=pass
+http://mdlstay.com:9981/stream/channelid/279532969?ticket=5F6D0C5CB57862764A7AA56763226F37AA3CE580&profile=pass
 #EXTINF:-1 logo="https://i.namu.wiki/i/XwKaXG0Ho7mdekIHLKZg2v0hd2BeS9z4gOcMVGK_kHFfJEPANGKHa14LEEip4NQViggLXg49Z4D0k999nHOxPH9EWRbdN-AscVkcjJ8O9dSJ59kAxnLHATXpgh8SnG0CT5dE0pMQHBiYdVH3j9YjFhtuPA.svg" tvg-id="d5eaf386d5c3d340d88ec072e7502a54" group-title="KT-KOREA",ENA PLAY
 http://mdlstay.com:9981/stream/channelid/116648661?ticket=F1D7F6C2201CCFFBB025589D75B531BCC72A63A9&profile=pass
 #EXTINF:-1 logo="https://i.namu.wiki/i/2_uGa01KJlvVjYB0pfUTe0FjX_YVr28mwXHExSSlx60Hw0hf8UzcA1NHBMHauhj_v4APuE7LZd3b91sA29YOJWYt1M4-mCHJgUVJRjjuUJgqkCgmco8GdwF-lUXgOp0L9WwqOyUSihEqW_nTKZbL3w.webp" tvg-id="d5533a391ced214ee0d26f3e4258975b" group-title="KT-KOREA",MBN 플러스
 http://mdlstay.com:9981/stream/channelid/960123861?ticket=EE005EA18734CE2320AA6DF1A9E33ECCF642ACCB&profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/EwThLNU.png" tvg-id="cd019bb4e99a1dddbdb85443c8d75588" group-title="KT-KOREA",JTBC4
-http://mdlstay.com:9981/stream/channelid/882573773?ticket=33B607AAA9ACF175E07F0FAD344C93539287C2C2&profile=pass
+http://mdlstay.com:9981/stream/channelid/1282627649?ticket=DF72D7EEA81FFE93469969497A873A17B3FC5E46&profile=pass
 #EXTINF:-1 logo="https://i.namu.wiki/i/jdJ2wKwuEduYGmmxNbpV57hKJrpR_kGL5Xw0rrZV-VN8D0gKGVyDRo58wyKMr9PbBZc9LdIgoSCJppBnnhcbgiQ-HvMKP-Q92tVA7QZihyY5Ku-vgM4WDIUEJ0lEse29RPW7ZaK8BR2tvl2Et08fPA.svg" tvg-id="b262aad590c15d294e924f4bccaddd7e" group-title="KT-KOREA",채널S 플러스
 http://mdlstay.com:9981/stream/channelid/1437229746?ticket=15852B2FEF709D85DCEC6F5A73FA13103ECB0133&profile=pass
-#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",ITV
-http://mdlstay.com:9981/play/stream/mux/85dfe9d573724e71fb1f478f6eb0785f?title=207MHz%20%2F%20QAM256
-#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",Ch Btv
-http://mdlstay.com:9981/play/stream/mux/034534a6445541c55ee4ddfb777ed040?title=279.012MHz%20%2F%20QAM256
-#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",Korea Y
-http://mdlstay.com:9981/play/stream/mux/de3760531d6ef7429e93669e10eb0bfc?title=213MHz%20%2F%20QAM256
-#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",Korea X
-http://mdlstay.com:9981/play/stream/mux/98ceee36a685c2b6696f01ac5c53ec3b?title=219MHz%20%2F%20QAM256
-#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",SPOTV
-http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305429000000_0281
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",MPLEX
+http://mdlstay.com:9981/stream/channelid/1529633622?ticket=B5F363846ED577FF073EA0F7698BCBFA96C754E5&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",CMC
+ttp://mdlstay.com:9981/stream/channelid/610840873?ticket=BC8252827288E47EDD8D946AF88BED1DAA9CBDDE&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",MBC ON
+http://mdlstay.com:9981/stream/channelid/751252443?ticket=B47F320D6BC81B683459FA48B8D4901840D3FF38&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",WBC
+http://mdlstay.com:9981/stream/channelid/176704907?ticket=E0191D39A7B69EFE3CF9AAFD272D82E8896C0AF0&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",CH BTV
+http://mdlstay.com:9981/stream/channelid/56913152?ticket=DEFB7FC66FC565303E0A502163E0B25D45150947&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="KT-KOREA",MBC Eve
 http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305429000000_00bf
 #EXTINF:-1 tvg-logo="" group-title="KT-KOREA",Dramacube
@@ -56,15 +56,19 @@ http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT33
 #EXTINF:-1 tvg-logo="" group-title="KT-KOREA",Xone
 http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305417000000_010f
 #EXTINF:-1 tvg-logo="" group-title="KT-KOREA",Xone
-http://mdlstay.com:9981/play/stream/mux/c5da19e0ee40b07118e74b6bebc713c3?title=225MHz%20%2F%20QAM256
+http://mdlstay.com:9981/stream/channelid/1504303141?ticket=9CCF89C86D683E0E2FE4E10A8D4F0FE9788172BB&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="KT-KOREA",CH China
+http://mdlstay.com:9981/stream/channelid/765596256?ticket=BB16C1FFE37EB857AD3AF0EB0F58B53D1C50D909&profile=pass
 http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305417000000_0001
 #EXTINF:-1 tvg-logo="" group-title="KT-KOREA",E channel
+http://mdlstay.com:9981/stream/channelid/1928831507?ticket=835D0453BFBB2E915865C6B33816FDAF789B899E&profile=pass
 http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305411000000_024f
 #EXTINF:-1 tvg-logo="" group-title="KT-KOREA",CMC
 http://mdlstay.com:9981/play/stream/mux/99a75d85db833ea5cc384221e265dc2c?title=249.012MHz%20%2F%20QAM256
 #EXTINF:-1 tvg-logo="" group-title="KT-KOREA",NOW KOREA
 http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305423000000_00a1
+#EXTINF:-1 tvg-logo="" group-title="KT-KOREA",KOREA
+http://mdlstay.com:9981/stream/channelid/1748522581?ticket=21411360CF12C8680EB1665F0F5AD90B93F0CACF&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="KOREA-DTV",AXN
 http://jm14.modhospital.kr:9981/stream/channelid/49?ticket=2D699FEE978DEA8334C10403BBA3AAE935DD0508
