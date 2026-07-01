@@ -2579,8 +2579,8 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&ch
 #EXTINF:-1 group-logo="" group-title="ASTRO" tvg-id="huaheedai" tvg-logo="https://get.perfecttv.net/logo/huaheedai2.png" group-logo="" group-title ="",125 Hua Hee Dai
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
-https://get.perfecttv.net/dash2.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&channel=huaheedai
-
+https://get.perfecttv.net/dash2.mpd?username=vip_0v99vlkb&password=wNGqM2Kw&
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 #EXTINF:-1 group-logo="" group-title="ASTRO" tvg-id="iqiyi" tvg-logo="https://get.perfecttv.net/logo/iqiyi.png" ,126 iQIYI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
