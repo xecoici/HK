@@ -5266,6 +5266,7 @@ https://stream.rbs.revma.com/h77wwp48kxcwv
 https://22403.live.streamtheworld.com/987FMAAC.aac?1779863600376
 #EXTINF:-1 tvg-logo="" group-title="Radio",V channel
 https://listen.radioking.com/radio/453221/stream/508076
+
 #EXTINF:-1 tvg-id="1" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="Taiwan",民視第一台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=1
 #EXTINF:-1 tvg-id="2" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="Taiwan",民視台灣台
@@ -5945,8 +5946,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="Brunei",RTB Go Live FHD
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d0fabc707_0V7z.jpg" group-title="Juli",MTV China
-https://cdn.19891230.eu.org/api/MTV-Live/index.m3u8
+https://iptv.yang-1989.xyz/tw/64b2ch?token=63d5ece5c825689d5f1c11281093806c4a1f0f07d5ea78f0
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Juli",翡翠台
 http://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Juli",翡翠台
