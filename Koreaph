@@ -418,7 +418,8 @@ http://mnet.x10.mx/koreaiptv/cable/kbsradio.php?c=hanminjokradio
 http://mnet.x10.mx/koreaiptv/cable/kbsradio.php?c=jeju-musicfm 
 #EXTINF:-1 ch-number="1000" tvg-id="Music.Dummy.us" tvg-name="KBS 2FM (V-Radio)" tvg-logo="https://i.ibb.co/QvB8CjS/kbs2fm-removebg-preview.png" group-title="Audio Channels",KBS 2FM (V-Radio) 
 http://mnet.x10.mx/koreaiptv/cable/kbsradio.php?c=2fm-bora 
-#EXTINF:-1 ch-number="2000" tvg-id="SBS.kr" tvg-logo="http://image.tving.com/public_v4/portal/images/smr/logo_sbs.png" group-title="SD Feed",SBS SD http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsch6&streamName=sbsch62 
+#EXTINF:-1 ch-number="2000" tvg-id="SBS.kr" tvg-logo="http://image.tving.com/public_v4/portal/images/smr/logo_sbs.png" group-title="SD Feed",SBS SD
+http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsch6&streamName=sbsch62 
 #EXTINF:-1 ch-number="2001" tvg-id="MBC.kr" tvg-logo="https://i.ibb.co/1t8pMrY1/image.png" group-title="SD Feed",MBC SD 
 http://mnet.x10.mx/koreaiptv/cable/mbctv.php 
 #EXTINF:-1 ch-number="2002" tvg-id="JTBC.kr" tvg-logo="https://i.ibb.co/j9SQF3v2/image.png" group-title="SD Feed",JTBC SD 
