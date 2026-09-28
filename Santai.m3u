@@ -4499,8 +4499,54 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickelodeon/default/index.mpd
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_studio_universal_hd/default/index.mpd
 
 **********Converge-TV**********
+#EXTINF:-1 group-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/mux-wrd1.png"
 
-#EXTM3U
+
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxworld-logo-i1.png" group-title="🇵🇭CONVERGE🔓",MUX World
+https://live20.bozztv.com/giatvplayout7/giatv-209297/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxjuan-logo-i1.png" group-title="🇵🇭CONVERGE🔓",MUX Juan
+https://live20.bozztv.com/giatvplayout7/giatv-209323/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxdos-logo-i1.png" group-title="🇵🇭CONVERGE🔓",MUX Dos
+https://live20.bozztv.com/giatvplayout7/giatv-209333/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxtres-logo-i1.png" group-title="🇵🇭CONVERGE🔓",MUX Tres
+#https://live20.bozztv.com/giatvplayout7/giatv-209353/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxlife-logo-i1.png" group-title="🇵🇭CONVERGE🔓",MUX Life
+https://live20.bozztv.com/giatvplayout7/giatv-209362/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxmovies-logo-i1.png" group-title="🇵🇭CONVERGE🔓",MUX Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209412/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxnews-logo-i1.png" group-title="🇵🇭CONVERGE🔓",MUX News
+https://live20.bozztv.com/giatvplayout7/giatv-209306/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxsports-logo-i1.png" group-title="🇵🇭CONVERGE🔓",MUX Sports
+https://live20.bozztv.com/giatvplayout7/giatv-209395/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://i.imgur.com/E3q2kTu.png" group-title="🇵🇭CONVERGE🔓",Rage TV
+https://live20.bozztv.com/giatv/giatv-ragetv/ragetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://i.imgur.com/zcFUYC5.png" group-title="🇵🇭CONVERGE🔓",SineManila
+https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://i.imgur.com/E3q2kTu.png" group-title="🇵🇭CONVERGE🔓",BIHMTV
+https://live20.bozztv.com/giatv/giatv-bihmtv/bihmtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://i.imgur.com/zcFUYC5.png" group-title="🇵🇭CONVERGE🔓",RageMusicph
+https://live20.bozztv.com/giatv/giatv-ragemusictv/ragemusictv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxworld-logo-i1.png" group-title="🇵🇭CONVERGE🔓",MUX World (LIVE)
+https://live20.bozztv.com/akamaissh101/ssh101/muxtvnet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxnews-logo-i1.png" group-title="🇵🇭CONVERGE🔓",MUX News (LIVE)
+https://live20.bozztv.com/akamaissh101/ssh101/muxnewsnet/playlist.m3u8
+
 #EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" , HBO
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" , CNN INTERNATIONAL
@@ -13313,6 +13359,10 @@ https://livebytsctbu.vtvprime.vn/mean/ONSPORT10/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=	f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14;
 https://livebytsctbu.vtvprime.vn/mean/BONGDA_HD/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="onphimviet" group-title="🇻🇳VIETNAM🔓" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ONPHIMVIET.png", ON Phim Việt
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
 #EXTINF:-1 tvg-id="onphimviet" group-title="🇻🇳VIETNAM🔓" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ONPHIMVIET.png", ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
