@@ -12336,6 +12336,8 @@ https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w27
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="🇮🇩Kalbar🌳",RUAI TV
 https://stream2.smg.my/live/tvsplus_1080p2628kbs/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇮🇩Kalbar🌳",WWE
+http://85.237.89.160:9590/usa-s/WWE-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d0fabc707_0V7z.jpg" group-title="🇹🇼MYTV🔓",MTV China
 https://iptv.yang-1989.xyz/tw/64b2ch?token=63d5ece5c825689d5f1c11281093806c4a1f0f07d5ea78f0
