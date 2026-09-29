@@ -236,7 +236,11 @@ http://jm14.modhospital.kr:9981/stream/mux/_dev_dvb_adapter6_Hisilcon_LGDT330533
 #EXTM3U EPG url-tvg="https://iptv-epg.org/files/epg-kr.xml.gz", billed-msg="Korean IPTV 2.0 by Aly/hyunakim1992" 
 #EXTINF:-1 ch-number="5" tvg-id="JTBC.kr" tvg-logo="https://i.ibb.co/j9SQF3v2/image.png" group-title="🇰🇷IPTV-KOREA📡",JTBC HD 
 http://mnet.x10.mx/koreaiptv/cable/jtbc.php  
+https://zstv.zschannels.workers.dev/proxy?target=MicgJixreg9vcxl2cwogKVBXXnc_PSA6YyZ8Zzk8Ny9iIClQV150MDs7enwPIXhkbRU3fXFtfwkIYzc2bmgrcHx8eG42I3RkOg4ADWhqZ2Q9eysqb3MZY3B1MD0BDl9qYWFmbisrdnokaGp1fm1sC1sMOWNxZBk-JS8zLTYgNWI5bEwBHGkVIDk0KydreQU6Kgt8MQd4UHYzGR8Abh8gAgkLNzEGLz0QUHNwDykdZxEnA3dkJCYZMS9nElB2UBBjMDszOxM3fys9YXElGBxzVVwSEj0ZNQt6AR4AbB47FSwQbXRKEz0WPjsJLicFKBYlIzYdNl9oFz86Bhc4BAEmPhZtIwA8IW8NYUFsAwwTEgp4D3swK2s2ATYKDg8LMR8RBBo&expires=1790768318&token=lISnGQDIMCEVbJtkKNJbZ1maZ9CZE2q2zb9DH9dul3U
+http://125.188.136.121:9981/stream/channelid/1187985922?profile=pass
 #EXTINF:-1 ch-number="7" tvg-id="tvN.kr" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1600/C00551.png" group-title="🇰🇷IPTV-KOREA📡",tvN HD 
+https://zstv.zschannels.workers.dev/proxy?target=MicgJixreg9vcxl2cwogKVBXXnc_PSA6YyZ8ZzI0MCUieitPUFc9fTc5Mmt7CCVzemEHOmV6C38Ja2owYGkveitydjlidH8waAEPDG9gZ25uKnkqLGRtFXF9bTsPD1hua2JjaH98fS52Z2V0eWdsAQhdajZmc20IOSIrODM6Mjh6MgpMAX9gEgYwIiAtM2RsFyQ1Hgtdfn9qCQNnMywnHyMOMyd2BTgVVVoLY2I3OxEiACQlKD4bE3w3F3QPdSNqZDIyIjwUM3AsMhkWOBNuAUAWCxokBnwbOwYvDWEgG2ExdVR3LDEHbi4HIDkjEG1qNBYTMwlYbmMmHTwveQAlGCk7FBcBDgd3Q28dOzw0Ngd_KzMLHQVwAWINYXtPA2E8Az4ZeCIDKzArDzY_KHdDdGgePjVrKBo5IxIHEQMWEw1AY2EUKR08L3kAJQwZCikxGDZsb0BgaAUeNRwHfwcgACoeAngjE1N4TxcQHm85FngqLBAADGR-YgxQXlc7JyEkOmt6Cg8qKjs3JmwaX18JFGcNBGsweTkrKDMGBTJjOHdPTh8QYjMGDBoHAhU1IQ0YYx1NTG1pOWY4ciciBSFxIWZxMj8wbgBbYwoOFxwwDAIgFRQmICQQMlYKTTgELBknd3wIPhULOy4KeWZ9cQ93JWA-Gh0AeQh2aStwJTEyUkloHmEuOTwNDzc_FmtmbCpjFnoIUTcxHxsaOjwPPxEbLSo1FQVae0MfMDIaaHgefyctHDcZIBwrdltRbz5lNQp3ChghJgg2CRgTGFNaWzBgETBnKBgCDyYbAjsGbQt1ClwVNmVjNQwGDwIHCx41HCA8blhqbH4dBTgJfD8yFwg2EXs8aVhoWA4fJjxnKxsbGgctARQjbT1VcWoeMSQnHhgFdjwAFSYyIWcTSwh-Pj0tJBEnMAUwD2o8FngFKHhvUTcKMwwzBQB6fHMXJQglIBZhc107YSoBBiJ9HxUeemF3BzEmFGlYMyF5HztregoLERQSCBQXFnN6fwgUGwMaFA0ZCw&expires=1790768318&token=4gh3BOGg7T6nOhdWNynYMk0lXPBkwXfGPOFF0wa3vnc
+http://125.188.136.121:9981/stream/channelid/2048208325?profile=pass
 https://ff.hamsuehun.myds.me/alive/api/url.m3u8?m=url&s=tving&i=C00551&q=auto&apikey=YXBIV21YP9&u=Y 
 #EXTINF:-1 ch-number="19" tvg-id="KBS2.kr" tvg-logo="https://i.ibb.co/yX1F3Ct/KBS2-BI-wordmark-white.png" group-title="🇰🇷IPTV-KOREA📡",KBS2
 https://ff.hamsuehun.myds.me/alive/api/url.m3u8?m=url&s=wavve&i=K02&q=SD&apikey=YXBIV21YP9&u=Y 
@@ -247,6 +251,7 @@ https://ff.hamsuehun.myds.me/alive/api/url.m3u8?m=url&s=wavve&i=M01&q=auto&apike
 #EXTINF:-1 ch-number="2" tvg-id="채널A.kr" tvg-logo="https://image.ichannela.com/images/common/logo_rebrand_w.png" group-title="🇰🇷IPTV-KOREA📡",채널A HD 
 https://ff.hamsuehun.myds.me/alive/api/url.m3u8?m=url&s=wavve&i=C2501&q=auto&apikey=YXBIV21YP9&u=Y 
 #EXTINF:-1 ch-number="3" tvg-id="Mnet.kr" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1400/C00579.png" group-title="🇰🇷IPTV-KOREA📡",M.net HD 
+http://125.188.136.121:9981/stream/channelid/474737230?profile=pass
 http://mnet.x10.mx/mnet.m3u8
 #EXTINF:-1 ch-number="59" tvg-id="Info.Guide.Dummy.us" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1600/C00551.png" group-title="🇰🇷IPTV-KOREA📡",tvN International HD 
 https://d50a1g0nh14ou.cloudfront.net/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/master.m3u8 
@@ -10213,6 +10218,8 @@ https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/
 #EXTINF:-1 tvg-logo="https://pjytv.760515.xyz/logo/JTBC.png" group-title="🇰🇷📡",JTBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://tving-live-o2-xcdn.tving.com/o2/v1/019db87e92691eb80e7942932b5bd/019db87f02501eb80e7942932b5c0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTAzNTg0MDIsInBhdGgiOiIvbzIifQ.U26-7RKxgFggiXYz2iBal4vomRx5LFbux3TgnOcYqRw
+https://zstv.zschannels.workers.dev/proxy?target=MicgJixreg9vcxl2cwogKVBXXnc_PSA6YyZ8Zzk8Ny9iIClQV150MDs7enwPIXhkbRU3fXFtfwkIYzc2bmgrcHx8eG42I3RkOg4ADWhqZ2Q9eysqb3MZY3B1MD0BDl9qYWFmbisrdnokaGp1fm1sC1sMOWNxZBk-JS8zLTYgNWI5bEwBHGkVIDk0KydreQU6Kgt8MQd4UHYzGR8Abh8gAgkLNzEGLz0QUHNwDykdZxEnA3dkJCYZMS9nElB2UBBjMDszOxM3fys9YXElGBxzVVwSEj0ZNQt6AR4AbB47FSwQbXRKEz0WPjsJLicFKBYlIzYdNl9oFz86Bhc4BAEmPhZtIwA8IW8NYUFsAwwTEgp4D3swK2s2ATYKDg8LMR8RBBo&expires=1790768318&token=lISnGQDIMCEVbJtkKNJbZ1maZ9CZE2q2zb9DH9dul3U
+http://125.188.136.121:9981/stream/channelid/1187985922?profile=pass
 https://backup.760515.xyz/playlist/JTBC-playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pjytv.760515.xyz/logo/JTBC.png" group-title="🇰🇷📡",JTBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
@@ -10221,17 +10228,10 @@ https://zstv.zschannels.workers.dev/proxy?target=MicgJixreg9vcxl2cwogKVBXXnc_PSA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/JTBC-playlist.m3u8
 http://124.222.153.240/kakaotv/get_channel.php?channel=jtbc#.m3u8
-#EXTINF:-1 tvg-logo="https://pjytv.760515.xyz/logo/JTBC.png" group-title="🇰🇷📡",JTBC
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,URI="https://tving-live-o2-ktcdn.tving.com/o2/v1/019db87e92691eb80e7942932b5bd/019db87f02501eb80e7942932b5c0/vc1_audio_ko_ko.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5MjU1MDkwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=L83TCqTX~Yvc2u23Tuj0AcIOvGlEL~N0tMLsLGuVY0FOK~gSGYdlVJxFcjppi91DCXYzn7mHGKGdctV6T1j4jMr7unAN5l1lha6L83ouBeehVwY-5OODQ6cQUhG23VUWvakGrBOJn2eYJmrH4AVFLXDatGyyEorHBiVGX72nQ5zmnmTC0NnG20ccTtSSQU7HIbt6Q~ETGSO6gRiiE7mfXCb4H1qGERGX1THBdsvJcoTlVp6So3f0Mk7LFbAzu9tbk51aLOKtOr5jcGARx3ByZ-hOKoh~VLnNMmuzewE4lh7PasyX6rHYOPx9hWJE1wSlR4TED7jvClHJkMzOwIjawg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA",GROUP-ID="audio_0",LANGUAGE="ko",NAME="ko",DEFAULT=YES,AUTOSELECT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=2192000,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,PROGRAM-ID=0,AUDIO="audio_0"
-https://tving-live-o2-ktcdn.tving.com/o2/v1/019db87e92691eb80e7942932b5bd/019db87f02501eb80e7942932b5c0/vc1_video_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5MjU1MDkwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=L83TCqTX~Yvc2u23Tuj0AcIOvGlEL~N0tMLsLGuVY0FOK~gSGYdlVJxFcjppi91DCXYzn7mHGKGdctV6T1j4jMr7unAN5l1lha6L83ouBeehVwY-5OODQ6cQUhG23VUWvakGrBOJn2eYJmrH4AVFLXDatGyyEorHBiVGX72nQ5zmnmTC0NnG20ccTtSSQU7HIbt6Q~ETGSO6gRiiE7mfXCb4H1qGERGX1THBdsvJcoTlVp6So3f0Mk7LFbAzu9tbk51aLOKtOr5jcGARx3ByZ-hOKoh~VLnNMmuzewE4lh7PasyX6rHYOPx9hWJE1wSlR4TED7jvClHJkMzOwIjawg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
-#EXT-X-STREAM-INF:BANDWIDTH=1592000,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=960x540,PROGRAM-ID=0,AUDIO="audio_0"
-https://tving-live-o2-ktcdn.tving.com/o2/v1/019db87e92691eb80e7942932b5bd/019db87f02501eb80e7942932b5c0/vc1_video_stream4.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5MjU1MDkwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=L83TCqTX~Yvc2u23Tuj0AcIOvGlEL~N0tMLsLGuVY0FOK~gSGYdlVJxFcjppi91DCXYzn7mHGKGdctV6T1j4jMr7unAN5l1lha6L83ouBeehVwY-5OODQ6cQUhG23VUWvakGrBOJn2eYJmrH4AVFLXDatGyyEorHBiVGX72nQ5zmnmTC0NnG20ccTtSSQU7HIbt6Q~ETGSO6gRiiE7mfXCb4H1qGERGX1THBdsvJcoTlVp6So3f0Mk7LFbAzu9tbk51aLOKtOr5jcGARx3ByZ-hOKoh~VLnNMmuzewE4lh7PasyX6rHYOPx9hWJE1wSlR4TED7jvClHJkMzOwIjawg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
-
 #EXTINF:-1 tvg-logo="tvg-logo="https://pjytv.760515.xyz/logo/tvN.png" group-title="🇰🇷📡",tvN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://zstv.zschannels.workers.dev/proxy?target=MicgJixreg9vcxl2cwogKVBXXnc_PSA6YyZ8ZzI0MCUieitPUFc9fTc5Mmt7CCVzemEHOmV6C38Ja2owYGkveitydjlidH8waAEPDG9gZ25uKnkqLGRtFXF9bTsPD1hua2JjaH98fS52Z2V0eWdsAQhdajZmc20IOSIrODM6Mjh6MgpMAX9gEgYwIiAtM2RsFyQ1Hgtdfn9qCQNnMywnHyMOMyd2BTgVVVoLY2I3OxEiACQlKD4bE3w3F3QPdSNqZDIyIjwUM3AsMhkWOBNuAUAWCxokBnwbOwYvDWEgG2ExdVR3LDEHbi4HIDkjEG1qNBYTMwlYbmMmHTwveQAlGCk7FBcBDgd3Q28dOzw0Ngd_KzMLHQVwAWINYXtPA2E8Az4ZeCIDKzArDzY_KHdDdGgePjVrKBo5IxIHEQMWEw1AY2EUKR08L3kAJQwZCikxGDZsb0BgaAUeNRwHfwcgACoeAngjE1N4TxcQHm85FngqLBAADGR-YgxQXlc7JyEkOmt6Cg8qKjs3JmwaX18JFGcNBGsweTkrKDMGBTJjOHdPTh8QYjMGDBoHAhU1IQ0YYx1NTG1pOWY4ciciBSFxIWZxMj8wbgBbYwoOFxwwDAIgFRQmICQQMlYKTTgELBknd3wIPhULOy4KeWZ9cQ93JWA-Gh0AeQh2aStwJTEyUkloHmEuOTwNDzc_FmtmbCpjFnoIUTcxHxsaOjwPPxEbLSo1FQVae0MfMDIaaHgefyctHDcZIBwrdltRbz5lNQp3ChghJgg2CRgTGFNaWzBgETBnKBgCDyYbAjsGbQt1ClwVNmVjNQwGDwIHCx41HCA8blhqbH4dBTgJfD8yFwg2EXs8aVhoWA4fJjxnKxsbGgctARQjbT1VcWoeMSQnHhgFdjwAFSYyIWcTSwh-Pj0tJBEnMAUwD2o8FngFKHhvUTcKMwwzBQB6fHMXJQglIBZhc107YSoBBiJ9HxUeemF3BzEmFGlYMyF5HztregoLERQSCBQXFnN6fwgUGwMaFA0ZCw&expires=1790768318&token=4gh3BOGg7T6nOhdWNynYMk0lXPBkwXfGPOFF0wa3vnc
+http://125.188.136.121:9981/stream/channelid/2048208325?profile=pass
 https://backup.760515.xyz/playlist/tvN-playlist.m3u8
 #EXTINF:-1 tvg-logo="tvg-logo="https://pjytv.760515.xyz/logo/tvN.png" group-title="🇰🇷📡",tvN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
@@ -10284,19 +10284,29 @@ https://tving-live-o2-xcdn.tving.com/v1/ssai/manifest/019bd50ff2d61eb80e791c22ad
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs
 https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODkxODkyMDEsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImJhOWE1OWIyLTZhNmEtNGJkNS05NDNlLWIyMmQzMDZjYzU5ZSIsImlhdCI6MTc4OTE4MjAwMX0.MCyLASlsrfrcZPDXyhISz9MiZD2exNVreM0zZDLwFE8
 
-#EXTINF:-1 tvg-id="ENA.kr" tvg-name="ENA" group-title="🇰🇷📡" tvg-logo="https://iptv-epg.org/images/Q54_gNpFmI5og-1YA3UAROVVyno8gphBFg6t9SQoAaZVGOKPnicDqhIxM4bQZk7zKAtuYQ2RiLCgjZhmc6MEsDwEtuhnezf0g1AP",ENA
-http://39.119.198.141:9981/stream/channelid/752223483?profile=pass
+#EXTINF:-1 tvg-id="ENA.kr" tvg-name="ENA" group-title="🇰🇷📡" tvg-logo="https://iptv-epg.org/images/Q54_gNpFmI5og-1YA3UAROVVyno8gphBFg6t9SQoAaZVGOKPnicDqhIxM4bQZk7zKAtuYQ2RiLCgjZhmc6MEsDwEtuhnezf0g1AP ",ENA
+http://125.188.136.121:9981/stream/channelid/654593865?profile=pass
 http://124.222.153.240/kakaotv/get_channel.php?channel=ena
 http://124.222.153.240/kakaotv/get_channel.php?channel=ena#.m3u8
 #EXTINF:-1 ch-number=" tvg-id=" group-title="🇰🇷📡" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1900/C07381.png",OCN 
 http://124.222.153.240/kakaotv/get_channel.php?channel=ocn#.m3u8
+http://125.188.136.121:9981/stream/channelid/819203504?profile=pass
 #EXTINF:-1 ch-number=" tvg-id=" group-title="🇰🇷📡" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1900/C07381.png",OCN MOVIE
+http://125.188.136.121:9981/stream/channelid/1024902384?profile=pass
 http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies#.m3u8
 #EXTINF:-1 ch-number=" tvg-id=" group-title="🇰🇷📡" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1900/C07381.png",OCN MOVIE2
+http://125.188.136.121:9981/stream/channelid/1511706661?profile=pass
 https://k227.jk-cdn.com/watch/live.m3u8?video=super_action_540&sid=RfEVRrb8dFJHNZIkRpqR9iqf9EOypWWlsYEAsJAC&secret=fe0dcdfa0cae2ab1d4cde95ad6f8172a&time=1790344632
 http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies2
+#EXTINF:-1 ch-number=" tvg-id=" group-title="🇰🇷📡" tvg-logo=",SCREEN
+http://125.188.136.121:9981/stream/channelid/1575295684?profile=pass
+#EXTINF:-1 ch-number=" tvg-id=" group-title="🇰🇷📡" tvg-logo=",중화TV
+https://zstv.zschannels.workers.dev/proxy?target=MicgJixreg9vcxl2cwogKVBXXnc_PSA6YyZ8ZzI0MCUieitPUFc9fTc5Mmt7CCVzemEHOmV6C38Ja2oxMmwrfCt4cG9idH8waAEPDGkwNmI9KH4sLnh6YQd8ZWZcXQo_ZTdiZn14Kyh5bzZ2dTc7DgAOYzc3Z3p8Dz4mICY_KD8gcVQKTGJ2ZxAPISUnKTh6YAUpLRVtXX4cYw4BbiIrIBsoED81ex0zc1VaaGplNTIAJQcgLjYyCR5kPHF0DxYqbWY7IyU7EDhuICAUDjN1bgEjHwwYLRd7HD8NMQFzLQNqV3VUFCU2BWc_ACc9KA5heDkOGFUJWA1qIR81Pn4HIRM3NwYaGQVhd0MMFDw-PScAeC84FREXfRlpa2F7LApmPgovHn8mCDU8OQIuNE53QxdhGgISfi8dPSgMCwMODhhrQGMCHS4fNT5-ByEHBwY7PAA9Cm9AA2ECHDwNAHgDKx4mDA9gKHVTeCweFxxmKBF_LicODB5pZmlqUF40MiAjLStsfQ4Pbj91NQBqVXVqKCsaNRsvHwEeFQgEKH4TJ1ZwdDYeLAA3AHsGLiZqYTkUZBBhVQsuAAcCFiV-dwQpKiIzAjwFfXV0OxAcGQ4tf3k8Kg8pLSUYa0xtSB8DJi4NeiAIDXkWESV0MhxYUUokOAAdbg8OIjN1Kh4OCyUSVXx7YioTZC8MejYeNigKLBwSbm9XR28ZBjwHYxE8ZwsZPyI0PStWFA80Zhk0KCQDfRowMiZwBioLQWAIOX4fYi0CHmMedRNgICNgEmlcFA8ebBMJAAIDPXchAy9-FzoPWno9BWV7ci0CKhAWNwEXBCQJVn92IhphPxMcBSEhDmsJMTkXLGFvf2IaBT8LYzAkBjEPYXEtGAd_ek8IMHkwbSUTBRt2bjQWBjohbGxbaj4-YyEnIR06eQohAH5gaG13ejcnIwIWHSo7Bgc0YA0uBzJ3d1cPYy4BazkzLS0eAHZzeh86QBRpOzomexYqbH0OAA8YAAUMHHBzehwBExkKCxMKHQA&expires=1790768318&token=I3GsECbUarn7D506Yl3w-M1f8vjnSf44j-YHjXI7ZbY
 #EXTINF:-1 ch-number="3" tvg-id="Mnet.kr" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1400/C00579.png" group-title="🇰🇷📡",M.net HD 
+http://125.188.136.121:9981/stream/channelid/474737230?profile=pass
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d66afd810153d786553381d0e3/019d719c3005153d786553381d0f0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTAzNTg2NjAsInBhdGgiOiIvbzIifQ.zVIc5lLgw4dPVdRoH3dzKwyFdt7-ckmVacYdUMwARqk
+#EXTINF:-1 tvg-logo="https://pjytv.760515.xyz/logo/채널A.png" group-title="🇰🇷📡",DRAMAX
+http://125.188.136.121:9981/stream/channelid/812148861?profile=pass
 #EXTINF:-1 tvg-logo="https://pjytv.760515.xyz/logo/채널A.png" group-title="🇰🇷📡",채널A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://zstv.zschannels.workers.dev/proxy?target=MicgJixreg9vcxl2cwogKVBXXnc_PSA6YyZ8Zzk8Ny9iIClQV150MDs7enwPIXhkbRU3fXFtfwkIYzYwbmd7fS14Im42I3RkOg4AWj5kbWFmKip8b3MZY3B1MTsBAV1pZmYybnt6Kn15aWZyLzZrW18OODc3c20IOSIrODM6Mjh6MgpMAX9gEiIwJSwgb3IbNjgGZDpheFAVOh4dCX8YJwYCFTsjCzc2dlBzEwYuH24AIARzbzoqCzw3bHRQdjMZZDIyIjwUM3Q1MXN8PRN6c1U_GxU_ECQMfQUFNCoPJjdvd218KRo6FDcqDikjDjYaNy4uFlBfaHQ7MA82IhB2AjQ9ZA48Bgh3eAsOYiwjKXYKAAsUPSAAG2MeXGN7O2YfFRJ2&expires=1789303886&token=bTbbiA-b19MFDlBXCfmIfoMg-_m0jV1K-Ymz6d55t7k
