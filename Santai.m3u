@@ -878,6 +878,62 @@ https://srs.iyb983.cn/video/ybtv1/index.m3u8
 #EXTINF:-1 group-title="group-title="🇰🇷IPTV2-KOREA📡",YBTV-2 汉语综合频道
 https://srs.iyb983.cn/video/ybtv2/index.m3u8
 
+#EXTINF:-1 tvg-name="CNN Indonesia",ROCK ACTION
+http://202.169.224.203:8800/udp/239.9.1.1:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",HGTV
+http://202.169.224.203:8800/udp/239.9.1.3:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",TLC
+http://202.169.224.203:8800/udp/239.9.1.4:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",ASIAN FOOD NETWORK
+http://202.169.224.203:8800/udp/239.9.1.5:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",DISCOVERY CHANNEL
+http://202.169.224.203:8800/udp/239.9.1.6:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",ANIMAL PLANET
+http://202.169.224.203:8800/udp/239.9.1.7:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",ROCK ENTERTAINMENT
+http://202.169.224.203:8800/udp/239.9.1.8:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",CHAMPIONS TV 2 HD
+http://202.169.224.203:8800/udp/239.9.1.10:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",CHAMPIONS TV 3 HD
+http://202.169.224.203:8800/udp/239.9.1.11:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",CITRA DRAMA
+http://202.169.224.203:8800/udp/239.9.1.12:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",CITRA BIOSKOP
+http://202.169.224.203:8800/udp/239.9.1.15:1234
+#EXTINF:-1 tvg-name="CNN Indonesia" tvg-name="CNN Indonesia",NICKELODEON
+http://202.169.224.203:8800/udp/239.9.1.17:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",NICK JR
+http://202.169.224.203:8800/udp/239.9.1.18:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",DREAMWORKS
+http://202.169.224.203:8800/udp/239.9.1.19:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",KIX
+http://202.169.224.203:8800/udp/239.9.1.21:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",GEM CCM TV
+http://202.169.224.203:8800/udp/239.9.1.22:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",CELESTIAL MOVIES
+http://202.169.224.203:8800/udp/239.9.1.23:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",INDOSIAR HD
+http://202.169.224.203:8800/udp/239.9.1.25:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",HOREE TV
+http://H02.169.224.202:8800/udp/239.9.1.26:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",CITRA ENTERTAINMENT
+http://202.169.224.203:8800/udp/239.9.1.27:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",HIP HIP HOREEE
+http://202.169.224.203:8800/udp/239.9.1.28:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",SCTV HD
+http://202.169.224.203:8800/udp/239.9.1.29:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",BBC EARTH
+http://202.169.224.203:8800/udp/239.9.1.30:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",BBC LIFESTYLE
+http://202.169.224.203:8800/udp/239.9.1.31:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",MOJI TV HD
+http://202.169.224.203:8800/udp/239.9.1.32:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",MNC TV HD
+http://202.169.224.203:8800/udp/239.9.1.34:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",IDX HD
+http://202.169.224.203:8800/udp/239.9.1.36:1234
+#EXTINF:-1 tvg-name="CNN Indonesia",VTV HD
+http://202.169.224.203:8800/udp/239.9.1.39:1234
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f124427a-931e-47d1-ab50-1b29a7a3e406.jpg" group-title="🇮🇩INDONESIA🔓", Celestial Movies
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
