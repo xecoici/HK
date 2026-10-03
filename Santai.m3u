@@ -10351,7 +10351,8 @@ https://jmp2.uk/stvp-CA2000005K2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://tving-live-o2-xcdn.tving.com/o2/v1/019ed8854c2c1eb80e79cd7979dc2/019ed88d352d153d78653cb4bf7bdc/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTAzNTg2MjMsInBhdGgiOiIvbzIifQ.SN-tdFAh7p4gDrzG32jxFykkfPLlxsQoQutr8dfS5yI
 https://backup.760515.xyz/playlist/채널A플러스-playlist.m3u8
-
+#EXTINF:-1 ch-number=" tvg-id=" group-title="🇰🇷📡" tvg-logo=", K MOVIE
+https://dm5q5evajzvnz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-svz5xbnmxjdsz/93a2b497-526d-4838-8e13-a059766eecb5/0.m3u8
 #EXTINF:-1 tvg-logo="https://pjytv.760515.xyz/logo/채널A플러스.png" group-title="🇰🇷📡",채널A플러스
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
