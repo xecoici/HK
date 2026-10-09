@@ -2827,40 +2827,41 @@ https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_i
 #EXTINF:-1 tvg-logo=" group-title="🇸🇬SINGAPURA🔓",NEW KPOP
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇸🇬SINGAPURA🔓",AXN MEX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇸🇬SINGAPURA🔓",PBS Nature
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4f79d996c3449fea0186c921d601115:99c794f08ce50ebe75eb7e57f397f8e3
-https://cache3.zapitv.com/live/eds_c2/axn/dash_live_ez/axn.mpd
+#KODIPROP:inputstream.adaptive.license_key=c9d9ff22763b83b4ff72001f9ce632c5:b55821341a79541aba79b759cc823be1
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qi23sqygqv/out/v1/cb1c6fe397164335b456dd8a33cb821b/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇸🇬SINGAPURA🔓",PBS Documentaries
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d97cf2527ef9b9d20afd7dd446af50b:87713be5a27996ee6901bd46a791f06b
-https://otte.live.fly.ww.aiv-cdn.ne.../v1/aac8e6bb3b924bdf896032592ada5a3c/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5kgj4foeaa/out/v1/aac8e6bb3b924bdf896032592ada5a3c/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇸🇬SINGAPURA🔓",PBS Ken Burns
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a94324af694aae8210572186c7cf1c04:63c879aa2e3128d12e12ba6956c99c01
-https://otte.live.fly.ww.aiv-cdn.ne.../v1/94ef3b285f51419791b3b435ce449255/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zaf7e2tnmr/out/v1/94ef3b285f51419791b3b435ce449255/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇸🇬SINGAPURA🔓",PBS Travel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a37ce8d3160b036da8fd40ccf583ac41:0b82dcfa0995bbc6f382a3d8ef066ab9
-https://otte.live.fly.ww.aiv-cdn.ne.../v1/5d9a60deddcd460d8eb8d685dfe5e148/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mxbsynqple/out/v1/5d9a60deddcd460d8eb8d685dfe5e148/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇸🇬SINGAPURA🔓",PBS Genealogy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a1319db5711198dbbcef15051cd7ed4:fa19bbf85c39454ae1fe1044d9499e39
-https://otte.live.fly.ww.aiv-cdn.ne.../v1/2d032a09cb444d2b9fab58faf40db397/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3qnbo1nztd/out/v1/2d032a09cb444d2b9fab58faf40db397/cenc.mpd
+
 #EXTINF:-1 tvg-id="WeDoTVBigStories" group-title="🇸🇬SINGAPURA🔓" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/c2927cWD_Big_Stories.png",WeDoTV Big Stories
 https://amg00735-amg00735c19-astrosooka-singapore-6038.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedobigstories-astrosookasingapore/playlist.m3u8
 
@@ -8834,6 +8835,31 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRTM/index.m3u8
 
 #EXTM3U
+
+#EXTINF:-1 group-title="🇪🇸ZAPI TV", Universal Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5f329c4b801a5edb9a5aaf814d116b0e":"71a0806dd2999d5dcbddbdf7dcebe574","62280a1fea50530c8a1a0c3033697693":"d62597f8fb6e7a1a84584fa071ef8834","3317a330c1795a2395f35f64966c7f8e":"848631ea8ef0c2492f85008f443ba7ad"}
+https://unipluslivedash.akamaized.net/universalcomedyt0/manifest.mpd
+
+#EXTINF:-1 group-title="🇪🇸ZAPI TV", Universal Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"693c14512fe754679776b9352fa84fa2":"5c04eb44db6dfabcbb73be28408e831d","47b9ccb70c5c512f9195712d11923df6":"8a7dba41bad7d0f2a9ebecd3eaf9c2ff","e97732b12ed754588cd3e01e3e6ea7ee":"494c340693c70e21b4490c2ec6430627"}
+https://unipluslivedash.akamaized.net/universalcinemat0/manifest.mpd
+
+#EXTINF:-1 group-title="🇪🇸ZAPI TV", Universal Crime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d32ac134b9db51b3b9b5b3159dbd40a4":"7d9adfe9370b15ad52e128a1c1a2ff2e","1975774dfcbe5243a2b0ceaea09e3b91":"7c408bd106bf8bdf6c9fdde9bf35f6fc","4506a08548a4594bb6035540a1a4875c":"4b4a1be7658f95a60f0a112ecbc05e6c"}
+https://unipluslivedash.akamaized.net/universalcrimet0/manifest.mpd
+
+#EXTINF:-1 group-title="🇪🇸ZAPI TV", Universal Reality
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"25261b6f75ce58bc9be5e25b438e2af7":"dd8f7f46cb39d619f63a1b01ecdd0b78","e7e60190bf265d0db1090b8ed7c06c3a":"ed2a63ff6b077418967882439a2ab12a","5d494197700f5d238b86c9ef2c40cb1a":"171a6b6ba3b7acd781085c03036572e7"}
+https://unipluslivedash.akamaized.net/universalrealityt0/manifest.mpd
+
+#EXTINF:-1 group-title="🇪🇸ZAPI TV", Universal Premiere
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd"}
+https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
