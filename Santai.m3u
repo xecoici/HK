@@ -8835,7 +8835,7 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRT
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",🇪🇸
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5cc82e95b404a8287496cc16831eb8a:e06ac59ab359f26fc5dfb19b1c4c1677
 https://cache1.zapitv.com/live/eds_c2/24h_tve/dash_live_ez/24h_tve.mpd
@@ -9182,7 +9182,7 @@ https://cache3.zapitv.com/live/eds_c2/STAR_CHANNEL/dash_live_ez/STAR_CHANNEL.mpd
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Sundance TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b38b7dfd39b4d98b3cbf0f9650ee5d3:0eaac3e51c6b714f178556941e01e6ce
+#KODIPROP:inputstream.adaptive.license_key=8545f1728e7a4b159975317a9f7e9bbc:b2408458cb95419bd6413525c9952311
 https://cache1.zapitv.com/live/eds_c2/sundance_hd/dash_live_ez/sundance_hd.mpd
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Surf Channel
