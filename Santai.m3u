@@ -5012,7 +5012,7 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7a
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
-#EXTINF:-1 group-title="🇵🇭CONVERGE🔐" tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png", ANC Ph
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png", ANC Ph
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6d6e536f8fa4d8b93627af0128cf00d:e73c8dcfdea374ae576ced342f6c73a2
 https://abslive.akamaized.net/dash/live/2027618/anc-ph3/manifest.mpd
@@ -5029,20 +5029,20 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="🇵🇭CONVERGE🔐", Bein Sports 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="🇵🇭CONVERGE🔓", Bein Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=335DAD778109954503DCBB21DC92015F:24bfd75d436cbf73168a2a2dccd40281
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
-#EXTINF:-1 tvg-id="" group-title="🇵🇭CONVERGE🔐" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png", Bein Sports 2 AU
+#EXTINF:-1 tvg-id="" group-title="🇵🇭CONVERGE🔓" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png", Bein Sports 2 AU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="🇵🇭CONVERGE🔐", Bein Sports 3 HD AU
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="🇵🇭CONVERGE🔓", Bein Sports 3 HD AU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
@@ -5082,21 +5082,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
-#EXTINF:-1 group-title="🇵🇭CONVERGE🔐" tvg-id="" tvg-logo="https://i.imgur.com/ZOqMJfw.png",GMA Pinoy TV
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-id="" tvg-logo="https://i.imgur.com/ZOqMJfw.png",GMA Pinoy TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b5d15a7385546768aca9fd505ad5e16:f534393c84c1a9c17fa36bc3a4380981
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
 https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd
 
-#EXTINF:-1 group-title="🇵🇭CONVERGE🔐" tvg-id="" tvg-logo="https://p1.hiclipart.com/preview/960/979/640/tv-channel-icons-pack-gma-life-tv-color-png-icon.jpg" ,GMA Life TV
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-id="" tvg-logo="https://p1.hiclipart.com/preview/960/979/640/tv-channel-icons-pack-gma-life-tv-color-png-icon.jpg" ,GMA Life TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d308ef487f54107b7da758e195ecbd3:9d4004d4c065dd4b85ad5bd12c35386f
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
 https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd
 
-#EXTINF:-1 group-title="🇵🇭CONVERGE🔐" tvg-id="" tvg-logo="https://toppng.com/uploads/preview/ma-news-tv-logo-11563045262oxeappsxdb.png" ,GMA News TV
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-id="" tvg-logo="https://toppng.com/uploads/preview/ma-news-tv-logo-11563045262oxeappsxdb.png" ,GMA News TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5d848730e4a4f9b962290039dd2b96b:c959dc12f1bff5a66d030117fb7e9855
@@ -5110,7 +5110,7 @@ https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
-#EXTINF:-1 group-title="🇵🇭CONVERGE🔐" tvg-id="" tvg-logo="https://i.imgur.com/3BCg3pS.png",Movies Now
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-id="" tvg-logo="https://i.imgur.com/3BCg3pS.png",Movies Now
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
@@ -5123,7 +5123,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XETRxUk.png" group-title="🇵🇭CONVERGE🔐", Jeepney TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XETRxUk.png" group-title="🇵🇭CONVERGE🔓", Jeepney TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
 https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
@@ -5156,7 +5156,7 @@ https://cache07.zapitv.com/live/eds_c2/nat_geo_wild_hd/dash_live_ez/nat_geo_wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5211/default_primary.mpd
 
-#EXTINF:-1 group-title="🇵🇭CONVERGE🔐" tvg-id="" tvg-logo="https://i.imgur.com/WcYS3S3.png" ,Kapamilya Channel
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-id="" tvg-logo="https://i.imgur.com/WcYS3S3.png" ,Kapamilya Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=292dee4236d04054910e9706ee22626b:b7c5d3220f6eb6e042a2bcb367b5c09b
@@ -5199,75 +5199,75 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="",Discovery_Science_(English)
-#EXTINF:-1 group-title="🇵🇭CONVERGE🔐" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Discovery_Science_India_2013.png/revision/latest?cb=20240316200249",Discovery Science India
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Discovery_Science_India_2013.png/revision/latest?cb=20240316200249",Discovery Science India
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5458f45efedb4d6f8aa6ac76c85b621b":"dbf8a0a306a64525ba3012fd225370c0"}
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/index.mpd
 
-#EXTINF:-1 group-title="🇵🇭CONVERGE🔐" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Discovery_Turbo_2009.svg/revision/latest?cb=20191130171637",Discovery Turbo India
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Discovery_Turbo_2009.svg/revision/latest?cb=20191130171637",Discovery Turbo India
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c011525969e44b99a86059dbb3cdf4e8":"6700a5d93203417b8585f7de7dd1a09b"}
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/index.mpd
 
-#EXTINF:-1 group-title="🇵🇭CONVERGE🔐" tvg-id="" tvg-logo="https://i.imgur.com/fNnbBYC.jpeg",Korean Drama Active
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-id="" tvg-logo="https://i.imgur.com/fNnbBYC.jpeg",Korean Drama Active
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ed197e7253c04946903f03bad9afac91":"99ebb8683ea74b70a9fda1cbdc2cc1b4"}
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/index.mpd
 
-#EXTINF:-1 group-title="🇵🇭CONVERGE🔐" tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png",TLC India
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png",TLC India
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e48e7373d6be47ecab83a20849f6823e":"513ce07a2ee24ffdbe667eff5a9d46a8"}
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/index.mpd
 
-#EXTINF:-1 group-title="🇵🇭CONVERGE🔐" tvg-id="" tvg-logo="https://i.imgur.com/2eC2VJ9.png",Animal Planet HD India
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-id="" tvg-logo="https://i.imgur.com/2eC2VJ9.png",Animal Planet HD India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 
-#EXTINF:-1 group-title="🇵🇭CONVERGE🔐" tvg-id="" tvg-logo="https://freem3u.xyz/static/images/global/bbc-lifestyle.png",BBC Lifestyle
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-id="" tvg-logo="https://freem3u.xyz/static/images/global/bbc-lifestyle.png",BBC Lifestyle
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58b949986ed13294bc01b0f330abc527:23e8c5f2fe202906ac2d6554d9527299
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 
-#EXTINF:-1 group-title="🇵🇭CONVERGE🔐" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/Box_Hits_3D.png/revision/latest?cb=20230124143723&path-prefix=vi",Box Hits
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/Box_Hits_3D.png/revision/latest?cb=20230124143723&path-prefix=vi",Box Hits
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://livebytsctbu.vtvprime.vn/mean/BOXHIT/manifest.mpd
 
-#EXTINF:-1 group-title="🇵🇭CONVERGE🔐" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/Box_Movie_1_logo_2023.png/revision/latest?cb=20230515132648&path-prefix=vi",Box Movie 1
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/Box_Movie_1_logo_2023.png/revision/latest?cb=20230515132648&path-prefix=vi",Box Movie 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://livebytsctbu.vtvprime.vn/mean/BM1/manifest.mpd
 
-#EXTINF:-1 group-title="🇵🇭CONVERGE🔐" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest?cb=20230123164105&path-prefix=vi",Hollywood Classics
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest?cb=20230123164105&path-prefix=vi",Hollywood Classics
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://livebytsctbu.vtvprime.vn/mean/HC/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="🇵🇭CONVERGE🔐",MNX HD 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="🇵🇭CONVERGE🔓",MNX HD 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e 
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg" group-title="🇵🇭CONVERGE🔐",MN+ 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg" group-title="🇵🇭CONVERGE🔓",MN+ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e 
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Romedy_Now_2019_Black.jpg" group-title="🇵🇭CONVERGE🔐",Romedy Now 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Romedy_Now_2019_Black.jpg" group-title="🇵🇭CONVERGE🔓",Romedy Now 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e 
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
@@ -5288,7 +5288,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/403/403.mpd
 #KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
-#EXTINF:-1 group-title="🇵🇭CONVERGE🔐" tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ZeeCinema_2025.png",Z Cinema India
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ZeeCinema_2025.png",Z Cinema India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
@@ -8833,494 +8833,433 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 tvg-id="RTMK04" tvg-name="BERITA RTM" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/NEWS-LOGO/refs/heads/main/BERITA%20RTM.png" group-title="🇲🇾ASTRO🔐",BERITA RTM
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRTM/index.m3u8
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>RADIO MALAYSIA
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/988%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",988 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/8%20Fm.png" group-title="🇲🇾RADIO MALAYSIA📻",8FM
-https://stream.rcs.revma.com/qp0xrd9mtd3vv/11_1cafl4qraqbr402/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Ai%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",AI FM
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L2HWbPzhK8sFZXFRCZnzvw", "kid":"mdAGD00zM76QsMrmrdtDEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/140/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=e5cc82e95b404a8287496cc16831eb8a:e06ac59ab359f26fc5dfb19b1c4c1677
+https://cache1.zapitv.com/live/eds_c2/24h_tve/dash_live_ez/24h_tve.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Ai%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",AI FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Alam%20Maya%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",ALAM MAYA FM
-http://192.99.8.192:3142/stream
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Alam%20Seni%20Fm.png" group-title="🇲🇾RADIO MALAYSIA📻",ALAM SENI FM
-http://s1.cmesolution.my:6178/;stream.mp3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Amboi%20Fm.png" group-title="🇲🇾RADIO MALAYSIA📻",AMBOI FM
-https://amboifm.iradio.work:8000/stream
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Asyik%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",ASYIK FM
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",A Punt
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jBmOlxGeRtrZpNaT9agq/w", "kid":"ugGy9zx2Qy5kkJJ2fxBwEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=1d5d2d73938d43668573a714215e6ac8:e60925a48ff320265d0c5973c30cf203
+https://cache3.zapitv.com/live/eds_c2/a_punt_hd/dash_live_ez/a_punt_hd.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Asyik%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",ASYIK FM
-https://22273.live.streamtheworld.com/ASYIK_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Bapakku%20Fm.png" group-title="🇲🇾RADIO MALAYSIA📻",BAPAKKU FM
-https://servidor30-2.brlogic.com:7048/live
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Bayu%20Fm.png" group-title="🇲🇾RADIO MALAYSIA📻",BAYU
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",A3series
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9yw4BYGqEqAW6oh4nGecZw", "kid":"VRXU8iZk44bGL3zywWarEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/135/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=76322e6a6b954d549c289429922c867a:5965dab8679d9e6531166fa2883c3fd6
+https://cache1.zapitv.com/live/eds_c2/atreseries_hd/dash_live_ez/atreseries_hd.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Best%20Fm.png" group-title="🇲🇾RADIO MALAYSIA📻",BEST FM
-https://n22a-eu.rcs.revma.com/h34x4kgg9hhvv.m4a
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Bintulu%20FM.webp" group-title="🇲🇾RADIO MALAYSIA📻",BINTULU FM
-https://22273.live.streamtheworld.com/BINTULU_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Cats%20Fm.png" group-title="🇲🇾RADIO MALAYSIA📻",CATS FM
-https://s4.yesstreaming.net:7019/stream
-
-#EXTINF:-1 tvg-id="860" tvg-name="CLASSIC ROCK FM" tvg-country="MY" tvg-language="en"tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Classic%20Rock.png" tvg-url="" group-title="🇲🇾RADIO MALAYSIA📻",CLASSIC ROCK
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",AMC Break
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oGTVj6SdZ2FLBSq5qSo3XA", "kid":"dDd/nep1RTmU9/b17bCOEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/124/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=bf849c4337464c4682ec95f76b3af9fc:e2d1e53b9c63394e9db0090e2782a87f
+https://cache2.zapitv.com/live/eds_c2/blaze/dash_live_ez/blaze.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Ceria%20Fm.png" group-title="🇲🇾RADIO MALAYSIA📻",CERIA FM
-http://ceriafm.iradio.work:8080/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Ceritera%20Fm.png" group-title="🇲🇾RADIO MALAYSIA📻",CERITERA FM
-http://live.ceriterafm.my:8000
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/De'awan%20Fm.webp" group-title="🇲🇾RADIO MALAYSIA📻",DE’AWAN FM
-https://azuracast.shoutcastsolutions.com/radio/8120/radio.mp3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Delima%20Fm.png" group-title="🇲🇾RADIO MALAYSIA📻",DELIMA FM
-http://167.114.131.90:5610/;stream.nsv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Fm.png" group-title="🇲🇾RADIO MALAYSIA📻",ERA
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",AMC Crime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TVWfzBIFLZ5/zg+PZZK7oQ", "kid":"hSlCUcius3NonqoOqVh4EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=9f71d55c4b0e4c57871180bd06ce832a:55faa0cb0117cb7060972dfd4f87d537
+https://cache2.zapitv.com/live/eds_c2/crimen/dash_live_ez/crimen.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Fm.png" group-title="🇲🇾RADIO MALAYSIA📻",ERA
-https://stream.rcs.revma.com/crec9cmbv4uvv/14_1mxuqy6p1izr902/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Sabah.webp" group-title="🇲🇾RADIO MALAYSIA📻",ERA (SABAH)
-https://stream.rcs.revma.com/4p3nqmmbv4uvv/2_pb4xshnpxem902/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Sarawak.webp" group-title="🇲🇾RADIO MALAYSIA📻",ERA (SARAWAK)
-https://stream.rcs.revma.com/bkqfqkrbv4uvv/7_1um684sg3fitb02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Cintan.png" group-title="🇲🇾RADIO MALAYSIA📻",ERA CINTAN
-https://stream.rcs.revma.com/0z5mdyv711uvv/12_8100nev0v11a02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/ERA%20Flow.webp" group-title="🇲🇾RADIO MALAYSIA📻",ERA FLOW
-https://stream.rcs.revma.com/7g70h6v711uvv/13_gujhea6x6g0t02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20K%20Hit.webp" group-title="🇲🇾RADIO MALAYSIA📻",ERA K-HIT
-https://stream.rcs.revma.com/m1hzxaw711uvv/8_1j7pvp5b3y8r202/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Indie.webp" group-title="🇲🇾RADIO MALAYSIA📻",ERA INDIE
-https://stream.rcs.revma.com/qp67k3v711uvv/1_90g44x7bp2zm02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Nurock.webp" group-title="🇲🇾RADIO MALAYSIA📻",ERA NUROCK
-https://stream.rcs.revma.com/4fe3smw711uvv/15_18yf43y46q0zo02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Nusantera.webp" group-title="🇲🇾RADIO MALAYSIA📻",ERA NUSANTERA
-https://stream.rcs.revma.com/sgzunsw711uvv/7_1tp64fb9xvrs502/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Throwback.webp" group-title="🇲🇾RADIO MALAYSIA📻",ERA THROWBAEK
-https://stream.rcs.revma.com/uq3kmtw711uvv/8_9km8aut9q72f02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Fly%20FM.webp" group-title="🇲🇾RADIO MALAYSIA📻",FLY FM
-https://stream.rcs.revma.com/q17aka9mtd3vv/6_19pj9n9pvoh6p02/playlist.m3u8
-
-#EXTINF:-1 tvg-id="863" tvg-name="GEGAR FM" tvg-country="MY"tvg-language="MY" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Gegar%20Fm.webp" tvg-url="" group-title="🇲🇾RADIO MALAYSIA📻",GEGAR
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Antena 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oP7KOBC5InWSvYk7+58fiQ", "kid":"cLap0cX10nWszwqMUdv3EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=4b0df13e55ea4ea196c2da379ef34be5:336eacb3a4ec3c35dca11c848b1630ea
+https://cache4.zapitv.com/live/eds_c2/test/dash_live_ez/test.mpd
 
-#EXTINF:-1 tvg-id="863" tvg-name="GEGAR FM" tvg-country="MY"tvg-language="MY" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Gegar%20Fm.webp" tvg-url="" group-title="🇲🇾RADIO MALAYSIA📻",GEGAR
-https://stream.rcs.revma.com/cn0zcqsbv4uvv/4_ejlx9lzb14zo02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Gegar%20Hindi%20Power.webp" group-title="🇲🇾RADIO MALAYSIA📻",GEGAR HINDI POWER
-https://stream.rcs.revma.com/ggn4nww711uvv/16_1jvcsvi5sf2zg02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Gegar%20Hoh%20Btabuh.webp" group-title="🇲🇾RADIO MALAYSIA📻",GEGAR HOH BTABUH
-https://stream.rcs.revma.com/5u674yw711uvv/16_1c1frqv8qb5em02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Gegar%20Maghi%20Gelek.webp" group-title="🇲🇾RADIO MALAYSIA📻",GEGAR MAGHI GELEK
-https://stream.rcs.revma.com/97gya1w711uvv/7_1longra7dqcba02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Gegar%20Tradisi.webp" group-title="🇲🇾RADIO MALAYSIA📻",GEGAR TRADISI
-https://stream.rcs.revma.com/ad2y31w711uvv/3_uux2412lm9kd02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Gemersik%20FM.jpg" group-title="🇲🇾RADIO MALAYSIA📻",GEMERSIK FM
-http://51.79.219.206:8000/stream
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Gold.png" group-title="🇲🇾RADIO MALAYSIA📻",GOLD
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cVyEAdeCnJp8XWZZIsoT9g", "kid":"j5Ls30zRrFW8jHiPoZWGEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/125/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=e4f79d996c3449fea0186c921d601115:99c794f08ce50ebe75eb7e57f397f8e3
+https://cache3.zapitv.com/live/eds_c2/axn/dash_live_ez/axn.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/GO%20XUAN.png" group-title="🇲🇾RADIO MALAYSIA📻",GO XUAN
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",AXN Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7x584+UKeHiM4YMc6o4YfQ", "kid":"7nOKZ3dtFH6V+V3yfmJrEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=0cff80d5449a48e9a11865ef1532cecf:cd64df4904f900d2b513ecc7aa019b32
+https://cache1.zapitv.com/live/eds_c2/axn_white/dash_live_ez/axn_white.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Havoc%20Fm.png" group-title="🇲🇾RADIO MALAYSIA📻",HAVOC
-http://nebula.shoutca.st:8098/stream
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Hijau%20Fm.webp" group-title="🇲🇾RADIO MALAYSIA📻",HIJAU FM
-https://stream.radio.co/s4c9c7e0cb/listen
-
-#EXTINF:-1 tvg-id="852" tvg-name="Hits FM" tvg-country="MY"tvg-language="en"tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Hitz.png" tvg-url="" group-title="🇲🇾RADIO MALAYSIA📻",HITZ
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Baby TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ltoLvoO49UGU5CQo4f1mMg", "kid":"x1n0vBV7AKex26eHMZf8EA" } ], "type":"temporary" } 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=7556319f3ce54d51b955fa0887ee7388:d36a3893e796b5934d17fd866f133a82
+https://cache2.zapitv.com/live/eds_c2/BABYTV/dash_live_ez/BABYTV.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/HOT%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",HOT FM
-https://stream.rcs.revma.com/drakdf8mtd3vv/2_1pjpn0nyne6ry02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/IKIM%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",IKIM FM
-https://ais-sa8.cdnstream1.com/5035/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/ILA%20FM.jpg" group-title="🇲🇾RADIO MALAYSIA📻",ILA FM
-http://s1.cmesolution.my:5442/;stream.mp3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Impian%20Fm.webp" group-title="🇲🇾RADIO MALAYSIA📻",IMPIAN FM
-http://167.114.131.90:6156/;stream.mp3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/India%20Beat.png" group-title="🇲🇾RADIO MALAYSIA📻",INDIA BEAT
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Bemad
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PoSxc+iZchD9JwtwKUkang", "kid":"K06HO8k+/5WbojLh+gFvEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=101ae4e5db4f48b1ab2e3e7e51f2b879:fc243b64966d05458f20195bd1f892db
+https://cache4.zapitv.com/live/eds_c2/bemad_hd/dash_live_ez/bemad_hd.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Iras%20FM.jpg" group-title="🇲🇾RADIO MALAYSIA📻",IRAS FM
-http://167.114.131.90:5744/stream
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Jazz.png" group-title="🇲🇾RADIO MALAYSIA📻",JAZZ
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Boing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"soRWP83esHi1v+DvtoT/oQ", "kid":"G7q2ex+Vrpoy23OojDCBEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=d67836bb61bc468292412db53f3e193d:865826b7df4a6ce1493cde232531374e
+https://cache1.zapitv.com/live/eds_c2/boing/dash_live_ez/boing.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/JAZZ%20LOUNGE.png" group-title="🇲🇾RADIO MALAYSIA📻",JAZZ LOUNGE
-https://eu8.fastcast4u.com/proxy/lch?mp=/1
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Jei%20Fm.png" group-title="🇲🇾RADIO MALAYSIA📻",JEI FM
-https://usa3.fastcast4u.com/proxy/jeifm?mp=/1
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Johor%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",JOHOR FM
-https://28163.live.streamtheworld.com/JOHOR_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Kaban%20Fm.png" group-title="🇲🇾RADIO MALAYSIA📻",KABAN FM
-http://cloud.tujuh.my:8018/stream?type=.mp3/;
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Kcfm.png" group-title="🇲🇾RADIO MALAYSIA📻",KCFM
-http://radio.kcfm.org:8000/stream
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Kedah%20FM.webp" group-title="🇲🇾RADIO MALAYSIA📻",KEDAH FM
-https://28103.live.streamtheworld.com/KEDAH_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Kelantan%20Fm.png" group-title="🇲🇾RADIO MALAYSIA📻",KELANTAN FM
-https://28093.live.streamtheworld.com/KELANTAN_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/KENINGAU%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",KENINGAU FM
-https://28103.live.streamtheworld.com/KENINGAU_FMAAC
-
-#EXTINF:-1 tvg-id="868" tvg-name="KENYALANG FM" tvg-country="MY" tvg-language="MALAYSIASRWK" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/KENYALANG.webp" tvg-url="" group-title="🇲🇾RADIO MALAYSIA📻",KENYALANG
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",BOM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7zs6Ncey+e6wIqUknzzWA", "kid":"/dlpDENjHqxn2/sRptalEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=8df5a3f34e3704054b227fde34f43af56:02b1a6bf383548305e3d9a3447696d62
+https://cache1.zapitv.com/live/eds_c2/bom/dash_live_ez/bom.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/KL%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",KL FM
-https://22273.live.streamtheworld.com/KL_FMAAC.aac
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Klasik%20Fm.png" group-title="🇲🇾RADIO MALAYSIA📻",KLASIK FM
-https://28103.live.streamtheworld.com/RADIO_KLASIKAAC.aac
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/KLATEKITA%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",KLATEKITA FM
-http://s6.voscast.com:9748/;stream.nsv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/KOOL101%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",KOOL101 FM
-https://stream.rcs.revma.com/3930238mtd3vv/2_1qs9hosuwug5902/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Kuala%20Sentul%20Dihati%20Fm.jpg" group-title="🇲🇾RADIO MALAYSIA📻",KUALA SENTUL DIHATI FM
-http://51.79.219.202:8000/stream
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/KUPI%20KUPI%20FM%20SABAH.png" group-title="🇲🇾RADIO MALAYSIA📻",KUPI KUPI FM SABAH
-https://stream.rcs.revma.com/axht8yawe1bwv/2_18wn0vtfz96i402/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/KUPI%20KUPI%20FM%20SARAWAK.png" group-title="🇲🇾RADIO MALAYSIA📻",KUPI KUPI FM SARAWAK
-https://stream.rcs.revma.com/vx54zkbwe1bwv/3_j71se4uny0me02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/LABUAN%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",LABUAN FM
-https://22243.live.streamtheworld.com/LABUAN_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Langkawi%20FM.webp" group-title="🇲🇾RADIO MALAYSIA📻",LANGKAWI FM
-https://22273.live.streamtheworld.com/LANGKAWI_FMAAC.aac
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/LIMBANG%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",LIMBANG FM
-https://22273.live.streamtheworld.com/LIMBANGAAC.aac
-
-#EXTINF:-1 tvg-id="854" tvg-name="LITE FM"tvg-country="MY"tvg-language="en"tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/LITE.png" tvg-url="" group-title="🇲🇾RADIO MALAYSIA📻",LITE
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Calle 13
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tZ1I5dpeNKHRe8tujMNiZw", "kid":"6Ks1BJHgUSgjWFnxJyJbEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=29e88896154e4a7092acfcfdb4a0b094:8d306e5637e8bc48c105a3ad3f7e313d
+https://cache3.zapitv.com/live/eds_c2/calle_13/dash_live_ez/calle_13.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/LTFM.png" group-title="🇲🇾RADIO MALAYSIA📻",LTFM
-http://live.ltfmonline.com:8000/stream
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/MACC%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",MACC FM
-https://listen.radioking.com/radio/560261/stream/619850
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/MANIS%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",MANIS FM
-https://stream.rcs.revma.com/7bmtzk1z403vv/6_1i22gkaums46d02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Minnal%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",MINNAL FM
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Canal Cocina
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0gEeMrUkoC5Dl44aBmOUvQ", "kid":"SiQocCxmIgzhBdXLogM0EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/139/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=b895f8398b3b44518d8621a398955f92:52de81ee55dffe8d0dd1a25d9ebf4460
+https://cache2.zapitv.com/live/eds_c2/cocina_hd/dash_live_ez/cocina_hd.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Minnal%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",MINNAL FM
-https://22273.live.streamtheworld.com/MINNAL_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Miri%20FM.webp" group-title="🇲🇾RADIO MALAYSIA📻",MIRI FM
-https://28163.live.streamtheworld.com/MIRI_FMAAC
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/MIX.png" group-title="🇲🇾RADIO MALAYSIA📻",MIX
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Canal Cofrade
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=c7d11462471548fab8d274ed1a7bb5bc:eb8cfdb0ed33dd364d5698c96a3f36ab
+https://cache4.zapitv.com/live/eds_c2/cofrade_ptv/dash_live_ez/cofrade_ptv.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Melaka%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",MELAKA FM
-https://28153.live.streamtheworld.com/MELAKA_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/MELODY.png" group-title="🇲🇾RADIO MALAYSIA📻",MELODY
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Canal Hollywood
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bfUsRrGTUi/odCCTjgKXWQ", "kid":"003ElwH5wiufILqrsnrUEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/132/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=a4774c7986534082915872011ee53254:02df9bdd2b14598cdc7a356e459948d9
+https://cache3.zapitv.com/live/eds_c2/hollywood_hd/dash_live_ez/hollywood_hd.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Molek%20FM.webp" group-title="🇲🇾RADIO MALAYSIA📻",MOLEK FM
-https://stream.rcs.revma.com/z56xa78mtd3vv/16_q0v5zs8l1wqp02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Mutiara%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",MUTIARA FM
-https://28153.live.streamtheworld.com/MUTIARA_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/MY.png" group-title="🇲🇾RADIO MALAYSIA📻",MY
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Canal Sur
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Qz+mjW7JgGdclrta4uAXiQ", "kid":"j2GMEpVaxcQx9fkBRRydEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/119/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=23d16f5cb38b407493aa7d35a36920bc:4f1e2d6bddeaf0d082b846f04c41cbc5
+https://ciades.providers.com.ar/TNTSERIES/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/MY%20FRIEND%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",MY FRIEND FM
-https://cast3.asurahosting.com/proxy/myfriend/stream
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/MYKAMPUS%20RADIO.png" group-title="🇲🇾RADIO MALAYSIA📻",MYKAMPUS RADIO
-https://usa10.fastcast4u.com/voicespl
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/MY%20SUARA%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",MY SUARA FM
-http://s9.voscast.com:7670/;stream.mp3
-
-#EXTINF:-1 tvg-id="869" tvg-name="NASIONAL FM"tvg-country="MY"tvg-language="MALAY"tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/NAS%20FM.png" tvg-url="" group-title="🇲🇾RADIO MALAYSIA📻",NAS FM
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",CMM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nAgyqNvDbSq1iSYA6mlg/Q", "kid":"rowgBwxwYzOtEyMPBUEcEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/129/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=1c1416cdc64048359b2d4a2662c9440d:78d4a97beeceed5afa8d904441a9e03f
+https://cache1.zapitv.com/live/eds_c2/cmt_hd/dash_live_ez/cmt_hd.mpd
 
-#EXTINF:-1 tvg-id="869" tvg-name="NASIONAL FM"tvg-country="MY"tvg-language="MALAY"tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/NAS%20FM.png" tvg-url="" group-title="🇲🇾RADIO MALAYSIA📻",NAS FM
-https://28163.live.streamtheworld.com/NASIONAL_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/NASYID%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",NASYID FM
-http://stereo.nasyidfm.com:8000/;stream.nsv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Negeri%20Fm.webp" group-title="🇲🇾RADIO MALAYSIA📻",NEGERI FM
-https://22273.live.streamtheworld.com/NEGERI_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/OPUS.png" group-title="🇲🇾RADIO MALAYSIA📻",OPUS
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Comedy Central
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sLl8yh+eMRoJ0zJlyFog6A", "kid":"oU+aFEUKlgMrEG1O6BgTEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/120/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=4c494321b1cc4130a9434e045dd6ebb6:cd069d281de9589fb46915a6e77513f9
+https://cache4.zapitv.com/live/eds_c2/comedy_central/dash_live_ez/comedy_central.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/OSAI.png" group-title="🇲🇾RADIO MALAYSIA📻",OSAI
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Cuatro
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"y4svIZDNhLYuaHb8xr8kvw", "kid":"CC5RY5jF6hXWuc2lciR8EA" } ], "type":"temporary" } 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/131/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=7d3e3f1b8198490ba7bfff0e123a619c:6c55ac488ea2ea16826d02a2838b8ba6
+https://cache2.zapitv.com/live/eds_c2/cuatro/dash_live_ez/cuatro.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/PAHANG%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",PAHANG FM
-https://28103.live.streamtheworld.com/PAHANG_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/PAKCIKKU%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",PAKCIKKU FM
-http://bluford.torontocast.com:8078/slowradio32
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/PERAK%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",PERAK FM
-https://22273.live.streamtheworld.com/PERAK_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/PERLIS%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",PERLIS FM
-https://28153.live.streamtheworld.com/PERLIS_FMAAC.aac
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/RADIO%20ROSAK.png" group-title="🇲🇾RADIO MALAYSIA📻",RADIO ROSAK
-https://radiorosak.radioca.st/stream
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/RAAGA.png" group-title="🇲🇾RADIO MALAYSIA📻",RAAGA
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Dark
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BYeQ+4hhPmpxAoqvoiWEAw", "kid":"jZum9isUpdVwayEAe8ITEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/134/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=00fc29c4bcd3455592b7fc2494ac59c6:dfda9f171bdaa93b17b8a240350f895c
+https://cache3.zapitv.com/live/eds_c2/DBIKE/dash_live_ez/DBIKE.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/RADIO%20AN%20NUR.png" group-title="🇲🇾RADIO MALAYSIA📻",RADIO AN NUR
-https://listen.radioannurmainj.my/proxy/radioannur/stream
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/RADIO%20KPKT.png" group-title="🇲🇾RADIO MALAYSIA📻",RADIO KPKT
-https://listen.kpkt.gov.my/proxy/radiokpkt/stream
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/RAKITA%20107.9.png" group-title="🇲🇾RADIO MALAYSIA📻",RAKITA 107.9
-https://22243.live.streamtheworld.com/RAKITAAAC/HLS/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/RED%20FM.webp" group-title="🇲🇾RADIO MALAYSIA📻",RED FM
-https://28163.live.streamtheworld.com/RED_FMAAC.aac
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SABAH%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",SABAH FM
-https://28103.live.streamtheworld.com/SABAH_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SABAH%20V%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",SABAH V FM
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",DBIKE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V9QpBgepo6Fj3gc4j831jQ", "kid":"7U3HtuIiXEVjTp1jJyqbEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/133/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=a2e493ff23fd424c88b1e0851020f3d7:5bc794392d56bb811819dc70d5265582
+https://ciades.providers.com.ar/COMEDIACENTRAL/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SABAH%20V%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",SABAH V FM
-https://28103.live.streamtheworld.com/SABAH_VFMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SANA%20SINI%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",SANA SINI FM
-https://cast1.asurahosting.com/proxy/sanasini/stream
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SANDAKAN%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",SANDAKAN FM
-https://28163.live.streamtheworld.com/SANDAKAN_FMAAC.aac
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SARAWAK%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",SARAWAK FM
-https://28163.live.streamtheworld.com/SARAWAK_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SELANGOR%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",SELANGOR FM
-https://22273.live.streamtheworld.com/SELANGOR_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SIBU%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",SIBU FM
-https://28163.live.streamtheworld.com/SIBU_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR.png" group-title="🇲🇾RADIO MALAYSIA📻",SINAR
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",De Película
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lFjtduhfGtiqfu/NvWKJCA", "kid":"evPsHy2wd65jdKAYy7SFEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=f2dae6ce91f84bafb52f7cf6594cb432:86956dd631e0c4c952d8463ecbbf9a9a
+https://cache4.zapitv.com/live/eds_c2/DEPELICULAS/dash_live_ez/DEPELICULAS.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR.png" group-title="🇲🇾RADIO MALAYSIA📻",SINAR
-https://stream.rcs.revma.com/azatk0tbv4uvv/6_1h7vqr08pndta02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR%20IRAMA%2070%E2%80%99.webp" group-title="🇲🇾RADIO MALAYSIA📻",SINAR IRAMA 70’
-https://stream.rcs.revma.com/bb4ey1g811uvv/7_1jnkqqlwj95p802/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR%20IRAMA%2080%E2%80%99.webp" group-title="🇲🇾RADIO MALAYSIA📻",SINAR IRAMA 80’
-https://stream.rcs.revma.com/xdz7f5g811uvv/9_sdr5jru44fg02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR%20I-MUSIK.webp" group-title="🇲🇾RADIO MALAYSIA📻",SINAR I-MUSIK
-https://stream.rcs.revma.com/m0mha6g811uvv/2_1a46z9fm6tl9e02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR%20IRAMALAYSIA.webp" group-title="🇲🇾RADIO MALAYSIA📻",SINAR IRAMALAYSIA
-https://stream.rcs.revma.com/mm13z8g811uvv/14_1dy2qfq5outhb02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR%20JIWANG.webp" group-title="🇲🇾RADIO MALAYSIA📻",SINAR JIWANG
-https://stream.rcs.revma.com/5s38zah811uvv/12_77qc1bi7nu6q02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR%20POP%20YEH%20YEH.webp" group-title="🇲🇾RADIO MALAYSIA📻",SINAR POP YEH YEH
-https://stream.rcs.revma.com/1scz4dh811uvv/7_1rr49i6ci7xdf02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR%20ROCK%20KAPAK.webp" group-title="🇲🇾RADIO MALAYSIA📻",SINAR ROCK KAPAK
-https://stream.rcs.revma.com/rz43weh811uvv/4_1tiuzdrilfkvr02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR%20SINEMA.png" group-title="🇲🇾RADIO MALAYSIA📻",SINAR SINEMA
-https://stream.rcs.revma.com/h67e7gh811uvv/16_4f1i8j1zuqj102/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SRI%20AMAN%20FM.webp" group-title="🇲🇾RADIO MALAYSIA📻",SRI AMAN FM
-https://22253.live.streamtheworld.com/SRIAMAN_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SUARA%20RAKYAT%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",SUARA RAKYAT FM
-http://s9.voscast.com:7670
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SURIA.png" group-title="🇲🇾RADIO MALAYSIA📻",SURIA
-https://28163.live.streamtheworld.com/SURIA_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/TAWAU%20FM.webp" group-title="🇲🇾RADIO MALAYSIA📻",TAWAU FM
-https://28103.live.streamtheworld.com/TAWAU_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/TERENGGANU%20FM.webp" group-title="🇲🇾RADIO MALAYSIA📻",TERENGGANU FM
-https://22243.live.streamtheworld.com/TERENGGANU_FMAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/TRAXX%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",TRAXX FM
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Disney Jr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hlolq6gTQWR5Gyl5PXuX2w", "kid":"dMauIP9+Me4qoYErx5MTEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/138/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=44875398e74743caabb7278f2b63433f:a1e2ad6d895feb2a609683324dd0b93c
+https://cache1.zapitv.com/live/eds_c2/DISNEYJR/dash_live_ez/DISNEYJR.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/TRAXX%20FM.png" group-title="🇲🇾RADIO MALAYSIA📻",TRAXX FM
-https://22273.live.streamtheworld.com/TRAXX_FMAAC.aac
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/VOSJ.png" group-title="🇲🇾RADIO MALAYSIA📻",VOSJ
-https://listen.radioking.com/radio/224413/stream/267892
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/WAI%20FM.webp" group-title="🇲🇾RADIO MALAYSIA📻",WAI FM
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Divinity
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vJ314WLFaSZpqOxjZsnk2w", "kid":"veR4S8ZOsyYWnRHBCgsVEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/137/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=ff72f557517743659f9bc369078030d0:2b69480bd2fba3fbbcb61cc2f58d5ee6
+https://cache3.zapitv.com/live/eds_c2/divinity/dash_live_ez/divinity.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/WAI%20FM.webp" group-title="🇲🇾RADIO MALAYSIA📻",WAI FM
-https://22243.live.streamtheworld.com/WAI_FM_IBANAAC
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/WAI%20FM.webp" group-title="🇲🇾RADIO MALAYSIA📻",WAI FM BIDAYUH / KAYAN
-https://28163.live.streamtheworld.com/WAI_FM_BKAAC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/ZAYAN.png" group-title="🇲🇾RADIO MALAYSIA📻",ZAYAN
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",DKISS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"isbT6tRhxcFJerJai9H2GQ", "kid":"+DZv2Gbg71ISaLU0RiA2EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=29d6b10da4aa427f9999f18d7bab8a79:66a8e1e396c40c8a5ba51bbfe020902b
+https://cache1.zapitv.com/live/eds_c2/dkiss_tv/dash_live_ez/dkiss_tv.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/ZAYAN.png" group-title="🇲🇾RADIO MALAYSIA📻",ZAYAN
-https://stream.rcs.revma.com/7ww2a4tbv4uvv
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",DMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2e2e464abaf44259abca6f7055fed52:2edcd9e9c03f400ca0058598d3a75a5b
+https://cache4.zapitv.com/live/eds_c2/dmax/dash_live_ez/dmax.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/ZAYAN%20HAWA%20TUNES.webp" group-title="🇲🇾RADIO MALAYSIA📻",ZAYAN HAWA TUNES
-https://stream.rcs.revma.com/9e7savh811uvv/11_l6iq9m1magta02/playlist.m3u8
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",El Toro TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc634337d0048939d4d3fbed8777540:5e49d4f13f57b69425784c801d442d5f
+https://cache2.zapitv.com/live/eds_c2/intereconomia/dash_live_ez/intereconomia.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/ZAYAN%20NASYEED.webp" group-title="🇲🇾RADIO MALAYSIA📻",ZAYAN NASYEED
-https://stream.rcs.revma.com/0q89dxh811uvv/16_1akwoe1eaa6w702/playlist.m3u8
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Energy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16ec4efb8a104ab1988e7ac01641dd99:b85140691173bc5bd4221aae4e45ed79
+https://cache4.zapitv.com/live/eds_c2/energy/dash_live_ez/energy.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/ZAYAN%20SURAH.webp" group-title="🇲🇾RADIO MALAYSIA📻",ZAYAN SURAH
-https://stream.rcs.revma.com/2uuaayh811uvv/4_1gj94jglz0wik02/playlist.m3u8
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Escapa TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf32d369c9dc48bbbb15148908663437:9d725bfb7f0310683dc06cf30d7195b1
+https://cache1.zapitv.com/live/eds_c2/escapatv/dash_live_ez/escapatv.mpd
+.
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Eurosport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f4751abc997473d9138d17b5944be04:a0aefedd2376a54b8b50f9b7c2d50ac7
+https://cache1.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/ZAYAN%20TERJEMAH.webpa" group-title="🇲🇾RADIO MALAYSIA📻",ZAYAN TERJEMAH
-https://stream.rcs.revma.com/dramduh811uvv/11_1lhbrh2gbhmbm02/playlist.m3u8
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Eurosport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e369d9ab101d4b60ba13c0384f503528:041e35e31381521b3398af5c6dd99414
+https://cache1.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",EWTN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f3805f9486842bc9f4637ea8160412a:3b9e695ce8cc7d5972eac12006e4ec81
+https://cache3.zapitv.com/live/eds_c2/ewtn/dash_live_ez/ewtn.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Extremadura
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c751ca45643b438ead85d9fabb3482e1:52097c7e31b2d69034720eab836c5668
+https://cache3.zapitv.com/live/eds_c2/fdf/dash_live_ez/fdf.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",FDF
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f3805f9486842bc9f4637ea8160412a:3b9e695ce8cc7d5972eac12006e4ec81
+https://cache3.zapitv.com/live/eds_c2/ewtn/dash_live_ez/ewtn.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Galicia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be7f1e60a24b43f3bef98ee5572686be:3375cbdcc38ae5f75322216a36792007
+https://cache3.zapitv.com/live/eds_c2/GALICIA/dash_live_ez/GALICIA.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Historia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1c3ba240a4f408182db1c034129f970:3a4a0aaf2688401165fb25e4f7b4ea13
+https://cache3.zapitv.com/live/eds_c2/historia_hd/dash_live_ez/historia_hd.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Iberalia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5bf77b5631114d7faca05fcffc2f110d:459da3f93f2f74a0bbbc6c546ca9a208
+https://cache1.zapitv.com/live/eds_c2/iberalia/dash_live_ez/iberalia.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Iberalia Caza
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5074c30651ee4ffc94652310ce05ebf5:b20b4544d29dc66075788edbf99f494e
+https://cache3.zapitv.com/live/eds_c2/iberalia_caza/dash_live_ez/iberalia_caza.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Iberalia Pezca
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0e3f849a41f43a999d98c22e621ff69:cea756a7313bbac55fe0ed4114320f03
+https://cache2.zapitv.com/live/eds_c2/iberalia_pesca/dash_live_ez/iberalia_pesca.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",La 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47cc7264dc314b589e687be2e4d3be59:f61d992a078161b377909c8bf35c5910
+https://cache4.zapitv.com/live/eds_c2/la1_4k/dash_live_ez/la1_4k.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",La 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b04f8cab6ec450ca1192ca2ebe401dd:2cc27523867f8a70bf5f9a7bccdd08b7
+https://cache1.zapitv.com/live/eds_c2/la_2/dash_live_ez/la_2.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",LaLiga Hypermotion 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
+https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",LaLiga Hypermotion 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f
+https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",LaLiga Hypermotion 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=504440a5e83f419c816d8c767c7f703b:59aff40e34ae89f4e3af4758f24a0d8c
+https://cache4.zapitv.com/live/eds_c2/HYPERMOTION3/dash_live_ez/HYPERMOTION3.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",La Otra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b18078e2d24a43c2bef2acf0ecf92962:2fe3632c7074c7bbe49611ccc750a571
+https://cache2.zapitv.com/live/eds_c2/la_sexta/dash_live_ez/la_sexta.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",La Sexta
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f3805f9486842bc9f4637ea8160412a:3b9e695ce8cc7d5972eac12006e4ec81
+https://cache3.zapitv.com/live/eds_c2/ewtn/dash_live_ez/ewtn.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Las Estrellas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7dd08aa2c3540a295654d1b998bf75f:5748ac186f0f6e25df0d216967e30703
+https://cache2.zapitv.com/live/eds_c2/CANAL_DE_LAS_ESTRELLAS/dash_live_ez/CANAL_DE_LAS_ESTRELLAS.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Mega
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0d6ecbc39474c73a855faf57b021d5b:46184ee5a6d38e265f5f439f5cb386ed
+https://cache3.zapitv.com/live/eds_c2/mega/dash_live_ez/mega.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Moto ADV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1feaba0f57e5451b9171898d221af109:0e49d389fde0050adb3a213d3fccaf10
+https://cache1.zapitv.com/live/eds_c2/moto_adv_hd/dash_live_ez/moto_adv_hd.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",MTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad26ea37ce8e4cd8899c85bccc295021:7893f2b2fcfd15e4f1a896fd1eeaa676
+https://cache4.zapitv.com/live/eds_c2/mtv_espana/dash_live_ez/mtv_espana.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Nat Geo Wild
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76f4714902e048e481eb4224d1cf0e66:ea1d9b76cf4425d20513f8d660ee69e4
+https://cache2.zapitv.com/live/eds_c2/nat_geo_wild_hd/dash_live_ez/nat_geo_wild_hd.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Nat Geo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=489955dbc55c44ad93b69a07cb031e84:870f3b7c49e8660daf21fe7783d23074
+https://cache3.zapitv.com/live/eds_c2/nat_geographic_hd/dash_live_ez/nat_geographic_hd.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",NEOX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bf41667beb443aba1438863de5c10e3:90c3b72a3567dae15b1a96186a9061c3
+https://cache3.zapitv.com/live/eds_c2/neox/dash_live_ez/neox.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d331f8bb70784ea6b3166e5b7655c1a3:58108b8a53a2c830766dff642fc3e91e
+https://cache1.zapitv.com/live/eds_c2/nick_jr/dash_live_ez/nick_jr.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d73d5d00d43e4eea94bcd58aacb2d94c:204bdbac57e666aa90491c535d8b7a20
+https://cache2.zapitv.com/live/eds_c2/nickelodeon/dash_live_ez/nickelodeon.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Nova
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d14804bdf314c65a03609e7c729978b:263766334096bb7afc0f3c5726e3d4b2
+https://cache4.zapitv.com/live/eds_c2/nova/dash_live_ez/nova.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Odisea
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbe3d7d894d4c3dbef472d6a3d40bb3:21432a63b987d38909f3415b5696c0b1
+https://cache3.zapitv.com/live/eds_c2/odisea_hd/dash_live_ez/odisea_hd.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",PTB Malaga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f275f34b9d734c4a87899cbcdf10fdaf:69c2a712555f6db5879817da1aea7a78
+https://cache2.zapitv.com/live/eds_c2/PTV_MALAGA/dash_live_ez/PTV_MALAGA.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",PTV Cordoba
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f951b83b529f4482b6ef942c9100ce7e:00d9dc3c8594d5eacca678fc3977f1b1
+https://cache1.zapitv.com/live/eds_c2/PTV_CORDOBA/dash_live_ez/PTV_CORDOBA.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",PTV Sevilla
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=489955dbc55c44ad93b69a07cb031e84:870f3b7c49e8660daf21fe7783d23074
+https://cache3.zapitv.com/live/eds_c2/nat_geographic_hd/dash_live_ez/nat_geographic_hd.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Real Madrid TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d02d668629134c34a699bd2ee7c5c532:cc7186c30eeafffe02c26ffab0bf61e2
+https://cache3.zapitv.com/live/eds_c2/real_madrid_tv_hd/dash_live_ez/real_madrid_tv_hd.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Redbull TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac8eb98f4c7f48c5b3fc9cf1041fc538:f134b4044fec0674654112dc7eeaff64
+https://cache2.zapitv.com/live/eds_c2/redbull/dash_live_ez/redbull.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",REK TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebd5f8df9189482f906e12b4dbfae5b0:5f7fe18638a3d29c03092a626bde280d
+https://cache4.zapitv.com/live/eds_c2/REKTV/dash_live_ez/REKTV.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Somos
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f44521428b9743b4ac37634bc12a2dae:4b919abb68b4b8c0b60d1e5471ed3673
+https://cache1.zapitv.com/live/eds_c2/somos/dash_live_ez/somos.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Squirrel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=489955dbc55c44ad93b69a07cb031e84:870f3b7c49e8660daf21fe7783d23074
+https://cache3.zapitv.com/live/eds_c2/nat_geographic_hd/dash_live_ez/nat_geographic_hd.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Squirrel Dos
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52ee2c20542a45b5a51f68310a2f836c:ddf4b8d753396b21fe5dd4a362b33871
+https://cache4.zapitv.com/live/eds_c2/paramount_channel/dash_live_ez/paramount_channel.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Star Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=489955dbc55c44ad93b69a07cb031e84:870f3b7c49e8660daf21fe7783d23074
+https://cache3.zapitv.com/live/eds_c2/nat_geographic_hd/dash_live_ez/nat_geographic_hd.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Nat Geo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa7ab01b625c45ed87efb861145c06d1:0ef9017b4d625cce20877ee588a408b8
+https://cache3.zapitv.com/live/eds_c2/STAR_CHANNEL/dash_live_ez/STAR_CHANNEL.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Sundance TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b38b7dfd39b4d98b3cbf0f9650ee5d3:0eaac3e51c6b714f178556941e01e6ce
+https://cache1.zapitv.com/live/eds_c2/sundance_hd/dash_live_ez/sundance_hd.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Surf Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c71475de68524c9291453082538f92ee:6e16994e735c11a47e4f6045d39b9caf
+https://cache2.zapitv.com/live/eds_c2/surf_channel/dash_live_ez/surf_channel.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",SYFY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a753e0a4a5084b61ba93ae058c38b1ba:16257ff813b1dbeaf5573871f540ad70
+https://cache4.zapitv.com/live/eds_c2/syfy/dash_live_ez/syfy.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",TCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2825048b351f49e2a1ee1d3029582217:d3dad14160df201706ef2df5962806be
+https://cache1.zapitv.com/live/eds_c2/tcm_moderno/dash_live_ez/tcm_moderno.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Telecinco
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25d236b2fd8a47a3b1e6eeca2e288a35:4d18515ab83ebde113fe16eb885b9a85
+https://cache2.zapitv.com/live/eds_c2/telecinco/dash_live_ez/telecinco.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Teledeporte
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44e5bf3f27004e2ba35263ad9277f2c1:96578d7c374ae808ff811c4f236d0ca9
+https://cache3.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_ez/teledeporte_hd.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Telemadrid
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f68680112c424fddb63703b303bf3bbe:23a36f3f5084d28adeeebd51e20fb574
+https://cache1.zapitv.com/live/eds_c2/de_telenovelas/dash_live_ez/de_telenovelas.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Telenovelas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=489955dbc55c44ad93b69a07cb031e84:870f3b7c49e8660daf21fe7783d23074
+https://cache3.zapitv.com/live/eds_c2/nat_geographic_hd/dash_live_ez/nat_geographic_hd.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",TEN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82b1d8886e5b4656a77225fc76e0dad4:50d98d221d646a477510fd7a5c8fbb7a
+https://cache4.zapitv.com/live/eds_c2/ten/dash_live_ez/ten.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Tendencias
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb198b43efd14743aeb08c5c58cf43b6:f4296e078b261bd046ab48a5ed064fd3
+https://cache1.zapitv.com/live/eds_c2/tendencias/dash_live_ez/tendencias.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Trece TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72ca88134c2842b78aa171068b1c61f4:4afbe5207cde65872d005b1daedcc9b4
+https://cache4.zapitv.com/live/eds_c2/TRECETV/dash_live_ez/TRECETV.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",TV Region Murcia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61306ce256ae4a6189949b1760748b00:6dbfd6dcc6c404b4fa9b52b77f7c63ee
+https://cache3.zapitv.com/live/eds_c2/7rm_hd/dash_live_ez/7rm_hd.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",TV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0da6e721f05342e8808f69f1a695d425:438dded7848deef8586360b1deaf0a77
+https://cache1.zapitv.com/live/eds_c2/tv3_hd/dash_live_ez/tv3_hd.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",VEO 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03deba5b19284df2b6e552c5a0824d8f:dffe92d78de04843a92b14116801da1d
+https://cache2.zapitv.com/live/eds_c2/veo_7/dash_live_ez/veo_7.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",Warner TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=719b1a9aa5004db9af1ed19172410823:765adb29aef6255ea44533b3babbe2e3
+https://cache1.zapitv.com/live/eds_c2/tnt/dash_live_ez/tnt.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸ZAPI TV",XTRM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8cc0d8d9ee1b41e8b1cb1fa5fc7f904c:8155299e616ffecbda6cfcf462f845de
+https://cache4.zapitv.com/live/eds_c2/xtrm_hd/dash_live_ez/xtrm_hd.mpd
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Mediacorp_2015.svg/revision/latest/scale-to-width-down/210?cb=20201223151233"tvg-name=",group-title="🇲🇾ASTRO🔐"
 http://youtube.com
