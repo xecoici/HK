@@ -12031,6 +12031,7 @@ https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
 #EXTINF:-1 tvg-id="Concerto" tvg-name="Concerto" tvg-logo="https://php.946985.filegear-sg.me/logo/Concerto.png" group-title="🇹🇼 🇨🇳 🇭🇰 🇲🇴",Concerto
 https://php.946985.filegear-sg.me/mytv265.php?id=CONC
 
+#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀", HBO BOXING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12073,6 +12074,7 @@ https://ac-009.live.p7s1video.net/e0e064c8/t_004/ran-nflnetwork-de-hd/cenc-defau
 #KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master.mpd
 https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
+
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="SPORT𓍢ִ🏃‍♀",NOW SPORT HD1
 http://line.godofiptv.com:80/play/live.php?mac=A0:BB:3E:02:F1:78&stream=554949&extension=ts&play_token=VQI94iBoCl
 http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199982
