@@ -2117,12 +2117,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://epg.pw/xmltv/epg_MY.xml.https://aqfadtv.xyz/epg" refresh="1440" max-conn="4" refresh="24" billed-msg="🇲🇾PuteraPerlis Multimedia🇲🇾" vod_library="https://mantop.worst.workers.dev/index.html,https://drive.usercontent.google.com/u/0/uc?id=117xPiO8VauMhb8tPK6mPpKUcemcIDpbP&export=download,"
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>MALAYSIA
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-#EXTM3U
-
-#EXTM3U url-tvg="https://github.com/v-epg/as-epg/raw/main/astro_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz"
 
 ###EXTINF:-1 tvg-id="100.astro" group-title="🇸🇬ASTRO🔐" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Xilele.png",100 XiLele
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
