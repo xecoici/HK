@@ -689,59 +689,59 @@ http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=power&streamName=powerfm
 
 #EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",ROCK ACTION
 http://202.169.224.203:8800/udp/239.9.1.1:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"HGTV
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",HGTV
 http://202.169.224.203:8800/udp/239.9.1.3:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"TLC
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",TLC
 http://202.169.224.203:8800/udp/239.9.1.4:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"ASIAN FOOD NETWORK
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",ASIAN FOOD NETWORK
 http://202.169.224.203:8800/udp/239.9.1.5:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"DISCOVERY CHANNEL
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",DISCOVERY CHANNEL
 http://202.169.224.203:8800/udp/239.9.1.6:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"ANIMAL PLANET
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",ANIMAL PLANET
 http://202.169.224.203:8800/udp/239.9.1.7:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"ROCK ENTERTAINMENT
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",ROCK ENTERTAINMENT
 http://202.169.224.203:8800/udp/239.9.1.8:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"CHAMPIONS TV 2 HD
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",CHAMPIONS TV 2 HD
 http://202.169.224.203:8800/udp/239.9.1.10:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"CHAMPIONS TV 3 HD
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",CHAMPIONS TV 3 HD
 http://202.169.224.203:8800/udp/239.9.1.11:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"CITRA DRAMA
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",CITRA DRAMA
 http://202.169.224.203:8800/udp/239.9.1.12:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"CITRA BIOSKOP
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",CITRA BIOSKOP
 http://202.169.224.203:8800/udp/239.9.1.15:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"NICKELODEON
+#EXTINF:-1 tvg-name="CNN Indonesia" tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",NICKELODEON
 http://202.169.224.203:8800/udp/239.9.1.17:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"NICK JR
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",NICK JR
 http://202.169.224.203:8800/udp/239.9.1.18:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"DREAMWORKS
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",DREAMWORKS
 http://202.169.224.203:8800/udp/239.9.1.19:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"KIX
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",KIX
 http://202.169.224.203:8800/udp/239.9.1.21:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"GEM CCM TV
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",GEM CCM TV
 http://202.169.224.203:8800/udp/239.9.1.22:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"CELESTIAL MOVIES
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",CELESTIAL MOVIES
 http://202.169.224.203:8800/udp/239.9.1.23:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"INDOSIAR HD
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",INDOSIAR HD
 http://202.169.224.203:8800/udp/239.9.1.25:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"HOREE TV
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",HOREE TV
 http://H02.169.224.202:8800/udp/239.9.1.26:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"CITRA ENTERTAINMENT
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",CITRA ENTERTAINMENT
 http://202.169.224.203:8800/udp/239.9.1.27:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"HIP HIP HOREEE
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",HIP HIP HOREEE
 http://202.169.224.203:8800/udp/239.9.1.28:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"SCTV HD
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",SCTV HD
 http://202.169.224.203:8800/udp/239.9.1.29:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"BBC EARTH
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",BBC EARTH
 http://202.169.224.203:8800/udp/239.9.1.30:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"BBC LIFESTYLE
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",BBC LIFESTYLE
 http://202.169.224.203:8800/udp/239.9.1.31:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"MOJI TV HD
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",MOJI TV HD
 http://202.169.224.203:8800/udp/239.9.1.32:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"MNC TV HD
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",MNC TV HD
 http://202.169.224.203:8800/udp/239.9.1.34:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"IDX HD
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",IDX HD
 http://202.169.224.203:8800/udp/239.9.1.36:1234
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓"VTV HD
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",VTV HD
 http://202.169.224.203:8800/udp/239.9.1.39:1234
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f124427a-931e-47d1-ab50-1b29a7a3e406.jpg" group-title="🇮🇩INDONESIA🔓", Celestial Movies
 #KODIPROP:inputstream.adaptive.manifest_type=dash
