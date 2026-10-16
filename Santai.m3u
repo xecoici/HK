@@ -743,11 +743,11 @@ http://202.169.224.203:8800/udp/239.9.1.34:1234
 http://202.169.224.203:8800/udp/239.9.1.36:1234
 #EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",VTV HD
 http://202.169.224.203:8800/udp/239.9.1.39:1234
-#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f124427a-931e-47d1-ab50-1b29a7a3e406.jpg" group-title="🇮🇩INDONESIA🔓", Celestial Movies1
+#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f124427a-931e-47d1-ab50-1b29a7a3e406.jpg" group-title="🇮🇩INDONESIA🔓", BBC EARTH
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 #EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGTcPCisnII5EZcoI0JYzZ7sDr4c0B9v0VMK_RPPbC2wA2Ct1Rcn2baATdovCI3gqCpMFLvZ9ed2DWrWbEJzpGG782jFEQbs-pkl0fosGpJGiIUEiASLMSKY3_8nN8aIPXFf1iXVIgv7xcNmGKlHYo87NuPFUgBwo-UR-TsKyao_lZG24oMvt4aLBMlW9r/s320/0cc347d7-f3dc-49e8-ac20-53f4c3257019.jpg" group-title="🇮🇩INDONESIA🔓" server="CNN" event-duration="4",CNN Indonesia
 https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
 #EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGTcPCisnII5EZcoI0JYzZ7sDr4c0B9v0VMK_RPPbC2wA2Ct1Rcn2baATdovCI3gqCpMFLvZ9ed2DWrWbEJzpGG782jFEQbs-pkl0fosGpJGiIUEiASLMSKY3_8nN8aIPXFf1iXVIgv7xcNmGKlHYo87NuPFUgBwo-UR-TsKyao_lZG24oMvt4aLBMlW9r/s320/0cc347d7-f3dc-49e8-ac20-53f4c3257019.jpg" group-title="🇮🇩INDONESIA🔓" server="CNN SD" event-duration="4",CNN Indonesia
