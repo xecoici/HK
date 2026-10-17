@@ -2500,7 +2500,9 @@ https://live-pv-ta.amazon.fastly-edge.com/dub-nitro/live/clients/dash/enc/xwxsb3
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC Earth" tvg-logo="https://hls.mskycdn.online/logo/bbcearth.png" group-title="📡FAVORIT",BBC Earth Viet
-https://hls.mskycdn.online/tv/bbcearth/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5014941a2c42379880b5edf72304c165:f3fa0fe3cd39a52f4eefd36ff7161e89
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/521.png" group-title="📡FAVORIT",????
 #KODIPROP:inputstream.adaptive.license_type=clearkey
