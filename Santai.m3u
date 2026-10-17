@@ -686,7 +686,36 @@ http://ff.ppuassi.com/alive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=SD&apikey
 #EXTINF:-1 ch-number="3001" tvg-id="Music.Dummy.us" tvg-name="SBS 파워FM" tvg-logo="https://i.ibb.co/zftJnzk/SBS-FM.png" group-title="🇰🇷IPTV-KOREA📡",SBS 파워FM 
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=power&streamName=powerfm 
 
-
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",CN
+http://202.150.161.212:5000/live/channel27/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",WB
+http://202.150.161.212:5000/live/channel29/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",TV MOVIES
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",MDTV
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",TV5 MONDE
+http://202.150.161.212:5000/live/channel32/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",ARIRANG
+http://202.150.161.212:5000/live/channel33/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",TRANSVISION
+http://202.150.161.212:5000/live/channel34/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",BIOSKOP
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",U CH
+http://202.150.161.212:5000/live/channel37/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",JTV
+http://202.150.161.212:5000/live/channel38/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",TRANSTV
+http://202.150.161.212:5000/live/channel27/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",RTV
+http://202.150.161.212:5000/live/channel23/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",FRANC 24
+http://202.150.161.212:5000/live/channel21/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",NHK
+http://202.150.161.212:5000/live/channel22/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",TVRI SPORT
+https://flv.intechmedia.net/live/ch115.m3u8
 #EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",ROCK ACTION
 http://202.169.224.203:8800/udp/239.9.1.1:1234
 #EXTINF:-1 tvg-name="CNN Indonesia" group-title="🇮🇩INDONESIA🔓",HGTV
