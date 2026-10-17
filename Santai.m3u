@@ -2166,8 +2166,7 @@ https://ff.hamsuehun.myds.me/alive/api/url.m3u8?m=url&s=wavve&i=M01&q=auto&apike
 http://202.169.224.203:8800/udp/239.9.1.30:1234
 
 #EXTINF:-1 tvg-name="tvN MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjXv2aywNrj31iRkKmEcC_w0GUI5sa1mZD593UwPtPfrMbzPZMDFTJAmRkriQ-4rhSlKI97omkQ2xaj-viz_9IRi4D3GOb6jQbUE1IFgbtB6GwS7RdZrI31yGPD1Np5cYNQEwoULcRgaYWeOzKE2ZUyKqZ-X0SwY3RjRrImF8h-MRD3E8oV543BextqHqCW" group-title="📡FAVORIT" server="tvN MOVIES SD" event-duration="4" tvg-rec="37",tvN MOVIES
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zDD817V.png" group-title="📡FAVORIT",RRI NET
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m3u8
