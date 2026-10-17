@@ -4352,6 +4352,134 @@ https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-BRUNEI-LOGO/main/RTB%20PILIHAN.webp" group-title="🇸🇬ASTRO🔐",RTB PILIHAN
 https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
 
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",Arirang
+https://cdn4.skygo.mn/live/disk1/Arirang/HLSv3-FTA/Arirang.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",AsianBOX
+https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
+https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",AutoTV
+https://cdn4.skygo.mn/live/disk1/AutoTV/DASH-FTA/AutoTV.mpd
+https://cdn4.skygo.mn/live/disk1/AutoTV/HLSv3-FTA/AutoTV.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",BBC_earth
+https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",BBC_lifestyle
+https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",BBC_News
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",BloombergMon
+https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",CN
+https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
+https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",C1
+https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd
+https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",CN
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",CARTOONITO
+https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",CBEEBIES
+https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",CENTRAL TV
+https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd
+https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",CHE
+https://cdn4.skygo.mn/live/disk1/Channel11/DASH-FTA/Channel11.mpd
+https://cdn4.skygo.mn/live/disk1/Channel11/HLSv3-FTA/Channel11.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",CN
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",CINEMA TV
+https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
+https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",CNBC
+https://cdn4.skygo.mn/live/disk1/CNBC/DASH-FTA/CNBC.mpd
+https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",DISCOVERY ASIA
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",DOMASHNI
+https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",DREAMBOX
+https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
+https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",EAGLE
+https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd
+https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",ETV
+https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
+https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",EDUCATION
+https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
+https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",FASHION TV
+https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",FRIDAY
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",GANDAN TV
+https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd
+https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",GLOBAL TV
+https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd
+https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",KARUSEL
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",KHUGJIM
+https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
+https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",LOTUS
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",MALCHIN
+https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
+https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",MATCH PLANETA
+https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",MIR
+https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",MN25
+https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
+https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",MNB
+https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
+https://cdn4.skygo.mn/live/disk1/MNB/HLSv3-FTA/MNB.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",MNB 2
+https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
+https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",MNB FAMILY
+https://cdn4.skygo.mn/live/disk1/MNB_Family/DASH-FTA/MNB_Family.mpd
+https://cdn4.skygo.mn/live/disk1/MNB_Family/HLSv3-FTA/MNB_Family.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",MNB SPORT
+https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
+https://cdn4.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",MNB WORLD
+https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
+https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",MNC TV
+https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
+https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",MOVIEBOX
+https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
+https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",NHK WORLD
+https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",NHK WORLD PREMIUM
+https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",ONTV
+https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
+https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",PARLAMENT
+https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
+https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",POBEDA
+https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",POPCORN
+https://cdn4.skygo.mn/live/disk1/Popcorn/DASH-FTA/Popcorn.mpd
+https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",PREMIER SPORTS 1
+https://cdn4.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",PREMIER SPORTS 2
+https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",PREMIER SPORTS 3
 https://cdn4.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
 https://cdn4.skygo.mn/live/disk1/PSN3/HLSv3-FTA/PSN3.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",PREMIER SPORTS 4
