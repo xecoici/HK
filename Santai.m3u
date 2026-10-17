@@ -1075,100 +1075,6 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d856bf85229c4a42a7b0de45e4c91a31:5633e069ef585f73ccfe2dd6a85a6f48
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
-#EXTINF:-1 tvg-name="Al Quran Al Kareem" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUT5su1Ccwgqi5t_ZG-WcOL3vrB5NXRt2vJPiS43Lr1HFMaTa9QX6JKeZB5rnhaVa678U5ImTwgUB0AqNUQeRHtBogNvLg8LaTwKEXDhEm_CGtvxMIHlIq8JEZnIaUBhj01wAkW9vXoJBSObFqxqqo43zzdKBzenx79xsdGRFJ2ShitLWgd4c-bruhH4IB/s320/6dfdad6d-7624-417e-b856-275fd34c9321.png" group-title="🇮🇩INDONESIA🔓" server="Al Quran Al Kareem HD" event-duration="4",Al Quran Al Kareem
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://key.iontv.id/drm/cubmu.php?play=204
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",BLOOMBERG
-https://cdnbal1.indihometv.com/atm/DASH/BLOOMBERG_AT/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",BERITA SATU
-https://cdnbal1.indihometv.com/atm/DASH/beritasatu/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",BALI TV
-https://cdnbal1.indihometv.com/atm/DASH/balitv/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",AXN
-https://cdnbal1.indihometv.com/atm/DASH/axn/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",CBEEBIES
-https://cdnbal1.indihometv.com/atm/DASH/cbeebies/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",NEWS ASIA
-https://cdnbal1.indihometv.com/atm/DASH/newsasia/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",TAWA FTV
-https://cdnbal1.indihometv.com/atm/DASH/tawaftv/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",IDX
-https://cdnbal1.indihometv.com/atm/DASH/idx/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",INEWS
-https://cdnbal1.indihometv.com/atm/DASH/inews/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",JAK TV
-https://cdnbal1.indihometv.com/atm/DASH/jaktv/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",JAWA POS
-https://cdnbal1.indihometv.com/atm/DASH/jawapos/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",JTV
-https://cdnbal1.indihometv.com/atm/DASH/jtv/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",KPLUS
-https://cdnbal1.indihometv.com/atm/DASH/kplus/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",KIX
-https://cdnbal1.indihometv.com/atm/DASH/kix/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",KOMPAS TV
-https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",USEE SPORT
-https://cdnbal1.indihometv.com/atm/DASH/useesport/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",MQTV
-https://cdnbal1.indihometv.com/atm/DASH/mqtv/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",MTA TV
-https://cdnbal1.indihometv.com/atm/DASH/mtatv/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",MUI TV
-https://cdnbal1.indihometv.com/atm/DASH/muitv/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",MY KIDS
-https://cdnbal1.indihometv.com/atm/DASH/mykids/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",NEW TV COMP
-https://cdnbal1.indihometv.com/atm/DASH/newtvcomprehensive/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",NEW TV FINANCE
-https://cdnbal1.indihometv.com/atm/DASH/newtvfinance/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",NEW TV VARIETY
-https://cdnbal1.indihometv.com/atm/DASH/newtvvariety/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",NHK WORD
-https://cdnbal1.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",NICKLODEON
-https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",PHOENIX CHI
-https://cdnbal1.indihometv.com/atm/DASH/phoenixchinese/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",PHOENIX NEWS
-https://cdnbal1.indihometv.com/atm/DASH/phoenixinfonews/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",RUSIA TV
-https://cdnbal1.indihometv.com/atm/DASH/rusiatv/master.mpd  
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",SINPO TV
-https://cdnbal1.indihometv.com/atm/DASH/sinpotv/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",SCTV
-https://cdnbal1.indihometv.com/atm/DASH/sctv/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",TVRI WORLD
-https://cdnbal1.indihometv.com/atm/DASH/tvriworld/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",TV ONE
-https://cdnbal1.indihometv.com/atm/DASH/tvone/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",INDOSIAR
-https://cdnbal1.indihometv.com/atm/DASH/indosiar/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",BERITASATU
-https://cdnbal1.indihometv.com/atm/DASH/beritasatu/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",HISTORY
-https://cdnbal1.indihometv.com/atm/DASH/history/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",TVN
-https://cdnbal1.indihometv.com/atm/DASH/tvn/master.mpd
-#EXTINF:-1 tvg-name="tvN MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjXv2aywNrj31iRkKmEcC_w0GUI5sa1mZD593UwPtPfrMbzPZMDFTJAmRkriQ-4rhSlKI97omkQ2xaj-viz_9IRi4D3GOb6jQbUE1IFgbtB6GwS7RdZrI31yGPD1Np5cYNQEwoULcRgaYWeOzKE2ZUyKqZ-X0SwY3RjRrImF8h-MRD3E8oV543BextqHqCW" group-title="🇮🇩INDONESIA🔓" server="tvN MOVIES HD" event-duration="4",tvN MOVIES
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
-#EXTINF:-1 tvg-name="tvN MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjXv2aywNrj31iRkKmEcC_w0GUI5sa1mZD593UwPtPfrMbzPZMDFTJAmRkriQ-4rhSlKI97omkQ2xaj-viz_9IRi4D3GOb6jQbUE1IFgbtB6GwS7RdZrI31yGPD1Np5cYNQEwoULcRgaYWeOzKE2ZUyKqZ-X0SwY3RjRrImF8h-MRD3E8oV543BextqHqCW" group-title="🇮🇩INDONESIA🔓" server="tvN MOVIES SD" event-duration="4" tvg-rec="37",tvN MOVIES
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",TVN MOVIES
-https://cdnbal1.indihometv.com/atm/DASH/tvnmovies/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",K+
-https://cdnbal1.indihometv.com/atm/DASH/kplus/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",THRILL
-https://cdnbal1.indihometv.com/atm/DASH/thrill/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",CELESTIAL MOVIE
-https://cdnbal1.indihometv.com/atm/DASH/celestialmovie/master.mpd
-#EXTINF:-1 group-title="🇮🇩INDONESIA🔓",TVRI KALBAR
-https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar-avc1_2500000=10004-mp4a_96000=20003.m3u8
-
-#EXTM3U
 
 # <================== INDONESIA FAV. CHANNEL (by: WINDO ZALMI) ======================>
 
@@ -4446,11 +4352,70 @@ https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-BRUNEI-LOGO/main/RTB%20PILIHAN.webp" group-title="🇸🇬ASTRO🔐",RTB PILIHAN
 https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
 
+https://cdn4.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
+https://cdn4.skygo.mn/live/disk1/PSN3/HLSv3-FTA/PSN3.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",PREMIER SPORTS 4
+https://cdn4.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",PREMIER SPORTS 5
+https://cdn4.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",RENTV
+https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",SBN
+https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
+https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",STS
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",SULDTV
+https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
+https://cdn4.skygo.mn/live/disk1/SuldTV/HLSv3-FTA/SuldTV.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",THT
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",TM
+https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd
+https://cdn4.skygo.mn/live/disk1/TM/HLSv3-FTA/TM.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",TNT4
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",TV CENTER
+https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",TV4
+https://cdn4.skygo.mn/live/disk1/TV4/DASH-FTA/TV4.mpd
+https://cdn4.skygo.mn/live/disk1/TV4/HLSv3-FTA/TV4.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",TV5 HD
+https://cdn4.skygo.mn/live/disk1/TV5HD/DASH-FTA/TV5HD.mpd
+https://cdn2.skygo.mn/live/disk1/TV5HD/HLS-FTA/TV5HD.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",TV7
+https://cdn4.skygo.mn/live/disk1/TV7/DASH-FTA/TV7.mpd
+https://cdn4.skygo.mn/live/disk1/TV7/HLSv3-FTA/TV7.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",TV8 HD
+https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd
+https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",TV9 HD
+https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd
+https://cdn2.skygo.mn/live/disk1/TV9HD/HLS-FTA/TV9HD.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",UBS HD
+https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
+https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",VREMYA
+https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",VTV
+https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
+https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",WARNER
+https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",ZOOMOO
+https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",Өлзий ТВ
+https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
+https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",Соён Гэгээрүүлэгч
+https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd
+https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/HLSv3-FTA/SoyonGegeeruulegch.m3u8
+
 #EXTM3U
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
-
 **********Cignal-TV**********
-
 #EXTM3U
 #EXTINF:-1 tvg-id="KAPATID CHANNEL" tvg-name="KAPATID CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Cignal_logo.png/500px-Cignal_logo.png" group-title="🇵🇭Cignal🔒",KAPATID CHANNEL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
@@ -11581,8 +11546,6 @@ https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_1301_A2CD4035.m3u8
 https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w277463652.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="🇮🇩Kalbar🌳",TVRI Kalbar
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="🇮🇩Kalbar🌳",RUAI TV
-https://stream2.smg.my/live/tvsplus_1080p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇮🇩Kalbar🌳",WWE
 http://85.237.89.160:9590/usa-s/WWE-HD/index.m3u8
 
@@ -11943,51 +11906,6 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
 drm_type="clearkey" 
 drm_key="87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34"
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football 1 TH [Thai]" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football 1 TH [Thai]
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115757.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1  [ENG]" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football HD TH 1  [ENG]
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115758.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1 [Thai]" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football HD TH 1 [Thai]
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115759.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1-X [Thai]" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football HD TH 1-X [Thai]
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115760.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football HD TH 2  [ENG]
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115762.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football HD TH 2  [ENG]
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115508.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2-X [ENG]" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football HD TH 2-X [ENG]
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115509.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football HD TH 3
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115510.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3 [ENG]" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football HD TH 3 [ENG]
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115511.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3-X" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football HD TH 3-X
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115512.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football HD TH 4
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115513.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4-X" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football HD TH 4-X
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115768.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 5" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football HD TH 5
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115515.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 1  [ENG]" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football TH 1  [ENG]
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115516.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 1-X [Thai]" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football TH 1-X [Thai]
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115771.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 2 [ENG]" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football TH 2 [ENG]
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115518.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 3" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football TH 3
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115520.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 3 [ENG]" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football TH 3 [ENG]
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115521.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 3-X" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football TH 3-X
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115522.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 4" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football TH 4
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115523.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 4-X" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football TH 4-X
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115524.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 5" tvg-logo="" group-title="🇹🇭GIGATV🔓",Premier Football TH 5
-http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115525.ts
 
 #EXTM3U
 
@@ -14849,4 +14767,3 @@ https://sliv.tgaadi.workers.dev/sonymarathi.m3u8
 #EXTINF:-1 tvg-id="sony-aath" group-title="🇮🇳SONY & JIOTV🔐" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png",Sony Aath
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://sliv.tgaadi.workers.dev/sonyaathsd.m3u8
-
