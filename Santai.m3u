@@ -9240,12 +9240,12 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/v3mhpvm2xv/out/v1/6
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",HBO West
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
+#KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",HBO Zone
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d
+#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",AMC
