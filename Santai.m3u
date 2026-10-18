@@ -9348,11 +9348,11 @@ https://ac-009.live.p7s1video.net/e081fbe2/t_009/swr-bw-de-hd/cenc-default.mpd
 #EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",sat 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47d68f825cdea389eb3b75a39275fc61:97e8875d20f9b95a2b59ed79b4a358a1
-https://ac-001.live.p7s1video.net/a30b657a/t_001/sat1-at/cenc-default.mpdc2/cenc.mpd
+https://ac-001.live.p7s1video.net/a30b657a/t_001/sat1-at/cenc-default.mpd
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",7maxx
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef16552fe39c91737511c15a39e16ad9:c1bb85444d790d23084846e7c123707a
+#KODIPROP:inputstream.adaptive.license_key=68d236027285567db3862f9e7665caf0:e57e10cf70ef32a275685f5c5f47236a
 https://ac-001.live.p7s1video.net/5dab4de6/t_001/prosiebenmaxx-at/cenc-default.mpd
 
 
