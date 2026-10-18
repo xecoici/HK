@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="	MAXSTREAM",TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3acacf744acc9417ce0bc13978ed1b17:b8485b417f5ca8b37b2e105b83774e1a
+#KODIPROP:inputstream.adaptive.license_key=65c00c0313f3ab4a3de497232af476be:0d71fab41dcf23d62e8238be64c87cec
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://tencent-css-live.byteplaycdn.com/vos/DASH/tlc/manifest.mpd?enc=CDYNn4eT79S8yYOwIlRfeA&exp=1792321843&encp=XALnsxyAOecBFc_32uzk1g&expp=1792332343
 
@@ -11295,6 +11295,24 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀2",FuboSports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀2",Eurosport 1 Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c17752768447a2ff801b87f7a390781 : 90375b77c0f6d271caef3c8accd4f1ae
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀2",Eurosport 2 Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ada9d51e521ee51230960ef875b6f42 : a8d895925ccabb044a2c9fa636a764f3
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/kbjpsludyv/out/v1/a2cf27ad758a47449c083e3166f1c3a5/cenc.mpd
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="SPORT𓍢ִ🏃‍♀",NOW SPORT HD1
 http://line.godofiptv.com:80/play/live.php?mac=A0:BB:3E:02:F1:78&stream=554949&extension=ts&play_token=VQI94iBoCl
