@@ -9275,6 +9275,151 @@ https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/
 #KODIPROP:inputstream.adaptive.license_key=97d0ab7778ac4400900ca3728a6032da:32a863f9c6e49a8fd6b5fbc234d2a27f
 https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5693/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
 
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ab1caa245e2d8cc4e26e0e1b63fe661:22c42d7a1679f50ca4ad37b4c1ad97fe
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",HBO 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c73219e929389385aba7d52fc5fecdf:04aac082576d853b80734f5d8d4ebbbc
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/thnqxvegdx/out/v1/526198daa2954295908c9e5e22523bc2/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",HBO Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",HBO Latino
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=440df5a5f7730c64f005eec9b12a9b52:dcad08b714e246f92cb9748f9e2e7e1e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/pybcooahnm/out/v1/d5a5fd1cd9074da3b20ebdf8ebfaecb6/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/v3mhpvm2xv/out/v1/68a59a4217cb4d48baccd9cd2a4a7579/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",HBO West
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",HBO Zone
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",AMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3290efe4c5cf67165e846a0742c22cd9:ddb94463c46af6037432fc026339c09d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/fgrjsgdqg3/out/v1/4a69574b0c0e4db394a55968f3d5b445/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.i6zR9b0gl6jls0OApZBoTAAAAA?pid=Api&P=0&h=220" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="🇪🇺ACARA", Comedy Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5894EBA80A8AEE9FAB4A925183185D99:fe50655307fbdc2c4989c195423ccecf
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zbz23awyhg/out/v1/f5666ad30e36413098a56bb8fd97c46a/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.pK-naSEHQVrF2XQwFj0ITAAAAA?pid=Api&P=0&h=220" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="🇪🇺ACARA", Faves
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1B43E3D441B36356BB900D93AC88301B:7cca6e6854c136297e848e9381565b7a
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/m2vhkc7l1y/out/v1/da8d0d3203de4ce497ec6af696d47a4f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.6uh6_QOtX23TrSVHY0gQKQAAAA?pid=Api&P=0&h=220" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="🇪🇺ACARA", Action Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=F923872B58CB63C827A402ED0B52857A:c7fa135ed77f7c42389234846b402b71
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/krhwmfeoay/out/v1/c5408fc1dc204decb0c5065effed0f79/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.9rVQza0711qr1xjOEW4scgAAAA?pid=Api&P=0&h=220" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="🇪🇺ACARA", Comedy TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=E1CE486C2BD4A4F6C6007A0A7B454EFA:ae46c390767c07d69c65a45d45a75c11
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qd0pqdbqya/out/v1/29261e2484574d678581f85474d2751d/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.SXHtdobhpBgeebb4rP0TJAAAAA?pid=Api&P=0&h=220" group-logo="https://tse2.mm.bing.net/th/id/OIP.4luOv3b8Xh3dgBMKrv2n7AAAAA?pid=Api&P=0&h=220" group-title="🇪🇺ACARA", Thriller TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=A948CCE6CB93C4B9D648C9ADA274D246:783e9e314d375f27cade69595fb94bca
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qbnukt8csn/out/v1/90f1b14e4b534193b81e0c263ee7810b/cenc.mpd
+
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",France 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d730c0f42af66e2573a4c35e4240464:575921961e064593f3bc96717468f6d8
+#KODIPROP:inputstream.adaptive.license_key=27ae660b9aeaae9c9660b051ef8cc487:f236e112576ba787fd885f81d5c758e0
+#KODIPROP:inputstream.adaptive.license_key=e274e9416738193db666103fd0bbdc22:57595bf9b034eaa5b0dbf312da2d05e3
+#KODIPROP:inputstream.adaptive.license_key=62c1a1eba59714e48e5622a4c03e7ea3:851c3d6030ae76cb70e93c5e30b48f58
+#KODIPROP:inputstream.adaptive.license_key=0d075384c12e9136c4a139b24304e691:fa4eaceb080405f12af51f5372363b46
+https://api-proxad.dc2.oqee.net/playlist/v1/live/203/1/live.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",TF1 Séries
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3830641208b58249858350e3e4774419:167492c05addd97ede5378ba1bc4ed7a
+#KODIPROP:inputstream.adaptive.license_key=4579311d9cd9419edb5f2b8e51a312bf:0c4fed4a4c7655bafe8f3345a33d6086
+#KODIPROP:inputstream.adaptive.license_key=f11b3682b8f47e605af3312e9c1dd0b8:d71b5f1360676c18b6222caf070a4df6
+#KODIPROP:inputstream.adaptive.license_key=421006d2c6f6332c8289dfe9b125cb7b:a73b1c91ffbb478591a2150b901e3191
+#KODIPROP:inputstream.adaptive.license_key=6db0241bf401bde5410675f451efa842:ddfdf1e730655d4c7b520f04adad8642
+https://api-proxad.dc2.oqee.net/playlist/v1/live/993/1/live.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",M6 Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8329bc0974ddf745f7bd61048e65fd52:d9d7e6026e14c1ea700a1729aadd8a4d
+#KODIPROP:inputstream.adaptive.license_key=4322c4cc83f6e41fb2005f9be49d25c8:a302c92ec281785b79040f91f1ac7d09
+#KODIPROP:inputstream.adaptive.license_key=ed59040d6c5ab456d0b6d13160d7f019:ffe66288c5a461d8be3e86d68e200a06
+#KODIPROP:inputstream.adaptive.license_key=47119e91282ef98d9cc4a1a2cb7debeb:94521d8e25d2826729c4a4079347fccd
+https://api-proxad.dc2.oqee.net/playlist/v1/live/430/1/live.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",Inultra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69aa57ecf4cad82e1a93cb06e62d74a1:7f9a051b7db0774ebaf08af359153862
+#KODIPROP:inputstream.adaptive.license_key=
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1565/1/live.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",Inultra UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69aa57ecf4cad82e1a93cb06e62d74a1:7f9a051b7db0774ebaf08af359153862
+#KODIPROP:inputstream.adaptive.license_key=d59997611afd2fab15e3e8d6fec86b00:277373339385ca7368c6c1ab4d51efe0
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1565/1/live.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",Pen t h o u s e Black
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b39d6a118c0c4f4942a1692419d41faa:a8faac9477728d6f2a331edb971a7375
+#KODIPROP:inputstream.adaptive.license_key=b39d6a118c0c4f4942a1692419d41faa:261e163c5b387699293938d26a724d69
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1083/1/live.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",Sport1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0
+https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",SPORT1+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
+https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",SR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81b3460b97c9cbbe8d1a855cfe0e19f7:c9895155f385b2d5b3cadd56dc57244c
+https://ac-009.live.p7s1video.net/221cbb40/t_009/sr-de-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",SWR Baden-W\u00fcrttemberg
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e1ff9256e9ec568621af863c9366a16:0404f37da5b55d3d946607a070ae958e
+https://ac-009.live.p7s1video.net/e081fbe2/t_009/swr-bw-de-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",sat 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47d68f825cdea389eb3b75a39275fc61:97e8875d20f9b95a2b59ed79b4a358a1
+https://ac-001.live.p7s1video.net/a30b657a/t_001/sat1-at/cenc-default.mpdc2/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",7maxx
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef16552fe39c91737511c15a39e16ad9:c1bb85444d790d23084846e7c123707a
+#KODIPROP:inputstream.adaptive.license_key=04f08ec77f515bf09591cfa4100f633d:8f82a2431afa59d0dcde1e3a8a32352b
+#KODIPROP:inputstream.adaptive.license_key=d05348c99eae5f17a9f5b6b40aa60341:c69553b0b6116b4882a2e652f62bc43e
+#KODIPROP:inputstream.adaptive.license_key=68d236027285567db3862f9e7665caf0:e57e10cf70ef32a275685f5c5f47236a
+https://ac-001.live.p7s1video.net/5dab4de6/t_001/prosiebenmaxx-at/cenc-default.mpd
+
 
 #EXTM3U
 #EXTINF:-1 group-title="🇫🇷CANAL",CANAL+  SPORT HD
