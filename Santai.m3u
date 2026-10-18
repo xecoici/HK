@@ -4352,34 +4352,23 @@ https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-BRUNEI-LOGO/main/RTB%20PILIHAN.webp" group-title="🇸🇬ASTRO🔐",RTB PILIHAN
 https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",Arirang
-https://cdn4.skygo.mn/live/disk1/Arirang/HLSv3-FTA/Arirang.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",AsianBOX
 https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
 https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",AutoTV
 https://cdn4.skygo.mn/live/disk1/AutoTV/DASH-FTA/AutoTV.mpd
 https://cdn4.skygo.mn/live/disk1/AutoTV/HLSv3-FTA/AutoTV.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",BBC_earth
-https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",BBC_lifestyle
-https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",BBC_News
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",BloombergMon
+
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",Bloomberg
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",CN
+#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",BloombergMon
 https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
 https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",C1
 https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd
 https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",CN
-https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",CARTOONITO
 https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",CBEEBIES
-https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",CENTRAL TV
 https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd
 https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
@@ -4394,10 +4383,6 @@ https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",CNBC
 https://cdn4.skygo.mn/live/disk1/CNBC/DASH-FTA/CNBC.mpd
 https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",DISCOVERY ASIA
-https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",DOMASHNI
-https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",DREAMBOX
 https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
 https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
@@ -4410,30 +4395,18 @@ https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",EDUCATION
 https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
 https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",FASHION TV
-https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",FRIDAY
-https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",GANDAN TV
 https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd
 https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",GLOBAL TV
 https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd
 https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",KARUSEL
-https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",KHUGJIM
 https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
 https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",LOTUS
-https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",MALCHIN
 https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
 https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",MATCH PLANETA
-https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",MIR
-https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",MN25
 https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
 https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8
@@ -4458,55 +4431,24 @@ https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",MOVIEBOX
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",NHK WORLD
-https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",NHK WORLD PREMIUM
-https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",ONTV
 https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
 https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",PARLAMENT
 https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
 https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",POBEDA
-https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",POPCORN
 https://cdn4.skygo.mn/live/disk1/Popcorn/DASH-FTA/Popcorn.mpd
 https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",PREMIER SPORTS 1
-https://cdn4.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
-https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",PREMIER SPORTS 2
-https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
-https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",PREMIER SPORTS 3
-https://cdn4.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
-https://cdn4.skygo.mn/live/disk1/PSN3/HLSv3-FTA/PSN3.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",PREMIER SPORTS 4
-https://cdn4.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd
-https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",PREMIER SPORTS 5
-https://cdn4.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd
-https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",RENTV
-https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",SBN
 https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
 https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",STS
-https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",SULDTV
 https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
 https://cdn4.skygo.mn/live/disk1/SuldTV/HLSv3-FTA/SuldTV.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",THT
-https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",TM
 https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd
 https://cdn4.skygo.mn/live/disk1/TM/HLSv3-FTA/TM.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",TNT4
-https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",TV CENTER
-https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",TV4
 https://cdn4.skygo.mn/live/disk1/TV4/DASH-FTA/TV4.mpd
 https://cdn4.skygo.mn/live/disk1/TV4/HLSv3-FTA/TV4.m3u8
@@ -4525,15 +4467,11 @@ https://cdn2.skygo.mn/live/disk1/TV9HD/HLS-FTA/TV9HD.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",UBS HD
 https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
 https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",VREMYA
-https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",VTV
 https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
 https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",WARNER
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
-#EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",ZOOMOO
-https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 #EXTINF:-1 tvg-name="" group-title="🇲🇳Sky Go+🔓",Өлзий ТВ
 https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
 https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8
@@ -9415,9 +9353,6 @@ https://ac-001.live.p7s1video.net/a30b657a/t_001/sat1-at/cenc-default.mpdc2/cenc
 #EXTINF:-1 tvg-id=" group-title="🇪🇺ACARA",7maxx
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef16552fe39c91737511c15a39e16ad9:c1bb85444d790d23084846e7c123707a
-#KODIPROP:inputstream.adaptive.license_key=04f08ec77f515bf09591cfa4100f633d:8f82a2431afa59d0dcde1e3a8a32352b
-#KODIPROP:inputstream.adaptive.license_key=d05348c99eae5f17a9f5b6b40aa60341:c69553b0b6116b4882a2e652f62bc43e
-#KODIPROP:inputstream.adaptive.license_key=68d236027285567db3862f9e7665caf0:e57e10cf70ef32a275685f5c5f47236a
 https://ac-001.live.p7s1video.net/5dab4de6/t_001/prosiebenmaxx-at/cenc-default.mpd
 
 
