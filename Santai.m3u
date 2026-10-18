@@ -11204,6 +11204,11 @@ https://ac-009.live.p7s1video.net/e0e064c8/t_004/ran-nflnetwork-de-hd/cenc-defau
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master.mpd
 https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀2",MOTO GP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="SPORT𓍢ִ🏃‍♀",NOW SPORT HD1
 http://line.godofiptv.com:80/play/live.php?mac=A0:BB:3E:02:F1:78&stream=554949&extension=ts&play_token=VQI94iBoCl
 http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199982
