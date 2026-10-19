@@ -9752,6 +9752,12 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies2
 http://125.188.136.121:9981/stream/channelid/1575295684?profile=pass
 #EXTINF:-1 ch-number=" tvg-id=" group-title="🇰🇷📡" tvg-logo=",중화TV
 https://backup.760515.xyz/playlist/중화TV-playlist.m3u8
+#EXTINF:-1 tvg-id="99991348" tvg-name="KOCOWA K-Drama" tvg-logo="https://image.xumo.com/v1/channels/channel/99991348/168x168.png?type=color_onBlack" group-title="🇰🇷📡",KOCOWA K-Drama
+https://live-content.xumo.com/285/content/XM0VNLIJQ187KT/29159725/master.m3u8
+#EXTINF:-1 tvg-id="99991386" tvg-name="NEW Korean MOVIES & SERIES" tvg-logo="https://image.xumo.com/v1/channels/channel/99991386/168x168.png?type=color_onBlack" group-title="🇰🇷📡",NEW Korean MOVIES & SERIES
+https://live-content.xumo.com/1825/content/XM0SH1LWBIHDOO/29436166/master.m3u8
+
+
 #EXTINF:-1 ch-number="3" tvg-id="Mnet.kr" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1400/C00579.png" group-title="🇰🇷📡",M.net HD 
 http://125.188.136.121:9981/stream/channelid/474737230?profile=pass
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d66afd810153d786553381d0e3/019d719c3005153d786553381d0f0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTAzNTg2NjAsInBhdGgiOiIvbzIifQ.zVIc5lLgw4dPVdRoH3dzKwyFdt7-ckmVacYdUMwARqk
