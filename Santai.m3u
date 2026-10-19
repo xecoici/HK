@@ -11378,42 +11378,126 @@ https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
 https://php.946985.filegear-sg.me/mytv265.php?id=CONC
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀2", HBO BOXING
+#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀" tvg-logo="",Premiere Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀" tvg-logo="",Premiere Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+
+#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀" tvg-logo="",Premiere Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+
+#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀" tvg-logo="",Premiere Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
+
+#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀" tvg-logo="",Premiere Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
+
+
+#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀" tvg-logo="",Premiere 6 SD
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=561baa89676c89c1d047e1852ba01c09:a8c157826dfdf1299a329b77e2ab6a1a
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd
+
+#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀" tvg-logo="",Premiere 7 SD
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ee352aac7ed8ee1cb42cfdf322b1cb0:053d635fc90e175881bef26cd29f371e
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd
+
+
+#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀" tvg-logo="",Premiere 8 SD
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=19fb8464136594ce0c66fe3589e88ef4:6a0efc4a82a1e087f093c3e5de3e2a3e
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd
+
+
+#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀2" tvg-logo="",ESPN
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
+#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀2" tvg-logo="",ESPN 2
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8
+#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀2" tvg-logo="",ESPN 3
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8
+#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀2" tvg-logo="",ESPN 4
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn4-mux/playlist.m3u8
+#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀2" tvg-logo="",ESPN 5
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn4-mux/playlist.m3u8
+#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀2" tvg-logo="",ESPN 6
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/chunks.m3u8
+#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀2" tvg-logo="",ESPN 7
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn7-mux/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀", HBO BOXING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
 
-#EXTINF:-1 tvg-id="" group-title="SPORT𓍢ִ🏃‍♀2" tvg-logo="",HBO Boxing Opt.2
+#EXTINF:-1 tvg-id="" group-title="SPORT𓍢ִ🏃‍♀" tvg-logo="",HBO Boxing Opt.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀2",UFC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀",UFC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀2",NBA TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀",NBA TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀2", NBA TV Opt.2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀", NBA TV Opt.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/qio4cutx9r/out/v1/c89ef71f801b42b7abe65c7777adc6c4/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀2", NFL NETWORK
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀", NFL NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b26a662a10074eb0756404c8e90e765a:76e376bd25f92bed939435d982f92d3f
 https://ac-009.live.p7s1video.net/e0e064c8/t_004/ran-nflnetwork-de-hd/cenc-default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀2", NFL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀", NFL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11421,28 +11505,43 @@ https://ac-009.live.p7s1video.net/e0e064c8/t_004/ran-nflnetwork-de-hd/cenc-defau
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master.mpd
 https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀2",MOTO GP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀",MOTO GP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀2",FuboSports
+#EXTINF:-1 tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀",FuboSports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀2",Eurosport 1 Italia
+#EXTINF:-1 tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀",Eurosport 1 Italia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c17752768447a2ff801b87f7a390781 : 90375b77c0f6d271caef3c8accd4f1ae
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀2",Eurosport 2 Italia
+#EXTINF:-1 tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀",Eurosport 2 Italia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ada9d51e521ee51230960ef875b6f42 : a8d895925ccabb044a2c9fa636a764f3
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/kbjpsludyv/out/v1/a2cf27ad758a47449c083e3166f1c3a5/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://dmi-vod-prod.akamaized.net/images/channels/Dsports_1_1280x720.png" tvg-id="" group-title="SPORT𓍢ִ🏃‍♀",Dubai Sports 1 🇦🇪
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a43ef7e1c845375f878a24b495fbc67f:d5e70ab17dc3a56a3169af24fd09778e
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36&Origin=https://www.dubaiplus.net&Referer=https://www.dubaiplus.net/
+https://link.theplatform.eu/s/dmimain/media/dmi-prod-live-media-dubaisports1
+
+
+#EXTINF:-1 tvg-logo="https://dmi-vod-prod.akamaized.net/images/channels/Dsports_2_1280x720.png" tvg-id="" group-title="SPORT𓍢ִ🏃‍♀",Dubai Sports 2 🇦🇪
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=056f6500722f39b88df4602a1aa1b23b:2abbc2e8b8085fd3ffdbdc4c171781b8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36&Origin=https://www.dubaiplus.net&Referer=https://www.dubaiplus.net/
+https://link.theplatform.eu/s/dmimain/media/dmi-prod-live-media-dubaisports2
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="SPORT𓍢ִ🏃‍♀",NOW SPORT HD1
 http://line.godofiptv.com:80/play/live.php?mac=A0:BB:3E:02:F1:78&stream=554949&extension=ts&play_token=VQI94iBoCl
