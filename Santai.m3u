@@ -11438,31 +11438,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvd
 #KODIPROP:inputstream.adaptive.license_key=19fb8464136594ce0c66fe3589e88ef4:6a0efc4a82a1e087f093c3e5de3e2a3e
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd
 
-
-#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀2" tvg-logo="",ESPN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
-#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀2" tvg-logo="",ESPN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8
-#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀2" tvg-logo="",ESPN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8
-#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀2" tvg-logo="",ESPN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn4-mux/playlist.m3u8
-#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀2" tvg-logo="",ESPN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn4-mux/playlist.m3u8
-#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀2" tvg-logo="",ESPN 6
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/chunks.m3u8
-#EXTINF:-1 group-title="SPORT𓍢ִ🏃‍♀2" tvg-logo="",ESPN 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn7-mux/chunks.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="SPORT𓍢ִ🏃‍♀", HBO BOXING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
