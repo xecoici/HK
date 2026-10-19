@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="	MAXSTREAM",TLC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65c00c0313f3ab4a3de497232af476be:0d71fab41dcf23d62e8238be64c87cec
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://tencent-css-live.byteplaycdn.com/vos/DASH/tlc/manifest.mpd?enc=CDYNn4eT79S8yYOwIlRfeA&exp=1792321843&encp=XALnsxyAOecBFc_32uzk1g&expp=1792332343
-
 #EXTINF:-1 tvg-logo="" group-title="🇰🇷TVHEADEND Jm14⚠",MBC Eve
 http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305429000000_00bf
 #EXTINF:-1 tvg-logo="" group-title="🇰🇷TVHEADEND Jm14⚠",Dramacube
@@ -2082,7 +2076,7 @@ http://202.169.224.203:8800/udp/239.9.1.30:1234
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="📡FAVORIT" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",102 TV2 HD
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+https://raw.githubusercontent.com/MIFNtechnology/StreamLiveTv/refs/heads/main/channels/Tv2/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="📡FAVORIT" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png",TV Okey HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
