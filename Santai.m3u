@@ -9890,6 +9890,7 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a
 http://124.222.153.240/kakaotv/get_channel.php?channel=tvn#.m3u8
 
 #EXTINF:-1 tvg-logo="https://backup.760515.xyz/logo/KBS2.png" group-title="🇰🇷📡",KBS2
+https://live-th10.myjktv.com/watch/live.m3u8?video=kbs2_720&sid=ydgk7UQ4tRqNWF4GjB3g0v6QLRPiB2yBXX1fE6hd&secret=93bf0fa8d328c005e9e6e92550a5a7f5&time=1792382468
 http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2
 http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2
 #EXTINF:-1 tvg-logo="https://backup.760515.xyz/logo/KBS2.png" group-title="🇰🇷📡",KBS2
