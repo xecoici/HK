@@ -9945,6 +9945,7 @@ https://tving-live-o2-skcdn.tving.com/o2/v1/0198c70ae8c1153d78652b69a68dea/0198c
 https://tving-live-o2-skcdn.tving.com/o2/v1/0198c70ae8c1153d78652b69a68dea/0198c70fd1291eb80e792b56648c3a/vc1_stream4.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5MjU0NDY4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=ddqQ9rXLPxXAYP55Pe-qTWe44ynW-d2jeCD-~WRQpfnIqcWOHLAr~al5SWGJXU7WiyMqyEnhgowW~6vlE8ynBaLo-GDggWmyb2Zke~hVIWcEHqCH6mdO0NrNa8kOr86-D4IY2RT4zjxQKjCJTacuqj7QU33C58oYPOJfIVf6JHuh65BTCtmlSnR~ZCWJuChRsl8QxjU6yLg8gyQd6Dq8TVeyeAoMVk9F~NQGjTQXg6YNaLwkxlor7C~TkHf8OOqpp8fu~dEbJptM3PL32DuBqNaFdvUhknrTjBjqQl63F8YdCrwhxykx8Yxzy0RRfBmDaqer5CcxtuZ-6VNBEqs9TQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 
 #EXTINF:-1 tvg-logo="https://backup.760515.xyz/logo/MBC.png" group-title="🇰🇷📡",MBC
+https://live-th10.myjktv.com/watch/live.m3u8?video=mbc_720&sid=hqNHt4QfC0rHSTGnmg1gGFlCgog7n4YsgrNP24Sb&secret=e8f16144b243eb57b27f479b2fd8c69f&time=1792298347
 http://124.222.153.240/kakaotv/get_channel.php?channel=mbc
 #EXTINF:-1 tvg-logo="https://backup.760515.xyz/logo/MBC.png" group-title="🇰🇷📡",MBC
 https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/refs/heads/main/playlist/MBC-playlist.m3u8
@@ -9961,10 +9962,13 @@ https://tving-live-o2-xcdn.tving.com/v1/ssai/manifest/019bd50ff2d61eb80e791c22ad
 https://tving-live-o2-xcdn.tving.com/v1/ssai/manifest/019bd50ff2d61eb80e791c22ad4884/921f6756e6939cf015d0244f0a168225/dmMxX3N0cmVhbTQubTN1OA==/vc1_stream4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODkyNTQ1NjksInBhdGgiOiIvdjEifQ.k3BVFg3cEoA0iEqxcVK36iPzfVAPLQrP9UmPeeBeGDo
 
 #EXTINF:-1 ch-number="6" tvg-id=" tvg-logo="http://image.tving.com/public_v4/portal/images/smr/logo_sbs.png" group-title="🇰🇷📡",SBS HD 
+https://live-th10.myjktv.com/watch/live.m3u8?video=sbs_720&sid=B3iVxDUcsBEKo5pgJgGQr7Iu52KlyFi4oG1F0xHQ&secret=f04085fec75ef47235b3774cb3cbc985&time=1792381677
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs
 https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODkxODkyMDEsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImJhOWE1OWIyLTZhNmEtNGJkNS05NDNlLWIyMmQzMDZjYzU5ZSIsImlhdCI6MTc4OTE4MjAwMX0.MCyLASlsrfrcZPDXyhISz9MiZD2exNVreM0zZDLwFE8
 
 #EXTINF:-1 tvg-id="ENA.kr" tvg-name="ENA" group-title="🇰🇷📡" tvg-logo="https://iptv-epg.org/images/Q54_gNpFmI5og-1YA3UAROVVyno8gphBFg6t9SQoAaZVGOKPnicDqhIxM4bQZk7zKAtuYQ2RiLCgjZhmc6MEsDwEtuhnezf0g1AP ",ENA
+https://live-th10.myjktv.com/watch/live.m3u8?video=ena_720&sid=JboQgD22eRHnINJSfnfkSZJf0oMg4jojhQEjQ2Nf&secret=ff6f97a2df1d5bc19c7d97ff2b1ddcfc&time=1791430373
+http://43.164.132.11/kakaotv/get_channel.php?channel=ena
 http://124.222.153.240/kakaotv/get_channel.php?channel=ena
 http://124.222.153.240/kakaotv/get_channel.php?channel=ena#.m3u8
 http://125.188.136.121:9981/stream/channelid/654593865?profile=pass
