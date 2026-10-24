@@ -4454,6 +4454,36 @@ https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.
 https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/HLSv3-FTA/SoyonGegeeruulegch.m3u8
 
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇵🇭BigBrother🔒",BigBrother1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac87b335cfd44a8589f96a4f8534c674:4b9066c7778e74b899c2f57d977149b1
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-diningarea/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇵🇭BigBrother🔒",BigBrother2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01f5f16338aa4302b5fc5e3e2c50cd3d:0dbd0f05009fa64614de990f56b3f322
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-externalden/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇵🇭BigBrother🔒",BigBrother3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02b0d6aa78d547af890c9e27113e81af:890160f8ece56b8cd232889acb74e276
+https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇵🇭BigBrother🔒",BigBrother4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5208606a1a5e4750bc7aaafa3bbad84c:246d9c7efc6d96d8d596aa294313e17b
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
+
+
 #PLAYLIST:AIR
 #EXTINF:-1 tvg-id="Studio_Universal" tvg-name="Studio Universal" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/B3F8E1A6-2C75-49D0-A4B9-8E613F7C529D/0-1x1.png?width=800" tvg-chno="1" group-title="🇵🇭Cignal🔒",Studio Universal
 https://smaplcig.dpdns.org/studio-universal/air.m3u8
@@ -5267,8 +5297,18 @@ https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi10/default/index.mpd
 **********Converge-TV**********
 #EXTINF:-1 group-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/mux-wrd1.png"
 
-
-
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-logo="https://phcorner.org/attachments/4284998/",SMMC TV
+https://startelevisionmmcdi.sanmateocable1.workers.dev/smmctv/alltv-master/live.m3u8
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-logo="https://phcorner.org/attachments/4285003/,BIGSCREENTV 
+https://bigscreentv.itunerworldwide.workers.dev/master.live.m3u8
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-logo="https://phcorner.org/attachments/4285004/",EPIC ONE TV 
+https://epiconetv.itunerworldwide.workers.dev/master.live.m3u8
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-logo="https://phcorner.org/attachments/4284997/",SOUTH STAR TV
+https://southstartv.itunerworldwide.workers.dev/master.live.m3u8
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-logo="https://phcorner.org/attachments/4285000/",PTN
+https://ptnglobal.sanmateocable.workers.dev/master.live.m3u8
+#EXTINF:-1 group-title="🇵🇭CONVERGE🔓" tvg-logo="https://phcorner.org/attachments/4285007/",ASIA FLIX TV
+https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8
 #EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxworld-logo-i1.png" group-title="🇵🇭CONVERGE🔓",MUX World
 https://live20.bozztv.com/giatvplayout7/giatv-209297/playlist.m3u8
 
