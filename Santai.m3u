@@ -1,4 +1,4 @@
-0#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="🇰🇷TVHEADEND Jm14⚠",MBC Eve
 http://jm14.modhospital.kr:9981/stream/service/_dev_dvb_adapter6_Hisilcon_LGDT3305429000000_00bf
@@ -2032,6 +2032,19 @@ https://ff.hamsuehun.myds.me/alive/api/url.m3u8?m=url&s=wavve&i=K02&q=SD&apikey=
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsch6&streamName=sbsch61 
 #EXTINF:-1 ch-number="11" tvg-id="MBC.kr" tvg-logo="https://i.ibb.co/1t8pMrY1/image.png" group-title="📡FAVORIT",MBC HD 
 https://ff.hamsuehun.myds.me/alive/api/url.m3u8?m=url&s=wavve&i=M01&q=auto&apikey=YXBIV21YP9&u=Y
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📡FAVORIT",CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
+https://login.bheem.tv/bpk-tv/22096/output/index.mpd
+
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158023_ld_h15_aa.png?lock=720x540" group-title="📡FAVORIT",TLC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
+
 
 #EXTINF:-1 tvg-name="CNN Indonesia" group-title="📡FAVORIT",BBC EARTH
 http://202.169.224.203:8800/udp/239.9.1.30:1234
@@ -10305,6 +10318,228 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2#.m3u8
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime#.m3u8
 #EXTINF:-1 tvg-id="tvN SPORTS.kr" tvg-name="tvN Sports" group-title="🇰🇷📡" tvg-logo="https://iptv-epg.org/images/maIcE3tY6DI3qjW18t9UwI4sgI-Bu4GqGsvxcEqrepAazsHzyo_DLmtSJY3y_aCLEOCTuLk5QzEfQpamtGDE9MO0VnerE5vddhvsJfp7Iy7C",tvN Sports
 http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_sports#.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="" group-title="🇮🇩Test Feed🔓",ASTRO CERIA
+https://hd.rip/stream/Ceria/playlist.m3u8?e=1793100986&s=311b42568f183fec02ff1e1029161df1
+
+#EXTINF:-1 tvg-name="" group-title="🇮🇩Test Feed🔓",ASTRO QJ
+https://hd.rip/stream/Quanjia/playlist.m3u8?tid=MFFF3293542732935427&ct=19226&tsum=27c80d1bed9942e20443c39f523846fb&e=1793101149&s=6f7a0d8cb061ec203eb8e169d2f3211b
+
+#EXTINF:-1 tvg-name="" group-title="🇮🇩Test Feed🔓",ASTRO BOO
+https://hd.rip/stream/Boo/playlist.m3u8?e=1793101204&s=a8a0b2c8f26b9d4b31bfe085c50e6485
+
+#EXTINF:-1 tvg-name="" group-title="🇮🇩Test Feed🔓",ASTRO RIA
+https://hd.rip/stream/Ria/074122_1793012660.ts
+
+#EXTINF:-1 tvg-name="" group-title="🇮🇩Test Feed🔓",HBO
+https://hd.rip/stream/Hbo/playlist.m3u8?e=1793101369&s=5a4cfe338f2bf2295b5ddea0973931ba
+
+#EXTINF:-1 tvg-name="" group-title="🇮🇩Test Feed🔓",TV3
+https://hd.rip/stream/TV3_backup/playlist.m3u8?tid=MA3A2227976222279762&ct=19249&tsum=f74de478f6a153a62550be93406fc29c&e=1793101470&s=0452d4698301f6339ce67fbaadb649f3
+
+#EXTINF:-1 tvg-name="" group-title="🇮🇩Test Feed🔓",ASTRO AEC
+https://hd.rip/stream/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f&e=1793101539&s=3cb5457ed03037502e5c10cbf7f5b678
+
+#EXTINF:-1 tvg-name="" group-title="🇮🇩Test Feed🔓",ASTRO CITRA
+https://hd.rip/stream/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f&e=1793101539&s=3cb5457ed03037502e5c10cbf7f5b678
+
+#EXTINF:-1 tvg-name="" group-title="🇮🇩Test Feed🔓",ASTRO DABAEK
+https://hd.rip/stream/SetOne/playlist.m3u8?e=1793101638&s=4f2297d5c0faf72b16e7b999c4fa3f92
+
+#EXTINF:-1 tvg-name="" group-title="🇮🇩Test Feed🔓"TV8
+https://hd.rip/stream/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35&e=1793101699&s=4b11d48b85505e8f8b1d91505ed71d15
+
+#EXTINF:-1 group-title="🇧🇷SATGOl+",XSPORTS HD
+https://streaming.sattvgo.com.br/XSPORTS/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",ALL SPORTS HD
+https://streaming.sattvgo.com.br/ALL_SPORTS/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",CAZETV HD
+https://streaming.sattvgo.com.br/CAZE_TV/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",BAND SPORTS HD
+https://streaming.sattvgo.com.br/BAND_SPORTS_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",FOX SPORTS 2 HD
+https://streaming.sattvgo.com.br/FOX_SPORTS_2/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",Record HD
+https://streaming.sattvgo.com.br/RECORD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",ESPN HD
+https://streaming.sattvgo.com.br/ESPN_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",ESPN 2 HD
+https://streaming.sattvgo.com.br/ESPN2_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",ESPN 3 HD
+https://streaming.sattvgo.com.br/ESPN3_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",ESPN 4 HD
+https://streaming.sattvgo.com.br/ESPN4_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",ESPN 5 HD
+https://streaming.sattvgo.com.br/ESPN5_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",ESPN 6 HD
+https://streaming.sattvgo.com.br/ESPN6_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",ESPN HD
+https://streaming.sattvgo.com.br/ESPN1/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",ESPN 2 HD
+https://streaming.sattvgo.com.br/ESPN2/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",ESPN 3 HD
+https://streaming.sattvgo.com.br/ESPN3/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",ESPN 4 HD
+https://streaming.sattvgo.com.br/ESPN4/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",ESPN 5 HD
+https://streaming.sattvgo.com.br/ESPN5/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",ESPN 6
+https://streaming.sattvgo.com.br/ESPN6/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",TVE HD
+https://streaming.sattvgo.com.br/TVE/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",BAND HD
+https://streaming.sattvgo.com.br/BAND_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",SBT HD
+https://streaming.sattvgo.com.br/SBT_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",GLOBO HD
+https://streaming.sattvgo.com.br/GLOBO_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",GLOBOPB HD
+https://streaming.sattvgo.com.br/GLOBO_PB/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",GLOBOES HD
+https://streaming.sattvgo.com.br/GLOBO_ES/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",GLOBOPE HD
+https://streaming.sattvgo.com.br/GLOBO_PE/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",RATIMBUM
+https://streaming.sattvgo.com.br/RATIMBUM/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",CANALDO BOI
+https://streaming.sattvgo.com.br/CANAL_DO_BOI/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",RBS HD
+https://streaming.sattvgo.com.br/RBS_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",A&E HD
+https://streaming.sattvgo.com.br/AE_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",AXN HD
+https://streaming.sattvgo.com.br/AXN_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",Arte 1 HD
+https://streaming.sattvgo.com.br/ARTE_1/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",HBO HD
+https://streaming.sattvgo.com.br/HBO/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",HBO2 HD
+https://streaming.sattvgo.com.br/HBO2/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",HBO+ PLUS HD
+https://streaming.sattvgo.com.br/HBO_PLUS/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",HBO Family HD
+https://streaming.sattvgo.com.br/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",HBO Pop HD
+https://streaming.sattvgo.com.br/HBO_POP_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",HBO Mundı HD
+https://streaming.sattvgo.com.br/HBO_MUNDI_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",HBO SIGNATURE HD
+https://streaming.sattvgo.com.br/HBO_SIGNATURE/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",HBO XTREME HD
+https://streaming.sattvgo.com.br/HBO_EXTREME_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",URBAN MOVIES HD
+http://streaming.sattvgo.com.br/URBAN_MOVIES/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",URBAN SERIES HD
+https://streaming.sattvgo.com.br/URBAN_SERIES/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",URBAN DOCS HD
+https://streaming.sattvgo.com.br/URBAN_DOCS/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",URBAN TRAVEL HD
+https://streaming.sattvgo.com.br/URBAN_TRAVEL/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",URBAN TURBO HD
+https://streaming.sattvgo.com.br/URBAN_TURBO/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",URBAN KIDS HD
+https://streaming.sattvgo.com.br/URBAN_KIDS/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",SPACE HD
+https://streaming.sattvgo.com.br/SPACE_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",MEGAPIX HD
+https://streaming.sattvgo.com.br/MEGAPIX/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",CINEMAX HD
+https://streaming.sattvgo.com.br/CINEMAX/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",Warner TV HD
+https://streaming.sattvgo.com.br/WARNER_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",TCM HD
+https://streaming.sattvgo.com.br/TCM_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",TNT HD
+https://streaming.sattvgo.com.br/TNT_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",TNTSERIES HD
+https://streaming.sattvgo.com.br/TNT_SERIES/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",TNT NOVELAS HD
+https://streaming.sattvgo.com.br/TNT_NOVELAS/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",SONY MOVIES HD
+https://streaming.sattvgo.com.br/SONY_MOVIES/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",SONY HD
+https://streaming.sattvgo.com.br/SONY_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",MAIS FAMILIA HD
+https://streaming.sattvgo.com.br/MAIS_FAMILIA/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",TLC HD
+https://streaming.sattvgo.com.br/TLC_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",FASHION TV HD
+https://streaming.sattvgo.com.br/FASHION_TV_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",HISTORY HD
+https://streaming.sattvgo.com.br/HISTORY_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",HISTORY 2 HD
+https://streaming.sattvgo.com.br/H2_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",HGTV HD
+https://streaming.sattvgo.com.br/HGTV_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",DISCOVERY WORLD HD
+https://streaming.sattvgo.com.br/DISCOVERY_WORLD_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",DISCOVERY CHANNEL HD
+https://streaming.sattvgo.com.br/DISCOVERY_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",DISCOVERY ID HD
+https://streaming.sattvgo.com.br/ID_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",DISCOVERY SCIENCE HD
+https://streaming.sattvgo.com.br/DISCOVERY_SCIENCE_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",DISCOVERY THEATER HD
+https://streaming.sattvgo.com.br/DISCOVERY_THEATER_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",DISCOVERYTURBO HD
+https://streaming.sattvgo.com.br/DISCOVERY_TURBO_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",ANIMAL PLANET HD
+https://streaming.sattvgo.com.br/ANIMAL_PLANET_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",WOOHOO HD
+https://streaming.sattvgo.com.br/WOOHOO/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",CHEF TV
+https://streaming.sattvgo.com.br/CHEF_TV/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",FISHTV HD
+https://streaming.sattvgo.com.br/FISH_TV_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",GAZETA HD
+https://streaming.sattvgo.com.br/GAZETA_HD/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",TRAVEL BOX
+https://streaming.sattvgo.com.br/TRAVEL_BOX_HD/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",FUEL TV HD
+https://streaming.sattvgo.com.br/FUEL_TV/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",REDE SUPER
+https://streaming.sattvgo.com.br/REDE_SUPER/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",REDE HD
+https://streaming.sattvgo.com.br/REDE_TV_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",TV JUSTICA HD
+https://streaming.sattvgo.com.br/TV_JUSTICA/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",TV BRASIL HD
+https://streaming.sattvgo.com.br/TV_BRASIL/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",TV CAMARA
+https://streaming.sattvgo.com.br/TV_CAMARA/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",TV CULTURA HD
+https://streaming.sattvgo.com.br/TV_CULTURA_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",TRACE URBAN HD
+https://streaming.sattvgo.com.br/TRACE_URBAN/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",TRACE TOCA HD
+https://streaming.sattvgo.com.br/TRACE_TOCA/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",HALLO MUSIC HD
+https://streaming.sattvgo.com.br/HALLO_MUSIC/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",MUSIC BOX HD
+https://streaming.sattvgo.com.br/MUSIC_BOX_HD/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",TV_ESCOLA HD
+https://streaming.sattvgo.com.br/TV_ESCOLA/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",REDE TV HD
+https://streaming.sattvgo.com.br/REDE_TV_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",CARTOON HD
+https://streaming.sattvgo.com.br/CARTOON_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",TOONCAST HD
+https://streaming.sattvgo.com.br/TOONCAST/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",DISCOVERY KIDS HD
+https://streaming.sattvgo.com.br/DISCOVERY_KIDS_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",BAND NEWS HD
+https://streaming.sattvgo.com.br/BAND_NEWS_HD/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",GLOBO TV BAHIA
+https://streaming.sattvgo.com.br/GLOBO_BAHIA/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",RAI ITALIA HD
+https://streaming.sattvgo.com.br/RAI_ITALIA/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",CNBC HD
+https://streaming.sattvgo.com.br/CNBC/index.m3u8
+#EXTINF:-1 group-title="🇧🇷SATGOl+",EURONEWS HD
+https://streaming.sattvgo.com.br/EURONEWS_HD/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="🇮🇩🎥📻",Singkawang1
 https://pantau.singkawangkota.go.id/stream/alitsafioddin/ch-3/stream.m3u8
