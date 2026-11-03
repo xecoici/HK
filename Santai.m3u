@@ -7424,6 +7424,30 @@ https://nord.ayakkabiparti.lol/bbc/index.m3u8
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 #EXTM3U
+#EXTINF:-1 group-title="🇬🇧UK",BBC One EMidHD
+http://176.65.153.4:4001/play/a08i/index.m3u8
+#EXTINF:-1 group-title="🇬🇧UK",BBC,BBC One EastHD
+http://176.65.153.4:4001/play/a08h/index.m3u8
+#EXTINF:-1 group-title="🇬🇧UK",BBC,BBC One Lon HD
+http://176.65.153.4:4001/play/a08e/index.m3u8
+#EXTINF:-1 group-title="🇬🇧UK",BBC,BBC One NI HD
+http://176.65.153.4:4001/play/a08q/index.m3u8
+#EXTINF:-1 group-title="🇬🇧UK",BBC,BBC One NI HD
+http://176.65.153.4:4001/play/a08n/index.m3u8
+#EXTINF:-1 group-title="🇬🇧UK",BBC,BBC One SE HD
+http://176.65.153.4:4001/play/a08l/index.m3u8
+#EXTINF:-1 group-title="🇬🇧UK",BBC,BBC One Y&L HD
+http://176.65.153.4:4001/play/a08k/index.m3u8
+#EXTINF:-1 group-title="🇬🇧UK",BBC,BBC Two HD
+http://176.65.153.4:4001/play/a08m/index.m3u8
+#EXTINF:-1 group-title="🇬🇧UK",BBC,BBC Two Wal HD
+http://176.65.153.4:4001/play/a08f/index.m3u8
+#EXTINF:-1 group-title="🇬🇧UK",BBC,CBBC HD
+http://176.65.153.4:4001/play/a08p/index.m3u8
+#EXTINF:-1 group-title="🇬🇧UK",BBC,CBeebies HD
+http://176.65.153.4:4001/play/a08g/index.m3u8
+#EXTINF:-1 group-title="🇬🇧UK",BBC,ETV4
+http://176.65.153.4:4001/play/a08o/index.m3u8
 #EXTINF:-1 tvg-id="7b438ce950842d1cfe3c3c7d3ab57eb6" group-title="🇬🇧UK",BBC ONE East
 http://81.78.186.155:7000/stream/channelid/1770799995?ticket=D581377337D3BD4945D1A0C93E7C7B743AAAA6F3&profile=pass
 #EXTINF:-1 tvg-id="5327b912d47aa227806406cad5a4c2f6" group-title="🇬🇧UK",BBC TWO
