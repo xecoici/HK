@@ -11180,6 +11180,12 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs11#.m3u8
 #EXT-X-APTV-PREVIEW: FALSE
 #EXT-X-APTV-LATENCY: FALSE
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇹🇼 🇨🇳 🇭🇰 🇲🇴",TW1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://qingyi.7766.org:7003/0.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇹🇼 🇨🇳 🇭🇰 🇲🇴",TW2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://qingyi.7766.org:7007/0.ts
 #EXTINF:-1 tvg-id="stream-b9a351eb-60b5-433f-9067-c5fa6d6c60af" tvg-name="客家電視台" group-title="🇹🇼 🇨🇳 🇭🇰 🇲🇴",HAKKA TV
 http://iptv.852851.xyz/l/xljpo8AUIZN3h90ku2WPCn32PNSFNkY6g1agdZ3UPTFH5pPuPhk245Ex-Mtew-0W/index.m3u8
 https://iptv.852851.xyz/l/xljpo8AUIZN3h90ku2WPCn32PNSFNkY6g1agdZ3UPTFH5pPuPhk245Ex-Mtew-0W/index.m3u8
