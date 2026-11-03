@@ -7694,134 +7694,6 @@ http://81.78.186.155:7000/stream/channelid/352840183?ticket=1D26016735CE23BCD7EF
 http://81.78.186.155:7000/stream/channelid/1083499740?ticket=B65E9E910964BC5EA3B288E481E59704A838B4A4&profile=pass
 
 #EXTM3U
-#EXTINF:-1 tvg-id="VoyoSport1.ro@SD",Voyo Sport 1
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
-#EXTINF:-1 tvg-id="TVRSport.ro@SD",TVR Sport
-https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="ProTV.ro@SD",Pro TV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/710.m3u8
-#EXTINF:-1 tvg-id="AcasăTV.ro@SD",Acasă TV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/709.m3u8
-#EXTINF:-1 tvg-id="KanalD.ro@SD",Kanal D
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/705.m3u8
-#EXTINF:-1 tvg-id="KanalD2.ro@SD",Kanal D2
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/1012.m3u8
-#EXTINF:-1 tvg-id="TVR1.ro@SD",TVR 1
-https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVR2.ro@SD",TVR 2
-https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVR3.ro@SD",TVR 3
-https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="NationalTV.ro@SD",National TV
-https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
-#EXTINF:-1 tvg-id="NationalTV2.ro@SD",National TV 2
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/19272.m3u8
-#EXTINF:-1 tvg-id="National24Plus.ro@SD",National 24 Plus
-https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
-#EXTINF:-1 tvg-id="FavoritTV.ro@SD",Favorit TV
-https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
-#EXTINF:-1 tvg-id="FavoritTV2.ro@SD",Favorit TV 2
-https://akamaisqli.app/--lMVy52kMxnGaCciH9_Qy_Fw8mF0QDlVAnHV_LINYl1Gwl0QAsK/ot_Lt4NzQHwmQgBikAD0wDHrJ5aBL1zdlQCPR0h5iJYJHK4I7YU.htm?token=eb1cedb5dc31dffc943f46b8522193bda0b6290f-a7152248b02362afebe56709f0ea19c4-1793134318-1793123518
-#EXTINF:-1 tvg-id="EtnoTV.ro@SD",Etno TV
-https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
-#EXTINF:-1 tvg-id="TVRCluj.ro@SD",TVR Cluj
-https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVRCraiova.ro@SD",TVR Craiova
-https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVRIasi.ro@SD",TVR Iasi
-https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVRTârguMures.ro@SD",TVR Târgu Mures
-https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVRTimisoara.ro@SD",TVR Timisoara
-https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="VPTV.ro@SD",VPTV
-https://ios.cdn.dejacast.com/live//vptv/tracks-v1a1/mono.ts.m3u8?from=1793008116&to=1793036916&session=ivOI7aqPTQY5ODCk&source=cms&token=3-GxUD1wUWIokrTGUZq6L9Mq19Y=
-#EXTINF:-1 tvg-id="QuantumTV.ro@SD",Quantum TV
-https://vs2133.vcdn.biz/e18563dda28328c31bb4da770903a81b_megogo/live/hls/b/4000/u_sid/0/o/190218421/rsid/5a38d259-5c91-4be4-a334-500e3744f7fd/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.170*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid9182836729848549823-b4000000.m3u8
-#EXTINF:-1 tvg-id="PROTVInternational.ro@SD",PRO TV International
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="TravelMix.ro@SD",Travel Mix
-https://vs2122.vcdn.biz/ecc83596e191727bc74f13bb899fcca8_megogo/live/hls/b/4000/u_sid/0/o/183804761/rsid/1ed77b82-b207-4936-be52-f4ad882c6eaf/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.170*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid1443590578585785075-b4000000.m3u8
-#EXTINF:-1 tvg-id="MetropolaTV.ro@SD",Metropola TV
-https://vs2141.vcdn.biz/2373ec2add6e6193ffed6a7fcda832c7_megogo/live/hls/b/4000/u_sid/0/o/183160901/rsid/57970a92-9892-4d5b-8b6f-e2d6fc4b7e6e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.170*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid5527240293315652411-b4000000.m3u8
-#EXTINF:-1 tvg-id="Beauty.ON.ro@SD",Beauty.ON
-https://akamaisqli.app/6roqI5xXplYDOG5RnblOXuE6zHUQhDrMzTTVNfYiLNpumyuc/ot_Lt4NzQHwmQgBikAD0wDHrJ5aBL1zdlQCPR0h5iJYJHK4I7YU.htm?token=af04e6d8ecd70fb6694ee2d04b806820dea43dc0-a9c3ada8ddad342e1fdffa69524e1c64-1793136534-1793125734
-#EXTINF:-1 tvg-id="Digi24.ro@SD",Digi 24
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/685.m3u8
-#EXTINF:-1 tvg-id="RomaniaTV.ro@SD",Romania TV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/11082.m3u8
-#EXTINF:-1 tvg-id="PrimaNews.ro@SD",Prima News
-https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
-#EXTINF:-1 tvg-id="B1TV.ro@SD",B1TV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/8405.m3u8
-#EXTINF:-1 tvg-id="EuronewsRomania.ro@SD",Euronews Romania
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/8527.m3u8
-#EXTINF:-1 tvg-id="TVRInfo.ro@SD",TVR Info
-https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="RealitateaPlus.ro@SD",Realitatea Plus
-http://hls01ns.antenaplay.ro/hls/realitatea-plus-sd/index.m3u8
-#EXTINF:-1 tvg-id="PROCINEMA.ro@SD",PRO CINEMA
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/9491.m3u8
-#EXTINF:-1 tvg-id="AcasaGold.ro@SD",Acasa Gold
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="BollywoodClasic.ro@SD",Bollywood Clasic
-https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
-#EXTINF:-1 tvg-id="CineWow.ro@SD",CineWow
-https://hls02ns.antenaplay.ro/hls/bollywood-clasic-sd/index.m3u8
-#EXTINF:-1 tvg-id="CinemaratonPlus.ro@SD",Cinemaraton Plus
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/18658.m3u8
-#EXTINF:-1 tvg-id="NostalgiaTV.ro@SD",Nostalgia TV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/15461.m3u8
-#EXTINF:-1 tvg-id="ProArena.ro@SD",Pro Arena
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/711.m3u8
-#EXTINF:-1 tvg-id="TraLaLaTV.ro@SD",TraLaLa TV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/8506.m3u8
-#EXTINF:-1 tvg-id="TraLaLaDSN.ro@SD",TraLaLa DSN
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/18660.m3u8
-#EXTINF:-1 tvg-id="KissTV.ro@SD",Kiss TV
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-#EXTINF:-1 tvg-id="RockTV.ro@SD",Rock TV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/7332.m3u8
-#EXTINF:-1 tvg-id="MagicTV.ro@SD",Magic TV
-https://hls02ns.antenaplay.ro/hls/magic-tv-sd/index.m3u8
-#EXTINF:-1 tvg-id="AtomicTV.ro@SD",Atomic TV
-https://atomic.streamnet.ro/atomictv.m3u8
-#EXTINF:-1 tvg-id="MusicChannel.ro@SD",Music Channel
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/87.m3u8
-#EXTINF:-1 tvg-id="UTV.ro@SD",UTV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
-#EXTINF:-1 tvg-id="H!TMusicChannel.ro@SD",H!T Music Channel
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/65.m3u8
-#EXTINF:-1 tvg-id="PartyMix.ro@SD",Party Mix
-https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
-#EXTINF:-1 tvg-id="EmiTV.ro@SD",Emi TV
-https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
-#EXTINF:-1 tvg-id="TarafTV.ro@SD",Taraf TV
-https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
-#EXTINF:-1 tvg-id="DiscoMix.ro@SD",Disco Mix
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/13427.m3u8
-#EXTINF:-1 tvg-id="RapsodiaTV.ro@SD",Rapsodia TV
-https://vs2139.vcdn.biz/c8f2f74a3f2fdbddc39dd566fe16e963_megogo/live/hls/b/700_2490/u_sid/0/o/183161911/rsid/a0e4b495-8346-4941-bd02-ea61ee848784/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.73*asn/u_srvc/109126/u_did/web_120545f86871779ba8c4d9505b6dfca9e62bd46fa6b48b0d4829dd71a1adad01/type.live/chunklist-sid3280795862407301834-b700000.m3u8
-#EXTINF:-1 tvg-id="TraditionalTV.ro@SD",Traditional TV
-https://hls01ns.antenaplay.ro/hls/traditional-tv-hd/index.m3u8
-#EXTINF:-1 tvg-id="TVAS.ro@SD",TV AS
-https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8
-#EXTINF:-1 tvg-id="OrizontTV.ro@SD",Orizont TV
-https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
-#EXTINF:-1 tvg-id="TVRFolclor.ro@SD",TVR Folclor
-https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVRCultural.ro@SD",TVR Cultural
-https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TV5Monde.ro@SD",TV5 Monde Europe
-https://hls01ns.antenaplay.ro/hls/tv5-monde-europe-sd/index.m3u8
-#EXTINF:-1 tvg-id="TrimitasTV.ro@SD",Trimitas TV
-https://hls01ns.antenaplay.ro/hls/trinitas-tv-sd/index.m3u8
-#EXTINF:-1 tvg-id="AlfaOmegaTV.ro@SD",Alfa Omega TV
-https://hls01ns.antenaplay.ro/hls/alfa-omega-tv-hd/index.m3u8
-#EXTINF:-1 tvg-id="SperantaTV.ro@SD",Speranta TV
-https://hls02ns.antenaplay.ro/hls/speranta-tv-hd/index.m3u8
-#EXTINF:-1 tvg-id="MedikaTV.ro@SD",Medika TV
-https://hls02ns.antenaplay.ro/hls/medika-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="Insulanonstop.ro@SD" group-title="🇷🇴ROMANIA",Insula non stop
 https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro@SD" group-title="🇷🇴ROMANIA",Antena 1
@@ -7973,6 +7845,197 @@ https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8
 https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 #EXTINF:-1 tvg-id="AccesDirect.ro@SD" group-title="🇷🇴ROMANIA",Acces Direct
 https://live77cdn2.antenaplay.ro/live2_fast/ch6/stream.m3u8
+#EXTINF:-1 tvg-id="FRFTV.ro@HD",FRF TV 2
+https://dilos.cdn.dejacast.com/live//frftv2/tracks-v1a1/mono.ts.m3u8?from=1793193714&to=1793222514&session=rgMLGO59TKaUSTyT&source=cms&token=iFfhPxXnbD_BPkuqcx0BhOYhkUg=
+#EXTINF:-1 tvg-id="FRFTV.ro@HD" group-title="🇷🇴ROMANIA",FRF TV 3
+https://dilos.cdn.dejacast.com/live//frftv3/tracks-v1a1/mono.ts.m3u8?from=1793193714&to=1793222514&session=rgMLGO59TKaUSTyT&source=cms&token=iFfhPxXnbD_BPkuqcx0BhOYhkUg=
+#EXTINF:-1 tvg-id="AntenaSport.ro@HD" "tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg" group-title="🇷🇴ROMANIA",Antena Sport
+https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
+#EXTINF:-1 tvg-id="AntenaSportPPV1.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10" group-title="🇷🇴ROMANIA",Antena Sport PPV 1 (1080p)
+https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8?&token=
+#EXTINF:-1 tvg-id="AntenaSportPPV2.ro" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10" group-title="🇷🇴ROMANIA",Antena Sport PPV 2 (720p)
+https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_2600k.m3u8
+#EXTINF:-1 tvg-id="AntenaSportPPV3.ro" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10" group-title="🇷🇴ROMANIA",Antena Sport PPV 3 (720p)
+https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8
+#EXTINF:-1 tvg-id="AntenaSportPPV4.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10" group-title="🇷🇴ROMANIA",Antena Sport PPV 4 (720p)
+https://live4dai.antenaplay.ro/live2_srt/live2_srt_3000k.m3u8
+#EXTINF:-1 tvg-id="AntenaSportPPV5.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10" group-title="🇷🇴ROMANIA",Antena Sport PPV 5 (720p)
+https://live4dai.antenaplay.ro/live2_srt1/live2_srt1_3000k.m3u8
+#EXTINF:-1 tvg-id="AntenaSportPPV6.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10" group-title="🇷🇴ROMANIA",Antena Sport PPV 6 (720p)
+https://live4dai.antenaplay.ro/live2_srt2/live2_srt2_3000k.m3u8
+#EXTINF:-1 tvg-id="AntenaSportPPV7.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10" group-title="🇷🇴ROMANIA",Antena Sport PPV 7 (720p)
+https://live4dai.antenaplay.ro/live2_srt3/live2_srt3_3000k.m3u8
+#EXTINF:-1 tvg-id="AntenaSportPPV8.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10" group-title="🇷🇴ROMANIA",Antena Sport PPV 8 (720p)
+https://live4dai.antenaplay.ro/live2_srt4/live2_srt4_3000k.m3u8
+#EXTINF:-1 tvg-id="AntenaSportPPV9.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10" group-title="🇷🇴ROMANIA",Antena Sport PPV 9 (720p)
+https://live4dai.antenaplay.ro/live2_srt5/live2_srt5_3000k.m3u8
+#EXTINF:-1 tvg-id="AntenaSportPPV10.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10" group-title="🇷🇴ROMANIA",Antena Sport PPV 10 (720p)
+https://live4dai.antenaplay.ro/live2_srt6/live2_srt6_3000k.m3u8
+#EXTINF:-1 tvg-id="AntenaSportPPV11.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10" group-title="🇷🇴ROMANIA",Antena Sport PPV 11 (720p)
+https://live4dai.antenaplay.ro/live2_srt7/live2_srt7_3000k.m3u8
+#EXTINF:-1 tvg-id="AntenaSportPPV12.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10" group-title="🇷🇴ROMANIA",Antena Sport PPV 12 (720p)
+https://live4dai.antenaplay.ro/live2_srt8/live2_srt8_3000k.m3u8
+#EXTINF:-1 tvg-id="AntenaSportPPV13.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10" group-title="🇷🇴ROMANIA",Antena Sport PPV 13 (720p)
+https://live4dai.antenaplay.ro/live2_srt9/live2_srt9_3000k.m3u8
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://vip-acasatv.online:25463/images/d3j3Wy_PPpf221E5gLEvEXWN8glvN2aTQrODYnbQmWt6vc4C13ZXRQSDG9oRPoFSyjVmRterPFZc-x0CrfSR6schD3LMEmo1mj4ioGinuYo.png" group-title="🇷🇴ROMANIA",VOYO Evenimente Live
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b" group-title="🇷🇴ROMANIA",VOYO Evenimente Live 2
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus12/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b" group-title="🇷🇴ROMANIA",VOYO Evenimente Live 3
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus11/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b" group-title="🇷🇴ROMANIA",VOYO Evenimente Live 4
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus10/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b" group-title="🇷🇴ROMANIA",VOYO Evenimente Live 5
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus9/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b" group-title="🇷🇴ROMANIA",VOYO Evenimente Live 6
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus8/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b" group-title="🇷🇴ROMANIA",VOYO Evenimente Live 7
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus7/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b" group-title="🇷🇴ROMANIA",VOYO Evenimente Live 8
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus6/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b" group-title="🇷🇴ROMANIA",VOYO Evenimente Live 9
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b" group-title="🇷🇴ROMANIA",VOYO Evenimente Live 10
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus4/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b" group-title="🇷🇴ROMANIA",VOYO Evenimente Live 11
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus3/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b" group-title="🇷🇴ROMANIA",VOYO Evenimente Live 12
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b" group-title="🇷🇴ROMANIA",VOYO Evenimente Live 13
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus1/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="Antena1.ro@HD" "tvg-logo="https://assets.antenaplay.ro/2023/08/17/s7ORLTEcvXhoMzR9L22V.png" group-title="🇷🇴ROMANIA",Antena 1 HD
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/680.m3u8
+#EXTINF:-1 tvg-id="Antena3CNN.ro@HD" "tvg-logo="https://assets.antenaplay.ro/2023/04/13/1aJdsf9lZT4qUWnGKSFU.png" group-title="🇷🇴ROMANIA",Antena 3 CNN HD
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/681.m3u8
+#EXTINF:-1 tvg-id="DigiSport1.ro@HD "tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="🇷🇴ROMANIA",Digi Sport 1 HD
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/688.m3u8
+#EXTINF:-1 tvg-id="DigiSport2.ro@HD" "tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="🇷🇴ROMANIA",Digi Sport 2 HD
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/689.m3u8
+#EXTINF:-1 tvg-id="DigiSport3.ro@HD "tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="🇷🇴ROMANIA",Digi Sport 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/690.m3u8
+#EXTINF:-1 tvg-id="DigiSport4.ro@HD "tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="🇷🇴ROMANIA",Digi Sport 4 HD
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/691.m3u8
+#EXTINF:-1 tvg-id="Digi4K.ro@4K "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg?utm_source=ro.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="🇷🇴ROMANIA",Digi 4K
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
+#EXTINF:-1 tvg-id="EuroSport1.ro@HD" "tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMyUyRmxvZ28l/MkZhcHAlMkZkYXJrdHYlMkZsb2dvX2lv/c19hbmRyb2lkX2V1cm9zcG9ydC5wbmcl/M0ZhJTNEMSZoYXNoPWZiYzg3ZDNiNGJkYTQ5OGFiMWY4Y2M3OWI5YzU0NTFh.png" group-title="🇷🇴ROMANIA",EuroSport 1 HD
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/695.m3u8
+#EXTINF:-1 tvg-id="EuroSport2.ro@HD" "tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMyUyRmxvZ28l/MkZhcHAlMkZkYXJrdHYlMkZsb2dvX2lv/c19hbmRyb2lkX2V1cm9zcG9ydDIucG5n/JTNGYSUzRDEmaGFzaD1mMzdlYWM2MGJjMzVlMjJhODViZDkwMjI1ZWM3MzYzOQ==.png" group-title="🇷🇴ROMANIA",Eurosport 2 HD
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/696.m3u8
+#EXTINF:-1 tvg-id="EuroSport4K.ro@4K" "tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/eurosport_4k_wide.png" group-title="🇷🇴ROMANIA",EuroSport 4K
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
+#EXTINF:-1 tvg-id="Fast&FunBox.ro@HD" "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Fast%26FunBox.svg" group-title="🇷🇴ROMANIA",Fast&FunBox HD
+https://iptv.prosto.tv/ch120/index.m3u8
+#EXTINF:-1 tvg-id="FightBox.ro@HD" "tvg-logo="https://assets.antenaplay.ro/2026/07/10/a7b09GAjrqFZWe7yW5y9.png" group-title="🇷🇴ROMANIA",Fight Box HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+#EXTINF:-1 tvg-id="Motorvision+.ro@HD" "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Motorvision%2B_2023.svg" group-title="🇷🇴ROMANIA",Motorvision+ HD
+https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
+#EXTINF:-1 tvg-id="NauticalChannel.ro@HD" "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Nautical_Channel_%282020%29.svg" group-title="🇷🇴ROMANIA",Nautical Channel HD
+https://streams2.sofast.tv/ptnr-yupptv/title-Nautical_TV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/f2e7e4ed-1b9c-4404-9fc6-41d0d13880b7/eff1da79-1c05-43df-a4c7-6b3e133d278b/2.m3u8
+#EXTINF:-1 tvg-id="PrimaSport1.ro@HD" group-title="🇷🇴ROMANIA",Prima Sport 1 HD
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/77.m3u8
+#EXTINF:-1 tvg-id="PrimaSport2.ro@HD" group-title="🇷🇴ROMANIA",Prima Sport 2 HD
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/6206.m3u8
+#EXTINF:-1 tvg-id="PrimaSport3.ro@HD" group-title="🇷🇴ROMANIA",Prima Sport 3 HD
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/6207.m3u8
+#EXTINF:-1 tvg-id="PrimaSport4.ro@HD" group-title="🇷🇴ROMANIA",Prima Sport 4 HD
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/6208.m3u8
+#EXTINF:-1 tvg-id="PrimaSport5.ro@HD" group-title="🇷🇴ROMANIA",Prima Sport 5 HD
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/9532.m3u8
+#EXTINF:-1 tvg-id="Prima4K.ro@4K" group-title="🇷🇴ROMANIA",Prima 4K
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/9508.m3u8
+#EXTINF:-1 , group-title="🇷🇴ROMANIA",",Prima Sport PPV 1 HD
+https://dilos.cdn.dejacast.com/live/ppv1/ppv1.m3u8?from=1793647450&to=1793661870&session=YiqLnTaqE13lZzuR&source=cms&token=fSkdN_jXQKtRkFo3ayk6ozYJzEQ=
+#EXTINF:-1 , group-title="🇷🇴ROMANIA",",Prima Sport PPV 2 HD
+https://dilos.cdn.dejacast.com/live/ppv2/ppv2.m3u8?from=1793647450&to=1793661870&session=YiqLnTaqE13lZzuR&source=cms&token=fSkdN_jXQKtRkFo3ayk6ozYJzEQ=
+#EXTINF:-1 , group-title="🇷🇴ROMANIA",",Prima Sport PPV 3 HD
+https://dilos.cdn.dejacast.com/live/ppv3/ppv3.m3u8?from=1793647450&to=1793661870&session=YiqLnTaqE13lZzuR&source=cms&token=fSkdN_jXQKtRkFo3ayk6ozYJzEQ=
+#EXTINF:-1 , group-title="🇷🇴ROMANIA",",Prima Sport PPV 4 HD
+https://dilos.cdn.dejacast.com/live/ppv4/ppv4.m3u8?from=1793647450&to=1793661870&session=YiqLnTaqE13lZzuR&source=cms&token=fSkdN_jXQKtRkFo3ayk6ozYJzEQ=
+#EXTINF:-1 tvg-id="ProTV.ro@HD" group-title="🇷🇴ROMANIA",Pro TV HD
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/710.m3u8
+#EXTINF:-1 tvg-id="ProArena.ro@HD" group-title="🇷🇴ROMANIA",Pro Arena HD
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/711.m3u8
+#EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" group-title="🇷🇴ROMANIA",Realitatea Sportiva (720p)
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-id="SportExtra.ro@HD" group-title="🇷🇴ROMANIA",SportExtra HD
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/6048.m3u8
+#EXTINF:-1 tvg-id="TheFishing&HuntingChannel.ro@HD" group-title="🇷🇴ROMANIA",The Fishing & Hunting Channel HD
+http://31.43.191.142:8080/191703089055131/01703089055686/8767
+#EXTINF:-1 tvg-id="TVR1.ro@SD" group-title="🇷🇴ROMANIA",TVR 1
+https://hls01ns.antenaplay.ro/hls/tvr-1-hd/index.m3u8
+#EXTINF:-1 tvg-id="TVRSport.ro@SD" group-title="🇷🇴ROMANIA",TVR Sport
+https://hls01ns.antenaplay.ro/hls/tvr-sport-hd/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" group-title="🇷🇴ROMANIA",TV5Monde Europe
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-id="Moldova1.md@SD" group-title="🇷🇴ROMANIA",Moldova 1
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+#EXTINF:-1 tvg-id="JurnalTV.md@SD" group-title="🇷🇴ROMANIA",Jurnal TV
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19443/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports.md@HD" group-title="🇷🇴ROMANIA",Setanta Sports HD MD
+http://eb4b8dcf.kablakaka.ru/iptv/CWL2N4KECYYAXS/19441/index.m3u8
+#EXTINF:-1 tvg-id="WeSportTV.md@SD" group-title="🇷🇴ROMANIA",We Sport TV
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/2471/index.m3u8
+#EXTINF:-1  group-title="🇷🇴ROMANIA",Pro Arena HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0
+#EXTINF:-1 , group-title="🇷🇴ROMANIA",,Pro TV HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="fifa-plus-eu-new" tvg-name="FIFA+" tvg-logo=""  group-title="🇷🇴ROMANIA", channel-number="328",FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_genre=sports&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=162.158.19.91&ads.market=ro&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_name=fifa-plus-eu-new_ro&ads.rtv_content_id=6134&ads.rtv_content_language=en&ads.rtvid=267071&ads.streaming_id=31059796-f102-4efd-a3ce-475603bfe150&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1781
+#EXTINF:-1 tvg-id="world-of-free-sports-en" tvg-name="World of Freesports" tvg-logo=""  group-title="🇷🇴ROMANIA", channel-number="363",World of Freesports
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8?ads_amagi_channel_id=837&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB17%2CIAB1&ads_content_genre=sports%2Coutdoors&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.19.91&ads_market=ro&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_channel_name=world-of-free-sports-en_ro&ads_rtv_content_id=4599&ads_rtv_content_language=en&ads_rtvid=267071&ads_streaming_id=14b66581-fafc-4c70-ad9f-b47c2b1ae146&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="world-poker-tour" tvg-name="World Poker Tour" tvg-logo=""  group-title="🇷🇴ROMANIA", channel-number="342",World Poker Tour
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads._fw_app_bundle=&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=WorldPokerTour&ads.content_livestream=0&ads.csid=zeus_eu_worldpokertour_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=ro&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=856&ads.rakuten_streaming_id=38b7436d-189c-44ba-947d-e76ee77738c8&ads.rakuten_user_type=visitor&ads.rtv_channel_name=world-poker-tour_ro&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883102&ads.xumo_channel_id=88883102&ads.xumo_contentId=252&ads.xumo_contentName=WorldPokerTour&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=252&ads.xumo_providerName=world-poker-tour-eng-rakutentv&ads.xumo_streamId=88883102
+
+#EXTINF:-1 tvg-id="world-surf-league" tvg-name="World Surf League 24/7" tvg-logo=""  group-title="🇷🇴ROMANIA", channel-number="353",World Surf League 24/7
+https://eed754f7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dvcmxkU3VyZkxlYWd1ZTI0N19ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_genre=sports&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=162.158.19.91&ads.market=ro&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_name=world-surf-league_ro&ads.rtv_content_id=7488&ads.rtv_content_language=en&ads.rtvid=267071&ads.streaming_id=21ad442c-e22b-4fde-9574-7aacfc65435c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=2202
+#EXTINF:-1 tvg-id="billiards-tv" tvg-name="World Billiards TV" tvg-logo=""  group-title="🇷🇴ROMANIA", channel-number="338",World Billiards TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_genre=sports&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=162.158.19.91&ads.market=ro&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_name=billiards-tv_ro&ads.rtv_content_id=3698&ads.rtv_content_language=en&ads.rtvid=267071&ads.streaming_id=27b8b6a5-57e5-456b-a58a-bdcd7f386429&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=967
+#EXTINF:-1 tvg-id="top-barca-eng" tvg-name="TOP Barça" tvg-logo=""  group-title="🇷🇴ROMANIA", channel-number="327",TOP Barça
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8?ads_amagi_channel_id=940&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB17&ads_content_genre=sports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.19.91&ads_market=ro&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=top-barca-eng_ro&ads_rtv_content_id=6373&ads_rtv_content_language=en&ads_rtvid=267071&ads_streaming_id=7ef02f6a-6b7f-4fb4-8ff8-686024ee320e&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="sports-illustrated-tv" tvg-name="Sports Illustrated TV" tvg-logo=""  group-title="🇷🇴ROMANIA", channel-number="355",Sports Illustrated TV
+https://c5879d53.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1NJVFZfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_genre=sports&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=162.158.19.91&ads.market=ro&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_name=sports-illustrated-tv_ro&ads.rtv_content_id=7524&ads.rtv_content_language=en&ads.rtvid=267071&ads.streaming_id=0e76db98-282f-4170-8b52-509ca2879ca3&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=2203
+#EXTINF:-1 tvg-id="red-bull-tv-en" tvg-name="Red Bull TV" tvg-logo=""  group-title="🇷🇴ROMANIA", channel-number="369",Red Bull TV
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17%2CIAB1&ads.content_genre=sports%2Centertainment&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=162.158.19.91&ads.market=ro&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_channel_name=red-bull-tv-en_ro&ads.rtv_content_id=5937&ads.rtv_content_language=en&ads.rtvid=267071&ads.streaming_id=3c73a34e-534d-4af7-acc1-977eeef45bea&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1723
+#EXTINF:-1 tvg-id="racer-international" tvg-name="RACER International" tvg-logo=""  group-title="🇷🇴ROMANIA", channel-number="365",RACER International
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8?ads_amagi_channel_id=872&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB17&ads_content_genre=sports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.19.91&ads_market=ro&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=racer-international_ro&ads_rtv_content_id=5450&ads_rtv_content_language=en&ads_rtvid=267071&ads_streaming_id=5d9f3320-fb25-4887-9c32-cd91be0fb918&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="nascar" tvg-name="NASCAR" tvg-logo=""  group-title="🇷🇴ROMANIA", channel-number="376",NASCAR
+https://amg26268-amg26268c35-amgplt0018.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg26268-amg26268c35-amgplt0018/playlist.m3u8?ads_amagi_channel_id=1123&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB17&ads_content_genre=sports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.19.91&ads_market=ro&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=nascar_ro&ads_rtv_content_id=7795&ads_rtv_content_language=en&ads_rtvid=267071&ads_streaming_id=3ac70ebd-b1e2-45da-b516-f58b7e2b460b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="man-city-24-7" tvg-name="Man City 24/7" tvg-logo=""  group-title="🇷🇴ROMANIA", channel-number="330",Man City 24/7
+https://f88ba9c3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01hbkNpdHkyNDdfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_genre=sports&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=162.158.19.91&ads.market=ro&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_name=man-city-24-7_ro&ads.rtv_content_id=8020&ads.rtv_content_language=en&ads.rtvid=267071&ads.streaming_id=feb40ccd-3f87-4c14-9470-7fd4ca19267d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=2284
+#EXTINF:-1 tvg-id="inter-24-7-eng" tvg-name="INTER 24/7" tvg-logo=""  group-title="🇷🇴ROMANIA", channel-number="333",INTER 24/7
+https://amg27604-amg27604c1-amgplt0165.playout.now3.amagi.tv/playlist/amg27604-amg27604c1-amgplt0165/playlist.m3u8?ads_amagi_channel_id=1044&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB17&ads_content_genre=sports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.19.91&ads_market=ro&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=inter-24-7-eng_ro&ads_rtv_content_id=7083&ads_rtv_content_language=en&ads_rtvid=267071&ads_streaming_id=9cc35d5e-87c8-4e63-8146-cf3d5b38ff0a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="fuel-tv-new" tvg-name="FUEL TV" tvg-logo=""  group-title="🇷🇴ROMANIA", channel-number="336",FUEL TV
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8?ads_amagi_channel_id=847&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1%2CIAB17&ads_content_genre=action%2Csports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.19.91&ads_market=ro&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=fuel-tv-new_ro&ads_rtv_content_id=4812&ads_rtv_content_language=en&ads_rtvid=267071&ads_streaming_id=a4b8cb0d-f089-4d17-bf8f-3f76fe9ec0c8&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="glory-kickboxing" tvg-name="GLORY Kickboxing" tvg-logo=""  group-title="🇷🇴ROMANIA", channel-number="341",GLORY Kickboxing
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_genre=sports&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=162.158.19.91&ads.market=ro&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_channel_name=glory-kickboxing_ro&ads.rtv_content_id=4854&ads.rtv_content_language=en&ads.rtvid=267071&ads.streaming_id=242f9671-7543-488c-990c-ac9a3800df95&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1360
+#EXTINF:-1 tvg-id="dazn-ringside" tvg-name="DAZN Ringside" tvg-logo="" channel-number="357" group-title="🇷🇴ROMANIA",DAZN Ringside
+https://amg00451-amg00451c23-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00451-amg00451c23-amgplt0018/playlist.m3u8?ads_amagi_channel_id=1103&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB17&ads_content_genre=sports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.19.91&ads_market=ro&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=18&ads_rtv_channel_name=dazn-ringside_ro&ads_rtv_content_id=7944&ads_rtv_content_language=en&ads_rtvid=267071&ads_streaming_id=82d5badd-a440-457e-b415-678c0b37554f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="EurovisionSport.ro@HD" group-title="🇷🇴ROMANIA",Eurovision Sport HD
+https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8?ads_amagi_channel_id=1121&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB17&ads_content_genre=sports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.19.91&ads_market=ro&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=eurovision-sport_ro&ads_rtv_content_id=7829&ads_rtv_content_language=en&ads_rtvid=267071&ads_streaming_id=36f5b927-e73b-4be7-ac4d-8d8200eee837&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="VoyoSport1.ro@SD" group-title="🇷🇴ROMANIA",Voyo Sport 1
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
+#EXTINF:-1 tvg-id="TVRSport.ro@SD" group-title="🇷🇴ROMANIA",TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="ProTV.ro@SD" group-title="🇷🇴ROMANIA",Pro TV
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/710.m3u8
+#EXTINF:-1 tvg-id="AcasăTV.ro@SD" group-title="🇷🇴ROMANIA",Acasă TV
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/709.m3u8
+#EXTINF:-1 tvg-id="KanalD.ro@SD" group-title="🇷🇴ROMANIA",Kanal D
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/705.m3u8
+#EXTINF:-1 tvg-id="KanalD2.ro@SD" group-title="🇷🇴ROMANIA",Kanal D2
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/1012.m3u8
+#EXTINF:-1 tvg-id="TVR1.ro@SD" group-title="🇷🇴ROMANIA",TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="TVR2.ro@SD" group-title="🇷🇴ROMANIA",TVR 2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="TVR3.ro@SD" group-title="🇷🇴ROMANIA",TVR 3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="NationalTV.ro@SD" group-title="🇷🇴ROMANIA",National TV
+https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="NationalTV2.ro@SD" group-title="🇷🇴ROMANIA",National TV 2
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/19272.m3u8
+#EXTINF:-1 tvg-id="National24Plus.ro@SD" group-title="🇷🇴ROMANIA",National 24 Plus
 
 #------ Unifi TV分类开始 ------
 #EXTINF:-1 group-title="🇲🇾Unifi TV🔐",TV1
