@@ -2050,7 +2050,6 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5cccf01ce8f73a87be8ea3def81e5c31:812b5aed46a7eefeed7459b6e0d0af37
-#KODIPROP:inputstream.adaptive.license_key=6d5570c824d632c594efaae6ccc378da:f267e53638fe5c4dca2697cfe2e5ef25
 https://channel.singtelcast.com/out/v1/empcg-singtel-cast3-prdiz-channel-group-default/empc-singtel-cast3-prdiz-channel-6571/empcoe-singtel-cast3-prdiz-channel-6571-dash/index-dash.mpd
 
 #EXTINF:-1 tvg-name="CNN Indonesia" group-title="📡FAVORIT",BBC EARTH
