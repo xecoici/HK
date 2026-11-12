@@ -2045,6 +2045,13 @@ https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
 
+#EXTINF:-1 group-title="🇸🇬SINGAPURA🔓" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SINGAPORE-LOGO/refs/heads/main/VASANTHAM.png",VASANTHAM
+KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5cccf01ce8f73a87be8ea3def81e5c31:812b5aed46a7eefeed7459b6e0d0af37
+#KODIPROP:inputstream.adaptive.license_key=6d5570c824d632c594efaae6ccc378da:f267e53638fe5c4dca2697cfe2e5ef25
+https://channel.singtelcast.com/out/v1/empcg-singtel-cast3-prdiz-channel-group-default/empc-singtel-cast3-prdiz-channel-6571/empcoe-singtel-cast3-prdiz-channel-6571-dash/index-dash.mpd
 
 #EXTINF:-1 tvg-name="CNN Indonesia" group-title="📡FAVORIT",BBC EARTH
 http://202.169.224.203:8800/udp/239.9.1.30:1234
