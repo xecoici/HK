@@ -2045,7 +2045,7 @@ https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
 
-#EXTINF:-1 group-title="🇸🇬SINGAPURA🔓" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SINGAPORE-LOGO/refs/heads/main/VASANTHAM.png",VASANTHAM
+#EXTINF:-1 group-title="📡FAVORIT",CM+
 KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
