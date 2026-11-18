@@ -7354,6 +7354,7 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/ashg8jfn1s/out/v1/0
 #KODIPROP:inputstream.adaptive.license_key=26a3e8f9f5aa4f171d198922ffc17a60:59732cc6154a871193261b98dae11c11
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/eipna3vyt5/out/v1/d38b0a3b06424ddba44780cb020a8b54/cenc.mpd
 
+
 #EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",SONY ONE SERIES THRILLER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47369c0297a791859afec33921ab7db6:751185ba1f5bb6789fb32dfa5b15cd99c1c6
@@ -7382,7 +7383,7 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/f7jpwtuowu/out/v1/4
 #EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",TODO CRIMEN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4efcc3cf3d93cb6fde973107a70d787a:367ac202733ab41f38da979f3b540005c1c6
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/dpvdexyhvm/out/v1/4a61daaeb546477c9817bc32e09aec88/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/dpvdexyhvm/out/v1/4a61daaeb546477c9817bc32e09aec88/cenc.mpd#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",TODO DRAMA
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",TODO DRAMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
