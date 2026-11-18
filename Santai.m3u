@@ -1503,506 +1503,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mxbsynqple/
 #KODIPROP:inputstream.adaptive.license_key=0a1319db5711198dbbcef15051cd7ed4:fa19bbf85c39454ae1fe1044d9499e39
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3qnbo1nztd/out/v1/2d032a09cb444d2b9fab58faf40db397/cenc.mpd
 
-#EXTM3U url-tvg="https://github.com/v-epg/as-epg/raw/main/astro_epg.xml,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,pg.xml,https://www.open-epg.com/files/malaysia2.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://walpak1.github.io/epg/my.xml"
-#PLAYLIST:AIR
-#EXTINF:-1 tvg-id="Studio_Universal" tvg-name="Studio Universal" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/B3F8E1A6-2C75-49D0-A4B9-8E613F7C529D/0-1x1.png?width=800" tvg-chno="1" group-title="🇵🇭Cignal|NO-VPN",Studio Universal
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8391e9130634854b4614f02ec028ea7:9b9640f873cf906b91dd03c02612d5ce
-https://smaplcig.dpdns.org/studio-universal/air.m3u8
-
-#EXTINF:-1 tvg-id="arirang_sd" tvg-name="Arirang" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A7754-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="2" group-title="🇵🇭Cignal|NO-VPN",Arirang
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d4f9c216a834e508b165c3a7d9e2048:9d148906d890053a00f5e581185ac066
-https://smaplcig.dpdns.org/arirang/air.m3u8
-
-#EXTINF:-1 tvg-id="asianfoodnetwork_sd" tvg-name="Asian Food Network" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55AB020-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="3" group-title="🇵🇭Cignal|NO-VPN",Asian Food Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4b7c8219e364a058d295c6f3e7a1042:d10c7f2a37c1079e6b83837423c0d6b2
-https://smaplcig.dpdns.org/asian-food-network/air.m3u8
-
-#EXTINF:-1 tvg-id="bbc_lstylehd" tvg-name="BBC Lifestyle" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/Lifestyle.jpg" tvg-chno="202" group-title="🇵🇭Cignal|NO-VPN",BBC Lifestyle
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
-https://smaplcig.dpdns.org/bbc-lifestyle/air.m3u8
-
-#EXTINF:-1 tvg-id="bbcworld_news_sd" tvg-name="BBC World News" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A847E-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="5" group-title="🇵🇭Cignal|NO-VPN",BBC World News
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f1a6e8329c574b048d216e5f3a7c9048:8106237b47f99be13f4e941ca5bd35c5
-https://smaplcig.dpdns.org/bbc-world-news/air.m3u8
-
-#EXTINF:-1 tvg-id="bilyonaryoch" tvg-name="Bilyonaryoch" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-1x1.png?width=800" tvg-chno="6" group-title="🇵🇭Cignal|NO-VPN",Bilyonaryoch
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e7f9c518a424d30b2165c3e7a9d6041:8c8c0ef924c982bc1dd92348e024cd4c
-https://smaplcig.dpdns.org/bilyonaryoch/air.m3u8
-
-#EXTINF:-1 tvg-id="bloomberg_sd" tvg-name="Bloomberg" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55AA47C-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="7" group-title="🇵🇭Cignal|NO-VPN",Bloomberg
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=19f6c8325a744d90b2618e3f7c2a5049:784fffb38dc4fb6d5b74de822074feb4
-https://smaplcig.dpdns.org/bloomberg/air.m3u8
-
-#EXTINF:-1 tvg-id="buko" tvg-name="Buko" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55AD956-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="383" group-title="🇵🇭Cignal|NO-VPN",Buko
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ebfa6bf03fc4377ad0adee4cd12b298:d4676c3b23e818b5286ede30ffaa4c2d
-https://smaplcig.dpdns.org/buko/air.m3u8
-
-#EXTINF:-1 tvg-id="cartoonnetworkhd" tvg-name="Cartoon Network HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A51FC-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="9" group-title="🇵🇭Cignal|NO-VPN",Cartoon Network HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53c8e6914d724f30a9168b5e2c7d1043:1e17afbdfff786533796780f3f04aa67
-https://smaplcig.dpdns.org/cartoon-network/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_a2z" tvg-name="A2Z" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A5580-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="10" group-title="🇵🇭Cignal|NO-VPN",A2Z
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3a8c9126e544d809b312c7f5a8e6140:43f5361983896b47ff01b4f77c5dbf3f
-https://smaplcig.dpdns.org/a2z/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_abante_news" tvg-name="Abante News TV" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/5B9C1E43-A762-4D85-BF19-3E6A2C70D814/0-16x9.jpg?height=150" tvg-chno="11" group-title="🇵🇭Cignal|NO-VPN",Abante News TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5b2c7091a464d839f25b7c6e018a432:9a933efca0ae690102cc9594b29803bf
-https://smaplcig.dpdns.org/abante-news/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_animal_planet_sd" tvg-name="Animal Planet" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A57B0-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="12" group-title="🇵🇭Cignal|NO-VPN",Animal Planet
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3c8e5a927d414b069f236a5c8e1d7049:a9b9198bf7b116b30492aea4dc471122
-https://smaplcig.dpdns.org/animal-planet/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_animax_sd_new" tvg-name="Animax" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55ABB06-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="13" group-title="🇵🇭Cignal|NO-VPN",Animax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7d3f5916c844b209e158f3a7d5c2046:021fe5515e7dfb1a00a98d51abd0cb7f
-https://smaplcig.dpdns.org/animax/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_axn_sd" tvg-name="AXN" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55AC36C-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="14" group-title="🇵🇭Cignal|NO-VPN",AXN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7e5a2199d644b318f702a6c4e5d8139:300778996b5a71594db508982256f365
-https://smaplcig.dpdns.org/axn/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_bbcearth_hd1" tvg-name="BBC Earth HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A6868-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="15" group-title="🇵🇭Cignal|NO-VPN",BBC Earth HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f9c6e217a354d80b9268e5c3f1a7042:41b33eebbacf91fe6c86bd28081bf3fd
-https://smaplcig.dpdns.org/bbc-earth-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_cnnhd" tvg-name="CNN" tvg-logo="https://i.imgur.com/vkJfHaP.png" tvg-chno="16" group-title="🇵🇭Cignal|NO-VPN",CNN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d9f6b828c454a17b2395e7d3f90a621:c5776d83cbf50c9354f27b1c830e1996
-https://smaplcig.dpdns.org/cnn/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_dreamworks_hd1" tvg-name="DreamWorks HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A5698-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="17" group-title="🇵🇭Cignal|NO-VPN",DreamWorks HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f7c9a425d864e30b2198a3c6f7d5041:b392ee3cd42686a8cff3070eef614745
-https://smaplcig.dpdns.org/dreamworks-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_dreamworktag" tvg-name="DreamWorks" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/40E328E7-FE69-4287-86EA-FA942A7EA302/0-1x1.png?width=800" tvg-chno="18" group-title="🇵🇭Cignal|NO-VPN",DreamWorks
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f9c3a218d454b70a2187e5c3d6f9042:337ca7b74b462dd1ba7441553614538a
-https://smaplcig.dpdns.org/dreamworks/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_foodnetwork_hd1" tvg-name="Food Network HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A9496-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="19" group-title="🇵🇭Cignal|NO-VPN",Food Network HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1f4a8926c374d509e218a7c3f5d6049:15cde0b44b44f38ea936513a99606c1b
-https://smaplcig.dpdns.org/food-network-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_hitsnow" tvg-name="Hits Now" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/68C2D95A-A2A4-4C2B-93BE-41893C61210C/0-1x1.png?width=800" tvg-chno="20" group-title="🇵🇭Cignal|NO-VPN",Hits Now
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=24a8e6917c534d809f165b3e6a2d9047:183f05bcb80e9cfcb613b8c767777f27
-https://smaplcig.dpdns.org/hits-now/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_moonbug_kids_sd" tvg-name="Moonbug Kids" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55AC696-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="21" group-title="🇵🇭Cignal|NO-VPN",Moonbug Kids
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=48e7d3219c564f80b2147a5d3e6c2048:23a7b41054c60983ad020652f7ffa06e
-https://smaplcig.dpdns.org/moonbug-kids/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_onesports_hd" tvg-name="One Sports HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55AB750-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="22" group-title="🇵🇭Cignal|NO-VPN",One Sports HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69f5a2318d744c609b125e3a7d8f2046:182523c0bae912e17e916dd4283280e9
-https://smaplcig.dpdns.org/one-sports-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_onesportsplus_hd1" tvg-name="One Sports Plus HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A696C-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="23" group-title="🇵🇭Cignal|NO-VPN",One Sports Plus HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e9c4f7312a854d69b0137f6e8c2a5490:1105fa92173b06885be336b887bc4d26
-https://smaplcig.dpdns.org/one-sports-plus-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_pbarush_hd1" tvg-name="PBA Rush HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A7650-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="24" group-title="🇵🇭Cignal|NO-VPN",PBA Rush HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55
-https://smaplcig.dpdns.org/pba-rush-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_ps_hd1" tvg-name="Premier Sports HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A6228-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="25" group-title="🇵🇭Cignal|NO-VPN",Premier Sports HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91e4c6725a834d198f602c7b9e3a5148:4185d260443198690be03e294fdc1240
-https://smaplcig.dpdns.org/premier-sports-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_ptv4_sd" tvg-name="PTV 4" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A5F08-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="26" group-title="🇵🇭Cignal|NO-VPN",PTV 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8c2a6915d744b309e186a3f7c2d8049:1ad3243b38c60312caa6ba11f150c19c
-https://smaplcig.dpdns.org/ptv-4/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_spotvhd" tvg-name="SPOTV HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A5BC0-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="27" group-title="🇵🇭Cignal|NO-VPN",SPOTV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5e8a3927d414b609f286a3c5e1d7049:7c5edbd3d090bb6de9a9c3685defa959
-https://smaplcig.dpdns.org/spotv-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_tapmovies_hd1" tvg-name="TAP Movies HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55AC48E-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="28" group-title="🇵🇭Cignal|NO-VPN",TAP Movies HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65d8c4912f734a90b8163e7c5d9a2041:fd495b984013da4e26f83b1a921c0a15
-https://smaplcig.dpdns.org/tap-movies-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_thrill_sd" tvg-name="Thrill" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55AD230-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="29" group-title="🇵🇭Cignal|NO-VPN",Thrill
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8c3d5906e424f17a9215d8c7a2e6043:02ce48f1b48f7cbdc3e2703a56e8fa31
-https://smaplcig.dpdns.org/thrill/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_tvnmovie" tvg-name="TVN Movie" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/C5298B63-6A6F-4CEC-8AC7-07B482EFA587/0-1x1.png?width=800" tvg-chno="30" group-title="🇵🇭Cignal|NO-VPN",TVN Movie
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6c9a4215d734f608b197c3e2a5d9048:ec695ab203cb2258db220b3863e2a7ee
-https://smaplcig.dpdns.org/tvn-movie/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_tvnpre" tvg-name="TVN Premier" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/66B5278C-75EA-4D93-AD2B-A5822A0F1056/0-1x1.png?width=800" tvg-chno="31" group-title="🇵🇭Cignal|NO-VPN",TVN Premier
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a7f9c615d824e40a9168c5b2d7f3049:2bc91eced1660ecf88299a42e4c0cd91
-https://smaplcig.dpdns.org/tvn-premier/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_uaap_cplay_sd" tvg-name="UAAP Varsity Channel" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A869A-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="32" group-title="🇵🇭Cignal|NO-VPN",UAAP Varsity Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6c9f4218d734a059e165c3d7a2f8049:948aa5c0d0c15c70efb9257f5b75c379
-https://smaplcig.dpdns.org/uaap-varsity-channel/air.m3u8
-
-#EXTINF:-1 tvg-id="cg_warnerhd" tvg-name="Warner TV HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55ABA02-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="68" group-title="🇵🇭Cignal|NO-VPN",Warner TV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
-https://smaplcig.dpdns.org/warner-tv-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="cgnl_nba" tvg-name="NBA TV" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/3327FF64-3E52-42DE-B516-4629BFABA8C7/0-1x1.png?width=800" tvg-chno="34" group-title="🇵🇭Cignal|NO-VPN",NBA TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
-https://smaplcig.dpdns.org/nba-tv/air.m3u8
-
-#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/DEFC81EE-883B-446F-BD47-21F5B7FE0730/0-1x1.png?width=800" tvg-chno="35" group-title="🇵🇭Cignal|NO-VPN",CGTN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2a7d6318c544b099e216d5f3a7c8042:1abff1626a5403fa2ea8964c2f3b9c1d
-https://smaplcig.dpdns.org/cgtn/air.m3u8
-
-#EXTINF:-1 tvg-id="channelnewsasia" tvg-name="Channel NewsAsia" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55AD122-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="36" group-title="🇵🇭Cignal|NO-VPN",Channel NewsAsia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56d8c4917a234e60b9159f3a6c7d2048:e6f0a100b6a2fcda66e8554f8c9b510b
-https://smaplcig.dpdns.org/channel-newsasia/air.m3u8
-
-#EXTINF:-1 tvg-id="cnn_rptv_prod_hd" tvg-name="RPTV" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/44B03994-C303-4ACE-997C-91CAC493D0FC/0-1x1.png?width=800" tvg-chno="37" group-title="🇵🇭Cignal|NO-VPN",RPTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5d7a6219c434e188f026a3d7c5e9148:28e1244057ff6feae879c1e985ded0fb
-https://smaplcig.dpdns.org/rptv/air.m3u8
-
-#EXTINF:-1 tvg-id="crime_invest" tvg-name="Crime & Investigation" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55AD5C8-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="38" group-title="🇵🇭Cignal|NO-VPN",Crime & Investigation
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7a3d5916c824b459f105d8e2c7a3046:616f8ab0c416966e8de415cb60e9e6cf
-https://smaplcig.dpdns.org/crime-and-investigation/air.m3u8
-
-#EXTINF:-1 tvg-id="depedch_sd" tvg-name="DepEd TV" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A9590-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="39" group-title="🇵🇭Cignal|NO-VPN",DepEd TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1a5e8329d644f70b2187a3c6e5d2041:55979431f291f7dff35a43b73b3c2a36
-https://smaplcig.dpdns.org/deped-tv/air.m3u8
-
-#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A734E-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="40" group-title="🇵🇭Cignal|NO-VPN",Discovery Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5a7f8219c364e50b2147f6d3a8c9025:c77d5e56c52c4065c42594422ac85e2c
-https://smaplcig.dpdns.org/discovery-channel/air.m3u8
-
-#EXTINF:-1 tvg-id="dr_aljazeera" tvg-name="Al Jazeera" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A9284-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="41" group-title="🇵🇭Cignal|NO-VPN",Al Jazeera
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=73c5f8919d424b06a2186e7c3a5d9040:bf46e85e8fba9f0eae0931394d478d25
-https://smaplcig.dpdns.org/al-jazeera/air.m3u8
-
-#EXTINF:-1 tvg-id="dr_cctv4" tvg-name="CCTV 4" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A7448-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="352" group-title="🇵🇭Cignal|NO-VPN",CCTV 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b83566836c0d4216b7107bd7b8399366:32d50635bfd05fbf8189a0e3f6c8db09
-https://smaplcig.dpdns.org/cctv-4/air.m3u8
-
-#EXTINF:-1 tvg-id="dr_historyhd" tvg-name="History HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A9C02-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="43" group-title="🇵🇭Cignal|NO-VPN",History HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5c7a8219d464e30b2186a3f7c5d9041:dacc84b7010ca22f8c63a7c290461ed3
-https://smaplcig.dpdns.org/history-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="dr_lifetime" tvg-name="Lifetime" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A80E6-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="44" group-title="🇵🇭Cignal|NO-VPN",Lifetime
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9e6a3214c754f908d165a3c7e2f6048:32300d9517f91a4acb747d360768dd00
-https://smaplcig.dpdns.org/lifetime/air.m3u8
-
-#EXTINF:-1 tvg-id="dr_nhk_japan" tvg-name="NHK Japan" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55AA896-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="45" group-title="🇵🇭Cignal|NO-VPN",NHK Japan
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3d7f5916c824e09b2158a5c3f7d2046:32d760047f05c233d9dae35083fe0b30
-https://smaplcig.dpdns.org/nhk-japan/air.m3u8
-
-#EXTINF:-1 tvg-id="dr_nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55ADD5C-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="46" group-title="🇵🇭Cignal|NO-VPN",Nickelodeon
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81f3e6924c754a08b9215d7e9c3f6048:094cd48e9729cb8bcb0e03e848fc8751
-https://smaplcig.dpdns.org/nickelodeon/air.m3u8
-
-#EXTINF:-1 tvg-id="dr_nickjr" tvg-name="Nick Jr" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55AB8E0-C9E1-11EC-9D64-0242AC120002/0-1x1.jpg?width=800" tvg-chno="501" group-title="🇵🇭Cignal|NO-VPN",Nick Jr
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
-https://smaplcig.dpdns.org/nick-jr/air.m3u8
-
-#EXTINF:-1 tvg-id="dr_rockentertainment" tvg-name="Rock Entertainment" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A6C78-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="48" group-title="🇵🇭Cignal|NO-VPN",Rock Entertainment
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=86e5c7921a434f60b9287d3c9e5a6041:fab817af24eab2a73ae89145797cf556
-https://smaplcig.dpdns.org/rock-entertainment/air.m3u8
-
-#EXTINF:-1 tvg-id="dr_rockextreme" tvg-name="Rock Extreme" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A6520-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="49" group-title="🇵🇭Cignal|NO-VPN",Rock Extreme
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9a4f5218c374b069e156f2d7a3c8049:72aa902f471adf15bef2710b6b689ed0
-https://smaplcig.dpdns.org/rock-extreme/air.m3u8
-
-#EXTINF:-1 tvg-id="dr_spotv2hd" tvg-name="SPOTV 2 HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A6A70-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="50" group-title="🇵🇭Cignal|NO-VPN",SPOTV 2 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
-https://smaplcig.dpdns.org/spotv-2-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="dr_tapsports" tvg-name="Tap Sports" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A6624-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="646" group-title="🇵🇭Cignal|NO-VPN",Tap Sports
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
-https://smaplcig.dpdns.org/tap-sports/air.m3u8
-
-#EXTINF:-1 tvg-id="dr_tv5_monde" tvg-name="TV5 Monde" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55ADB5E-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="52" group-title="🇵🇭Cignal|NO-VPN",TV5 Monde
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6b4c8217a954d309f165c8e2a3d7049:1acbc3a347d31fa2236f180574342e71
-https://smaplcig.dpdns.org/tv5-monde/air.m3u8
-
-#EXTINF:-1 tvg-id="fashiontvhd" tvg-name="Fashion TV HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A9D06-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="53" group-title="🇵🇭Cignal|NO-VPN",Fashion TV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8a4e6917f324d05b9186c5e3a2f7049:92b4ece8c84379145045267b47f183d2
-https://smaplcig.dpdns.org/fashion-tv-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="france24" tvg-name="France 24" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55AC9B6-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="155" group-title="🇵🇭Cignal|NO-VPN",France 24
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=257f9fdeb39d41bdb226c2ae1fbdaeb6:e80ead0f4f9d6038ab34f332713ceaa5
-https://smaplcig.dpdns.org/france-24/air.m3u8
-
-#EXTINF:-1 tvg-id="globaltrekker" tvg-name="Global Trekker" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/09A671F2-39E7-47AF-BC9B-53AB53BC7FD0/0-1x1.png?width=800" tvg-chno="55" group-title="🇵🇭Cignal|NO-VPN",Global Trekker
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4b8d2916a534f709c187d3e5a2f6049:85d67d8b52caf380c82dc45b07f26f69
-https://smaplcig.dpdns.org/global-trekker/air.m3u8
-
-#EXTINF:-1 tvg-id="hgtv_hd1" tvg-name="HGTV HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A858C-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="56" group-title="🇵🇭Cignal|NO-VPN",HGTV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e9a6c317d524f808b163c5a2e7d9048:5079e2288b584f47d4bbf8d149b2a986
-https://smaplcig.dpdns.org/hgtv-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="hits_hd1" tvg-name="Hits HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A8BB8-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="57" group-title="🇵🇭Cignal|NO-VPN",Hits HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2e8c4715a634f09b2187c6d3e9a5042:8b11760042654021997fd07a8a0b7acc
-https://smaplcig.dpdns.org/hits-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="hits_movies" tvg-name="Hits Movies" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55ACF06-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="87" group-title="🇵🇭Cignal|NO-VPN",Hits Movies
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
-https://smaplcig.dpdns.org/hits-movies/air.m3u8
-
-#EXTINF:-1 tvg-id="ibc13_sd_new" tvg-name="IBC 13" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55ABC0A-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="59" group-title="🇵🇭Cignal|NO-VPN",IBC 13
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4a8d6216c954e709b187d3a5f2c8049:34710df996a4089ee6f7e8deb7f46586
-https://smaplcig.dpdns.org/ibc-13/air.m3u8
-
-#EXTINF:-1 tvg-id="kapatid_hd" tvg-name="Kapatid" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/F222CD8E-81E5-4D77-AC2F-86E7129C2DD7/0-1x1.png?width=800" tvg-chno="60" group-title="🇵🇭Cignal|NO-VPN",Kapatid
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f7a2c913d6b4e5a9f127c8d4e6a1b90:a73d3d1211fb23084c62572706f45397
-https://smaplcig.dpdns.org/kapatid/air.m3u8
-
-#EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A7CE0-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="61" group-title="🇵🇭Cignal|NO-VPN",KBS World
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e8c5d2317a944f06b2186d3a9e7c5042:ce327be0871677eb1c480d10a73eac34
-https://smaplcig.dpdns.org/kbs-world/air.m3u8
-
-#EXTINF:-1 tvg-id="kix_hd1" tvg-name="KIX HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A7EE8-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="62" group-title="🇵🇭Cignal|NO-VPN",KIX HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f4a9c312e854d67b0198c6f5a3e7240:141f058ad1a6230e7c6f9d302ce378ef
-https://smaplcig.dpdns.org/kix-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="knowledge_channel" tvg-name="Knowledge Channel" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55ADA5A-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="536" group-title="🇵🇭Cignal|NO-VPN",Knowledge Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7d2b1e94f8a4d6c8a106b3d1f9c2e55:2052f6b844aa53144bb32f0e41295106
-https://smaplcig.dpdns.org/knowledge-channel/air.m3u8
-
-#EXTINF:-1 tvg-id="lotusmacau_prd" tvg-name="Lotus Macau" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/C6AB65CE-37A0-4040-ABA7-021C669DBEE1/0-1x1.png?width=800" tvg-chno="64" group-title="🇵🇭Cignal|NO-VPN",Lotus Macau
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2c9a5748b314f60a9276d5e3c1f8042:c845cc41e3826b6d880b802911eb43f9
-https://smaplcig.dpdns.org/lotus-macau/air.m3u8
-
-#EXTINF:-1 tvg-id="onenews_hd1" tvg-name="One News HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A7DDA-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="65" group-title="🇵🇭Cignal|NO-VPN",One News HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5c8a2914e734b609f127a3d6c5e8048:11368a3b001407d65a85b4edb410ecdd
-https://smaplcig.dpdns.org/one-news-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="oneph_sd" tvg-name="One PH" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A9392-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="66" group-title="🇵🇭Cignal|NO-VPN",One PH
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e9a3c718d464f20b9157a6c2e4d8031:7bf8a7666a2d572fe111b5f829c99266
-https://smaplcig.dpdns.org/one-ph/air.m3u8
-
-#EXTINF:-1 tvg-id="premiersports2hd" tvg-name="Premier Sports 2 HD" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A899C-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="67" group-title="🇵🇭Cignal|NO-VPN",Premier Sports 2 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72e4b9c13f864a52a9178d6c0e5b2394:9390c1edae5ecf680c168daf44bf6a03
-https://smaplcig.dpdns.org/premier-sports-2-hd/air.m3u8
-
-#EXTINF:-1 tvg-id="travel_channel_sd" tvg-name="Travel Channel" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A8898-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="68" group-title="🇵🇭Cignal|NO-VPN",Travel Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18c6f9235b744d81a0397e2c9f6a5048:7974c1376447c563f5fdb41be0104ddf
-https://smaplcig.dpdns.org/travel-channel/air.m3u8
-
-#EXTINF:-1 tvg-id="tv5" tvg-name="TV5" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/E55A97A2-C9E1-11EC-9D64-0242AC120002/0-1x1.png?width=800" tvg-chno="5" group-title="🇵🇭Cignal|NO-VPN",TV5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-https://smaplcig.dpdns.org/tv5/air.m3u8
-
-#EXTINF:-1 tvg-id="tv5vibetv" tvg-name="Vibe TV - TV5" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/726AB804-66DE-4684-A455-ABD1683114CF/0-1x1.png?width=800" tvg-chno="70" group-title="🇵🇭Cignal|NO-VPN",Vibe TV - TV5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
-https://smaplcig.dpdns.org/vibe-tv-tv5/air.m3u8
-
-#EXTINF:-1 tvg-id="tvmaria_prd" tvg-name="TV Maria" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/2C55AD7F-3589-48DA-BEC4-005200215975/0-1x1.png?width=800" tvg-chno="71" group-title="🇵🇭Cignal|NO-VPN",TV Maria
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a2d9f815c744e30b9168f3a7d2c5049:fb07ec8ca16ffdb8b8a045fa4c8aac74
-https://smaplcig.dpdns.org/tv-maria/air.m3u8
-
-
 #EXTINF:-1 tvg-id="astro622" group-title="🇸🇬ASTRO | NO VPN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro30.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogoNew.png",100 Astro 30
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=794848d878e10fab209059c0e6942010:961c77438e111f20abd3db96f88cdfd2
@@ -5478,28 +4978,6 @@ https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.m
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://tglmp03.akamaized.net/out/v1/f97b5eedb5ec4b4ea770859bd4e9d28e/manifest.mpd
 
-#EXTINF:-1 tvg-id="stream-e62599b1-a125-4e81-9cec-f38b83b3cc6f" tvg-name="Hub Ruyi" tvg-logo="https://poster.starhubgo.com/Linear_channels2/852_1920x1080_HTV.png" group-title="🇸🇬SINGAPURA🔓",Hub Ruyi
-http://iptv.852851.xyz/l/Wmj_keI-Mr7K4bH7aTNgw_eDxAWIV8MCZpi4MxCZZwf8ua3j1L0OFTM-3bsjRggq/index.m3u8
-#EXTINF:-1 tvg-id="stream-1773e56c-d6d5-44d2-a785-834381acc1e8" tvg-name="Preview Channel" tvg-logo="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png" group-title="🇸🇬SINGAPURA🔓",Preview Channel
-http://iptv.852851.xyz/l/gTUb44-Zh_s_m55iNTTeVFBGqO29rhZ4gMs5REnOR9ZJXcK8Qj6hKzKSEz3z3TLV/index.m3u8
-#EXTINF:-1 tvg-id="stream-107e2441-47ba-4857-ba57-acc41d58c8a1" tvg-name="Hub E City HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/111_1920x1080_HTV.png" group-title="🇸🇬SINGAPURA🔓",Hub E City HD
-http://iptv.852851.xyz/l/1nV-cqcSKT6_daE_GIrLnpjrGG2hGAFRieS3I_GITZQQ26A4ed5qQJdBnvYJId8x/index.m3u8
-#EXTINF:-1 tvg-id="stream-0f5b1c47-0ed4-4e52-9a17-c971c3aebdcd" tvg-name="Karisma" tvg-logo="https://poster.starhubgo.com/Linear_channels2/116_1920x1080_HTV.png" group-title="🇸🇬SINGAPURA🔓",Karisma
-http://iptv.852851.xyz/l/GfxZkGYvZ7n_PdFTNnxi96CQCxhbGwZjV9QPHzOkB0U_JmqudPSwo5AFiRTwZ8MT/index.m3u8
-#EXTINF:-1 tvg-id="stream-7d52b8f2-74a8-4d9a-96ac-67e25e21fa85" tvg-name="Astro Warna HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png" group-title="🇸🇬SINGAPURA🔓",Astro Warna HD
-http://iptv.852851.xyz/l/hTyJ_1SNUiAV5nmEiJKk9KtqYbzYkAki4FBVfc35UcEgP2hj0CMNQ3iO0nZt0WtL/index.m3u8
-#EXTINF:-1 tvg-id="stream-1cdf058f-11b5-4cc0-9e4c-d5ce2e4340ea" tvg-name="Astro Sensasi HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png" group-title="🇸🇬SINGAPURA🔓",Astro Sensasi HD
-http://iptv.852851.xyz/l/fMAsEgUXIyIb0hn6XTM7O_de0f2J-pw0oarh7xOB_k0A7YbitTx9e-cjLHuMT_jK/index.m3u8
-#EXTINF:-1 tvg-id="stream-c858164d-1a79-452e-bb03-05b2d5227d09" tvg-name="Hub VVDrama" tvg-logo="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png" group-title="🇸🇬SINGAPURA🔓",Hub VVDrama
-http://iptv.852851.xyz/l/pp8CXcBmMtiWK0Z2TKYdLyLtxlNZVNhyXFMrskpT1kzwWTk3WOOsonio9mJ8h9Ae/index.m3u8
-#EXTINF:-1 tvg-id="stream-d4ecd142-1514-495c-8015-98eae043d086" tvg-name="Hub E City HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/825_1920x1080_HTV.png" group-title="🇸🇬SINGAPURA🔓",Hub E City HD
-http://iptv.852851.xyz/l/mEWC54QTlTotw_ZQY5eC0vexxu9RU7V7je8bqV7mufzUeb6YtVQbgKp18YK0CtCy/index.m3u8
-#EXTINF:-1 tvg-id="stream-a45ec6f0-b527-46e0-a747-86b664fe560b" tvg-name="BBC Earth HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png" group-title="🇸🇬SINGAPURA🔓",BBC Earth HD
-http://iptv.852851.xyz/l/8E-Nh4nGvxuxPJCvkiHlmGCDmn7dHWx1uXVbKukZPpbOw3_qEX4sXTLL_yXihbGv/index.m3u8
-#EXTINF:-1 tvg-id="stream-64d1fe54-f047-4384-b43f-44e5f6c17607" tvg-name="Discovery HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/422_1920x1080_HTV.png" group-title="🇸🇬SINGAPURA🔓",Discovery HD
-http://iptv.852851.xyz/l/Gg8y9560eeW9DXvWB5kgo1uSCn-ypt0vFTF6wGW8FllrhWeo1wKyh65dt0O6a3HL/index.m3u8
-#EXTINF:-1 tvg-id="stream-1ec31aa1-ac98-4c20-8d9f-ea1fdeb050e0" tvg-name="Travelxp HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png" group-title="🇸🇬SINGAPURA🔓",Travelxp HD
-http://iptv.852851.xyz/l/f64tXi_80I-U5AfXhoKotQUrqNoSLrmnfkTsjkyf0HLzqfTcSn1sfLpEcdPWKb0i/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="" group-title="🇸🇬SINGAPURA🔓" tvg-logo="",Asian
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -7690,6 +7168,236 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",24 HORAS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aae169414f93c3057634bed5f8935d87:9acbca8c2db4d8c5d8d80904145680ce
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/ediiulipbt/out/v1/5b1576088abf4d66a2c94f9cb68a8e0a/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",A3SERIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"beefdf86fff80cb80e94c7bd8072c417":"df88cf3100c32105d95cbf1346665986"}
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/h8haw4rkuc/out/v1/6948f5230e5744f1bdaa9bc049e90596/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",ACONTRA+ CINE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2040a09e994af852d1bd161370e86a29:e4aa94106a82cbcf3cb1ca54fd59e771
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/enyah1390w/out/v1/e7eb52993e674cac9f63faababf3df22/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",ACTUALIDAD 360
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e41c5a1e98d3647b8c77c9bced2b1cc:18b9c2fc592dd97163f80173c814b7dd
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/pgo1rapvsl/out/v1/24dc29cd9edd4bc0af12cb96f454826a/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",AMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47e023e0a02213717eada9bcbe8badf6:11c51a7ca3406597a75f1cb2940e8046
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/ghmzwmcfv3/out/v1/b3d2caad696b4000896288df4ee18e04/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",AMC BREAK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb8156173f3256da61faa2d17c8159ca:d9947e4600adf5cb6bcc68d69bc28d00
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/cu3miff4hw/out/v1/80a199f5bc974b64b0281896d0a49b69/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",AMC CRIME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3134884a0f457910ebe71cbad6247ada:4790ad9a1bc9912b5feada178d57c0fc
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/unpcb7o0f5/out/v1/a9d133bfdd2f4fc5bbe358888f6e7c3f/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",AMC LIVING
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5950b52758a34ea1f5f71a908d916eb:b490f71561a1f661e795b1939a552d82
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/bjvcxfu6f5/out/v1/a78d5d0687d34ddd9c7c77926685c760/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",AMC WESTERN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0649935a63ade1849a022c47fdffb60:8e5d967116d0445d5c1689669b8adc31
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/0upibrapoh/out/v1/c0762e8d17e04672afede5eb374c91ed/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",ANIME VISION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c1df0988061bee41c795a01f92f1f7f:fe38de8a393d193504d9690c44c3e4a6
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/5kx5y4cphi/out/v1/7b1d74adf10149279a795cb2ea30647f/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",ANIME VISION CLASSIC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6efdc57f4929e86ebafb895f1d687828:204e9fe7c6ffd4396f0848542b577a5f
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/eautjaipaq/out/v1/b53378fb25f14197b2664c46f8c53a78/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",ANTENA 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5729ff182808c9d3f27918fe7098dcb1":"4da33d7a7e201c5bddb1a0c65f65e542"}
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/6i5ufgsgsd/out/v1/e4b7cd2d6b2e4b91aa5657be63ca226d/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",BANDAMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42095c4a98de2d937e8dd9d59a0da424:8a4f2ab708e8af3daf9e5bf071f98d05
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/5wmhxwdb4l/out/v1/d7b375eb0f1c462f9090428cf2a1e132/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",BBC EARTH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd1056773fa6dcbc6617a19b1e15a0a4:1df112d6adea0ce217d57071cc449da8
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/fdjv0k8zod/out/v1/439bea61281e4981b8eb95a9dc3e253a/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",BBC SERIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7ece5849bbd549f697d9f8fbb0c69770":"03992efb0a6954e2b059191ec4744ada"}
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/umgqyczehl/out/v1/0e3cd4ab374e437f8326644a55f6b91a/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",BOING
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff642894369f3c76f2bf133138f724d0:1f7a0f4ba692b3759c1a051a2973a0dc
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/aokobjnkqt/out/v1/898af708bf9046c7b13cf5e5dd2c0515/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",CANAL COCINA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63de85cf715c4f1172d94ca23ab56977:c9e85be7ef107f49f70cecc39b5e1e78
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/ulduhfsvym/out/v1/62ffe76fbf4a40ada482df60d46edab1/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",CINE FEEL GOOD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=441387d5334172d1d5a36f8826957204:9ba97dd850f3bcd8215b1631c509974e
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/bepih56usy/out/v1/c12faead29f1469ebce37cd6ff5975d6/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",CINES VERDI TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5984bd005efa3a36f4ba3dff24fa6b4:89043b20c20761da40ed7e881ca135b7
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/yk3kvnsify/out/v1/85d613e6096343b8a9d76ab204d9162d/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",CLAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff287b49133f6c85728fcf9823e90281:0ac51fd969f5bff2b782659603b3bef0
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/3m7q8xfol1/out/v1/70f4fcaf3ebe4a54a18d0b4e92c0cf77/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",CRIMENES REALES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21791d593336bf8bf16c614f680509f6:1022b2eeb79fbb5f9d74a04ac59538d6
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/g0awdfhfin/out/v1/6107b725bf094560a8720114999c2a9e/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",DARK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19273919b7442ea2b18da9b9763c1760:abcf1b55f552a2a0b5ee3256e4bcf4b1
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/lu0iixsxer/out/v1/cc71ea57e9a14fdf9ee0b2f2235432ae/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",HISTORIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1d42daf7e2ac6489b210fafdda48448:ee1b68080d3adde15af7867a331a2c6b
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/qxmdctd0xf/out/v1/85509b15ece14cb48fa32b8fd3d0cec3/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",HISTORIA Y VIDA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de8949b005dd71568614960f4c12ebf5:5d475bb6bcac1b4d0ddadbebb23ffbd5
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/46tul1v4kr/out/v1/93306e501a1347829fbf884de5a138b3/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",HOLLYWOOD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3683916b32053ecdfd92896167a538b1:7056231c4bc36658a23c374945d2eefb
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/mag6zvyved/out/v1/8600dbca46414a9e834f975b7ccdca26/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",LA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"745cd6ec34a58f2f7ac2af35dc3da6d2":"ae008f1e47e6567fe4201a6ff8f1ae54"}
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/lqsyzntvoc/out/v1/1ddacadb6a28455e924ef5a9c872aeef/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",LA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92eb4fb693ddc7b72909828ad62cdff5:0b6f7e58c4566ca418447332b228d488
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/arv0kf9ndp/out/v1/aa299e8d19994d78b35977495064e64c/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",LA SEXTA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2472d4667a3e9a4f5adda05bbba08485":"1fc1a696aeb9991c840bdb54deb51fbe"}
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/8j02ov6nxj/out/v1/e556ed982e2d4163b9fb7eed55858b31/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",MEGA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"743447aaece0c52d9bb0b799be39c398":"15a387812a9d8225763bf005cd98959d"}
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/rrvoz0jaor/out/v1/a77a25a2fa9042edb4a8a3febd0fb9eb/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",MEZZO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ecfce9c56a46a42e4aba2dcf8037fed:3085cadf11d93aa24b88ba938ad61ccd
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/xfixnh8glr/out/v1/7bd3f3b9e3f94d15bc0a52878c067d60/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",MEZZO LIVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4708dc633793632adb2287ef37b2dc79:4d09e48cae8061ed7612c1c969804922
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/kaq34ndrio/out/v1/a8d9a45706e54ae49a922dc6d9dd151f/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",NEOX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a02bb527808aa147fd202fcb3fdeda33":"1b4c748f8804c5a0ae55949802ad7fee"}
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/hxpsk25jcz/out/v1/298b848ad5c6432386e2e46394f45910/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",NOVA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0b56d695cc710d76c2b4be992553e259":"53f1997deefcfe8a8a56cc387edfaad7"}
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/lxx8y3rfvq/out/v1/775d2132914140aaaba2cb62ca80f7d3/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",ODISEA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d60ce2e5dedd56c8cf708f41468fd974:38b207c8cb479f3beb1b7629a0e5c1b1
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/eiz3z6y4dw/out/v1/ec65a585eb4a41bcb94dc1c09a001889/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",SONY ONE EXITOS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ec86db92098f68359e99d08f0ab8128:084fab66ad3796249e18ff679f45578a
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/bmqvs5c3zq/out/v1/3537f35829554559ad83720761cc85e4/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",SONY ONE HITS ACCION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5cbe56c3dfff8a93691213676f72b94:4e182d4a5aefad088e372dc6675aa084
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/ashg8jfn1s/out/v1/0dd69653a2b345e780ed872d6c4c584f/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",SONY ONE HITS COMEDIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26a3e8f9f5aa4f171d198922ffc17a60:59732cc6154a871193261b98dae11c11
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/eipna3vyt5/out/v1/d38b0a3b06424ddba44780cb020a8b54/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",SONY ONE SERIES THRILLER
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47369c0297a791859afec33921ab7db6:751185ba1f5bb6789fb32dfa5b15cd99c1c6
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/kalkivbjlf/out/v1/4a23d8d0954c479e90715b2a3e214fe2/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",SUNDANCE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e0bb6546fe54a5ad371c2e784d61281:14d8b6db7e3034ad742dc2196bd1e664c1c6
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/djatr7o8sq/out/v1/b9ae77d15eaa4bf199e531a759470dc5/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",TELEHIT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8db29d65d8db2422cfadefec929cdc46:b96587a4e8237bc22a186114b25179dac1c6
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/69onjpmgph/out/v1/bffe5e192607426d850350fcb751674b/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",TELEHIT MUSICA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72072cc450719f120c9002b1bae31401:5777198adbd14c0416aa760249b91380c1c6
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/lv91k1unfv/out/v1/ab233dee5c6a40279e173e3497e36d21/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",TELEHIT MUSICA PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ab26e2d1adc4e0b9e25b331d95bf1d1:a9c6763ccdb714dadd00d60903a4aa17c1c6
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/f7jpwtuowu/out/v1/49b2bba643474563ac665c307e5e5306/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",TODO CRIMEN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4efcc3cf3d93cb6fde973107a70d787a:367ac202733ab41f38da979f3b540005c1c6
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/dpvdexyhvm/out/v1/4a61daaeb546477c9817bc32e09aec88/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",TODO DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf8aba2b8edd3cd1aa55e6850c5672ed:6e16a8f437147ca40d036ad2f34cbca1c1c6
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/cwatrsghkk/out/v1/5504046d90664ecd934a92d9257c062d/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",VINTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f665e85664da761d9f43db8119375cc9:3aca6d4c4302ec9e9240889dff27cafcc1c6
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/vj617waw17/out/v1/64aea7701f014f1693af57e3ac7b3689/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",XTRM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed7a3f665cfbd9d487b8039231abaca5:b0669699de2ed25cfa06e7943e0acc80c1c6
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/esiotal5zq/out/v1/c01fdef0494c4ce5a65ac8f52bbe44dc/cenc.mpd
 
 #EXTINF:-1 tvg-id=" group-title="🇸🇰ANTIK",Jednotka
 #KODIPROP:inputstream.adaptive.license_type=clearkey
