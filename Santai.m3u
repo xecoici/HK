@@ -7171,7 +7171,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",WWEAEW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-09a975f9e6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=90ea3ce17c88e287c41edc55f5d08073:99542fa51629e7ece3f934388c0e954d
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/m8slb42wwl/out/v1/2670a89c18a64dba9a38e6985df2ce85/cenc.mpd
@@ -7364,46 +7363,55 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/eipna3vyt5/out/v1/d
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",SONY ONE SERIES THRILLER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=47369c0297a791859afec33921ab7db6:751185ba1f5bb6789fb32dfa5b15cd99c1c6
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/kalkivbjlf/out/v1/4a23d8d0954c479e90715b2a3e214fe2/cenc.mpd
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",SUNDANCE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=3e0bb6546fe54a5ad371c2e784d61281:14d8b6db7e3034ad742dc2196bd1e664c1c6
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/djatr7o8sq/out/v1/b9ae77d15eaa4bf199e531a759470dc5/cenc.mpd
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",TELEHIT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=8db29d65d8db2422cfadefec929cdc46:b96587a4e8237bc22a186114b25179dac1c6
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/69onjpmgph/out/v1/bffe5e192607426d850350fcb751674b/cenc.mpd
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",TELEHIT MUSICA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=72072cc450719f120c9002b1bae31401:5777198adbd14c0416aa760249b91380c1c6
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/lv91k1unfv/out/v1/ab233dee5c6a40279e173e3497e36d21/cenc.mpd
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",TELEHIT MUSICA PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=0ab26e2d1adc4e0b9e25b331d95bf1d1:a9c6763ccdb714dadd00d60903a4aa17c1c6
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/f7jpwtuowu/out/v1/49b2bba643474563ac665c307e5e5306/cenc.mpd
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",TODO CRIMEN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=4efcc3cf3d93cb6fde973107a70d787a:367ac202733ab41f38da979f3b540005c1c6
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/dpvdexyhvm/out/v1/4a61daaeb546477c9817bc32e09aec88/cenc.mpd#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",TODO DRAMA
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/dpvdexyhvm/out/v1/4a61daaeb546477c9817bc32e09aec88/cenc.mpd
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",TODO DRAMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=cf8aba2b8edd3cd1aa55e6850c5672ed:6e16a8f437147ca40d036ad2f34cbca1c1c6
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/cwatrsghkk/out/v1/5504046d90664ecd934a92d9257c062d/cenc.mpd
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",VINTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=f665e85664da761d9f43db8119375cc9:3aca6d4c4302ec9e9240889dff27cafcc1c6
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/vj617waw17/out/v1/64aea7701f014f1693af57e3ac7b3689/cenc.mpd
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",XTRM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=ed7a3f665cfbd9d487b8039231abaca5:b0669699de2ed25cfa06e7943e0acc80c1c6
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/dash/enc/esiotal5zq/out/v1/c01fdef0494c4ce5a65ac8f52bbe44dc/cenc.mpd
 
