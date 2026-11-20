@@ -7175,6 +7175,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=90ea3ce17c88e287c41edc55f5d08073:99542fa51629e7ece3f934388c0e954d
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/m8slb42wwl/out/v1/2670a89c18a64dba9a38e6985df2ce85/cenc.mpd
 
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",NATIONAL GEOGRAPHIC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=e23699c196c68b7f3762a7273f880d83:0ce674718406d8cb6a4c8a171e8673eb
+https://live.euskaltel.com/__cl/cg:lv-p1/__c/NGEO_HD/__op/dash-wv/__f/manifest.mpd
+
 #EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",24 HORAS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aae169414f93c3057634bed5f8935d87:9acbca8c2db4d8c5d8d80904145680ce
