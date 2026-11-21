@@ -7175,11 +7175,34 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=90ea3ce17c88e287c41edc55f5d08073:99542fa51629e7ece3f934388c0e954d
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/m8slb42wwl/out/v1/2670a89c18a64dba9a38e6985df2ce85/cenc.mpd
 
-#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",NETFLIX
+http://154.73.52.233:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=e23699c196c68b7f3762a7273f880d83:0ce674718406d8cb6a4c8a171e8673eb
-https://live.euskaltel.com/__cl/cg:lv-p1/__c/NGEO_HD/__op/dash-wv/__f/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=25edaefd4f10a97f37a1ad71531a00ff:f8c9d74e37473c61cd80a27161451496
+https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWHamAWpwcmltZXZpZGVvBBprCt2_Bhpq9xc_A2ZmYXN0bHkCeChmaWQ6MDFhMWQ1MzItZDBhZC03MGJhLWI5YzgtMDYxNDcyNDFlZTFhGQE4oQWhAnghL3BsYXliYWNrL20vYXFreDE4aHVlYy9hcWt4MThodWVjWCDk7M0MtiB5yV_RQfMiMENRzO-VM5wVLvDYlAzQatio3Q/gru-nitro/playback/m/aqkx18huec/aqkx18huec/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",A&E
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddc43a2323239b5ea5924d343959ab8e:69b4d96781c3f4949cae0feef5e84ca4
+https://live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WHamAWpwcmltZXZpZGVvBBprCt0yBhpq9xayA2Zha2FtYWkCeChmaWQ6MDFhMWQ1MzAtYThiMC03NGVlLTkwZjYtMGMzNTdkYjIzNmI4GQE4oQWhAnghL3BsYXliYWNrL20vYm0xY2x0NGxwcS9ibTFjbHQ0bHBxWCCgPI7bvOOWED4sYAcyTSe5Ky3QNq9rzGoOLNo3g8-5sA/gru-nitro/playback/m/bm1clt4lpq/bm1clt4lpq/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",History
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1089c1a5422a86c2e8eeacf6422a7367:4b588110b353914127c57b2314da021e
+https://live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WHamAWpwcmltZXZpZGVvBBprCt1oBhpq9xboA2Zha2FtYWkCeChmaWQ6MDFhMWQ1MzEtN2JhNy03MjE2LTgxNzEtZThmNTE0NWIwOWE0GQE4oQWhAnghL3BsYXliYWNrL20vc251bzAyd2Jmai9zbnVvMDJ3YmZqWCDEtg_iJqh7YJmmVZzFXQsjPFO_03bB7Bx8tBCLZxgNYQ/gru-nitro/playback/m/snuo02wbfj/snuo02wbfj/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",History 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f35ad4874a4d62beedd777b62061d279:58b2e10929e75aed3e35c573f3c485ab
+https://live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WHamAWpwcmltZXZpZGVvBBprCt2TBhpq9xcTA2Zha2FtYWkCeChmaWQ6MDFhMWQ1MzItMjMyMy03NzRlLThiMjAtMmMwYWQwYzU3MjdkGQE4oQWhAnghL3BsYXliYWNrL20vbnFxZHlleTMwai9ucXFkeWV5MzBqWCBk3uMWpbfhOT_YmlkwxNpwdP63pbEoajxhi-AQqa_9yA/gru-nitro/playback/m/nqqdyey30j/nqqdyey30j/cenc.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",NatGeo History
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7bc01ff11a011cdc47a27cd8ea5f3a3:64c22630a86bf1fbe3b3629cea6bc994
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f56pkqphvu/out/v1/fc598dca849d4b579c7ad15031ba7633/cenc.mpd
+
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",24 HORAS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -11607,7 +11630,7 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a
 #EXTINF:-1 tvg-logo="https://pjytv.760515.xyz/logo/tvN.png" group-title="🇰🇷📡",tvN
 http://124.222.153.240/kakaotv/get_channel.php?channel=tvn#.m3u8
 #EXTINF:-1 tvg-logo="https://backup.760515.xyz/logo/KBS2.png" group-title="🇰🇷📡",KBS2
-https://tving-live-o2-xcdn.tving.com/o2/v1/01a0a855bb341eb80e791db1d96034/01a0a855bea1153d78652fe2d08706/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTQ4OTI4NTgsInBhdGgiOiIvbzIifQ.EE9FJ0sErme5z-BDYtJxC8M-FLswXxY_boDXqbV8pnA
+https://tving-live-o2-xcdn.tving.com/o2/v1/01a0a855bb341eb80e791db1d96034/01a0a855bea1153d78652fe2d08706/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUyOTgwOTYsInBhdGgiOiIvbzIifQ.xge6yNMwx-jE8_MiiZg6WcOB5rzk9bvwqJDcc6IcMVc
 #EXTINF:-1 tvg-logo="https://backup.760515.xyz/logo/KBS2.png" group-title="🇰🇷📡",KBS2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://live-th10.myjktv.com/watch/live.m3u8?video=kbs2_720&sid=ydgk7UQ4tRqNWF4GjB3g0v6QLRPiB2yBXX1fE6hd&secret=93bf0fa8d328c005e9e6e92550a5a7f5&time=1792382468
@@ -11622,9 +11645,8 @@ https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
 https://tving-live-o2-skcdn.tving.com/o2/v1/0198c70ae8c1153d78652b69a68dea/0198c70fd1291eb80e792b56648c3a/vc1_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5MjU0NDY4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=ddqQ9rXLPxXAYP55Pe-qTWe44ynW-d2jeCD-~WRQpfnIqcWOHLAr~al5SWGJXU7WiyMqyEnhgowW~6vlE8ynBaLo-GDggWmyb2Zke~hVIWcEHqCH6mdO0NrNa8kOr86-D4IY2RT4zjxQKjCJTacuqj7QU33C58oYPOJfIVf6JHuh65BTCtmlSnR~ZCWJuChRsl8QxjU6yLg8gyQd6Dq8TVeyeAoMVk9F~NQGjTQXg6YNaLwkxlor7C~TkHf8OOqpp8fu~dEbJptM3PL32DuBqNaFdvUhknrTjBjqQl63F8YdCrwhxykx8Yxzy0RRfBmDaqer5CcxtuZ-6VNBEqs9TQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXT-X-STREAM-INF:BANDWIDTH=1592000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=29.97,PROGRAM-ID=0
 https://tving-live-o2-skcdn.tving.com/o2/v1/0198c70ae8c1153d78652b69a68dea/0198c70fd1291eb80e792b56648c3a/vc1_stream4.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5MjU0NDY4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=ddqQ9rXLPxXAYP55Pe-qTWe44ynW-d2jeCD-~WRQpfnIqcWOHLAr~al5SWGJXU7WiyMqyEnhgowW~6vlE8ynBaLo-GDggWmyb2Zke~hVIWcEHqCH6mdO0NrNa8kOr86-D4IY2RT4zjxQKjCJTacuqj7QU33C58oYPOJfIVf6JHuh65BTCtmlSnR~ZCWJuChRsl8QxjU6yLg8gyQd6Dq8TVeyeAoMVk9F~NQGjTQXg6YNaLwkxlor7C~TkHf8OOqpp8fu~dEbJptM3PL32DuBqNaFdvUhknrTjBjqQl63F8YdCrwhxykx8Yxzy0RRfBmDaqer5CcxtuZ-6VNBEqs9TQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
-
 #EXTINF:-1 tvg-logo="https://backup.760515.xyz/logo/MBC.png" group-title="🇰🇷📡",MBC
-https://tving-live-o2-ktcdn.tving.com/v1/ssai/manifest/019bd50ff2d61eb80e791c22ad4884/233ab9149320deb56c882d56f3ac8742/dmMxX3N0cmVhbTcubTN1OA==/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0OTI5MDQ5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=EBOSMKLmt6aEx0qe8MTwvrd2t3QQJFbY1AkED7B8DTOg1O6ps-aOiajDx5OZHffJloSqXw2gcV-kPMC5GoxrRCJRTpMyELbTUJxLC2A6Z4Ewye~coYLC8LVSamX7slb1H-ZG-gBHUOxg5oAWhP19v0uikQUUcfOGbDjO-pdG-yuaIpi-WLrPnMhEtojfl52cMw1sZuaVBJNBbxt0evLYywpi0CQOxQ0snTJm2b672c96quJAsm1c16Ux2zN~anPIj9mvl1QLhVzpERS639Nt1wgLv5OVdS5g8XHfYBvhGEQcfzKz7iCRrGG6zuhcPI-H8nWGgs9L3aPrE7uU0J7qZw__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+https://tving-live-o2-ktcdn.tving.com/v1/ssai/manifest/019bd50ff2d61eb80e791c22ad4884/ac38aa3dff05c77c535c47766b9969ca/dmMxX3N0cmVhbTMubTN1OA==/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Mjk4MTA4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=OVBm2WVveLxjjuqPkY-YhczNbwDS6O-x2uUmLSjj5WqaGpkxosi-PG3uYC5yJTAYtGDG0KGsipRRrMAs6wLUF-WBpo46od9XWyruZ32XjQw1p6CYovKIS~x90TuGly6ybrE~9ct6ja6OB6iKuZtu~N1xmeC1Rk0NWKBRsudDPK0ExRaacORtF~RM2lwwGY4FQtW8ef2~iyP08CWmj~lcI9MWTMaMnyPZKOt9yiMMNRCus7eIglpYc7DCy4KMb46NtTJ7Gf45vJI-yZK5Wy7JEshJBnFGFp99YyHFSv00zsOwWfsBr8nJ45B-pxq1ZNaRmVX1GthI93H-i6mfoz98Zg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 tvg-logo="https://backup.760515.xyz/logo/MBC.png" group-title="🇰🇷📡",MBC
 https://live-th10.myjktv.com/watch/live.m3u8?video=mbc_720&sid=hqNHt4QfC0rHSTGnmg1gGFlCgog7n4YsgrNP24Sb&secret=e8f16144b243eb57b27f479b2fd8c69f&time=1792298347
 http://124.222.153.240/kakaotv/get_channel.php?channel=mbc
@@ -11680,14 +11702,13 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019d66afd810153d786553381d0e3/019d719
 http://125.188.136.121:9981/stream/channelid/812148861?profile=pass
 #EXTINF:-1 tvg-logo="https://pjytv.760515.xyz/logo/채널A.png" group-title="🇰🇷📡",채널A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://zstv.zschannels.workers.dev/proxy?target=MicgJixreg9vcxl2cwogKVBXXnc_PSA6YyZ8Zzk8Ny9iIClQV150MDs7enwPIXhkbRU3fXFtfwkIYzYwbmd7fS14Im42I3RkOg4AWj5kbWFmKip8b3MZY3B1MTsBAV1pZmYybnt6Kn15aWZyLzZrW18OODc3c20IOSIrODM6Mjh6MgpMAX9gEiIwJSwgb3IbNjgGZDpheFAVOh4dCX8YJwYCFTsjCzc2dlBzEwYuH24AIARzbzoqCzw3bHRQdjMZZDIyIjwUM3Q1MXN8PRN6c1U_GxU_ECQMfQUFNCoPJjdvd218KRo6FDcqDikjDjYaNy4uFlBfaHQ7MA82IhB2AjQ9ZA48Bgh3eAsOYiwjKXYKAAsUPSAAG2MeXGN7O2YfFRJ2&expires=1789303886&token=bTbbiA-b19MFDlBXCfmIfoMg-_m0jV1K-Ymz6d55t7k
+https://tving-live-o2-ktcdn.tving.com/o2/v1/019ed8854c2c1eb80e79cd7979dc2/019ed88d352d153d78653cb4bf7bdc/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Mjk4MzQxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=BM~DhnnwLSFSPuebSmKC18woStONg7KdWttYbrgzzPUDkJckl5y0bIZJ2ExR~H2np0q7aUbBoYLR9VjI5DqaN2-38Y1iUzq8tbCwYORuXOMRnM9yzYVGWqzUyGPJRGMttQ-CfFpdtiIBPCU9Z2xasivu0MRzF~OyxWHB7P7PShsu1xpXhFchtszARTGUwmktSxhlaUUBBG-xYCYC61zxnqHdvStgYkgwLU4pJI58XUoz-JufRR6BGwwDvsViY-pfp6vYfriKEsaD-X-zWPutwMC6Prm0mtNJXhDz8gSsvORI15NaDXxhsEUi6-FhZtXV-wcu7CBEuWcJAgNpjmAAHg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 tvg-logo="https://pjytv.760515.xyz/logo/채널A.png" group-title="🇰🇷📡",채널A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/채널A-playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pjytv.760515.xyz/logo/채널A.png" group-title="🇰🇷📡",채널A
+#EXTINF:-1 tvg-logo="https://pjytv.760515.xyz/logo/채널A.png" group-title="🇰🇷📡",MBN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://tving-live-o2-xcdn.tving.com/o2/v1/019ddc5a5a30153d7865157cdbfbe2/019ddc8228491eb80e7925af014fd1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODI0NTE2MTIsInBhdGgiOiIvbzIifQ.vDZkvbXtEWW56eEdXJGyw5Kn_V7e0EyBUtaklqwAm1M
-
+https://tving-live-o2-ktcdn.tving.com/o2/v1/019d8a6c2db1153d786553381d0f4/019dd8e5a2ec1eb80e7925af014fc1/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Mjk4MzA2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=PlfqCi3QmhCzj2ruF6d8ONzCcA~6IAhIMr-HVtge5jOyaWjn4CYGzXSJln3q3ypiucaY-pduilfJcfhsEwRmpne5EkgACxjHjG2QZJ9GhmQv47ipm1YNp7W2cEA9PuW6aIOBx0JJ9NCLXcwlyLXMuBsPMHWYbvW993UjvqsE6rZZxuFHZZ~nNwqr3fLWoJKBLv~9KLjTZs2FxvLpdXE1jMHIuzpVX51Dwe0a0PgOHi2MRXqIYW9esMAHc94sTwQmqksFYoS~622c78P7KOFRcAs9TKM2W5SwtqpWVEHxMaJrWnvQOYAAiy94n1Wwyo1gda4~JSyFDdot5lLtjnx30g__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 tvg-id="KRBC32000191N" tvg-name="CJ ENM MOVIE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20260623T003139SQUARE.png" group-title="🇰🇷📡" tvg-chno="742",CJ ENM MOVIE
 https://jmp2.uk/stvp-KRBC32000191N
 #EXTINF:-1 tvg-id="KR12000017G" tvg-name="Genie Movie" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR12000017G_20260623T003145SQUARE.png" group-title="🇰🇷📡" tvg-chno="743",Genie Movie
