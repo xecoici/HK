@@ -7203,6 +7203,15 @@ https://live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0O
 #KODIPROP:inputstream.adaptive.license_key=a7bc01ff11a011cdc47a27cd8ea5f3a3:64c22630a86bf1fbe3b3629cea6bc994
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f56pkqphvu/out/v1/fc598dca849d4b579c7ad15031ba7633/cenc.mpd
 
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",GRAN HERMANO 24H PLUS 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb795e2efcdc42eca81dca43031b9d88:dfff41caa7c728a5ebb334d1def02593
+https://directos.mediasetinfinity.es/oripremium05/live/premium05/mpd-cenc/mpd-cenc.isml/.mpd
+
+#EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",GRAN HERMANO 24H PLUS 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb795e2efcdc42eca81dca43031b9d88:dfff41caa7c728a5ebb334d1def02593
+https://directos.mediasetinfinity.es/oripremium06/live/premium06/mpd-cenc/mpd-cenc.isml/.mpd
 
 #EXTINF:-1 tvg-id=" group-title="🇪🇸AMZ",24 HORAS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
